@@ -1,6 +1,6 @@
 # Course Format Brief
 
-Owner: Chief Italian Linguist · Status: decided, open to correction · Task: ITA-2
+Owner: Chief Italian Linguist · Status: decided · Task: ITA-2
 
 This brief fixes the container the A2→B1 curriculum is built into. The syllabus
 map, the unit template, and the assessment framework all assume these answers.
@@ -10,9 +10,10 @@ Each decision states its reason and how expensive it is to reverse.
 
 ## 1. Learner profile
 
-We are designing for an **adult learner (18+) whose first language is English**,
-already at solid A2, learning Italian for life reasons — work, family, living in
-or travelling to Italy — rather than for an exam. Assume roughly two guided
+We are designing for an **adult learner (18+) whose first language is English**
+— confirmed by the board on 2026-09-30, no longer an assumption — already at
+solid A2, learning Italian for life reasons — work, family, living in or
+travelling to Italy — rather than for an exam. Assume roughly two guided
 sessions a week, so the course runs about seven to eight months end to end.
 
 Why it matters: L1 drives the whole error-anticipation layer. An anglophone
@@ -21,8 +22,9 @@ false friends (`eventualmente`, `attualmente`, `libreria`, `parenti`) is
 specific and predictable. Culture notes are written for someone approaching
 Italy from outside, not from a neighbouring Romance language.
 
-**Reversibility: cheap now, expensive later.** Widening beyond anglophone
-learners costs little today and means reworking every error note after unit 3.
+This is now a fixed parameter. Every error note, false-friend warning, and
+culture note is written for an English speaker, and metalanguage (grammar
+terminology, instructions, answer keys) is in English.
 
 ## 2. Delivery mode — self-study-first, teachable live
 
@@ -137,10 +139,12 @@ separate decision, and markdown keeps every packaging option open.
 
 ---
 
-## Open question flagged to the board
+## Decision log
 
-The **anglophone L1 assumption** in §1 is the one decision here that was not
-implied by anything already agreed. It is cheap to change now and expensive
-after a few units are built. If the intended learners have a different first
-language — or a mixed one — say so and this brief gets revised before ITA-3
-publishes the syllabus map.
+| Date | Decision | Source |
+| --- | --- | --- |
+| 2026-09-30 | Learner L1 is **English**. The §1 assumption is confirmed; error anticipation, false-friend warnings, culture framing, and metalanguage are all written for an English speaker. | Board, ITA-1 |
+| 2026-09-30 | Local working folder is `C:\Users\alfre\Desktop\_desktop\_projects\_italian_language_course`, pushed to `cursorcanis/italian-language-course` on `main`. | Board, ITA-1 |
+
+No open questions. This brief is final for v1; raise a task against ITA-2 to
+reopen any decision in it.

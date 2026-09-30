@@ -12,3 +12,6 @@ desktop.ini
 # Local environment
 .env
 .env.local
+
+# Per-machine agent settings (shared config lives in .claude/settings.json)
+.claude/settings.local.json
