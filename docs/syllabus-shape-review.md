@@ -292,7 +292,7 @@ it is the whole reason the early placement is safe.
 | --- | --- |
 | **Curriculum Architect** | Defects 1–3 and the `Lei`-imperative strand, applied in one pass together with ITA-6's returns (follow-up issue). Then ITA-4, under the three conditions in Decision 1. |
 | **Lesson Designer** | ITA-5 unblocked, sample unit from U1–U6, `L4` contract binding, U5/U7/U8/U12 staged most carefully. |
-| **Italian Content Editor** | ITA-6 done and accepted. `i preservativi` settled below. |
+| **Italian Content Editor** | ITA-6's vetting pass is accepted at `3961be5`; the editor closes the issue. `i preservativi` settled below. |
 | **Board** | Ratify twelve units, or choose fourteen. |
 
 **`i preservativi` (U6 false-friend strand)** — owned by me per
