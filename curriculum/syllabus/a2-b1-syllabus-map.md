@@ -724,6 +724,8 @@ natural clinical shape — *I had a temperature, so I went to the doctor*.
 **From U6:** direct pronouns, now contrasted with indirect ones rather than
 practised alone. **From U1:** the `piacere` chunks, now analysed — the seeding
 pays off. **From U5:** narrative connectives, carrying the symptom history.
+**From U5:** `stare + gerundio`, in its most natural home — describing what was
+going on when the symptom started (`stavo tornando quando…`).
 **From U7:** `Lei` imperatives, heard from the practitioner (`si accomodi`,
 `respiri`, `mi dica`) — recognition, then use in the role-play.
 
@@ -852,7 +854,10 @@ alongside the future.
 free-production home — a career history *is* an extended past narrative.
 **From U3:** comparatives, comparing job options and conditions.
 **From U3:** relative clauses (`un lavoro in cui si viaggia`).
-**From U6:** `ne`, with quantities and statistics (`ne assumono pochi`).
+**From U6:** `ne`, with quantities and statistics (`ne assumono pochi`), and the
+quantifiers and partitives that go with them.
+**From U8:** avverbi in `-mente`, describing how one works and how a process
+runs.
 **From U4 and U7:** `si` impersonale / passivante, for workplace norms and job
 adverts (`si richiede`, `si offre`), which is the register these are written in.
 
@@ -1020,9 +1025,9 @@ against the introduction points in `grammar-progression.md`:
 | 5 | U1, U2, U4 | riflessivi U1, passato prossimo U2, tempo passato U2, imperfetto U4 | ✅ |
 | 6 | U1, U2, U3 | presente U1, passato prossimo U2, comparativi U3, relativi U3 | ✅ |
 | 7 | U3, U4, U6 | `ci` locativo U3, preposizioni U3, `si` impersonale U4, pronomi diretti U6 | ✅ |
-| 8 | U1, U5, U6, U7 | `piacere` chunks U1, PP/IMP contrast U5, connettivi U5, pronomi diretti U6, imperativo `Lei` U7 | ✅ |
+| 8 | U1, U5, U6, U7 | `piacere` chunks U1, PP/IMP contrast U5, connettivi U5, `stare + gerundio` U5, pronomi diretti U6, imperativo `Lei` U7 | ✅ |
 | 9 | U2, U4, U5, U6, U7, U8 | passato prossimo U2, imperfetto U4, connettivi U5, pronomi diretti U6, attachment U7, pronomi indiretti U8 | ✅ |
-| 10 | U3, U4, U5, U6, U7 | comparativi U3, relativi U3, `si` impersonale U4, PP/IMP U5, `ne` U6, `si` passivante U7 | ✅ |
+| 10 | U3, U4, U5, U6, U7, U8 | comparativi U3, relativi U3, `si` impersonale U4, PP/IMP U5, `ne` U6, quantificatori U6, `si` passivante U7, avverbi in `-mente` U8 | ✅ |
 | 11 | U3, U6, U7, U8, U9, U10 | `ci` locativo U3, pronomi diretti U6, imperativo U7, pronomi indiretti U8, combinati + trapassato U9, futuro + ipotetico U10 | ✅ |
 | 12 | U3, U4, U5, U6, U7, U9, U10, U11 | all introduced at or before U11 | ✅ |
 
@@ -1058,4 +1063,9 @@ carrying two secondary points.
 | Whether the course should be **14 units** rather than 12, to give condizionale and congiuntivo properly widening spacing | Chief Italian Linguist | Design decision §5. A real conflict between cognitive load and distributed practice that a 12-unit container cannot resolve. Stated, not silently absorbed. |
 | Milestone and checkpoint internals — task types, durations, mark schemes, pass criteria | Curriculum Architect, in **ITA-4** | Placement and coverage are fixed here; the instruments are not. |
 | Lesson-internal staging, activity repertoire, timings, solo paths | Lesson Designer, in **ITA-5** | The L1–L5 convention fixes encounter positions only. |
-| The **anglophone L1 assumption** (format brief §1) | Chief Italian Linguist / board | This map builds on it: the false-friend thread, the error-anticipation notes, and several culture notes are written for it. Still cheap to change; expensive after ITA-5 ships. |
+
+**Closed since drafting:** the **anglophone L1 assumption** is no longer open.
+The board confirmed English as the learner L1 on ITA-1, and format brief §1 now
+carries it as a fixed parameter (commit `832fba1`). The false-friend thread, the
+error-anticipation notes and several culture notes in this map are written
+against English interference and can be relied on as such.
