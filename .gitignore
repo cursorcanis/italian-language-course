@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Office temp files (course materials are often drafted in Word)
+~$*
+
+# Local environment
+.env
+.env.local
