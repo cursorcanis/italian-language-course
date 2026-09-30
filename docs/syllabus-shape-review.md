@@ -5,6 +5,13 @@ Reviewing: `curriculum/syllabus/a2-b1-syllabus-map.md`,
 `grammar-progression.md`, `lexis-progression.md` at commits `7de5160`,
 `55879bd`, `c1de2b9` (ITA-3, Curriculum Architect).
 
+> **ITA-6 landed during this review,** at commit `3961be5`: the Italian passes,
+> with one orthographic fix (`Le confermo`) and one substantive change to Set 6
+> (below). Every finding in this document was re-verified against `3961be5` and
+> all three defects survive it unchanged. The editor's commit also swept this
+> file in with `git add -A`, so the review's own history sits under that commit
+> rather than its own — noted, not worth rewriting.
+
 ---
 
 ## Verdict
@@ -101,16 +108,21 @@ stage most carefully. This is a note to ITA-5, not a re-sequencing.
 **outside** the thirty", and the coverage check lists *Productive items 360* and
 *False-friend strand 12* as separate rows — which reads as 372 taught items.
 
-Checked all twelve against their unit's own subgroup tables: **every one is a
-member of its unit's 30.** `i parenti` is in Set 1's people subgroup,
-`la patente` in Set 7's offices subgroup, `attualmente` in Set 12's connectives
-subgroup, and so on for all twelve.
+Checked all twelve against their unit's own subgroup tables: **eleven of the
+twelve are members of their unit's 30.** `i parenti` is in Set 1's people
+subgroup, `la patente` in Set 7's offices subgroup, `attualmente` in Set 12's
+connectives subgroup, and so on. The one genuine exception is
+`i preservativi`, and only since `3961be5` — ITA-6 moved `i conservanti` into
+the Set 6 production slot and left `i preservativi` in the strand table as a
+written recognition note. So the "outside the thirty" claim describes exactly
+one of the twelve items it covers.
 
-Inside is the better design — one item doing two jobs beats an extra item per
-unit — so the fix is the prose, not the sets.
+Inside is the better design for the other eleven — one item doing two jobs beats
+an extra item per unit — so the fix is the prose, not the sets.
 
-**Fix:** "woven into the thirty and tagged as strand items", and a coverage
-check that reads 360 total, twelve of which carry a strand tag.
+**Fix:** "woven into the thirty and tagged as strand items, with one exception
+(`i preservativi`, recognition-only)", and a coverage check that reads 360 total
+plus one, eleven of the 360 carrying a strand tag.
 
 **Why it matters:** ITA-5 sizes glossaries and ITA-4 sizes checkpoints off these
 figures. "Thirty plus one" sends a designer hunting for a thirty-first item that
@@ -280,13 +292,17 @@ it is the whole reason the early placement is safe.
 | --- | --- |
 | **Curriculum Architect** | Defects 1–3 and the `Lei`-imperative strand, applied in one pass together with ITA-6's returns (follow-up issue). Then ITA-4, under the three conditions in Decision 1. |
 | **Lesson Designer** | ITA-5 unblocked, sample unit from U1–U6, `L4` contract binding, U5/U7/U8/U12 staged most carefully. |
-| **Italian Content Editor** | ITA-6 unchanged. `i preservativi` is settled below. |
+| **Italian Content Editor** | ITA-6 done and accepted. `i preservativi` settled below. |
 | **Board** | Ratify twelve units, or choose fourteen. |
 
 **`i preservativi` (U6 false-friend strand)** — owned by me per
-`lexis-progression.md`, not by the editor. **Keep it as a taught item.** It is a
-genuine high-cost false friend, the product is for adults (brief §1: 18+), and a
-learner who is going to make this mistake will make it in a pharmacy or a
-supermarket. Handling it in a footnote to spare a self-study learner's blushes
-would be squeamishness dressed as editorial judgement. The editor's remaining
-question on it is one of register and wording, not of inclusion.
+`lexis-progression.md`. ITA-6's resolution stands: `i conservanti` takes the
+Set 6 production slot, `i preservativi` stays in the strand table as a written
+recognition item, never in dialogue or audio. That is the better answer than
+either of the two the question offered. The item belongs in the course — it is a
+high-cost false friend and the product is for adults (brief §1: 18+), so
+dropping it to spare a self-study learner's blushes would be squeamishness
+dressed as editorial judgement. But the *production* slot in a market-stall
+lexis set is the wrong home for it, and `i conservanti` earns that slot on its
+own merits: `senza conservanti` is on every Italian food label. Recognition
+where recognition is what's needed, production where production pays. Closed.
