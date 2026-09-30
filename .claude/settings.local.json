@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/mnt/c/Users/alfre/Desktop/_desktop/_projects/_italian_language_course/scripts/paperclip-issue-update.sh:*)",
+      "Bash(/mnt/c/Users/alfre/Desktop/_desktop/_projects/_italian_language_course/scripts/paperclip:*)",
+      "Bash(curl:*)",
+      "Bash(env)",
+      "Bash(env:*)"
+    ],
+    "additionalDirectories": [
+      "/home/alea_ubuntu/.paperclip/instances/default/companies/33ad9586-249f-427d-bff3-9d0c8378a78e",
+      "/home/alea_ubuntu/.paperclip/instances/default/companies/33ad9586-249f-427d-bff3-9d0c8378a78e/acp-engine/agents/b5581180-685d-4983-9e8e-5620d1f9f5c1",
+      "/home/alea_ubuntu/.paperclip/instances/default/workspaces/b5581180-685d-4983-9e8e-5620d1f9f5c1"
+    ],
+    "defaultMode": "default"
+  }
+}
