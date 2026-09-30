@@ -4,11 +4,10 @@ Owner: Curriculum Architect · Task: ITA-3 · Status: complete, in review
 Companion documents: [`grammar-progression.md`](grammar-progression.md) ·
 [`lexis-progression.md`](lexis-progression.md)
 
-> **Italian-language status.** Every Italian word, chunk and example sentence in
-> this file and its two companions is awaiting sign-off from the Italian Content
-> Editor (see the vetting task linked from ITA-3). Build lesson *structure*
-> against this map now; do not typeset any Italian from it into learner-facing
-> material until that sign-off lands.
+> **Italian-language status.** Signed off by the Italian Content Editor on ITA-6
+> — **pass with edits**, applied in place here and in both companions. The
+> Italian in these three files is safe to build lesson content against. Anything
+> new written on top of it still comes to the Editor before it reaches a learner.
 
 This is the grid the rest of the course is built against. It fixes, for all
 twelve units: theme, can-do goals, grammar focus, lexis set, pronunciation
@@ -92,7 +91,7 @@ only where assessment sits and what it must cover.
 | 5 | Storie e imprevisti — telling what happened | B1 lower | Passato prossimo vs imperfetto *(new contrast)* | `stare + gerundio` / `stare per`; connettivi narrativi | Mishaps, reactions, narrative signposts | Spoken anecdote (2–3 min) + 180-word retelling |
 | 6 | A tavola — market, shopping, cooking | B1 lower | Pronomi diretti + `ne` partitivo *(new)*, with participle agreement | Quantifiers and partitives | Market, quantities, cooking process | Market role-play + spoken recipe |
 | — | **Milestone 1** | | | | | |
-| 7 | Muoversi e sbrigare — transport, streets, offices | B1 lower | Imperativo `tu / Lei / noi / voi` + attached pronouns *(new)* | `si` passivante *(extension)*; prepositions of place and movement | Transport, directions, bureaucracy | Directions + instructions for an errand |
+| 7 | Muoversi e sbrigare le pratiche — transport, streets, offices | B1 lower | Imperativo `tu / Lei / noi / voi` + attached pronouns *(new)* | `si` passivante *(extension)*; prepositions of place and movement | Transport, directions, bureaucracy | Directions + instructions for an errand |
 | 8 | Corpo e salute — how I feel | B1 lower → B1 | Pronomi indiretti + `piacere` family analysed *(new)* | Avverbi in `-mente`; impersonal `fa male` | Symptoms, treatment, wellbeing | Doctor role-play + written follow-up message |
 | 9 | Favori, regali, rapporti — asking and owing | B1 | Pronomi combinati *(new)* | Trapassato prossimo *(new)* | Favours, gifts, invitations, repair of relationships | Favour exchange + thank-you/apology message pair |
 | 10 | Lavoro e progetti — work and what's next | B1 | Futuro semplice *(new)* | Periodo ipotetico della realtà; futuro epistemico | Employment, contracts, goals | Cover letter + "five years from now" (2 min) |
@@ -277,7 +276,7 @@ Plus a separate 5-chunk receptive set for the `piacere` family.
 
 **Pronunciation / intonation** — **Word stress.** The penultimate-syllable
 default, and the two departures that matter most at this level: `-ano` third
-person plurals (`àbitano`, `telèfonano`, `svègliano`) where anglophone learners
+person plurals (`àbitano`, `telèfonano`, `svégliano`) where anglophone learners
 reliably stress the wrong syllable, and truncated infinitives/futures.
 Stress-shift minimal pairs are practised as meaning-bearing, not as decoration.
 
@@ -340,7 +339,7 @@ rather than abstract, which is why it sits here. Minimal pairs
 length contrast is practised in production, not only in listening.
 
 **Culture note** — **The shape of the Italian year.** August and the
-`ferragosto` shutdown, `la settimana bianca`, the school and holiday calendar,
+`Ferragosto` shutdown, `la settimana bianca`, the school and holiday calendar,
 and why "what did you do this year" gets answered differently in Italy than in
 the UK or US. Gives the unit's time anchors a real calendar to attach to.
 
@@ -397,8 +396,8 @@ describing and comparing places (12). Full list:
 grammar, so its prosody belongs here rather than being left to chance.
 
 **Culture note** — **Renting and the `condominio`.** `spese condominiali`, the
-`assemblea condominiale`, the `amministratore`, what a `caparra` is and when you
-get it back, and how north/south and city/small-town housing differ. Written for
+`assemblea condominiale`, the `amministratore`, what the `cauzione`
+(`deposito cauzionale`) is and when you get it back, and how north/south and city/small-town housing differ. Written for
 someone approaching the Italian rental market from outside it, where the
 expensive surprises are administrative rather than linguistic.
 
@@ -600,7 +599,7 @@ teachable. **From U3:** comparatives, used to choose between products.
 
 ---
 
-### Unit 7 — Muoversi e sbrigare: trasporti, strada, uffici
+### Unit 7 — Muoversi e sbrigare le pratiche: trasporti, strada, uffici
 
 **Getting around and getting things done** · Level **B1 lower** ·
 Lessons 7.1–7.5 · Checkpoint at L5
@@ -882,7 +881,7 @@ adverts (`si richiede`, `si offre`), which is the register these are written in.
 - *Main:* **Condizionale presente** (new) — regular forms on the **same stems as
   the futuro from U10**, which is why the units are in this order. Four uses,
   taught as distinct jobs rather than as one label: **polite request**
-  (`potrebbe`, `le dispiacerebbe`), **wish** (`vorrei`, `mi piacerebbe`),
+  (`potrebbe`, `Le dispiacerebbe`), **wish** (`vorrei`, `mi piacerebbe`),
   **advice** (`dovresti`, `io al tuo posto`), and **softened opinion**
   (`direi che`, `sarebbe meglio`) — the last of which sets up U12.
 - *Secondary:* **`ci` pronominale** (new, light) — the closed high-frequency set
@@ -896,8 +895,11 @@ subgroups — booking and accommodation (11) · politeness formulae and softener
 
 **Pronunciation / intonation** — **Politeness carried by contour.** A rising or
 level terminal on a request versus a falling one; how the conditional plus a
-falling contour still reads as a demand; and voiced vs voiceless `s`
-(`casa` / `cosa`, `sbaglio`, `disdire`). This is the unit where an anglophone
+falling contour still reads as a demand; and voiced vs voiceless `s` — `s`
+before a voiced consonant is always [z] (`sbaglio`, `sdraiarsi`, `disdire`),
+against voiceless `scusi`, `sportello`. `casa` / `cosa` is *not* an `s` pair, it
+is a vowel pair, and intervocalic `s` varies by region: teach the rule, not the
+minimal pair. This is the unit where an anglophone
 learner discovers that their Italian sounds blunter than they mean it to, and
 that the fix is prosodic as much as grammatical.
 
@@ -921,7 +923,7 @@ travel plans stated in the future before being negotiated in the conditional.
 **From U10:** the real conditional (`se non c'è posto, cerchiamo altro`).
 **From U7:** `Lei` imperatives, now set against conditional requests so the
 learner can *choose* a politeness level rather than having one.
-**From U8:** indirect pronouns, everywhere in this theme (`le confermo`,
+**From U8:** indirect pronouns, everywhere in this theme (`Le confermo`,
 `mi farebbe un favore`). **From U9:** combined pronouns (`me lo conferma?`,
 `gliel'ho già detto`) and trapassato, in its best home in the whole course —
 *I had booked a double room*. **From U3:** `ci` locativo, extended here to `ci`
@@ -1059,7 +1061,7 @@ carrying two secondary points.
 
 | Open item | Owner | Why it is open |
 | --- | --- | --- |
-| Italian sign-off on every word, chunk and example in this file and its companions | Italian Content Editor | Format brief §5 — no Italian ships unvetted. Blocking task linked from ITA-3. |
+| ~~Italian sign-off on every word, chunk and example in this file and its companions~~ **Closed on ITA-6** | Italian Content Editor | Format brief §5 — no Italian ships unvetted. Vetted word by word; pass with edits, applied in place across all three files. |
 | Whether the course should be **14 units** rather than 12, to give condizionale and congiuntivo properly widening spacing | Chief Italian Linguist | Design decision §5. A real conflict between cognitive load and distributed practice that a 12-unit container cannot resolve. Stated, not silently absorbed. |
 | Milestone and checkpoint internals — task types, durations, mark schemes, pass criteria | Curriculum Architect, in **ITA-4** | Placement and coverage are fixed here; the instruments are not. |
 | Lesson-internal staging, activity repertoire, timings, solo paths | Lesson Designer, in **ITA-5** | The L1–L5 convention fixes encounter positions only. |

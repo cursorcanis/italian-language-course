@@ -6,8 +6,9 @@ what each unit teaches. This document says, for every structure in the course,
 "we recycle it later" is a checkable claim rather than an intention.
 
 > **Status:** all Italian in this file — forms, chunks, illustrative fragments —
-> is a *specification* of what the language must do. It is pending sign-off by
-> the Italian Content Editor before any of it reaches a learner. See
+> was vetted on ITA-6 and **passes**: every fragment is well-formed and sounds
+> like Italian someone would actually say. One orthographic fix was applied
+> (`Le confermo`, courtesy capital). See
 > [`a2-b1-syllabus-map.md` §6](a2-b1-syllabus-map.md#6-what-this-map-deliberately-does-not-decide).
 
 ---
@@ -86,7 +87,7 @@ Twenty-nine structures. Ordered by introduction point.
 | **Quantificatori e partitivi** | `U6 L3` | `U10 L4` — with `ne`, in statistics | `U12 L5` — quantifying claims in argument | 4, 2 | — |
 | **Imperativo `tu / Lei / noi / voi`** + attached pronouns *(new)* | `U7 L2` | `U8 L4` — `si accomodi`, `respiri`, `mi dica` (recognition → use) | `U11 L5` — requests, set against the conditional | 1, 3 | `U9 L4` (clusters: `dimmelo`) |
 | **`si` passivante** *(extension of U4)* | `U7 L3` | `U10 L4` — job adverts, `si richiede`, `si offre` | `U12 L5` — news register, `si prevede che` | 3, 2 | `U12 L4` |
-| **Pronomi indiretti** + `piacere` family analysed *(new)* | `U8 L2` | `U9 L4` — set against direct pronouns before combining | `U11 L5` — `le confermo`, `mi farebbe un favore` | 1, 2 | `U12 L4` |
+| **Pronomi indiretti** + `piacere` family analysed *(new)* | `U8 L2` | `U9 L4` — set against direct pronouns before combining | `U11 L5` — `Le confermo`, `mi farebbe un favore` | 1, 2 | `U12 L4` |
 | **Avverbi in `-mente`** | `U8 L3` | `U10 L4` — how one works, how a process runs | `U12 L5` — hedging and stance in the opinion piece | 2, 2 | — |
 
 ### Units 9–12 — B1, and the compressed tail
@@ -348,7 +349,7 @@ contract above appears in the corresponding unit's **Recycles** paragraph in
 
 | Open item | Owner |
 | --- | --- |
-| Italian sign-off on every form, chunk and fragment in this file | Italian Content Editor |
+| ~~Italian sign-off on every form, chunk and fragment in this file~~ **Closed on ITA-6:** pass | Italian Content Editor |
 | 12 units vs 14, to fix the compressed tail | Chief Italian Linguist |
 | Milestone 2 eliciting the seven tail structures | Curriculum Architect, in ITA-4 |
 | Honouring the per-unit `L4` contract in lesson design | Lesson Designer, in ITA-5 |

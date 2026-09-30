@@ -5,11 +5,13 @@
 items — **360 items** across the course — with the frequency rationale for each
 set and the interlock that makes it the *right* set for that unit's grammar.
 
-> **Status:** every Italian item below is a **specification**, not finished
-> copy. Forms, gender, register and regional spread are pending sign-off by the
-> Italian Content Editor before anything reaches a learner. Glosses are English
-> because English is the confirmed learner L1 (format brief §1, settled on
-> ITA-1).
+> **Status:** vetted item by item by the Italian Content Editor on ITA-6 —
+> **pass with edits**, applied in place on this file. Forms, gender, glosses,
+> register and level are signed off as they now stand, and the Italian here is
+> safe to build lesson content against. The counting and cross-reference findings
+> that remain are the Curriculum Architect's and are recorded on ITA-6. Glosses
+> are English because English is the confirmed learner L1 (format brief §1,
+> settled on ITA-1).
 
 ---
 
@@ -78,7 +80,7 @@ milestones.
 | 3 | `la libreria` | bookshop | *library* → `la biblioteca` |
 | 4 | `morbido` | soft | *morbid* → `morboso` |
 | 5 | `sensibile` | sensitive | *sensible* → `ragionevole` |
-| 6 | `i preservativi` | condoms | *preservatives* → `i conservanti` |
+| 6 | `i preservativi` | condoms | *preservatives* → `i conservanti` (the taught item; see Set 6) |
 | 7 | `la patente` | driving licence | *patent* → `il brevetto` |
 | 8 | `l'ambulatorio` | doctor's surgery, clinic | *ambulance* → `l'ambulanza` |
 | 9 | `pretendere` | to demand, to expect as one's due | *to pretend* → `fingere` |
@@ -111,7 +113,7 @@ Character adjectives are chosen for the ones that let a learner say something
 | --- | --- | --- |
 | `svegliarsi` | to wake up | |
 | `alzarsi` | to get up | |
-| `farsi la doccia` | to have a shower | Reflexive **with** a direct object — no participle agreement with the subject. Anticipates U6. |
+| `farsi la doccia` | to have a shower | Reflexive **with** a direct object; the participle still agrees with the subject (`mi sono fatta la doccia`). Anticipates U6. |
 | `vestirsi` | to get dressed | |
 | `prepararsi` | to get ready | |
 | `sbrigarsi` | to hurry up | High-frequency in the imperative; seeds U7. |
@@ -271,7 +273,7 @@ is not. Subgroup C supplies the adjectives that comparatives operate on.
 | `l'affitto` | rent | |
 | `affittare` | to rent | Ambiguous in direction; `prendere in affitto` disambiguates. |
 | `il contratto di locazione` | tenancy agreement | |
-| `la caparra` | deposit | |
+| `la cauzione` | deposit (refundable, on a rental) | `il deposito cauzionale` is the term in the contract. Not `la caparra` / `l'acconto` (U11), which are advances on a price. |
 | `le spese condominiali` | service charges | |
 | `le bollette` | utility bills | |
 | `l'agenzia immobiliare` | estate agency | |
@@ -362,7 +364,7 @@ the emotional register that makes the topic speakable at length.
 | Italian | English | Note |
 | --- | --- | --- |
 | `cambiare` | to change | Takes `avere` or `essere` depending on transitivity. |
-| `trasformarsi` | to be transformed | |
+| `trasformarsi` | to turn into, to change completely | `trasformarsi in`. *To be transformed* by someone is `essere trasformato`. |
 | `una volta` | back then, in the past | Also "once"; the temporal-setting use is the target. |
 | `ai miei tempi` | in my day | |
 | `non… più` | no longer | |
@@ -482,7 +484,7 @@ are the most learnable vocabulary in any language and do not need syllabus time.
 | `di stagione` | in season | |
 | `lo sconto` | discount | |
 | `il resto` | the change | |
-| `i preservativi` | condoms | False-friend strand, U6 — *preservatives* is `i conservanti`, which appears on every Italian food label. |
+| `i conservanti` | preservatives | `senza conservanti` is on every Italian food label. The word it is not — `i preservativi` = *condoms* — stays in the false-friend strand as a recognition item rather than a market-stall production target. |
 
 ### B. Quantities and containers (7)
 
@@ -584,7 +586,7 @@ lemma, but the day a learner needs it, nothing else will do.
 | `l'appuntamento` | appointment | |
 | `la residenza` | registered address | Legal status, not just where you live. |
 | `la tessera sanitaria` | health card | Feeds U8. |
-| `l'ufficio anagrafe` | registry office | |
+| `il codice fiscale` | tax number | The first thing you need in Italy and the precondition for everything after it — phone contract, bank account, doctor. Already named in this unit's culture note. |
 | `la patente` | driving licence | False-friend strand, U7. |
 
 **Interlock.** The imperative is the grammar of this theme in the most literal
@@ -592,7 +594,7 @@ sense: directions *are* imperatives, and the `tu` / `Lei` split is a live
 register choice at the exact moment the learner is standing at a counter.
 Subgroup C also supplies the natural home for `si` passivante, because that is
 the register every Italian sign and form is written in — `si prega di
-compilare`, `non si accettano contanti`. The learner reads it before producing
+compilare`, `non si accettano carte`. The learner reads it before producing
 it, which is the input-before-output rule doing real work.
 
 **Recycled from earlier sets.** Set 3 `ben collegato`, `comodo`, `periferico`,
@@ -655,7 +657,7 @@ not.
 | `sembrare` | to seem to | |
 | `bastare` | to be enough for | |
 | `dispiacere` | to be regrettable to | `mi dispiace` finally makes structural sense. |
-| `riposato` | rested | |
+| `dare fastidio` | to bother, to annoy | `mi dà fastidio la luce` — same inverted structure. Required by this unit's can-do goal (*what bothers me*) and named in the map's grammar list. |
 | `stanco morto` | dead tired | |
 | `sentirsi giù` / `a pezzi` | to feel down / wrecked | Same verb as U1's reciprocal `sentirsi`. |
 
@@ -710,7 +712,7 @@ but cannot recover when a transaction goes socially wrong.
 | `invitare` | to invite | |
 | `accettare` | to accept | |
 | `rifiutare` | to refuse, to turn down | |
-| `il pensiero` | the thought, the gesture | `che pensiero!` — the standard response to a small gift. |
+| `il pensiero` | the thought, the gesture | `che bel pensiero!`, `non dovevi!` — the standard responses to a small gift. Bare `che pensiero!` is not idiomatic. |
 | `ringraziare` | to thank | |
 | `offrire` | to treat, to pay | `offro io` — culturally loaded; see the unit culture note. |
 | `ricambiare` | to return (a gesture, an invitation) | |
@@ -763,15 +765,15 @@ B1 skill.
 | `il posto (di lavoro)` | job, position | |
 | `l'azienda` / `la ditta` | company, firm | |
 | `il contratto a tempo indeterminato` | permanent contract | |
-| `il contratto a termine` | fixed-term contract | |
+| `il contratto a tempo determinato` | fixed-term contract | Store it as the pair with `indeterminato`; `a termine` is the short form you also see. |
 | `lo stipendio` | salary | |
 | `il tempo pieno` / `il part-time` | full-time / part-time | |
 | `le ferie` | annual leave | Distinct from `le vacanze`. |
-| `lo straordinario` | overtime | |
+| `lo straordinario` | overtime | Normally plural in use: `fare gli straordinari`. |
 | `il capo` | boss | |
 | `il dipendente` | employee | |
 | `la partita IVA` | self-employed status | Institutionally specific; unavoidable. |
-| `il lavoro da remoto` | remote work | |
+| `lavorare da remoto` | to work remotely | The noun Italians actually reach for is `lo smart working` — a pseudo-anglicism that does not mean this in English; it belongs in the input with a note. |
 
 ### B. Training and career movement (8)
 
@@ -837,11 +839,11 @@ where the trapassato finally has a reason to exist.
 | `la camera doppia` | twin/double room | |
 | `la camera matrimoniale` | double room (one bed) | The distinction is real and causes problems. |
 | `la mezza pensione` | half board | |
-| `l'acconto` | deposit, down payment | Contrast with Set 3's `caparra`. |
-| `il ricevimento` | reception desk | |
-| `la registrazione` | check-in | |
+| `l'acconto` | deposit, down payment (counts toward the bill) | Contrast `la caparra`, which you can forfeit if you pull out, and Set 3's `la cauzione`, which comes back. |
+| `la reception` | reception desk | Invariable feminine anglicism, and what hotels and their staff actually say; `il ricevimento` is a wedding reception. |
+| `il check-in` | check-in | `fare il check-in`. `la registrazione` is what the form is headed, not what anyone says. |
 | `la disponibilità` | availability | |
-| `disdire` | to cancel | Irregular participle `disdetto`. |
+| `disdire` | to cancel | Irregular participle `disdetto`. Used of bookings, appointments and subscriptions; `annullare` / `cancellare la prenotazione` is the commoner everyday pair. |
 | `l'agriturismo` | farm-stay accommodation | Institutionally Italian; no equivalent. |
 
 ### B. Politeness formulae and softeners (11)
@@ -850,12 +852,12 @@ where the trapassato finally has a reason to exist.
 | --- | --- | --- |
 | `Le dispiacerebbe…?` | Would you mind…? | |
 | `Sarebbe possibile…?` | Would it be possible…? | |
-| `Le sarei grato se…` | I'd be grateful if… | |
+| `La ringrazio in anticipo` | Thank you in advance | Closes the complaint email. Replaces `Le sarei grato se…`, which governs a congiuntivo imperfetto (`se potesse`) this course never teaches — keep that one recognition-only in input. |
 | `Mi scusi` | Excuse me | Formal; contrast `scusa`. |
 | `per caso` | by any chance | Softens a request considerably. |
 | `gentilmente` | kindly | |
 | `se non è un problema` | if it's no trouble | |
-| `possibilmente` | if possible | |
+| `possibilmente` | if possible, preferably | A second false friend in this set: it never means *possibly* (= `forse`, `magari`). |
 | `volentieri` | gladly, I'd love to | |
 | `purtroppo` | unfortunately | |
 | `eventualmente` | if need be, should it arise | False-friend strand, U11. |
@@ -912,7 +914,7 @@ strand begun at U5, moving from narrative to argument.
 | `credo che` | I believe that | Congiuntivo trigger. |
 | `ritengo che` | I hold that | Congiuntivo trigger; formal register. |
 | `mi sembra che` | it seems to me that | Congiuntivo trigger; `piacere` pattern from U8. |
-| `sono convinto che` | I'm convinced that | |
+| `sono convinto che` | I'm convinced that | Congiuntivo trigger as well, though the indicative is common in speech. |
 | `dubito che` | I doubt that | Congiuntivo trigger. |
 | `non sono d'accordo` | I disagree | |
 | `per quanto mi riguarda` | as far as I'm concerned | |
@@ -940,15 +942,15 @@ strand begun at U5, moving from narrative to argument.
 | `anzi` | on the contrary, in fact rather | No clean English equivalent. |
 | `infatti` | indeed, in fact | Confirms, never contradicts — anglophones misuse this constantly. |
 | `quindi` | therefore, so | |
-| `nonostante` | despite, although | |
+| `nonostante` | despite, although | Governs the **congiuntivo** (`nonostante sia`), so it is a trigger, not a neutral connective: recognition only at B1, with `anche se` as the production form. |
 | `anche se` | even if, although | Takes the indicative — a deliberate contrast with the congiuntivo triggers. |
 | `d'altra parte` | on the other hand | |
 | `in conclusione` | in conclusion | |
 | `esagerato` | over the top | |
 | `attualmente` | currently | False-friend strand, U12; pairs with `attuale` at U10. |
 
-**Interlock.** Six items in subgroup A govern the congiuntivo and two
-(`secondo me`, `anche se`) pointedly do not. Teaching the set *is* teaching the
+**Interlock.** Six items in subgroup A govern the congiuntivo and two —
+`secondo me` in A, `anche se` in C — pointedly do not. Teaching the set *is* teaching the
 trigger inventory, and the two indicative items are what stop learners
 over-generalising into a congiuntivo-everywhere phase. Subgroup C's `tuttavia` /
 `però` and `infatti` / `anzi` pairs give the register and polarity distinctions
@@ -1007,7 +1009,7 @@ in a later one. These are **not** double-counted in the 360.
 | `assumere` | 2 | 10 | Theme |
 | `la ricetta` | 6 (*recipe*) | 8 (*prescription*) | Sense — taught as one word, two contexts |
 | `il ritardo` | 5 (things going wrong) | 7 (transport) → 11 (travel) | Theme |
-| `la caparra` / `l'acconto` | 3 / 11 | — | Near-synonyms taught eight units apart, then contrasted |
+| `la cauzione` / `l'acconto` | 3 / 11 | — | Not synonyms: refundable rental security vs advance on a price. `la caparra` is contrasted with both at U11 |
 | `però` | 5 | 12 (`tuttavia`) | Register |
 | `attuale` | 10 | 12 (`attualmente`) | Word class |
 
@@ -1028,7 +1030,8 @@ that unit in [`a2-b1-syllabus-map.md`](a2-b1-syllabus-map.md).
 
 | Open item | Owner |
 | --- | --- |
-| Italian sign-off on all 360 items plus the strands — form, gender, register, regional spread, and whether any item is dated | Italian Content Editor |
-| Whether `i preservativi` (U6 false-friend strand) is right for a self-study product, or should be handled in a written note rather than a taught item | Chief Italian Linguist |
+| ~~Italian sign-off on all 360 items plus the strands — form, gender, register, regional spread, and whether any item is dated~~ **Closed on ITA-6:** pass with edits, applied in place | Italian Content Editor |
+| Item-count bookkeeping raised on ITA-6: the twelve false-friend items are counted *inside* their sets although the text says they sit outside the thirty, and `appena` (Sets 2 and 5) and `mancare` (Sets 4 and 8) each occupy two slots. A count decision, not a language one | Curriculum Architect |
+| ~~Whether `i preservativi` (U6 false-friend strand) is right for a self-study product~~ **Resolved on ITA-6:** `i conservanti` takes the Set 6 production slot; `i preservativi` stays in the strand table as a one-line written recognition note, never in dialogue or audio. Reversible in one line if the board disagrees | Chief Italian Linguist |
 | Glossary format, item presentation, and whether items are front-loaded in `L1`/`L3` or distributed | Lesson Designer, in ITA-5 |
 | How many items per checkpoint, and the recycled-item ratio at each milestone | Curriculum Architect, in ITA-4 |
