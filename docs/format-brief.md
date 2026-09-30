@@ -53,8 +53,16 @@ later is a rewrite.
 
 Ninety minutes is the standard adult-class block and gives room for a real
 lesson arc — short opener, heavy middle, productive close — without the
-fatigue of a two-hour session. Ninety guided hours plus self-study is the
-normal A2→B1 load, which keeps the course honest about what it delivers.
+fatigue of a two-hour session.
+
+On total load, be honest: the usual published estimate for A2→B1 is **150–200
+guided hours**, and we are planning 90 guided plus roughly 50 of self-study.
+Three things have to hold for that to work, and all three are load-bearing
+rather than optimistic: entry is **solid** A2, not weak A2; self-study is **not
+optional**, because it carries lexis drilling and receptive practice out of
+class time; and grammar is **spiralled**, so each structure is taught once and
+recycled free inside later themes. If the placement check shows real learners
+entering weaker than assumed, the honest fix is more units — not longer lessons.
 
 Timings are part of every lesson plan. **A lesson whose stage timings do not sum
 to 90 minutes is not done.**
@@ -92,10 +100,19 @@ source file breaks all of that.
 
 **Audio:** written as scripts now (`unit-03-audio-script.md`), recorded later.
 Scripts mark speaker, pace, and the intonation contours that carry meaning.
-Recording is out of scope for v1 — but the scripts must be recordable as written.
+Recording is out of scope for v1 — but the scripts must be recordable as
+written. Nothing is recorded until the script is content-edited and signed off;
+re-recording is the most expensive rework in this project. So that later
+recording needs no renaming, each cue names its eventual file up front:
+`assets/audio/unit-03/u03-l02-dialogo.mp3`. *Cheap to change while scripts,
+expensive once recorded.*
 
 **Images:** not required for v1. Where a visual is genuinely needed, describe it
 inline as `> [visual: …]` so it can be commissioned later without guesswork.
+When one is commissioned it lands at `assets/images/unit-03/u03-l02-<slug>.png`
+(`.svg` for diagrams and tables), is referenced with a relative link, and
+carries English alt text. No image may carry meaning that isn't also in the
+text — for accessibility, and because images are the costliest asset to replace.
 
 **Reversibility: cheap.** Markdown exports to anything. The inverse is painful.
 
