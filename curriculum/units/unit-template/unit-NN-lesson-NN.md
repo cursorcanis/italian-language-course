@@ -85,8 +85,8 @@ selfstudy_min: 50
 | 5 | Listen 2 — detail | 10 | Solo → pairs → lockstep | Real listening work |
 | 6 | Listen 3 + noticing grid (`A2`) | 10 | Solo → pairs | Collect the form without analysing it |
 | 7 | Controlled practice — gap-fill | 10 | Solo → pairs | First accurate use |
-| 8 | Routine ladder (`A6` rungs 1–2) | 15 | Pairs | Scaffolded spoken output |
-| 9 | Activate — someone else's week | 10 | Pairs → lockstep | Third person, unsupported |
+| 8 | Routine ladder (`A6` rungs 1–2) | 15 | Lockstep → pairs | Scaffolded spoken output |
+| 9 | Activate — someone else's week (`A6` rung 3) | 10 | Pairs → lockstep | Scaffold removed, third person met |
 | 10 | Delayed feedback (`A13`) + close | 4 | Lockstep | Two corrections, homework set |
 | | **Total** | **90** | | |
 
@@ -235,17 +235,20 @@ language L4 needs.
 > the lesson and know whether they had succeeded? If the answer depends on
 > having someone to talk to, the solo version is not finished.
 
-**Filled example (Unit 1 L1, the stages that change)**
+**Filled example (Unit 1 L1, five of the ten rows)**
+
+The table has **one row per live stage**, not only the ones that change — a solo
+learner reads it as their lesson plan, so a missing row is a missing stage. The
+total is the `selfstudy_min` from the header.
 
 | Live stage | Solo equivalent | Min |
 | --- | --- | --- |
-| 1 Opener (pairs) | Say the three things out loud to yourself, then write them. Speaking aloud is not optional — it is the stage's whole purpose. | 3 |
-| 2 Engage (pairs) | Same clock, written. Then mark the two times you had no Italian for. | 5 |
-| 5 Listen 2 (pairs compare) | Write answers, check the key, then re-listen **only** to the items you got wrong, using the timestamps in the script. | 10 |
-| 8 Routine ladder (pairs) | Rung 2 written; rung 3 recorded on a phone, frames turned over. Listen back once against the three-point checklist. | 15 |
-| 9 Activate (pairs) | Describe a real person's week in writing, 6 sentences, then read it aloud once without looking. | 8 |
-| 10 Delayed feedback (lockstep) | Listen to your rung-3 recording with one question: where did I stop, and why? Write two lines. | 4 |
-| | **Total** | **50** |
+| 1 Opener (pairs) | Say the three things **out loud** to yourself, then write them. Speaking aloud is not optional — it is the whole stage. | 3 |
+| 5 Listen 2 (pairs compare) | Write your answers, check the key, then re-read **only** the paragraphs for the items you got wrong — the key gives the numbers. | 7 |
+| 8 Routine ladder rung 2 (pairs) | Say all five frames out loud and record yourself. Listen back once with one question: did every sentence have a time in it? | 7 |
+| 9 Activate rung 3 (pairs) | Pick a real person you know. With the frames covered, record 90 seconds about **their** week. | 2 |
+| 10 Delayed feedback (lockstep) | Listen to your rung-3 recording once with one question only: **where did I stop, and why?** Write two lines. Not a transcription. | 2 |
+| | *(…all ten rows)* **Total** | **50** |
 
 ---
 
@@ -257,7 +260,11 @@ language L4 needs.
 
 **Filled example (Unit 1 L1)**
 
-- **Homework.** `A4` transform line, items in exercise 4 (10 min). Record a
-  40-second "my Tuesday" and keep it — L5 compares it with your final recording.
-- **Next lesson opens with** the noticing grid from stage 6. Bring it: L2's
-  presentation is built out of what the group collected, not out of a table.
+- **Homework.** (1) Finish the noticing grid to all sixteen. (2) Exercise 5 —
+  eight sentences on your own weekday, self-checked against its three criteria.
+  (3) A 40-second phone recording, *il mio martedì*, unscripted and **kept** — L5
+  compares it with the final recording. Total ~20 minutes.
+- **Next lesson opens with** the noticing grid from stage 6 and the wrong
+  third-person forms from stage 9. L2's presentation is guided discovery out of
+  those two things; if learners arrive without the grid, L2 stage 2 has nothing
+  to work on.
