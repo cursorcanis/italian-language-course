@@ -1,6 +1,9 @@
 # Placement Check — where does this learner start?
 
-Owner: Curriculum Architect · Task: ITA-4 · Status: complete, in review
+Owner: Curriculum Architect · Task: ITA-4 · Status: complete, in review ·
+Shipping condition: must be in use **before Unit 1 is taught**, with results
+reported to the Chief Italian Linguist
+([shape review, Decision 1](../docs/syllabus-shape-review.md#decision-1--twelve-units-or-fourteen-hold-twelve-escalated-for-ratification))
 Companions: [`rubrics.md`](rubrics.md) ·
 [`unit-checkpoint-template.md`](unit-checkpoint-template.md) ·
 [`milestone-1.md`](milestone-1.md) · [`milestone-2.md`](milestone-2.md)
@@ -254,7 +257,7 @@ would test memory, not listening.
 | **What it measures** | Sustained speech at A2/A2+: whether the learner can keep going for two minutes, and whether the past-tense system holds up without a page to plan on. Prompt (3) is the B1-probe: extended description is where relatives and comparatives either appear or are visibly missing. |
 | **Scales** | **TA ×1** + **GA ×1** + **FD ×1** (0–15). |
 | **Pass criterion** | None (placement). **Floor:** TA ≥ 3 for Band 2 or above; TA ≥ 4 **and** FD ≥ 3 for Band 3. |
-| **Solo path** | Record on a phone. Self-score TA and FD against the stated descriptors (did I cover all three prompts; was there a silence longer than five seconds). **Do not self-score GA** — see [`rubrics.md`](rubrics.md#marker-calibration). |
+| **Solo path** | Record on a phone. Self-score **TA** against the three prompts as a checklist. Apply the **FD cap**: if any silence on the recording is longer than five seconds, FD is at most 2. **Do not self-score GA or FD** — they go to a partner ([`rubrics.md` §Marker calibration](rubrics.md#marker-calibration)); until then the result is provisional, as for Part E. |
 
 ---
 
@@ -373,13 +376,32 @@ Band 3 skips 30 lessons. That is too large a decision to rest on a 46-minute
 check, so it is confirmed rather than assumed:
 
 1. Sit the **Unit 6 checkpoint** ([`unit-checkpoint-template.md`](unit-checkpoint-template.md)) as a dry run. Pass criterion as published: ≥ 18 / 25.
-2. Sit **Milestone 1 Parts C, D and E** — language in use, writing, speaking ([`milestone-1.md`](milestone-1.md)), 64 marks, ~50 minutes. Threshold: ≥ 60% with no scale below 3.
+2. Sit **Milestone 1 Parts C, D and E** — language in use, writing, speaking ([`milestone-1.md` §Use as the placement confirmation step](milestone-1.md#use-as-the-placement-confirmation-step)), 64 marks, ~50 minutes, in its parallel version. Threshold: ≥ 60% (39 / 64) with no scale below 3, marked by a partner or teacher — a self-marked result cannot confirm Band 3.
 3. If either is missed, enter at **Unit 4** instead, not Unit 1: the placement
    evidence has already ruled out Units 1–3 as anything but revision, and Unit 4
    is where the narrative past begins in earnest.
 
 The outcome of the confirmation step is also the learner's first carry-forward
 list — the gaps Units 7–12 `L4` slots will need to cover for them specifically.
+
+### What goes back to the Chief
+
+Decision 1 of the
+[shape review](../docs/syllabus-shape-review.md#decision-1--twelve-units-or-fourteen-hold-twelve-escalated-for-ratification)
+holds the course at twelve units on three conditions, one of which is that this
+check ships before Unit 1 is taught and **its results come back to the Chief
+Italian Linguist**, because it is the trigger for reopening that decision.
+
+For every learner who takes it: the band, the total, the A2-core and B1-probe
+subtotals, the four productive scale scores, whether Part D was deferred, and
+the Part A self-assessment pattern — anonymised. The pattern worth acting on is
+the format brief §3 trigger: **a high share of Band 1 and 1/2-borderline
+results** among learners who believed themselves to be A2. That is evidence that
+entry is weaker than the ~90-hour figure assumes, and the honest response is
+more units. The same profile travels forward to
+[Milestone 1](milestone-1.md#what-goes-back-to-the-chief) and
+[Milestone 2](milestone-2.md#what-goes-back-to-the-chief), where it is compared
+against.
 
 ---
 

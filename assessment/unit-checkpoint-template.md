@@ -49,10 +49,15 @@ nothing else varies.
   checked here. Pronunciation is marked where it carries meaning, inside FD on
   spoken productive turns; the culture note is not a testable construct at ten
   minutes and testing it would turn it into trivia.
-- **The congiuntivo before Unit 12.** It is seeded receptively from U5
-  ([`grammar-progression.md` §Receptive seeding](../curriculum/syllabus/grammar-progression.md#receptive-seeding))
-  and is **excluded from every checkpoint before U12**. A seeded chunk that gets
-  tested stops being seeding and becomes an untaught demand.
+- **The congiuntivo before Unit 12.** Its *function* is seeded receptively
+  from U5 (Seed 2) and its *form* productively through the `Lei` imperatives
+  from U7 (Seed 4) — see
+  [`grammar-progression.md` §Cross-unit seeding](../curriculum/syllabus/grammar-progression.md#cross-unit-seeding).
+  As a congiuntivo it is **excluded from every checkpoint before U12**: a seeded
+  chunk that gets tested stops being seeding and becomes an untaught demand.
+  The `Lei` imperatives (`mi dica`, `si accomodi`) are tested at U7 and after
+  **as imperatives** — the structure they are taught as — and no item before
+  U12 may ask the learner to treat them as congiuntivo.
 
 ---
 
@@ -125,7 +130,7 @@ the checkpoint would stop being a checkpoint.
 All four conditions:
 
 1. **≥ 18 / 25** overall (72%);
-2. **productive TA ≥ 3** — the standing floor across all four instruments;
+2. **productive TA ≥ 3** — the standing floor on every instrument with a pass criterion ([`rubrics.md` §Aggregation](rubrics.md#aggregation-and-the-no-compensation-rule));
 3. **productive TS ≥ 3** — the unit's main structure is controlled well enough to use;
 4. **≥ 1 / 2** on Part B's recycled items.
 
@@ -163,7 +168,7 @@ in a later checkpoint or milestone.
 | Failed at | Carry-forward entry reads | Closes at |
 | --- | --- | --- |
 | U2 (passato prossimo) | "PP auxiliary + agreement — returns U6 L4" | U6 checkpoint Part B recycled items |
-| U6 (direct pronouns / `ne`) | "direct pronouns + `ne` — return U8 L4 and U10 L4" | U8 / U10 checkpoints, Milestone 1 |
+| U6 (direct pronouns / `ne`) | "direct pronouns + `ne` — return U8 L4 and U10 L4" | U8 / U10 checkpoints, Milestone 2. *Not* Milestone 1, which comes before the U8 `L4` return; M1 adds its own evidence to the entry ([`milestone-1.md` §What a "not yet" does](milestone-1.md#what-a-not-yet-does)). |
 | U9 (combinati) | "pronomi combinati — return U11 L4" | U11 checkpoint, Milestone 2 |
 
 Every structure in the course has such a return point except the two named in
@@ -320,7 +325,7 @@ Run on each of the twelve instantiations before it reaches a learner.
 - [ ] Part D's elicitation floor is achievable within 45–60 seconds or 40–60 words. A floor a learner cannot physically reach in the time is a floor that fails everyone.
 - [ ] Every item traces to a can-do statement for this unit in the syllabus map.
 - [ ] Nothing tests a structure introduced later than this unit — checked against `grammar-progression.md`.
-- [ ] Before U12: no congiuntivo item anywhere, including in Part A's stimulus as a comprehension target. Seeded chunks may appear in the text; they may not be tested.
+- [ ] Before U12: no congiuntivo item anywhere, including in Part A's stimulus as a comprehension target. Seeded chunks may appear in the text; they may not be tested. `Lei` imperatives (U7 onward) are tested only as imperatives.
 - [ ] The ten minutes actually sum: 3 + 3 + 2 + 2, verified by timing the worked answer.
 
 ---

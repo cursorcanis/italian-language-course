@@ -11,7 +11,8 @@ Referenced by [`placement-check.md`](placement-check.md) ·
 > Nothing here needs Italian Content Editor sign-off. The four instruments that
 > reference it do — see the banner on each.
 
-This file exists so that the four instruments do not each invent their own
+This file exists so that the four instruments — placement check, unit
+checkpoint, Milestone 1, Milestone 2 — do not each invent their own
 scales. Four documents with four near-identical rubrics drift within two
 revisions, and a learner's "3" then means something different in the placement
 check than at Milestone 2. There is one set of scales, defined here, and the
@@ -93,6 +94,12 @@ not a neutral outcome.**
 | **1** | One attempt, or attempts so malformed that the structure is not recognisable. |
 | **0** | Structure absent. |
 
+**Two targets on one task.** A task built to elicit two structures carries two
+TS scores — written **TS-a** and **TS-b** — each with its own named structure
+and its own floor, scored and reported separately. They are never averaged: a
+learner who controls one and avoids the other has a profile that must show it.
+Milestone 2's D1 is the only task in the framework that does this.
+
 **Why avoidance is penalised.** **Washback.** A learner who discovers that a
 task can be passed by avoiding the structure it was built for will avoid it
 every time, and the course will have taught avoidance. This is also why the
@@ -130,9 +137,13 @@ item was written to test the pair, in which case it is a TS item.
 
 ## Scale CC — Coherence and cohesion (0–5)
 
-Used on all extended writing (120 words or more) and on all spoken tasks of two
-minutes or more. Not used on short-turn checkpoint tasks: there is not enough
-text to judge, and marking it there would just reward padding.
+Used on all extended writing (120 words or more) and on every **sustained**
+spoken turn — a monologue or long turn — of two minutes or more. Not used on
+short-turn checkpoint tasks, or on role-plays made of short turns, however long
+the whole exchange runs: there is not enough connected text in any one turn to
+judge, and marking it there would just reward padding. An instrument may weight
+CC above ×1 where cohesion is the construct the task exists to measure; it says
+so, and states a connective floor below which CC cannot exceed 2.
 
 | Band | Descriptor |
 | --- | --- |
@@ -184,8 +195,15 @@ receptive sections while producing nothing — which would make "reached B1" a
 claim about reading comprehension. Each instrument's floor is stated with its
 pass criterion.
 
-**Standing floor across all four instruments:** **TA ≥ 3 on every productive
-task.** A task not attempted, or answered off-brief, is not compensable.
+**Standing floor on every instrument with a pass criterion** — the unit
+checkpoint and both milestones: **TA ≥ 3 on every productive task.** A task not
+attempted, or answered off-brief, is not compensable. The placement check has
+no pass; it uses TA in its band conditions instead
+([`placement-check.md` §The bands](placement-check.md#the-bands)).
+
+The milestones go further: Milestone 1 requires **no productive scale below 3**;
+Milestone 2 requires every TA, CC, GA and FD at 3 or above and allows at most
+one TS below 3, for the reason stated there.
 
 ---
 
@@ -205,11 +223,14 @@ every assessment document in this folder:
   task — they are named as a dependency in each instrument's open items.
 - **Self-marking path.** Where a learner marks their own productive work, they
   score TA and CC only, against a checklist derived from the task's required
-  elements, and are told explicitly not to self-score GA or TS — self-assessment
-  of one's own accuracy is unreliable in exactly the direction that matters.
-  Those two scales go to a teacher, a language partner, or are deferred until
-  one is available, and the instrument says what the result means in the
-  meantime.
+  elements, and are told explicitly not to self-score GA, TS or FD —
+  self-assessment of one's own accuracy and delivery is unreliable in exactly
+  the direction that matters. Those scales go to a teacher, a language partner,
+  or are deferred until one is available, and the instrument says what the
+  result means in the meantime. One exception is allowed: an instrument may give
+  the learner a **mechanical check that caps a scale** — a silence longer than
+  five seconds on their own recording caps FD at 2. A cap is not a score; the
+  score itself still comes from a partner.
 
 ---
 
