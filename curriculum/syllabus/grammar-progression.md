@@ -49,15 +49,16 @@ document exists to make visible.
 - **Assessment framework (ITA-4):** every structure whose third encounter is
   `M2` must be *elicited* by Milestone 2, not merely permitted by it. See
   [§What this hands to ITA-4](#what-this-hands-to-ita-4).
-- **Italian Content Editor:** the receptive-seeding lists in
-  [§Receptive seeding](#receptive-seeding) are input-text requirements — the
+- **Italian Content Editor:** the seeding lists in
+  [§Cross-unit seeding](#cross-unit-seeding) are input-text requirements — the
   chunks have to actually be in the texts.
 
 ---
 
 ## Master table
 
-Twenty-nine structures. Ordered by introduction point.
+Thirty structures. Ordered by introduction point: eleven introduced in Units 1–4,
+ten in Units 5–8, nine in Units 9–12.
 
 ### Units 1–4 — the A2 re-entry and first B1 structures
 
@@ -136,7 +137,7 @@ congiuntivo lesson. See [`a2-b1-syllabus-map.md`
 
 ---
 
-## Receptive seeding
+## Cross-unit seeding
 
 Referenced from [`a2-b1-syllabus-map.md`
 §5](a2-b1-syllabus-map.md#5-deliberate-compression-at-the-end-of-the-course-stated-plainly).
@@ -147,8 +148,18 @@ input texts: recognition-only, never a production target, never explained, never
 tested. By the time it is analysed the learner has met the pattern dozens of
 times and is confirming something rather than learning it cold.
 
+Four strands run this way. **Seeds 1–3 are receptive** — chunks in input texts
+that the learner recognises but is never asked to produce. **Seed 4 is
+productive**: the `Lei` imperatives taught at `U7 L2` *are* congiuntivo presente
+third-person-singular forms, and the learner produces them from U7 to the end of
+the course. That is a stronger seed than any of the receptive three, and it was
+previously unclaimed by this document.
+
 This is a requirement on the Italian Content Editor's input texts, not a
 suggestion: if the chunks are not in the texts, the seeding does not exist.
+Seed 4 is different in kind: it is a requirement on the Lesson Designer, because
+what has to survive is not a text but a *production* habit in every `Lei`
+register task from U7 onward.
 
 ### Seed 1 — `piacere` family (U1 → analysed U8)
 
@@ -166,7 +177,10 @@ analysed at `U8 L2`.
 Seven units of exposure. This is the proof case: it demonstrably works, which is
 why Seed 2 copies it.
 
-### Seed 2 — congiuntivo presente (U5 → analysed U12)
+### Seed 2 — congiuntivo *function* (U5 → analysed U12), receptive
+
+This strand seeds the **job** congiuntivo does — hedging an opinion, marking
+something as not-asserted — not its morphology. The morphology is Seed 4.
 
 Planted from `U5 L1` onward as recognition-only chunks in input texts. Listed in
 unit glossaries as fixed expressions with an English gloss, **flagged
@@ -182,11 +196,12 @@ recognition-only**, and excluded from every checkpoint before U12.
 | `credo che abbia` | `U10 L1` |
 | `mi sa che` *(indicative, but the same hedging job)* | `U6 L1` |
 
-Seven units of exposure before `U12 L2`, matching Seed 1's interval. This is the
-single largest mitigation for the compressed tail, and it costs no lesson time —
-it is a constraint on texts the course was writing anyway.
+Seven units of function exposure before `U12 L2`, matching Seed 1's interval. It
+costs no lesson time — it is a constraint on texts the course was writing anyway.
+Paired with Seed 4, which carries the form, it is the largest mitigation for the
+compressed tail.
 
-### Seed 3 — condizionale di cortesia (U3 → analysed U11)
+### Seed 3 — condizionale di cortesia (U3 → analysed U11), receptive
 
 `vorrei` and `potrebbe` are unavoidable in any transactional text from U3
 onward. Rather than pretend they are absent, they are named as chunks at
@@ -234,9 +249,10 @@ what the course actually delivers.
 
 ### Where spacing is healthy (units 1–10)
 
-Seventeen of the twenty-nine structures have both intervals at **two units or
-more**, and eleven widen or hold flat. The strongest spirals are the ones the
-course most depends on:
+**Eighteen of the thirty** structures have both intervals at **two units or
+more** — ten of the eleven introduced in Units 1–4, eight of the ten introduced
+in Units 5–8, and none of the nine introduced from U9 onward. **Twelve** widen or
+hold flat. The strongest spirals are the ones the course most depends on:
 
 | Structure | Spacing | Note |
 | --- | --- | --- |
