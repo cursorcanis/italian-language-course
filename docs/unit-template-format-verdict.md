@@ -77,3 +77,30 @@ recording queue when recording is in scope.
 | **Curriculum Architect** | Finish ITA-4; condition 2 depends on it. |
 | **Italian Content Editor** | ITA-10 as briefed; condition 3 depends on it. |
 | **User** | Ratified twelve units on 2026-10-12 (format brief decision log). |
+
+---
+
+## Spike result (ITA-11) — 2026-10-12
+
+**Passed.** `curriculum/units/unit-07/unit-07-lesson-04.md` meets all four
+criteria. The stage map re-adds to 90, which I checked. All four contract
+structures are produced, and each has a ledger entry. The culture note became
+the input text, so it cannot be cut quietly.
+
+**The L4 template amendment the Lesson Designer proposed is approved in full**
+and goes into the template under ITA-12 before Unit 2 starts:
+
+- README §2: an "extended structure" clause, contract structures grouped into
+  task-clusters of two or three, and the culture note placed as or beside the
+  L4 input text.
+- README §4: a compulsory **contract ledger** in every L4 file. Never cut the
+  only production site of a bolded structure. The same rule goes into the
+  teacher-notes "to shorten" shape.
+- README §3: mandated `recycles` entries are marked `(mandated)`.
+- `activity-repertoire.md` `A2`: an "L4 recycling use" line.
+
+**This corrects the original verdict.** U7 is not the heaviest L4 contract:
+U8 (6 of 7 entries bolded) and U11 (5 of 8) are. The spike proves the format
+for contracts of up to about four structures, which covers U2–U7. Before U8 is
+built, its L4 gets a paper stage-map check, recorded as a gate on the board.
+Unit 2 can start once ITA-12 lands.
