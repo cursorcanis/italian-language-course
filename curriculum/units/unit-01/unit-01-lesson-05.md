@@ -16,11 +16,10 @@ selfstudy_min: 60
 
 # Unit 1, Lesson 5 — *Il mio ritratto*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
+> **pass** — no Italian changed in this file (cue 4, which it plays, was edited in
+> the audio script); see
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
 
 ---
 
@@ -81,7 +80,7 @@ version of the stage and it still works.
 
 ---
 
-### 2 · Task framing and the model — 12 min · lockstep → solo · `A6` rung 1 `[ITA?]`
+### 2 · Task framing and the model — 12 min · lockstep → solo · `A6` rung 1
 
 **Purpose.** State the task, state the criterion, then play a model that meets the
 criterion and no more. A model that outperforms the criterion teaches learners that
@@ -120,7 +119,7 @@ pages?" → *About half a page.* · "Does Elena do anything we haven't done?" �
 
 ---
 
-### 3 · The planner — 12 min · solo → pairs · `A6` rung 2 `[ITA?]`
+### 3 · The planner — 12 min · solo → pairs · `A6` rung 2
 
 **Purpose.** The scaffold. Five frames that between them produce a two-minute turn,
 filled in before anyone speaks. This stage is why the task is achievable; stage 6 is
@@ -131,7 +130,7 @@ one twice because you need two people. **Write in note form, not sentences** —
 are not writing a script, and anyone who writes a script will read it aloud in stage
 4 and it will sound like reading aloud. Eight minutes."
 
-**The planner** `[ITA?]`
+**The planner**
 
 | # | Frame | Your notes |
 | --- | --- | --- |
@@ -218,7 +217,7 @@ the second attempt, drawn from the success criterion.
 
 ---
 
-### 6 · The recording — 14 min · solo · `A11` attempt 2 · `A6` rung 3 `[ITA?]`
+### 6 · The recording — 14 min · solo · `A11` attempt 2 · `A6` rung 3
 
 **Purpose.** The deliverable. Same task, **scaffold removed**, two named improvements
 in hand.
@@ -299,7 +298,7 @@ keeps working on. It is supposed to be a 2 at this point."
 
 ---
 
-### 9 · The written task, and the unit close — 11 min · lockstep `[ITA?]`
+### 9 · The written task, and the unit close — 11 min · lockstep
 
 **Purpose.** Set the written half of the production task with its criteria, then close
 the unit against the four can-do goals.
@@ -333,7 +332,7 @@ why we did them first."**
 
 ## Exercises and answer keys
 
-### Exercise 1 — *Un ritratto in due minuti*: the model `[ITA?]`
+### Exercise 1 — *Un ritratto in due minuti*: the model
 
 **Part A.** In what order does Elena talk about these? Number them 1–5.
 
@@ -417,12 +416,12 @@ Apply this to **your own recording**, listening back once.
 at seventy seconds concludes their Italian is not good enough; the actual cause is
 six thin planner rows, and it is fixable in four minutes.*
 
-### Exercise 5 — The written task (homework) `[ITA?]`
+### Exercise 5 — The written task (homework)
 
 A language-exchange profile, ~120 words, the same ground as your recording, written
 for a reader. State your register at the top: `tu` or `Lei`.
 
-**Model answer** — register: `tu` `[ITA?]`
+**Model answer** — register: `tu`
 
 > **Sam, 38 anni, Manchester**
 >

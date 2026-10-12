@@ -16,11 +16,9 @@ selfstudy_min: 50
 
 # Unit 1, Lesson 4 — *Raccontami di te*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
+> **pass with edits**; see
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
 
 ---
 
@@ -96,7 +94,7 @@ couldn't?"
 
 ---
 
-### 3 · Input — *Due profili* — 12 min · solo → pairs `[ITA?]`
+### 3 · Input — *Due profili* — 12 min · solo → pairs
 
 **Purpose.** Put the same content in front of learners twice, in two registers, so
 that the `tu`/`Lei` difference is something they observe rather than something they
@@ -108,7 +106,7 @@ purpose, very different. Read both — four minutes — then exercise 1. **Part 
 exercise 1 is the interesting one:** it asks you what is different about *how* they
 write, not about what they say."
 
-#### Profilo 1 `[ITA?]`
+#### Profilo 1
 
 > **Claudia, 29 anni, Firenze**
 >
@@ -125,9 +123,9 @@ write, not about what they say."
 >
 > Aspetto un tuo messaggio. Ci sentiamo presto!
 
-#### Profilo 2 `[ITA?]`
+#### Profilo 2
 
-> **Dott. Marco Ferri, 54 anni, Bologna**
+> **Ing. Marco Ferri, 54 anni, Bologna**
 >
 > Buongiorno. Mi chiamo Marco Ferri, sono ingegnere e lavoro in uno studio qui a
 > Bologna. Cerco una persona di lingua inglese per uno scambio linguistico.
@@ -136,8 +134,8 @@ write, not about what they say."
 > affidabile e puntuale. Vivo con mia moglie; i nostri figli sono grandi e non
 > abitano più con noi.
 >
-> E Lei? Come si chiama? Di dove è? Che lavoro fa? Quando si trova meglio per
-> parlare — la mattina o la sera? Quanto tempo ha a disposizione ogni settimana?
+> E Lei? Come si chiama? Di dove è? Che lavoro fa? Preferisce sentirci la
+> mattina o la sera? Quanto tempo ha a disposizione ogni settimana?
 >
 > La ringrazio e La saluto cordialmente.
 
@@ -154,7 +152,7 @@ nothing is marked.
 
 ---
 
-### 4 · Recycle 1 — question forms, and keeping it going — 14 min · lockstep → pairs `[ITA?]`
+### 4 · Recycle 1 — question forms, and keeping it going — 14 min · lockstep → pairs
 
 **Purpose.** The first half of the L4 contract: **present-tense question forms**,
 recycled within A2. And the half of can-do goal 4 that is not about questions at all
@@ -183,7 +181,7 @@ abiti?`. Ferri says `Dove abita?`. **Same question, different person of the verb
 `tu` → `Lei`, and `Lei` takes the **third-person** form, the same one you use for
 *he* and *she*." Write the pair up and leave it:
 
-> `Come **ti** chiam**i**? / Dove abit**i**? / A che ora **ti** svegli**?**` — `tu`
+> `Come **ti** chiam**i**? / Dove abit**i**? / A che ora **ti** svegl**i**?` — `tu`
 > `Come **si** chiam**a**? / Dove abit**a**? / A che ora **si** svegli**a**?` — `Lei`
 
 "And notice: the reflexive pronoun switches too — `ti` becomes `si`. That is
@@ -222,7 +220,7 @@ sixty-second runs are fluency — collect two things for stage 8.
 
 ---
 
-### 5 · Recycle 2 — adjective agreement — 12 min · pairs → lockstep · `A8` `[ITA?]`
+### 5 · Recycle 2 — adjective agreement — 12 min · pairs → lockstep · `A8`
 
 **Purpose.** The second half of the L4 contract: **adjective agreement**, recycled
 within A2. The items are taken from what L3 actually produced — this is not a
@@ -247,7 +245,7 @@ them; if not, rewrite them in fifteen seconds:
 
 ---
 
-### 6 · Culture note — `tu` and `Lei` — 15 min · solo → pairs → lockstep · `A10` `[ITA?]`
+### 6 · Culture note — `tu` and `Lei` — 15 min · solo → pairs → lockstep · `A10`
 
 **Purpose.** The culture note, and the one that sets up the whole course: the
 register axis runs from here to U7's `Lei` imperatives and U11's formal requests.
@@ -269,13 +267,14 @@ text, and two about you. Then we'll talk about the last one."
 > `Lei` is the default with an adult you have not met: a shop assistant you are
 > asking a real question of, a doctor, a landlord, a colleague's boss, anyone
 > noticeably older. `tu` is the default with people your own age in an informal
-> setting, with anyone you have been introduced to socially, and — this one
-> surprises people — in most of the service situations where the exchange is three
-> words long. A barista will say `tu` to you and mean nothing by it.
+> setting, and with people of roughly your age you have been introduced to
+> socially. In quick everyday exchanges it varies: a young barista may say `tu`
+> to a customer of their own age and mean nothing by it — and may say `Lei` to the
+> next customer, who is sixty.
 >
 > The thing worth knowing is **who moves first**. The switch from `Lei` to `tu` is
 > offered, usually by the older or more senior person, and usually out loud:
-> `Diamoci del tu`, or `Possiamo darci del tu`. You accept it and switch
+> `Diamoci del tu`, or `Possiamo darci del tu?`. You accept it and switch
 > immediately. You do not offer it upward. If nobody offers, you stay on `Lei`, and
 > staying on `Lei` for years with a neighbour is completely normal.
 >
@@ -311,7 +310,7 @@ and the discussion are content only — no correction.
 
 ---
 
-### 7 · Activate — interview carousel — 20 min · mingle / groups of 4 · `A5` `[ITA?]`
+### 7 · Activate — interview carousel — 20 min · mingle / groups of 4 · `A5`
 
 **Purpose.** Can-do goal 4, performed and assessed. Three rounds, and the register
 changes under the learner's feet — which is the thing the lesson has been building
@@ -332,7 +331,7 @@ met. **`tu`.** Six minutes, three each. Ask about their week and the people arou
 them — you have the question strip and the five keep-going words. Remember the
 rule."
 
-#### Round 2 — `Lei`, with `il dott. Ferri` (6 min, pairs)
+#### Round 2 — `Lei`, with `l'ing. Ferri` (6 min, pairs)
 
 **Instruction.** "New partner. **One of you is the person from profile 2** — Marco
 Ferri, fifty-four, engineer, reserved. The other is doing a language exchange with
@@ -349,7 +348,7 @@ who you are and where you are. You decide `tu` or `Lei` — that's the test.** T
 each person in your group for ninety seconds. Then, at the end, two minutes: as a
 group, **which card was the hard one?**"
 
-**Role cards** `[ITA?]` — one set per group of four:
+**Role cards** — one set per group of four:
 
 > **A.** Sei una studentessa di 22 anni. Siete al bar, dopo un corso di italiano.
 >
@@ -401,7 +400,7 @@ forty-second recording you made after Lesson 1 — we start by listening to it."
 
 ## Exercises and answer keys
 
-### Exercise 1 — *Due profili* `[ITA?]`
+### Exercise 1 — *Due profili*
 
 **Part A — comprehension.** Answer in English or Italian.
 
@@ -427,14 +426,14 @@ written, not in what they say.
 | `Ciao!` | `Buongiorno.` |
 | Calls you `tu` — `Come ti chiami?` | Calls you `Lei` — `Come si chiama?` |
 | Exclamation marks, dots, a joke about her email English | No exclamation marks at all |
-| First name only | Title + surname — `Dott. Marco Ferri` |
+| First name only | Title + surname — `Ing. Marco Ferri` |
 | `Aspetto un tuo messaggio. Ci sentiamo presto!` | `La ringrazio e La saluto cordialmente.` |
 | `abbastanza buono`, `un po' disordinate` — casual hedging | `piuttosto riservata`, `scolastico` — formal hedging |
 
 **4 marks.** Learners who find the `tu`/`Lei` difference and nothing else have found
 the one that matters; give them the mark and point at the other five.
 
-### Exercise 2 — `tu` → `Lei` `[ITA?]`
+### Exercise 2 — `tu` → `Lei`
 
 Rewrite each question using `Lei`. **One does not change.**
 
@@ -459,7 +458,7 @@ vicini? · 8 **Ci possiamo sentire domani?** — unchanged. **8 marks.**
   A learner who "corrected" this one has learned a rule as a reflex rather than as a
   rule, which is worth saying to them kindly.
 
-### Exercise 3 — Adjective agreement: error clinic `[ITA?]`
+### Exercise 3 — Adjective agreement: error clinic
 
 Some have **one** thing wrong. Some are correct. For each one you fix, say which
 word decided the ending.
@@ -489,7 +488,7 @@ word decided the ending.
 **8 marks**, and the mark is for the verdict plus the correction. Items 3 and 5
 score only if left alone.
 
-### Exercise 4 — Culture note `[ITA?]`
+### Exercise 4 — Culture note
 
 **Part A — on the text.**
 
@@ -508,12 +507,12 @@ upward. · 2 No — it is used for anyone with a degree. · 3 **Neutral.** **3 m
 5. Think of one real person you speak to in Italian or would like to. `tu` or `Lei`?
    What made you decide?
 
-### Exercise 5 — Claudia in `Lei` (homework, written) `[ITA?]`
+### Exercise 5 — Claudia in `Lei` (homework, written)
 
 Rewrite profile 1 as if Claudia were forty-five and writing to a stranger she wants
 to be formal with. ~100 words. Keep the content; change the register.
 
-**Model answer** `[ITA?]`
+**Model answer**
 
 > **Claudia, 45 anni, Firenze**
 >
@@ -562,9 +561,12 @@ Unit-level error profile and pacing:
    one drifting exchange verbatim and ask the group to find the sentence where it
    switched. Do not treat it as a grammar error; treat it as a thing that happened,
    because that is what it is.
-2. **`*Dove tu abiti?` and `*Fai tu colazione al bar?`** — English question word
-   order imported wholesale, with the pronoun dragged in front of the verb or
-   inverted. Expect it in stage 4's sixty-second runs, and more in round 3 when
+2. **`*Dove tu abiti?` and `*Che cosa tu fai il sabato?`** — English question word
+   order imported wholesale, with the subject pronoun wedged between the question
+   word and the verb. (`Dove abiti tu?`, with `tu` at the end, is correct and
+   natural; it puts weight on *you*. And do not star `Fai tu colazione al bar?` if
+   you hear it — it is Italian, it just means *is it **you** who has breakfast at
+   the bar?*) Expect it in stage 4's sixty-second runs, and more in round 3 when
    attention is on the register. **Do:** point at the two board lines from stage 4(a)
    — `Ti trovi bene qui.` / `Ti trovi bene qui?` — and say the pair aloud. The fact
    that Italian needs *no* reordering is a gift, and learners forget it precisely

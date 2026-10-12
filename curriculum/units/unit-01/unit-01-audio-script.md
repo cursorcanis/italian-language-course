@@ -8,11 +8,13 @@ recorded: false
 ---
 ```
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. **Nothing here may be recorded** until the Italian Content Editor has
-> signed off — re-recording is the most expensive rework in this project.
-> Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
+> **pass with edits**; what changed and why is in
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
+> **Cues 2, 3 and 4 may be recorded as written.** **Cue 1's Italian is signed
+> off, but hold its recording** until the Lesson Designer reconciles its length
+> target with the script (it runs ~1:50 at the stated pace, not 1:25 — see the
+> sign-off doc). If cue 1 is cut to fit, the cut comes back for Italian review.
 
 **Until a recording exists**, the teacher reads the script aloud and the
 self-study learner reads it silently once, then covers it and works from memory.
@@ -38,8 +40,8 @@ because learners time themselves against it.
 
 | Mark | Means |
 | --- | --- |
-| `↗` | rising contour, from the syllable that follows |
-| `↘` | falling contour |
+| `↗` | rising contour, carried by the last stressed syllable before the mark |
+| `↘` | falling contour, carried by the last stressed syllable before the mark |
 | `→` | level / suspended — the list is not finished |
 | `//` | pause, ~1 second |
 | `///` | pause, ~2 seconds |
@@ -48,7 +50,7 @@ because learners time themselves against it.
 
 ---
 
-## Cue 1 — `assets/audio/unit-01/u01-l01-messaggio.mp3` `[ITA?]`
+## Cue 1 — `assets/audio/unit-01/u01-l01-messaggio.mp3`
 
 **Serves.** L1 stages 4, 5 and 6. **Length target** 1:20–1:35, ~195 words.
 **Speakers.** Giulia, 30s, Bologna. Standard, with a light northern colour.
@@ -62,7 +64,7 @@ they are seeded in L3, and putting them here spends the seed a lesson early ·
 
 **Script**
 
-> **[1]** Ciao Mark! Sono Giulia. // Allora, vuoi sapere com'è la mia settimana↗
+> **[1]** Ciao Mark! Sono Giulia. // Allora, vuoi sapere com'è la mia settimana? ↗
 > // Ti racconto tutto. ///
 >
 > **[2]** Durante la settimana mi sveglio alle sei e mezza, ma non mi alzo
@@ -88,7 +90,7 @@ they are seeded in L3, and putting them here spends the seed a lesson early ·
 >
 > **[8]** La domenica sera però mi addormento sempre davanti alla televisione,
 > alle dieci. ↘ // Ecco, questa è la mia settimana: niente di speciale, ma mi
-> trovo bene così. ↘ // E tu↗ Com'è la tua↗ ///
+> trovo bene così. ↘ // E tu? ↗ Com'è la tua? ↘ ///
 
 **Content check** (so the recording can be verified before it is made)
 
@@ -111,8 +113,10 @@ they are seeded in L3, and putting them here spends the seed a lesson early ·
 
 **Notes to voice talent.**
 
-1. `[1]` `com'è la mia settimana↗` rises because she is quoting Mark's question
-   back, not asking her own. If it falls, it sounds like she is asking him.
+1. `[1]` `vuoi sapere com'è la mia settimana? ↗` is a yes/no question, and in
+   Italian the rise alone is what makes it one — the word order is the same as
+   the statement (L4 stage 4 teaches exactly this). The rise sits on `-mà-` of
+   `settimana`. Keep it light: she is checking, not interrogating.
 2. `[2]` `subito` carries contrastive stress — the whole sentence is about the
    gap between waking and getting up. Keep the contour **level** on `mi vesto`:
    she has not finished the list.
@@ -121,10 +125,14 @@ they are seeded in L3, and putting them here spends the seed a lesson early ·
 4. Keep the `///` pauses between paragraphs. They are where a learner catches up,
    and they are what makes one recording usable for three different tasks.
 5. Do not slow down for the last paragraph. The slow take is a separate take.
+6. `[8]` `E tu? ↗` rises; `Com'è la tua? ↘` **falls**. A question with a question
+   word (`come`, `dove`, `quando`…) falls in Italian, as it does in English. Do not
+   let the question mark pull it up — a rise there sounds like an echo, *"how is
+   **what**?"*, and learners will copy it.
 
 ---
 
-## Cue 2 — `assets/audio/unit-01/u01-l03-persone.mp3` `[ITA?]`
+## Cue 2 — `assets/audio/unit-01/u01-l03-persone.mp3`
 
 **Serves.** L3 stage 4. **Length target** 1:30–1:45, 3 × ~65 words with a
 two-second gap between speakers.
@@ -149,8 +157,8 @@ makes "parents" impossible.
 > Chiara. // Viviamo insieme da due anni. // È molto socievole: conosce tutti nel
 > palazzo. // Io invece sono più riservata. ↘ // Andiamo molto d'accordo, anche se
 > a volte litighiamo per la cucina. // È testarda, ma è anche la persona più
-> affidabile che conosco. // Il suo fidanzato viene spesso a cena. // Mi manca
-> quando va a casa dei suoi. ↘ ///
+> affidabile che conosco. // Il suo fidanzato viene spesso a cena. // Quando lei
+> va a casa dei suoi, un po' mi manca. ↘ ///
 >
 > **[B — Davide]** Io e la mia compagna siamo una coppia tranquilla. //
 > Lavoriamo molto, quindi durante la settimana non ci vediamo tanto → ma ci
@@ -160,9 +168,10 @@ makes "parents" impossible.
 >
 > **[C — Lina]** Al lavoro ho una collega, Paola, che è davvero in gamba. // È
 > sempre disponibile: se hai un problema, lo risolve lei. ↘ // Non siamo amiche,
-> siamo conoscenti — ci vediamo solo in ufficio. // Poi c'è il mio vicino, il
-> signor Rossi: è un po' permaloso, ma mi interessa parlare con lui, perché sa
-> tutto del quartiere. // Mi piace il mio palazzo. ↘ ///
+> però: ci vediamo solo in ufficio. // Poi c'è il mio vicino, il signor Rossi. //
+> Non è un amico, è un conoscente → ma mi interessa parlare con lui, perché sa
+> tutto del quartiere. // È un po' permaloso, questo sì. ↘ // Insomma, mi piace
+> il mio palazzo. ↘ ///
 
 **Content check**
 
@@ -189,15 +198,17 @@ makes "parents" impossible.
    `ma` is the payload.
 3. `[B]` `dai parenti` must not be rushed. It is the unit's false-friend item and
    the whole list after it exists to disambiguate it.
-4. `[C]` Lina says `conoscenti` with a small pause before it — she is choosing
-   the right word, which is exactly the distinction the lesson is teaching.
+4. `[C]` Lina says `è un conoscente` with a small pause before it — she is
+   choosing the right word for someone who is neither a friend nor a stranger,
+   which is exactly the distinction the lesson is teaching. Keep `conoscente →`
+   level: the `ma` that follows is the point.
 5. Do **not** stress the `piacere` chunks or set them off with pauses. They must
    pass as ordinary speech; a chunk that sounds highlighted invites the question
    the lesson is designed not to answer until Unit 8.
 
 ---
 
-## Cue 3 — `assets/audio/unit-01/u01-l03-accento.mp3` `[ITA?]`
+## Cue 3 — `assets/audio/unit-01/u01-l03-accento.mp3`
 
 **Serves.** L3 stage 8 (`A9`, step 1: discriminate). **Length target** 1:00–1:15.
 **Speakers.** One, standard, neutral — this cue is a measuring instrument, not a
@@ -212,10 +223,11 @@ final-stressed words.
 **Script**
 
 > **[Part 1 — pairs. Say each item once, in the order given. Do not say the
-> number.]**
+> number. The order is mixed on purpose: both members of every pair occur, and
+> never one straight after the other.]**
 >
-> 1. papà /// 2. pàpa /// 3. àbito /// 4. abìto /// 5. ancòra /// 6. àncora ///
-> 7. princìpi /// 8. prìncipi /// 9. sùbito /// 10. subìto ///
+> 1. pàpa /// 2. ancóra /// 3. capìto /// 4. sùbito /// 5. papà ///
+> 6. prìncipi /// 7. àncora /// 8. subìto /// 9. càpito /// 10. princìpi ///
 >
 > **[Part 2 — the `-ano` group. Each word, then the whole phrase.]**
 >
@@ -232,17 +244,26 @@ final-stressed words.
 **What each pair means** (for the lesson file's key, and for the voice talent, so
 they know which one they are saying)
 
-| Pair | Means | Pair | Means |
-| --- | --- | --- | --- |
-| papà | dad | pàpa | pope |
-| àbito | I live | abìto | dress, suit |
-| ancòra | still, again | àncora | anchor |
-| princìpi | principles | prìncipi | princes |
-| sùbito | immediately | subìto | undergone, suffered |
+| Pair | A | Means | B | Means |
+| --- | --- | --- | --- | --- |
+| 1 | papà | dad | pàpa | the Pope |
+| 2 | càpito | I happen to be (somewhere), I turn up | capìto | understood — as in `Ho capito` |
+| 3 | ancóra | still, again | àncora | anchor |
+| 4 | princìpi | principles | prìncipi | princes |
+| 5 | sùbito | immediately | subìto | undergone, suffered |
 
-`subìto` is **recognition only** — the learner is never asked to produce it. It
-earns its place because `sùbito` is in the L1 voice message and in the L2 error
-clinic, so the contrast is with a word they already own.
+**Accents in this cue.** Accents on a non-final syllable (`àncora`, `càpito`,
+`svégliano`) are a reading aid for this exercise and are **never written in
+ordinary Italian** — `pàpa` is spelled `papa`, `àncora` is spelled `ancora`.
+Accents on a final syllable (`caffè`, `perché`, `papà`) are part of the spelling
+and are always written. The marks also show vowel quality where it matters:
+`ancóra` and `svégliano` have a **closed** `o` / `e`.
+
+`subìto`, `càpito`, `princìpi` and `prìncipi` are **recognition only** — the learner
+is never asked to produce them, only to hear the difference. `subìto` earns its
+place because `sùbito` is in the L1 voice message, and `càpito` because its partner
+`capìto` is the chunk every learner already says: `Ho capito`. Gloss `capìto` as
+that chunk, not as a tense — the passato prossimo is Unit 2.
 
 **Notes to voice talent.**
 
@@ -256,7 +277,7 @@ clinic, so the contrast is with a word they already own.
 
 ---
 
-## Cue 4 — `assets/audio/unit-01/u01-l05-ritratto.mp3` `[ITA?]`
+## Cue 4 — `assets/audio/unit-01/u01-l05-ritratto.mp3`
 
 **Serves.** L5 stage 2 (`A6` rung 1 — the worked model). **Length target**
 **1:50–1:58**, ~225 words.
@@ -275,7 +296,7 @@ criterion teaches learners that the criterion is a lie.
 > Milano. // Lavoro in una scuola: insegno matematica ai ragazzi di quindici
 > anni. ↘ ///
 >
-> **[2]** Una settimana normale? // Mi sveglio alle sei e un quarto — presto, lo
+> **[2]** Una settimana normale? ↗ // Mi sveglio alle sei e un quarto — presto, lo
 > so. // Mi faccio la doccia, mi vesto → e alle sette esco di casa, perché la
 > scuola è dall'altra parte della città. ↘ // Il lunedì e il mercoledì finisco
 > alle due e mi riposo un po'. // Il martedì e il giovedì invece devo sbrigarmi,
@@ -286,12 +307,12 @@ criterion teaches learners that the criterion is a lie.
 > alzo prima delle dieci, vado al mercato, e il pomeriggio esco con gli amici. ↘
 > ///
 >
-> **[4]** Le persone intorno a me? // Vivo con il mio compagno, Paolo. // Lui è
+> **[4]** Le persone intorno a me? ↗ // Vivo con il mio compagno, Paolo. // Lui è
 > socievole: conosce tutti, parla con tutti. // Io invece sono riservata. //
-> Andiamo d'accordo quasi sempre; litighiamo solo per le vacanze. ↗ ///
+> Andiamo d'accordo quasi sempre; litighiamo solo per le vacanze. ↘ ///
 >
 > **[5]** Poi c'è Francesca, la mia collega. // È una donna in gamba e molto
-> disponibile. // Ci vediamo ogni giorno in ufficio e ci sentiamo anche quando
+> disponibile. // Ci vediamo ogni giorno a scuola e ci sentiamo anche quando
 > siamo in ferie. ↘ ///
 >
 > **[6]** Ecco, questa sono io. // Niente di straordinario, ma mi trovo bene
@@ -309,7 +330,15 @@ are there because L4 teaches them and L5 expects them back.
 1. This is a model learners imitate, so **sound like a person, not a reader.**
    The two self-interruptions — `presto, lo so` and `Una settimana normale?` —
    are there to be audible. Keep them.
-2. `[4]` `litighiamo solo per le vacanze↗` rises a little: it is affectionate,
-   not a complaint.
-3. Hit the length target. Learners time themselves against this recording, and a
-   2:30 model makes a 2:00 task feel like a failure.
+2. `[4]` `litighiamo solo per le vacanze ↘` — say it with a smile, but let it
+   **fall**. The affection is in the voice quality, not the contour: a final rise
+   on a statement turns it into a question (*"we only argue about holidays?"*),
+   which is the opposite of what she means.
+3. `[2]` `Una settimana normale? ↗` and `[4]` `Le persone intorno a me? ↗` are
+   Elena asking herself the task's questions. A short, light rise on each, then
+   straight into the answer — it is how a speaker signposts, and it is worth
+   learners copying.
+4. Hit the length target. Learners time themselves against this recording, and a
+   2:30 model makes a 2:00 task feel like a failure. The script is ~195 words;
+   at an unhurried ~130 words a minute with the marked pauses it lands at about
+   1:50–1:55, which is the target. Do not speed up to get under it.

@@ -16,11 +16,9 @@ selfstudy_min: 55
 
 # Unit 1, Lesson 2 — *Un giorno tipo*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
+> **pass with edits**; see
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
 
 ---
 
@@ -131,6 +129,9 @@ Then: "So what decides which little word you use?"
 them?"
 → `*Marco mi sveglia` has the **wrong** pronoun for Marco; `*Anna alza` has
 **none**. Fix them on the board to `Marco si sveglia`, `Anna si alza`.
+Then one sentence, because it is true and it makes rule 2 stick: "`Marco mi
+sveglia alle sei` *is* Italian — it means *Marco wakes **me** up at six*. The
+wrong pronoun doesn't make noise. It makes a different sentence."
 
 **Then build the paradigm *with* the class (3 min).** Ask for each form; supply
 only what they cannot produce. Write it up as you go:
@@ -163,7 +164,7 @@ one of the two stages in the unit where it is.
 
 ---
 
-### 3 · Practice — paradigm sprint — 10 min · solo, timed → lockstep · `A3` `[ITA?]`
+### 3 · Practice — paradigm sprint — 10 min · solo, timed → lockstep · `A3`
 
 **Purpose.** Retrieval speed on the form, so that stages 4–8 are not spent
 computing it. `A3` builds speed on form only; it is never the last stage of a
@@ -185,7 +186,7 @@ mark their own. Do not discuss errors during the sprint; collect them for stage 
 
 ---
 
-### 4 · Practice — transform line — 12 min · solo → pairs · `A4` `[ITA?]`
+### 4 · Practice — transform line — 12 min · solo → pairs · `A4`
 
 **Purpose.** One stated change, applied ten times, so that "the pronoun follows
 the subject" stops being a rule on a board and becomes a reflex.
@@ -206,7 +207,7 @@ are self- and peer-checked against the key.
 
 ---
 
-### 5 · Presentation 2 — pronoun placement with modals — 12 min · lockstep → solo `[ITA?]`
+### 5 · Presentation 2 — pronoun placement with modals — 12 min · lockstep → solo
 
 **Purpose.** Rule 3, which is the one that produces the most durable wrong form,
 because both of the correct Italian options are unlike English and a learner who
@@ -246,7 +247,7 @@ be self-checked.
 
 ---
 
-### 6 · Practice — error clinic — 10 min · pairs → lockstep · `A8` `[ITA?]`
+### 6 · Practice — error clinic — 10 min · pairs → lockstep · `A8`
 
 **Purpose.** Move from *producing* the form to *judging* it, which is the skill a
 learner needs when nobody is correcting them. The items are the errors this course
@@ -268,7 +269,7 @@ metalanguage is encouraged.
 
 ---
 
-### 7 · Reciprocals, and `Sbrigati!` — 10 min · lockstep → pairs · `A′` lexis `[ITA?]`
+### 7 · Reciprocals, and `Sbrigati!` — 10 min · lockstep → pairs · `A′` lexis
 
 **Purpose.** Show the same morphology doing a **second job**. `ci vediamo` is not
 "we see ourselves"; it is "we see *each other*". One form, two functions — which
@@ -281,8 +282,10 @@ vocabulary in L3.
 > `Io e Sara ci vediamo ogni venerdì.` — Sara and I see **each other** every
 > Friday.
 
-"Same little word system. Different job. With `noi`, `voi` and `loro`, it usually
-means *each other*." Then give the two items properly:
+"Same little word system. Different job. With `noi`, `voi` and `loro` it **can**
+mean *each other* — and with `vedersi` and `sentirsi` it almost always does."
+(Not "usually" across the board: `ci alziamo alle sette` is still *we get up*.)
+Then give the two items properly:
 
 | Italian | English | Note |
 | --- | --- | --- |
@@ -309,7 +312,7 @@ minutes on your own, then say all six aloud to your partner."
 
 ---
 
-### 8 · Production — *Francesca e Dario* information gap — 12 min · pairs · `A7` `[ITA?]`
+### 8 · Production — *Francesca e Dario* information gap — 12 min · pairs · `A7`
 
 **Purpose.** The lesson's one stage of real use. The gap is genuine: each learner
 holds half the information, the questions must be asked in the **third person**,
@@ -325,7 +328,7 @@ When you've both finished, one last question on the card."
 **CCQ.** "Can you show each other the cards?" → *No.* · "Whose column are you
 filling in — the one you know, or the one you don't?" → *The one I don't know.*
 
-**Card A** `[ITA?]`
+**Card A**
 
 > **You know about FRANCESCA. Ask your partner about DARIO.**
 >
@@ -345,7 +348,7 @@ filling in — the one you know, or the one you don't?" → *The one I don't kno
 > **Last question, when you have both finished:** `Con chi preferisci vivere,
 > Francesca o Dario? Perché?` Answer in one sentence.
 
-**Card B** `[ITA?]`
+**Card B**
 
 > **You know about DARIO. Ask your partner about FRANCESCA.**
 >
@@ -399,7 +402,7 @@ information-gap card properly.
 
 ## Exercises and answer keys
 
-### Exercise 1 — Paradigm sprint, three rounds `[ITA?]`
+### Exercise 1 — Paradigm sprint, three rounds
 
 **Round 1 — `alzarsi`** (board visible, 90 seconds)
 
@@ -429,7 +432,7 @@ point of the round.*
 A learner below 12 on round 3 should redo this exercise before L5, and the
 checkpoint will tell them the same thing.
 
-### Exercise 2 — Transform line: `io` → `i miei coinquilini` `[ITA?]`
+### Exercise 2 — Transform line: `io` → `i miei coinquilini`
 
 Rewrite each sentence so it is about **i miei coinquilini**.
 
@@ -460,7 +463,7 @@ key that teaches:
 - **10** — two verbs, and **only one of them is reflexive**. `si riposano` takes
   the pronoun; `fanno` does not.
 
-### Exercise 3 — Pronoun placement with modals `[ITA?]`
+### Exercise 3 — Pronoun placement with modals
 
 **Part A.** Rewrite each sentence in **the other** correct order.
 
@@ -471,9 +474,8 @@ key that teaches:
 
 **Key.** 1 Devo sbrigarmi. · 2 Ti vuoi rilassare un po'? · 3 Non voglio alzarmi
 presto. · 4 Ci possiamo vedere domani? **1 mark each.** Both versions in every
-pair are equally correct and equally common; if a learner asks which one Italians
-"really" say, the answer is *both*, and item 4 is the one where the attached form
-is marginally more frequent in speech.
+pair are correct and both are everyday Italian; if a learner asks which one
+Italians "really" say, the answer is *both*.
 
 **Part B.** Tick the correct sentences. Fix the wrong ones.
 
@@ -487,14 +489,14 @@ never sit between the modal and the infinitive. · 6 ✓ · 7 ✗ → **Ci vogli
 sentire domani** *or* **Vogliamo sentirci domani** — same error as 5. · 8 ✓.
 **1 mark each, 8 marks for the exercise.**
 
-### Exercise 4 — Error clinic `[ITA?]`
+### Exercise 4 — Error clinic
 
 Some of these sentences have **one** thing wrong. Some are already correct. Decide,
 and fix the wrong ones.
 
 1. Sveglio alle sei e mezza.
 2. Alzo mi subito.
-3. Mia sorella mi alza alle nove.
+3. Mia sorella mi occupa della spesa.
 4. Devo mi sbrigare, sono in ritardo.
 5. Ci vediamo domani!
 6. I miei coinquilini si rilassa in salotto.
@@ -508,7 +510,7 @@ transfers:
 | --- | --- | --- | --- |
 | 1 | ✗ | **Mi sveglio** alle sei e mezza. | The pronoun is obligatory. English *I wake up* has no pronoun, so there is nothing to translate — and nothing is exactly what gets produced. (Rule 1) |
 | 2 | ✗ | **Mi alzo** subito. | The pronoun goes **before** the conjugated verb, not after it. *I get myself up* is the English model that causes this. (Rule 3) |
-| 3 | ✗ | Mia sorella **si** alza alle nove. | The pronoun follows the **subject**, and the subject is *mia sorella*, not *io*. (Rule 2) |
+| 3 | ✗ | Mia sorella **si** occupa della spesa. | The pronoun follows the **subject**, and the subject is *mia sorella*, not *io*. (Rule 2) |
 | 4 | ✗ | **Mi devo sbrigare** *or* **Devo sbrigarmi**. | Two correct positions, and between the modal and the infinitive is neither of them. (Rule 3) |
 | 5 | ✓ | — | Correct. `Ci vediamo!` is both "we see each other" and the everyday "see you!". |
 | 6 | ✗ | I miei coinquilini **si rilassano** in salotto. | The pronoun is right; the **verb** is not. The subject is plural, so both parts have to be. |
@@ -518,7 +520,7 @@ transfers:
 **8 marks**, 1 per item, and a learner only scores the mark if the verdict is
 right — ticking a correct sentence as wrong loses the mark.
 
-### Exercise 5 — Reciprocals, and two phrases `[ITA?]`
+### Exercise 5 — Reciprocals, and two phrases
 
 Complete with the right form.
 
@@ -536,7 +538,7 @@ Complete with the right form.
 tested as fixed phrases. If a learner asks how `Sbrigati` is built, the honest
 answer is "Unit 7". `sbrigarsi` is seeded here precisely because U7 needs it.*
 
-### Exercise 6 — Mixed consolidation (homework) `[ITA?]`
+### Exercise 6 — Mixed consolidation (homework)
 
 Put the verb in brackets into the right form, in the right place.
 
@@ -547,7 +549,7 @@ Put the verb in brackets into the right form, in the right place.
 4. I miei vicini ______ (addormentarsi) sempre davanti alla televisione.
 5. Tu a che ora ______ (alzarsi) la domenica?
 6. Ragazzi, voi ______ (riposarsi) mai?
-7. Prima di uscire, devo ______ (prepararsi). *(both correct orders)*
+7. Prima di uscire, ______ (dovere / prepararsi, io). *(both correct orders)*
 8. Non ______ (potere / rilassarsi, io) con questo rumore. *(both correct orders)*
 9. Il martedì mia madre ______ (dovere / sbrigarsi), perché lavora alle sette.
 10. Io e mia sorella ______ (sentirsi) ogni domenica.
@@ -555,7 +557,7 @@ Put the verb in brackets into the right form, in the right place.
 12. Il sabato ______ (rilassarsi, io) e non faccio niente.
 
 **Key.** 1 mi sveglio … mi alzo · 2 si prepara · 3 ci troviamo · 4 si addormentano ·
-5 ti alzi · 6 vi riposate · 7 **prepararmi** *or* **mi devo preparare** ·
+5 ti alzi · 6 vi riposate · 7 **devo prepararmi** *or* **mi devo preparare** ·
 8 **posso rilassarmi** *or* **mi posso rilassare** · 9 **deve sbrigarsi** *or*
 **si deve sbrigare** · 10 ci sentiamo · 11 si vedono · 12 mi rilasso.
 **13 marks** (item 1 has two gaps).

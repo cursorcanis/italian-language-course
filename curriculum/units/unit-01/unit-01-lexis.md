@@ -10,9 +10,9 @@ false_friend: "i parenti"
 
 # Unit 1 — Le parole: *routine, carattere, rapporti*
 
-> ⚠️ **Italian awaiting review.** Every Italian item and example sentence in this
-> file is a Lesson Designer **draft**, not finished copy, and is marked `[ITA?]` at
-> the section level. Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
+> **pass with edits**; see
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
 
 **This is your revision list.** Thirty items you are expected to **use**, five more
 you only need to **recognise**, and one false friend. Every item has an example
@@ -32,7 +32,7 @@ This file is the study list.
 
 ---
 
-## Set A — reflexive routine verbs · taught in L1 · 11 items `[ITA?]`
+## Set A — reflexive routine verbs · taught in L1 · 11 items
 
 | Italian | English | Example sentence | Met in |
 | --- | --- | --- | --- |
@@ -59,7 +59,7 @@ This file is the study list.
 
 ---
 
-## Set A′ — the two reciprocals · taught in L2 · 2 items `[ITA?]`
+## Set A′ — the two reciprocals · taught in L2 · 2 items
 
 These two are in L2 rather than L3 because they are the unit's **grammar** doing a
 second job: the same pronouns, meaning *each other* instead of *myself*.
@@ -67,7 +67,7 @@ second job: the same pronouns, meaning *each other* instead of *myself*.
 | Italian | English | Example sentence | Met in |
 | --- | --- | --- | --- |
 | `vedersi` | to see each other | Io e Sara ci vediamo quasi ogni settimana. | L1 s6 · L2 s7 · L3 s9 · L5 s3 · Ckpt B9 |
-| `sentirsi` | to be in touch | Ci sentiamo tutti i giorni, anche solo un messaggio. | L1 s6 · L2 s7 · L3 s9 · Ckpt B3 |
+| `sentirsi` | to be in touch | Ci sentiamo tutti i giorni, anche solo con un messaggio. | L1 s6 · L2 s7 · L3 s9 · Ckpt B3 |
 
 **Learn these two as goodbyes as well as verbs.** `Ci vediamo!` is *See you!* and
 `Ci sentiamo!` is *Talk soon!* — they are the two most useful things in Lesson 2
@@ -78,7 +78,7 @@ only means being in touch.
 
 ---
 
-## Set B (i) — people and relationships · taught in L3 · 8 items `[ITA?]`
+## Set B (i) — people and relationships · taught in L3 · 8 items
 
 | Italian | English | Example sentence | Met in |
 | --- | --- | --- | --- |
@@ -88,7 +88,7 @@ only means being in touch.
 | `il coinquilino` / `la coinquilina` | flatmate | Il mio coinquilino è molto disponibile. | L3 s3, s9 · L4 s3, s5 · L5 s3 · Ckpt A1 |
 | `il collega` / `la collega` | colleague | Ho una collega in gamba che risolve tutto in cinque minuti. | L3 s3, s9 · L4 s5 · L5 s3 · Ckpt A2, C5 |
 | `il vicino` / `la vicina` | neighbour | Vado d'accordo con i miei vicini, ma non li vedo mai. | L3 s3 · L4 s4, s5 · Ckpt A4, C3 |
-| `il conoscente` | acquaintance | Non siamo amici, siamo conoscenti: ci vediamo solo in ufficio. | L3 s3, s4 · Ckpt A3 |
+| `il conoscente` | acquaintance | Il signor Rossi non è un amico, è un conoscente: ci salutiamo e basta. | L3 s3, s4 · Ckpt A3 |
 | `i parenti` | relatives | A Natale vengono tutti i parenti: zii, cugini, nonni. | L3 s3, s4, s6 · Ckpt A5 |
 
 **Three things to get right:**
@@ -98,20 +98,22 @@ only means being in touch.
   checkpoint.
 - **`il compagno` / `la compagna` is the word to reach for** when you do not know
   whether a couple is married. It is register-neutral and wider than `fidanzato`.
-- **`il conoscente`** is a word English has and barely uses. Italian uses it
-  constantly, and *"we're not friends, we're acquaintances"* is a normal thing to
-  say rather than a cold one.
+- **`il conoscente`** is a word English has and barely uses. Italian uses it far
+  more readily, and *"non è un amico, è un conoscente"* is a normal thing to say
+  rather than a cold one. It is for someone you know but have no other name for:
+  a colleague is `un collega`, a neighbour is `un vicino`, even if you are not
+  friends.
 
 ---
 
-## Set B (ii) — character, and how you get on · taught in L3 · 9 items `[ITA?]`
+## Set B (ii) — character, and how you get on · taught in L3 · 9 items
 
 | Italian | English | Example sentence | Met in |
 | --- | --- | --- | --- |
 | `socievole` | sociable | La mia coinquilina è molto socievole: conosce tutti nel palazzo. | L3 s5, s9 · L4 s5 · L5 s3 · Ckpt A6 |
 | `riservato` | reserved | Io invece sono abbastanza riservato: non parlo molto di me. | L3 s5, s9 · L4 s3, s5 · Ckpt C5 |
 | `testardo` | stubborn | Mio padre è testardo: ha deciso e non cambia idea. | L3 s5 · L4 s5 |
-| `permaloso` | touchy, easily offended | Non scherzare sul suo lavoro: è un po' permaloso. | L3 s5, s7 · Ckpt A7 |
+| `permaloso` | touchy, easily offended | Meglio non scherzare sul suo lavoro: è un po' permaloso. | L3 s5, s7 · Ckpt A7 |
 | `affidabile` | reliable | È la persona più affidabile che conosco: se dice alle otto, alle otto c'è. | L3 s5, s9 · L4 s3 · Ckpt A8 |
 | `disponibile` | helpful, willing to help | Il mio vicino è sempre disponibile se hai bisogno di una mano. | L3 s5, s9 · L4 s3, s5 · L5 s3 · Ckpt C4 |
 | `in gamba` | capable, on the ball | Ha trentadue anni e gestisce due negozi: è davvero in gamba. | L3 s5, s9 · L4 s5 · L5 s3 · Ckpt A9 |
@@ -141,12 +143,12 @@ adjective in this unit and most of the ones in the next eleven.
 
 ---
 
-## Recognition only — not counted in the thirty, not tested `[ITA?]`
+## Recognition only — not counted in the thirty, not tested
 
 ### The five `piacere` chunks
 
 **Learn these as phrases.** They are deliberately **not explained** in this unit, and
-they are not on the checkpoint. Met in L3 s7 and L4 s3.
+they are not on the checkpoint. Met in L3 s4 (all five, in cue 2) and L3 s7.
 
 | Chunk | English | Note |
 | --- | --- | --- |
@@ -166,11 +168,12 @@ piece of initiative in this unit that will cost you something.
 | --- | --- | --- |
 | `La ringrazio e La saluto cordialmente` | L4 s3, profile 2 | A fixed formal sign-off. The `La` in it is an object pronoun analysed at U8. Learn the whole line as a phrase. |
 | `subìto` | L3 s8 | Stressed on the `i`, it means *undergone*. It is on the page only as the contrast partner for `sùbito` (*immediately*), which you do use. You are never asked to produce `subìto`. |
+| `càpito` | L3 s8 | Stressed on the first syllable, it means *I happen to be (somewhere)*. It is there only as the contrast partner for `capìto`, which you already say: `Ho capito`. The stress marks are a reading aid — both are spelled `capito`. |
 | `studio italiano da due anni` | L5, model answer | Present tense for something that started in the past. A real and very common Italian pattern that an English speaker will not reach for. Recognise it; nobody expects you to produce it in this unit. |
 
 ---
 
-## False friend — Unit 1 of 12 `[ITA?]`
+## False friend — Unit 1 of 12
 
 One per unit, two minutes in L3, and they are tested cumulatively at both
 milestones. **Keep all twelve on one page of your notebook** — the whole point of the
@@ -195,7 +198,7 @@ her grandparents are not parents. Use the context, not the warning.
 | B (i) — people and relationships | L3 | 8 |
 | B (ii) — character, and how you get on | L3 | 9 |
 | | **Total productive** | **30** |
-| Recognition only | L3, L4, L5 | 5 `piacere` chunks + 3 others |
+| Recognition only | L3, L4, L5 | 5 `piacere` chunks + 4 others |
 
 Thirty, matching the syllabus. `i parenti` is counted **inside** set B (i) here,
 following `lexis-progression.md`, although that document also describes the

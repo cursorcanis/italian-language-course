@@ -1,8 +1,8 @@
 # Unit 1 — Teacher notes
 
-> ⚠️ **Italian awaiting review.** The Italian in this file — the error-profile
-> sentences and the register examples — is a Lesson Designer **draft** and is marked
-> `[ITA?]`. Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
+> **pass with edits**; see
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
 
 Unit-level notes: what would otherwise be repeated in all five lesson files. Each
 lesson names the two or three errors *it* produces and links here for the rest.
@@ -35,7 +35,7 @@ lesson names the two or three errors *it* produces and links here for the rest.
 
 ---
 
-## 2. Error profile `[ITA?]`
+## 2. Error profile
 
 The table `A8` error-clinic items are drawn from. Every row appears in at least one
 clinic in the unit; the right-hand column says where. All ten are predictions for an
@@ -46,7 +46,7 @@ predictions rather than observations.
 | --- | --- | --- | --- | --- | --- |
 | 1 | Dropped reflexive pronoun | `*Sveglio alle sette.` | English *I wake up* has no pronoun, so there is nothing to translate — and nothing is what gets produced. | Everywhere, L1–L5 | **Recast, never explain, in L1.** In L2 make it rule 1 of three and the first thing on the board. `A8`: L2 ex 4 item 1. |
 | 2 | Pronoun after the verb | `*Alzo mi subito.` | Maps *I get **myself** up* onto Italian word order. Feels reasoned, so it survives correction. | L1 s8–s9, L2 onward | Write the correct pair **immediately next to** the wrong one and say both aloud. Do not draw a rule. `A8`: L2 ex 4 item 2. |
-| 3 | Pronoun not following the subject | `*Mia sorella mi alza alle nove.` | `mi sveglio` has just been drilled for forty minutes, so `mi` has become part of the word. | L1 s9, L2 s4, L5 s6 | One question back — "who gets up at nine?" — and let them self-correct. `A8`: L2 ex 4 item 3. |
+| 3 | Pronoun not following the subject | `*Mia sorella mi occupa della spesa.` | `mi sveglio` has just been drilled for forty minutes, so `mi` has become part of the word. | L1 s9, L2 s4, L5 s6 | One question back — "who does the shopping?" — and let them self-correct. `A8`: L2 ex 4 item 3. **Careful with live examples:** with most of these verbs the wrong pronoun makes a *different, correct* sentence — `Marco mi sveglia` is *Marco wakes me up*, `mia sorella mi alza` is *my sister gets me up*. Correct them as "not what you meant", not as "not Italian". The clinic item uses `occuparsi` because `*mi occupa della spesa` has no second reading. |
 | 4 | Pronoun between modal and infinitive | `*Devo mi sbrigare.` | **Both** correct Italian options (`mi devo sbrigare`, `devo sbrigarmi`) are unlike English, so the learner builds a third that splits the difference. | L2 s5 onward, L5 | Teach both correct options as an **equal pair**, never one as primary. Then point at the three board lines rather than re-explaining. `A8`: L2 ex 4 item 4. |
 | 5 | Pronoun right, verb wrong | `*I miei coinquilini si rilassa in salotto.` | The learner has learned "the pronoun follows the subject" so thoroughly that it absorbs all available attention and the verb ending is left behind. | L2 s4, s8 | "How many flatmates?" and let them fix it. It is an **attention** error, not a knowledge error; explaining it achieves nothing. `A8`: L2 ex 4 item 6. |
 | 6 | `-o` agreement over-applied to `-e` adjectives | `*La mia coinquilina è socievola.` | Over-generalising the `-o/-a` rule, which they have just learned correctly. A sign of learning, not of confusion. | L3 s5 onward, L4, L5 | Point at the **three columns** — `-o`, `-e`, `in gamba`. One gesture per error. `A8`: L4 ex 3 items 1, 2, 6. |

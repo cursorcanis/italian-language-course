@@ -16,11 +16,10 @@ selfstudy_min: 50
 
 # Unit 1, Lesson 3 — *Le persone intorno a me*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
+> **pass with edits** (the heaviest in the unit: stage 8 and exercise 6 were
+> rebuilt around a valid set of stress pairs); see
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
 
 ---
 
@@ -111,7 +110,7 @@ activity." Nothing in the lesson depends on the recording existing.
 
 ---
 
-### 3 · Lexis set B (i) — the 8 people items — 10 min · lockstep → solo `[ITA?]`
+### 3 · Lexis set B (i) — the 8 people items — 10 min · lockstep → solo
 
 **Purpose.** Deliver the eight relationship items. These are the words that answer
 the middle column of the stage-2 grid, and they are deliberately taught **before**
@@ -149,7 +148,7 @@ likely to use and most likely to need."
 
 ---
 
-### 4 · Input — *Tre persone intorno a me* — 12 min · solo → pairs → lockstep · `A1` `[ITA?]`
+### 4 · Input — *Tre persone intorno a me* — 12 min · solo → pairs → lockstep · `A1`
 
 **Purpose.** Hear the set in use by three different speakers before producing any
 of it. This is a shortened `A1` — two passes, not three, because the noticing pass
@@ -177,7 +176,7 @@ the one you'll meet in real life."
 
 ---
 
-### 5 · Lexis set B (ii) — the 9 character items — 14 min · lockstep → solo → pairs `[ITA?]`
+### 5 · Lexis set B (ii) — the 9 character items — 14 min · lockstep → solo → pairs
 
 **Purpose.** Deliver the nine items that let a learner say something **evaluative**
 rather than merely factual. *"My sister is nice"* is A1. This stage is the
@@ -227,7 +226,7 @@ is fluency — collect two things for stage 10 and say nothing.
 
 ---
 
-### 6 · False-friend slot — `i parenti` — 3 min · lockstep `[ITA?]`
+### 6 · False-friend slot — `i parenti` — 3 min · lockstep
 
 **Purpose.** The running false-friend strand: one item per unit, in L3, for three
 minutes, every time. Learners come to expect the slot, which is the whole reason it
@@ -257,7 +256,7 @@ to use context rather than to memorise a warning.
 
 ---
 
-### 7 · The five `piacere` chunks — 8 min · lockstep → solo `[ITA?]`
+### 7 · The five `piacere` chunks — 8 min · lockstep → solo
 
 **Purpose.** Plant the seed. These five expressions are taught as **fixed phrases**
 and **explicitly not explained**; they are analysed at U8 L2, after seven units of
@@ -298,7 +297,7 @@ scripted above, verbatim, a second time. The seed only works if it stays a seed.
 
 ---
 
-### 8 · Pronunciation — word stress — 14 min · lockstep → solo → pairs · `A9` `[ITA?]`
+### 8 · Pronunciation — word stress — 14 min · lockstep → solo → pairs · `A9`
 
 **Purpose.** Word stress, practised as **meaning-bearing**. Italian stress is not
 decoration: get it wrong in any of this stage's five pairs and the listener hears a
@@ -326,14 +325,14 @@ Check immediately. Take the score, out loud: "Who got eight or more?"
 
 **Instruction.** "Exercise 6 part B. Ten words. **Put a mark over the loud
 syllable.** Here is the only rule you need: Italian usually stresses the
-**second-to-last** syllable — `ca-SA`, `pa-RO-la`, `ri-SER-va-to`. But the
+**second-to-last** syllable — `CA-sa`, `pa-RO-la`, `ri-ser-VA-to`. But the
 `loro` form of these verbs does not, and that is what you're about to hear."
 
 Then read cue 3 part 2 — each `-ano` verb alone, then in its phrase. Learners mark
 as they listen.
 
 **CCQ.** "Where's the stress in Italian **usually**?" → *Second-to-last syllable.*
-· "And in `abitano`?" → *Not there — three syllables earlier.*
+· "And in `abitano`?" → *Not there — right at the front: `À-bi-ta-no`.*
 
 Check in lockstep, 60 seconds. **Then say the one thing that makes this stick:** "You
 all learned `àbito` — *I live*. The `loro` form keeps the stress in the **same
@@ -361,7 +360,7 @@ syllables.
 
 ---
 
-### 9 · Activate — *due persone* — 13 min · lockstep → pairs · `A6` `[ITA?]`
+### 9 · Activate — *due persone* — 13 min · lockstep → pairs · `A6`
 
 **Purpose.** The lesson's goal, performed. Two people, described properly, with the
 scaffold removed before the end.
@@ -422,7 +421,7 @@ is fluency — delayed, collected, stage 10.
 seconds with your neighbour: which two?"
 
 Four with one error, two worth stealing. Expect the four to be agreement errors
-(`*mia coinquilina è socievola`), `*il collego`, and `*in gambe`. Point at the
+(`*la mia coinquilina è socievola`), `*il collego`, and `*in gambe`. Point at the
 three adjective columns from stage 5 rather than re-teaching.
 
 **Homework.** "Exercise 7 — write about two people, 100 words, and check it against
@@ -437,7 +436,7 @@ use `Lei`.
 
 ## Exercises and answer keys
 
-### Exercise 1 — The eight people items `[ITA?]`
+### Exercise 1 — The eight people items
 
 Match the Italian to the description. *(Done at stage 3 as a 90-second check; it is
 not a separate stage.)*
@@ -455,7 +454,7 @@ not a separate stage.)*
 `il fidanzato` are not in the matching because they have no description that is not
 circular; they are checked in exercise 7 instead.
 
-### Exercise 2 — *Tre persone intorno a me*: who said it? `[ITA?]`
+### Exercise 2 — *Tre persone intorno a me*: who said it?
 
 Write **M** (Marta), **D** (Davide) or **L** (Lina).
 
@@ -473,16 +472,16 @@ speaker and Davide the slow one, so a learner who scores well on Marta's items h
 done something real. If a learner gets 3 and 6 wrong but 1 and 5 right, their
 problem is Lina's register, not their Italian.*
 
-### Exercise 3 — Which adjective? `[ITA?]`
+### Exercise 3 — Which adjective?
 
 Choose the word that fits. Each is used once.
 
 > `socievole` · `riservata` · `testardo` · `permaloso` · `affidabile` ·
 > `disponibile` · `in gamba` · `litighiamo`
 
-1. Non parla molto di sé e non le piacciono le feste. È molto ______ .
+1. Non parla molto di sé e non va mai alle feste. È molto ______ .
 2. Conosce tutti, parla con tutti, esce ogni sera. È ______ .
-3. Se dici una cosa su suo lavoro, si offende subito. È un po' ______ .
+3. Se scherzi sul suo lavoro, si offende subito. È un po' ______ .
 4. Dice sempre sì quando hai bisogno di una mano. È sempre ______ .
 5. Se dice che viene alle otto, alle otto c'è. È ______ .
 6. Ha deciso così e non cambia idea. È ______ .
@@ -497,7 +496,7 @@ separate them out loud: `disponibile` is about **willingness** — they'll help.
 `affidabile` is about **predictability** — they'll do what they said. A person can
 be one and not the other, and that is worth thirty seconds.*
 
-### Exercise 4 — False friend: `parenti` or `genitori`? `[ITA?]`
+### Exercise 4 — False friend: `parenti` or `genitori`?
 
 1. My **parents** live in Scotland. → I miei ______ vivono in Scozia.
 2. At Christmas all the **relatives** come. → A Natale vengono tutti i ______ .
@@ -506,7 +505,7 @@ be one and not the other, and that is worth thirty seconds.*
 
 **Key.** 1 genitori · 2 parenti · 3 parenti · 4 genitori. **4 marks.**
 
-### Exercise 5 — The five chunks `[ITA?]`
+### Exercise 5 — The five chunks
 
 Complete with `mi piace`, `mi piacciono`, `mi interessa`, `mi serve` or `mi manca`.
 One is used twice.
@@ -526,23 +525,29 @@ learner writes `mi piace` in 1 or 6, the correction is `piacciono` and the reaso
 is "the thing is plural" — which is as far as the explanation goes in this unit. Do
 not go further. **Unit 8.***
 
-### Exercise 6 — Word stress `[ITA?]`
+### Exercise 6 — Word stress
 
 **Part A — Discriminate.** You will hear **one** word from each pair. Write A or B.
 
-| # | A | B |
+| Pair | A | B |
 | --- | --- | --- |
-| 1 | pa**pà** (dad) | **pà**pa (pope) |
-| 2 | **à**bito (I live) | a**bì**to (dress, suit) |
-| 3 | an**cò**ra (still, again) | **àn**cora (anchor) |
+| 1 | pa**pà** (dad) | **pà**pa (the Pope) |
+| 2 | **cà**pito (I happen to be somewhere) | ca**pì**to (understood — `Ho capito`) |
+| 3 | an**có**ra (still, again) | **àn**cora (anchor) |
 | 4 | prin**cì**pi (principles) | **prìn**cipi (princes) |
 | 5 | **sù**bito (immediately) | su**bì**to (undergone) |
 
-*(Ten items — each pair is heard twice, in a mixed order.)*
+*(Ten items: you hear **both** words of every pair, in a mixed order. For each
+item, write the pair number and A or B — for example `3A`.)*
 
-**Key**, matching the order in cue 3 part 1: 1 **A** (papà) · 2 **B** (pàpa) ·
-3 **A** (àbito) · 4 **B** (abìto) · 5 **A** (ancòra) · 6 **B** (àncora) ·
-7 **A** (princìpi) · 8 **B** (prìncipi) · 9 **A** (sùbito) · 10 **B** (subìto).
+*Accents on a non-final syllable (`àncora`, `càpito`) are a reading aid for this
+exercise and are never written in ordinary Italian — you will see `ancora`,
+`capito`, `papa`. Accents on a final syllable (`papà`, `caffè`, `perché`) are part
+of the spelling and are always written.*
+
+**Key**, matching the order in cue 3 part 1: 1 **1B** (pàpa) · 2 **3A** (ancóra) ·
+3 **2B** (capìto) · 4 **5A** (sùbito) · 5 **1A** (papà) · 6 **4B** (prìncipi) ·
+7 **3B** (àncora) · 8 **5B** (subìto) · 9 **2A** (càpito) · 10 **4A** (princìpi).
 **10 marks.** 8+ is a pass on this step; below 6, repeat part A before part B
 rather than carrying on.
 
@@ -561,7 +566,7 @@ rather than carrying on.
 
 **Key.** 1 à-bi-ta-no · 2 te-lè-fo-na-no · 3 své-glia-no · 4 si àl-za-no ·
 5 si pre-pà-ra-no · 6 caf-**fè** · 7 per-**ché** · 8 u-ni-ver-si-**tà** ·
-9 sù-bi-to · 10 an-cò-ra. **10 marks.**
+9 sù-bi-to · 10 an-có-ra. **10 marks.**
 
 *Items 1–5 all keep the stress exactly where the `io` form has it — `àbito →
 àbitano` — and the key exists to make that one fact visible rather than five
@@ -575,7 +580,7 @@ each, then swap.
 partner identifies **4 out of 5** correctly. Below that, the problem is production,
 not hearing, and part B needs doing again out loud.
 
-### Exercise 7 — *Due persone* (homework, written) `[ITA?]`
+### Exercise 7 — *Due persone* (homework, written)
 
 Write about **two** people in your life. About 100 words in total, roughly 50 each.
 
@@ -587,9 +592,9 @@ Write about **two** people in your life. About 100 words in total, roughly 50 ea
 > sera in cucina.
 >
 > Poi c'è Gianni, un collega. È in gamba e molto disponibile: se hai un problema
-> con il computer, lo risolve in cinque minuti. È un po' permaloso, però: non
-> scherzare sul suo lavoro. Non siamo amici, siamo conoscenti — ci vediamo solo in
-> ufficio, e non ci sentiamo mai il weekend.
+> con il computer, lo risolve in cinque minuti. È un po' permaloso, però: meglio
+> non scherzare sul suo lavoro. Non siamo amici, siamo solo colleghi — ci vediamo
+> in ufficio, ma non ci sentiamo mai il weekend.
 
 **What it has to do** — three things, and nothing else is marked:
 
@@ -612,7 +617,7 @@ Unit-level error profile and pacing:
 
 **Predictable errors**
 
-1. **Adjective agreement, on the `-o` adjectives only.** `*Mia coinquilina è
+1. **Adjective agreement, on the `-o` adjectives only.** `*La mia coinquilina è
    socievola` — overgeneralising the `-o/-a` pattern onto an `-e` adjective — and
    `*le mie colleghe sono riservato`, where the learner has the word and loses the
    ending under the load of a sentence. Expect it from stage 5 part 3 onward and

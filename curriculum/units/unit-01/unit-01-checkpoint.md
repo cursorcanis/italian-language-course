@@ -11,10 +11,10 @@ covers: ["lexis set 1", "riflessivi + presente indicativo", "within-A2: question
 
 # Unit 1 — Checkpoint
 
-> ⚠️ **Italian awaiting review.** Every Italian item and answer in this file is a
-> Lesson Designer **draft**, not finished copy, and is marked `[ITA?]` at the
-> section level. Do not teach from it until the Italian Content Editor has signed
-> off. Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
+> **pass with edits**; see
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
+> The ITA-4 re-alignment below is separate and still owed.
 
 **Ten minutes, on your own, in silence, no notes.** Run inside
 [L5 stage 7](unit-01-lesson-05.md). Twenty-five marks. Everything in it was taught
@@ -45,13 +45,13 @@ testing them would contradict that. Can-do goal 3 is therefore assessed by
 
 ---
 
-## Part A — Le parole di questa unità · 10 marks `[ITA?]`
+## Part A — Le parole di questa unità · 10 marks
 
 Write the missing word. No options are given. One word per gap unless the gap says
 otherwise.
 
 1. Vivo con due altre persone in un appartamento: sono le mie ______ .
-2. Lavoro con lui ogni giorno, ma non è un amico: è un ______ .
+2. Lavoriamo insieme, nello stesso ufficio, tutti i giorni: è un mio ______ .
 3. Non è un amico — è una persona che conosco e basta: un ______ .
 4. Abita nell'appartamento accanto al mio: è il mio ______ .
 5. A Natale vengono zii, cugini e nonni: vengono tutti i ______ .
@@ -71,12 +71,15 @@ d'accordo**. **1 mark each, 10 marks.**
   is an agreement error inside a lexis item and loses the mark. This is the one item
   in part A where agreement is marked, and it is marked because the stem gives it
   away.
+- **2 and 3** are written so that each has one answer: 2 is defined by working
+  together (`collega`), 3 by knowing someone and nothing more (`conoscente`). A
+  colleague is not a `conoscente` in Italian — the relationship already has a name.
 - **5** — `parenti`. `genitori` is **wrong**: uncles, cousins and grandparents are
   not parents, and the sentence was written to make that impossible. This is the
   unit's false-friend item and it is the one part-A mark worth looking at twice.
 - **9** — `in gamba`, never `*in gambe`, even about a woman.
-- Spelling: accept one wrong letter if the word is unambiguous (`socievole` for
-  `*sociévole`). Do not accept a word that has become a different word.
+- Spelling: accept one wrong letter if the word is unambiguous (`*sociavole` for
+  `socievole`). Do not accept a word that has become a different word.
 
 *Part A tests set B — the people and the character words — because set A is eleven
 reflexive verbs and those are tested as grammar in part B. Testing them twice would
@@ -84,7 +87,7 @@ spend four marks proving the same thing.*
 
 ---
 
-## Part B — Riflessivi e presente · 10 marks `[ITA?]`
+## Part B — Riflessivi e presente · 10 marks
 
 Write the correct form of the verb in brackets.
 
@@ -92,7 +95,7 @@ Write the correct form of the verb in brackets.
 2. Mia sorella non ______ (alzarsi) mai prima delle dieci.
 3. Io e Marco ______ (sentirsi) ogni domenica.
 4. Ragazzi, ______ (sbrigarsi)! Siamo in ritardo.
-5. Prima di uscire, devo ______ (prepararsi).
+5. Prima di uscire, ______ (dovere / prepararsi, io).
 6. I miei coinquilini ______ (occuparsi) del cane.
 7. Il sabato ______ (rilassarsi, io) e non faccio niente.
 8. Tu a che ora ______ (addormentarsi) di solito?
@@ -100,7 +103,7 @@ Write the correct form of the verb in brackets.
 10. Lei ______ (trovarsi) bene in questa città?
 
 **Key.** 1 mi sveglio · 2 si alza · 3 ci sentiamo · 4 **sbrigatevi** ·
-5 **prepararmi** *or* **mi devo preparare** · 6 si occupano · 7 mi rilasso ·
+5 **devo prepararmi** *or* **mi devo preparare** · 6 si occupano · 7 mi rilasso ·
 8 ti addormenti · 9 ci vediamo · 10 si trova. **1 mark each, 10 marks.**
 
 **Marking notes.**
@@ -121,7 +124,7 @@ Write the correct form of the verb in brackets.
 
 ---
 
-## Part C — Recycled: domande e accordo · 5 marks `[ITA?]`
+## Part C — Recycled: domande e accordo · 5 marks
 
 **C1–C3.** Rewrite each question using `Lei`.
 

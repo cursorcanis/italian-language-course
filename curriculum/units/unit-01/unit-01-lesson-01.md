@@ -16,11 +16,11 @@ selfstudy_min: 50
 
 # Unit 1, Lesson 1 — *La settimana di Giulia*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
+> **pass with edits**; see
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
+> Audio cue 1 is not to be recorded until its length target is reconciled; read
+> the script aloud as this file already says.
 
 ---
 
@@ -110,7 +110,7 @@ learners get that the lexis set was chosen rather than invented.
 
 ---
 
-### 3 · Lexis set A — the 11 reflexive routine verbs — 13 min · lockstep → solo `[ITA?]`
+### 3 · Lexis set A — the 11 reflexive routine verbs — 13 min · lockstep → solo
 
 **Purpose.** Deliver the eleven items set A owes this lesson, as *sound first,
 spelling second, own-life example third*. These eleven are the whole unit's
@@ -161,7 +161,7 @@ destroys stage 6.
 
 ---
 
-### 4 · Listen 1 — gist — 6 min · solo → lockstep `[ITA?]`
+### 4 · Listen 1 — gist — 6 min · solo → lockstep
 
 **Purpose.** One global question, so that learners hear the whole recording once
 without a task heavy enough to stop them hearing it. `A1` pass 1.
@@ -185,7 +185,7 @@ twice costs four minutes you need at stage 8.
 
 ---
 
-### 5 · Listen 2 — detail — 10 min · solo → pairs → lockstep `[ITA?]`
+### 5 · Listen 2 — detail — 10 min · solo → pairs → lockstep
 
 **Purpose.** The real listening work. `A1` pass 2. Two exercises, one closed and
 one open, so that learners who found pass 1 easy are not idle.
@@ -207,7 +207,7 @@ telling them the answer — that is the listening skill, not the answer.
 
 ---
 
-### 6 · Listen 3 + noticing grid — 10 min · solo → pairs · `A2` `[ITA?]`
+### 6 · Listen 3 + noticing grid — 10 min · solo → pairs · `A2`
 
 **Purpose.** Get learners to **collect** the reflexive pattern out of the text
 before anyone names it. This is the stage L2 is built on: next lesson opens by
@@ -240,7 +240,7 @@ asked for, or given.
 
 ---
 
-### 7 · Controlled practice — supported gap-fill — 10 min · solo → pairs `[ITA?]`
+### 7 · Controlled practice — supported gap-fill — 10 min · solo → pairs
 
 **Purpose.** First accurate use. The gap-fill supplies **complete** reflexive
 phrases in a box and asks learners to choose by *meaning*, not to build a form —
@@ -260,7 +260,7 @@ two minutes comparing with your partner, then we check."
 
 ---
 
-### 8 · Routine ladder — 15 min · lockstep → pairs · `A6` rungs 1–2 `[ITA?]`
+### 8 · Routine ladder — 15 min · lockstep → pairs · `A6` rungs 1–2
 
 **Purpose.** Gradual release. Turn eleven items and a text into the learner's own
 spoken routine, with the support that makes it possible — and then plan the
@@ -309,7 +309,7 @@ learner mid-frame; wait for the end of their turn.
 
 ---
 
-### 9 · Activate — *la settimana di qualcun altro* — 10 min · pairs → lockstep · `A6` rung 3 `[ITA?]`
+### 9 · Activate — *la settimana di qualcun altro* — 10 min · pairs → lockstep · `A6` rung 3
 
 **Purpose.** Remove the scaffold — the frames come off the board — and stretch the
 task one notch, into the third person. This is the stage that **creates the need
@@ -378,7 +378,7 @@ what this group collected, not out of a table.
 
 ## Exercises and answer keys
 
-### Exercise 1 — *La settimana di Giulia*: vero o falso? `[ITA?]`
+### Exercise 1 — *La settimana di Giulia*: vero o falso?
 
 1. Giulia si alza subito quando si sveglia.
 2. Fa colazione al bar.
@@ -397,7 +397,7 @@ decoration: a learner who got an item wrong needs to know where in the text the
 answer was, and a teacher needs to be able to replay eight seconds instead of
 explaining.*
 
-### Exercise 2 — Giulia's week, day by day `[ITA?]`
+### Exercise 2 — Giulia's week, day by day
 
 Complete the grid. Two cells are already done.
 
@@ -422,7 +422,7 @@ dictation.
 recording is in the first. That is deliberate and it is receptive only: it puts
 `si sveglia` in front of learners four stages before stage 9 asks them to say it.
 
-### Exercise 3 — Noticing grid `[ITA?]`
+### Exercise 3 — Noticing grid
 
 Fill in every verb Giulia says about herself with a little word in front of it.
 Two are done for you.
@@ -464,7 +464,7 @@ own. If they did not, they have lost nothing.
 
 *A learner who collects 12 or more of the 16 has done this stage successfully.*
 
-### Exercise 4 — Supported gap-fill `[ITA?]`
+### Exercise 4 — Supported gap-fill
 
 Giulia is talking about her week. Put one phrase from the box in each gap. Each
 phrase is used **once**, and **two are not needed**.
@@ -475,7 +475,7 @@ phrase is used **once**, and **two are not needed**.
 
 1. Durante la settimana ______ alle sei e mezza.
 2. Non ______ subito: resto a letto dieci minuti.
-3. La mattina ______ e poi faccio colazione in cucina.
+3. La mattina ______ con l'acqua bella calda, e poi faccio colazione in cucina.
 4. ______ in venti minuti: non ho tempo per altro.
 5. In ufficio ______ dei clienti stranieri.
 6. Il martedì ______, perché alle sei ho il corso di yoga.
@@ -487,14 +487,15 @@ phrase is used **once**, and **two are not needed**.
 **Key.** 1 mi sveglio · 2 mi alzo · 3 mi faccio la doccia · 4 mi preparo ·
 5 mi occupo · 6 devo sbrigarmi · 7 mi riposo · 8 mi rilasso · 9 ci vediamo ·
 10 mi addormento. **Not needed:** `mi vesto`, `mi trovo`. **1 mark each, 10
-marks.**
+marks.** **Items 7 and 8 accept `mi riposo` and `mi rilasso` either way round** —
+both are natural Italian in both sentences, so a learner who swaps them is right.
 
 *Item 3 is the one that catches people: `mi vesto` fits the grammar and not the
-meaning — you do not get dressed and then have breakfast in the shower. If a
-learner puts `mi vesto` in 3, the problem is reading, not Italian, and the
-response is to ask them to read the second half of the sentence aloud.*
+meaning — you do not get dressed `con l'acqua bella calda`. If a learner puts
+`mi vesto` in 3, the problem is reading, not Italian, and the response is to ask
+them to read the rest of the sentence aloud.*
 
-### Exercise 5 — *Il mio giorno tipo* (homework, written) `[ITA?]`
+### Exercise 5 — *Il mio giorno tipo* (homework, written)
 
 Write **eight** sentences about a normal weekday of yours. Rules: use at least
 **six** different verbs from the list in stage 3; every sentence has a time or a
@@ -543,7 +544,10 @@ the ones **this lesson** will produce.
    sei` — the strip on the board says `si sveglia`, and the learner says `mi`
    anyway, because `mi sveglio` has just been drilled for forty minutes. This is
    not a failure of stage 9; it is what stage 9 is **for**. **Do:** write two of
-   them down verbatim and open L2 with them. Nothing else.
+   them down verbatim and open L2 with them. Nothing else. (Know, for L2, that
+   `Marco mi sveglia alle sei` is real Italian — it means *Marco wakes **me** up
+   at six*. The wrong pronoun does not produce noise; it produces a different
+   sentence, which is the strongest argument for rule 1 the unit has.)
 
 A fourth, minor and not worth a stage: `*ogni giorni`. One-word correction —
 `ogni giorno` — and move on. It is maintenance, not this lesson's business.

@@ -15,11 +15,12 @@ recycles: ["within-A2: present-tense question forms", "within-A2: adjective agre
 ---
 ```
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this unit — dialogue,
-> reading texts, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: **ITA-10**.
+> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. All ten
+> files in this unit pass, with edits made in place; the per-file verdicts, what
+> changed and why are in
+> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
+> One hold remains: **do not record audio cue 1** until its length target is
+> reconciled (Lesson Designer). Cues 2–4 may be recorded.
 
 **Built to** [`../unit-template/README.md`](../unit-template/README.md). This is
 the unit the template was written against, so it is also the reference
@@ -62,7 +63,7 @@ lesson files and, where spoken, in
 | `Un messaggio vocale da Giulia` | L1 s4–s6 | Voice message, one speaker | ~195 words | All 11 reflexive routine verbs; 10 present-tense irregulars; two reciprocals (`ci vediamo`, `ci sentiamo`); 16 reflexive instances for the noticing grid. **No** `piacere` chunks and **no past tenses**. |
 | `Tre persone intorno a me` | L3 s4 | Three short spoken descriptions | 3 × ~65 words | The 8 people/relationship items; 7 character adjectives + `andare d'accordo`, `litigare`; all five `piacere` chunks, unanalysed; `i parenti` in a context that makes the "parents" reading impossible. |
 | `Accento: coppie e verbi in -ano` | L3 s8 | Pronunciation cue, one speaker | ~1:10 | Five meaning-bearing stress pairs; five `-ano` third-person plurals; three final-stressed words. |
-| `Due profili: Claudia e il dott. Ferri` | L4 s3 | Two written profiles, one `tu`, one `Lei` | 2 × ~95 words | The same content in both registers; ≥6 question forms between them; adjective agreement across both genders and both numbers. |
+| `Due profili: Claudia e l'ing. Ferri` | L4 s3 | Two written profiles, one `tu`, one `Lei` | 2 × ~95 words | The same content in both registers; ≥6 question forms between them; adjective agreement across both genders and both numbers. |
 | `Un ritratto in due minuti` | L5 s2 | Model self-portrait, one speaker | ~225 words, 1:50–1:58 | The task's target shape at exactly the standard the success criterion asks for — no better. |
 
 ---
@@ -134,11 +135,18 @@ False-friend slot (L3 s6): `i parenti` ≠ *parents*.
   `si àlzano`, `si prepàrano` — where an English-L1 learner applies the
   penultimate default and produces *abitàno*. This is the case that matters,
   because the forms are high-frequency from the first week.
-- **Final-stressed words**: `caffè`, `perché`, `università`.
+- **Parole tronche** — final-stressed words, where the written accent is part of
+  the spelling: `caffè`, `perché`, `università`.
 - **Meaning-bearing pairs**, which is the test of whether a pronunciation point
-  is worth a stage: `papà`/`pàpa` · `àbito`/`abìto` · `ancòra`/`àncora` ·
+  is worth a stage: `papà`/`pàpa` · `càpito`/`capìto` · `ancóra`/`àncora` ·
   `princìpi`/`prìncipi` · `sùbito`/`subìto`. Get the stress wrong in any of these
   and the listener hears a different word, not an accent.
+- **What the accents mean.** Accents on a non-final syllable (`àbito`,
+  `svégliano`) are a reading aid for this exercise and are never written in
+  ordinary Italian. Accents on a final syllable (`caffè`, `perché`, `papà`) are
+  part of the spelling and are always written. The didactic marks still show real
+  vowel quality — `ancóra` and `svégliano` have a closed vowel — because that is
+  what the recording will carry.
 
 ---
 

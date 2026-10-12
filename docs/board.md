@@ -7,7 +7,7 @@ reconcile this file back onto the Paperclip board, then stop editing it there or
 here — one board at a time.
 
 Statuses: `todo` · `in progress` · `blocked` · `in review` · `done`.
-New tasks continue the Paperclip numbering from **ITA-13**.
+New tasks continue the Paperclip numbering from **ITA-15**.
 
 | ID | Title | Owner | Status | Blocked by | Next action |
 | --- | --- | --- | --- | --- | --- |
@@ -20,9 +20,11 @@ New tasks continue the Paperclip numbering from **ITA-13**.
 | ITA-7 | Syllabus shape review | Chief | done | — | `docs/syllabus-shape-review.md`. |
 | ITA-8 | Apply shape-review defects 1–3 + the `Lei`-imperative strand | Curriculum Architect | in progress | — | Seed 4 drafted in `grammar-progression.md` (uncommitted). Remaining: confirm defects 1–3 are applied; fix the "truncated infinitives/futures" wording at `a2-b1-syllabus-map.md` §Unit 1 (pre-review §3). |
 | ITA-9 | *Not recorded in the repo* | — | ? | — | Check the Paperclip board when it resumes. |
-| ITA-10 | Unit 1 Italian sign-off | Italian Content Editor | in progress | — | Unblocked: Unit 1 is complete at `b046358`. Full review of `curriculum/units/unit-01/` against `docs/unit-01-italian-pre-review.md` §6. |
+| ITA-10 | Unit 1 Italian sign-off | Italian Content Editor | done | — | Pass with edits, all 10 files: `docs/unit-01-italian-signoff.md`. Cue 1 recording held until ITA-14; cues 2–4 recordable. |
 | ITA-11 | U7 `L4` spike: one lesson testing the L4 contract at its heaviest | Lesson Designer | in progress | — | Build `curriculum/units/unit-07/unit-07-lesson-04.md`; pass criteria are in the ITA-5 verdict. |
-| ITA-12 | Template amendments from the ITA-5 verdict | Lesson Designer | blocked | ITA-4, ITA-10 | `piacere`-seed warning row (can start now); checkpoint re-alignment (after ITA-4); template examples synced to signed-off Unit 1 (after ITA-10). |
+| ITA-12 | Template amendments from the ITA-5 verdict | Lesson Designer | blocked | ITA-4 | `piacere`-seed warning row; template sync from sign-off §6 (`unit-NN-overview.md` 142–147, `unit-NN-lexis.md` 80, ready now); checkpoint re-alignment (after ITA-4). |
+| ITA-13 | Italian review of the U7 `L4` spike | Italian Content Editor | todo | ITA-11 | Review `unit-07-lesson-04.md` once the spike lands. |
+| ITA-14 | Unit 1 staging fixes from the Italian sign-off | Lesson Designer | todo | — | Sign-off §4: reconcile cue 1 length target (~1:50 vs 1:20–1:35; hold on recording), cue 4 word count, L3 s8 step 1 instruction, L2 s2 Q3 count, L1 ex3 key order, L3 ex2 note, L3 extension prompt count. |
 
 Decided 2026-10-12 by the user: **twelve units** (recorded in `docs/format-brief.md` decision log).
 
@@ -46,3 +48,4 @@ Newest entry last within each task. Format: `- YYYY-MM-DD · who · what changed
 ### ITA-10
 - 2026-10-02 · Italian Content Editor · Pre-review at `ddf7de9` (`docs/unit-01-italian-pre-review.md`); blocked on ITA-5. · Full sign-off once Unit 1 exists (Italian Content Editor).
 - 2026-10-12 · Chief · Unblocked: Unit 1 landed at `b046358`. · Full sign-off (Italian Content Editor).
+- 2026-10-12 · Italian Content Editor · Full review: pass with edits on all 10 files. Stress pairs, accents, contours, an error-clinic item that was not an error, `conoscente`, `Ing. Ferri` and more fixed in place; pre-review §6 items checked. Cue 1 recording held. · Staging fixes ITA-14, template sync ITA-12 (Lesson Designer); map line 280 ITA-8 (Curriculum Architect).
