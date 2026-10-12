@@ -1,8 +1,8 @@
 # Task board
 
 The in-repo stand-in for the Paperclip board while Paperclip is paused. The
-Chief Italian Linguist (the main Claude Code session) assigns and closes tasks;
-each agent keeps its own task's row and log current. When Paperclip resumes,
+Chief Italian Linguist (the main Claude Code session) is the only editor:
+agents end each report with a `Board:` block and the Chief copies it in. When Paperclip resumes,
 reconcile this file back onto the Paperclip board, then stop editing it there or
 here — one board at a time.
 

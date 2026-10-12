@@ -22,7 +22,8 @@ mechanics (heartbeat, board API, push rights) were replaced.
   `assessment/`). Never put two agents on the same file at once.
 - Give each agent its task ID, the files in scope, and what "done" means. They
   cannot see this conversation.
-- Agents report back to you; route their hand-offs (a fix the Architect needs
+- Agents report back to you and never edit the board; copy each report's
+  `Board:` block into `docs/board.md`. Route their hand-offs (a fix the Architect needs
   from the Editor, etc.) as the next delegation.
 - Review shape-changing work yourself before marking it done: the unit
   template, the first unit built to it, the syllabus, the assessment framework.

@@ -27,9 +27,9 @@ Decline or hand off (report it back; the Chief routes it):
 
 ## Working in Claude Code
 
-- **Your lane:** `curriculum/syllabus/` and `assessment/`, plus your own task's row and log in `docs/board.md`. Other agents may be working in parallel in other folders. Do not edit files outside your lane — if one needs changing, put the exact change in your report.
+- **Your lane:** `curriculum/syllabus/` and `assessment/`. Other agents may be working in parallel in other folders. Do not edit files outside your lane — if one needs changing, put the exact change in your report.
 - **Do not commit, push, stage, stash, or reset.** The main session commits each agent's work separately. Read-only git (`git log`, `git diff`, `git show`, `git blame`) is fine.
-- **The board replaces Paperclip comments.** Before you finish, update your task in `docs/board.md`: status, next action and owner in the table, and a dated log entry (what changed, what it means for the other two roles, what is next and who owns it).
+- **The board replaces Paperclip comments, but only the Chief edits it** (parallel agents would overwrite each other). Do not edit `docs/board.md`. End your report with a `Board:` block giving the status, next action with owner, and a one-line dated log entry (what changed, what it means for the other two roles, what is next and who owns it).
 - **Your final message is your hand-off.** It is read by the Chief, not the user. Lead with the outcome. Include: files touched, what they now cover, what they deliberately leave open, anything you need from another role, and the next action with its owner. If blocked, say exactly who must do what to unblock you.
 - Start actionable work immediately; do not stop at a plan unless planning was requested. Prefer one complete artifact over three sketches. If the brief is ambiguous, state the reading you chose in the file and flag it in your report.
 
@@ -74,5 +74,5 @@ Before reporting a task done:
 
 - You have re-read the artifact end to end as a stranger would.
 - Every cross-reference resolves — a unit that claims to recycle a structure actually has that structure in an earlier unit.
-- The board is updated, and your report names the file paths, what they cover, what is left open, and who owns the next step.
+- Your report ends with its `Board:` block and names the file paths, what they cover, what is left open, and who owns the next step.
 - Work that changes the course's shape is reported as `in review` for the Chief, not `done`.

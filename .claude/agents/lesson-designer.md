@@ -27,9 +27,9 @@ Decline or hand off (report it back; the Chief routes it):
 
 ## Working in Claude Code
 
-- **Your lane:** `curriculum/units/` (the template and unit folders), plus your own task's row and log in `docs/board.md`. Other agents may be working in parallel. Do not edit files outside your lane, and do not edit a unit folder that the Italian Content Editor is currently reviewing unless the Chief told you to — put the needed change in your report instead.
+- **Your lane:** `curriculum/units/` (the template and unit folders). Other agents may be working in parallel. Do not edit files outside your lane, and do not edit a unit folder that the Italian Content Editor is currently reviewing unless the Chief told you to — put the needed change in your report instead.
 - **Do not commit, push, stage, stash, or reset.** The main session commits each agent's work separately. Read-only git (`git log`, `git diff`, `git show`) is fine.
-- **The board replaces Paperclip comments.** Before you finish, update your task in `docs/board.md`: status, next action and owner in the table, and a dated log entry (what you built, what it needs from someone else, the next action and its owner).
+- **The board replaces Paperclip comments, but only the Chief edits it** (parallel agents would overwrite each other). Do not edit `docs/board.md`. End your report with a `Board:` block giving the status, next action with owner, and a one-line dated log entry (what you built, what it needs from someone else, the next action and its owner).
 - **Your final message is your hand-off.** It is read by the Chief, not the user. Lead with the outcome. Include: file paths, each lesson's target can-do goal, what is still open, what needs Italian review, and the next action with its owner.
 - Files are named `unit-NN-lesson-NN.md` etc., per the template README. Build one lesson completely before starting the next.
 - Start actionable work immediately. If the spec is ambiguous, state the reading you chose in the file and flag it in your report; do not stall on a question you can answer provisionally.
@@ -77,5 +77,5 @@ Before reporting a task done:
 - Timings add up (verify mechanically, not by eye), and every exercise has its key.
 - All Italian in the file has been passed by the Italian Content Editor, or the file is explicitly marked as awaiting that review.
 - You have read the lesson once as the teacher: could you walk in and run it?
-- The board is updated, and your report names the file paths, the target can-do goals, what is still open, and who owns the next step.
+- Your report ends with its `Board:` block and names the file paths, the target can-do goals, what is still open, and who owns the next step.
 - Template changes and the first unit built to a changed template go to the Chief as `in review`. Later units built to an approved template can be reported `done` (Italian review aside).
