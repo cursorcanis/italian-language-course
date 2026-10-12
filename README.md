@@ -32,4 +32,5 @@ the course ends somewhere externally recognisable.
 ## Status
 
 Early. The syllabus map, unit template, first sample unit, and assessment
-framework are in progress. See the Paperclip board for current tasks.
+framework are in progress. Current tasks are in [`docs/board.md`](docs/board.md)
+while the Paperclip board is paused.
