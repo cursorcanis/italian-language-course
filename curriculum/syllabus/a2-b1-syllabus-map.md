@@ -1,6 +1,7 @@
 # A2 → B1 Syllabus Map
 
-Owner: Curriculum Architect · Task: ITA-3 · Status: complete, in review
+Owner: Curriculum Architect · Task: ITA-3 · Status: accepted on ITA-7;
+shape-review defects and follow-ups applied on ITA-8
 Companion documents: [`grammar-progression.md`](grammar-progression.md) ·
 [`lexis-progression.md`](lexis-progression.md)
 
@@ -132,7 +133,8 @@ Every unit here passes that test on purpose:
 ### 2. One heavy grammar point per unit — and what counts as heavy
 
 **Cognitive load.** A unit carrying two new heavy structures teaches neither.
-Every unit has exactly one main structure plus one light secondary point.
+Every unit has exactly one main structure plus one or two light secondary
+points (the count per unit is in [§Load check](#load-check)).
 
 "Heavy" and "light" here are load, not importance:
 
@@ -197,27 +199,42 @@ genuinely conflict, and it should be visible rather than buried.
 
 **Distributed practice** says a structure's three encounters should widen in
 spacing. Structures introduced at U11 and U12 cannot have that: there are not
-enough units left. Condizionale (U11), congiuntivo (U12), futuro (U10) and
-pronomi combinati (U9) all get three encounters in three different themes — the
-spiral is intact — but the intervals are compressed rather than widening.
+enough units left. Futuro (U10) gets its three encounters in three consecutive
+units. Six structures — pronomi combinati, trapassato prossimo (both U9),
+periodo ipotetico, futuro epistemico (both U10), condizionale and `ci`
+pronominale (both U11) — reach free production only at Milestone 2. Congiuntivo
+presente and the connettivi argomentativi (U12) get two encounters, not three.
+The intervals are compressed rather than widening; the full accounting is in
+[`grammar-progression.md` §Where spacing genuinely
+fails](grammar-progression.md#where-spacing-genuinely-fails).
 
-Three mitigations are built in, and one recommendation is escalated:
+Three mitigations are built in, and the container question has been decided:
 
-1. **Receptive seeding.** Congiuntivo chunks (`penso che sia`, `spero che vada`,
-   `può darsi che`) appear in input texts from U5 onward as listed
-   recognition-only items, never as production targets. The same trick carries
-   the `piacere` family from U1 to its analysis at U8, where it demonstrably
-   works. See `grammar-progression.md` §"Receptive seeding".
+1. **Cross-unit seeding.** Four strands plant a late structure early. For
+   congiuntivo there are two, and they do different jobs. **Seed 2** plants its
+   *function*: chunks such as `penso che sia`, `spero che vada` and
+   `può darsi che` appear in input texts from U5 onward as recognition-only
+   items, never as production targets. **Seed 4** plants its *form*, and does it
+   productively: the `Lei` imperatives taught at U7 (`mi dica`,
+   `si accomodi`) are congiuntivo presente forms, which the learner produces
+   from U7 to the end of the course. `U12 L2` opens from them rather than
+   presenting the forms cold. Seeds 1 and 3 do the same job for the `piacere`
+   family (U1 → analysed U8, where it demonstrably works) and the condizionale
+   di cortesia (U3 → U11). See [`grammar-progression.md` §Cross-unit
+   seeding](grammar-progression.md#cross-unit-seeding).
 2. **Washback.** Milestone 2 weights the late structures, because learners study
    what gets tested. Designing the milestone to reward opinion-giving and polite
    request-making is how the course keeps teaching them.
 3. **Unit 12 L4 is explicitly a whole-course recycling lesson**, not a congiuntivo
    drill.
-4. **Escalated to Chief Italian Linguist:** if full widening spacing on
-   congiuntivo and condizionale is wanted, the honest fix is **14 units, not a
-   denser Unit 12**. Compressing more into the last unit would violate cognitive
-   load to protect a spacing principle — trading one lens for another at a net
-   loss. Flagged as a decision for the board, not made unilaterally here.
+4. **Decided: twelve units.** Full widening spacing on congiuntivo and
+   condizionale would have needed **14 units, not a denser Unit 12** —
+   compressing more into the last unit would violate cognitive load to protect
+   a spacing principle, trading one lens for another at a net loss. The
+   question was escalated on ITA-7, and the user ratified twelve units on
+   2026-10-12 (`docs/format-brief.md` decision log). It is reopened only on
+   evidence: placement-check or milestone data showing learners entering weaker
+   than assumed, or the tail failing.
 
 At B1, congiuntivo is a **first look** — recognition plus limited production
 after a closed set of opinion verbs. The map is designed to deliver that, and
@@ -277,8 +294,10 @@ Plus a separate 5-chunk receptive set for the `piacere` family.
 **Pronunciation / intonation** — **Word stress.** The penultimate-syllable
 default, and the two departures that matter most at this level: `-ano` third
 person plurals (`àbitano`, `telèfonano`, `svégliano`) where anglophone learners
-reliably stress the wrong syllable, and truncated infinitives/futures.
-Stress-shift minimal pairs are practised as meaning-bearing, not as decoration.
+reliably stress the wrong syllable, and **parole tronche** — words with
+obligatory final stress, where the written accent is part of the spelling
+(`caffè`, `perché`, `città`). Stress-shift minimal pairs are practised as
+meaning-bearing, not as decoration.
 
 **Culture note** — **`tu` and `Lei`, and how Italians actually negotiate the
 switch.** Who offers `diamoci del tu`, when it would be odd to, what titles
@@ -383,7 +402,9 @@ least three linking expressions, not as a list.
   `più/meno … di` vs `più/meno … che`, `(così) … come`, `il più … di`, and the
   absolute superlative in `-issimo`. **`ci` locativo** (new, light) —
   `ci abito da tre anni`, `ci vado a piedi`. Also: prepositions with places and
-  `preposizioni articolate`, as maintenance.
+  `preposizioni articolate`, as maintenance. This is position only, and it is
+  the first of the prepositions' three encounters (`U3 L3` → `U7 L4` →
+  `U11 L5`). Movement is added at `U7 L3`.
 
 **Lexis set** — Set 3: *Casa, palazzo, quartiere* (30 items), in three
 subgroups — the building and its parts (10) · renting and running costs (8) ·
@@ -622,12 +643,22 @@ Lessons 7.1–7.5 · Checkpoint at L5
   negative, including the irregular `tu` forms (`va'`, `da'`, `fa'`, `di'`,
   `sta'`) and the `Lei` forms that are formally subjunctive (`mi dica`,
   `si accomodi`, `scusi`, `senta`) and are taught here as lexical imperatives,
-  not as a first congiuntivo. Plus **clitic attachment**: `prendilo`,
-  `non lo prendere` / `non prenderlo`, `mi dica`, `si accomodi`.
+  not as a first congiuntivo. They are also the course's productive seed for
+  congiuntivo morphology — Seed 4 in [`grammar-progression.md` §Cross-unit
+  seeding](grammar-progression.md#cross-unit-seeding) — so from here on they
+  have to stay in the learner's mouth in every `Lei` task, and are never
+  labelled anything but imperatives before `U12 L2`. Plus **clitic
+  attachment**: `prendilo`, `non lo prendere` / `non prenderlo`, `mi dica`,
+  `si accomodi`.
 - *Secondary:* **`si` passivante** as an extension of U4's `si` impersonale —
   `si affittano appartamenti`, `qui si parla inglese`, `non si accettano carte` —
-  with the agreement rule that distinguishes it. Plus **prepositions of place and
-  movement** and the direction lexis.
+  with the agreement rule that distinguishes it. Plus the **movement extension
+  of U3's place prepositions** and the direction lexis (Set 7 subgroup B).
+  **Both are presented at `L3`** (after receptive exposure in `L1`, as for
+  every new point) **and not again in the unit.** `L4` re-uses the
+  U3 and U4 structures they operate on and does not re-present either — see
+  [`grammar-progression.md` §Reading "extended to"
+  entries](grammar-progression.md#reading-extended-to-entries).
 
 **Lexis set** — Set 7: *Trasporti, strada, sportello* (30 items), in three
 subgroups — transport and tickets (9) · directions and street geometry (10) ·
@@ -660,7 +691,9 @@ operation on a structure that is one unit old, which is deliberate, because
 attachment is easiest to learn while the pronouns themselves are still fresh.
 **From U4:** `si` impersonale, extended to `si` passivante in a completely
 different theme. **From U3:** `ci` locativo (`ci si arriva a piedi`,
-`ci vada in metro`). **From U3:** prepositions of place, now with movement.
+`ci vada in metro`). **From U3:** prepositions of place, now used with the
+movement extension that `L3` presents. The movement items belong to `L3`; the
+recycling of U3's prepositions under them belongs to `L4`.
 
 ---
 
@@ -957,6 +990,13 @@ pronominale. **From U6:** direct pronouns, in free use.
   che`, `può darsi che`, `è giusto che`. Explicitly included: the
   **`penso che` vs `penso di` + infinitive** choice (same subject), because it is
   the escape hatch a B1 learner should be able to use deliberately.
+  **`L2` opens from what the learner already says.** The `Lei` imperatives
+  produced since Unit 7 (`mi dica`, `si accomodi`) *are* congiuntivo presente
+  forms, and `dica` and `vada` are on the list above. The lesson reveals the
+  form the learner already owns, *then* gives it its new job after the
+  triggers, instead of presenting it cold (Seed 4 in
+  [`grammar-progression.md` §Cross-unit
+  seeding](grammar-progression.md#cross-unit-seeding)).
   Explicitly excluded: congiuntivo after conjunctions (`benché`, `prima che`),
   congiuntivo imperfetto, and the unreal conditional — see
   `grammar-progression.md` §"Deliberately deferred".
@@ -1051,9 +1091,24 @@ pronominale (U11) · connettivi as a taught thread (U5, U12) · `stare + gerundi
 
 ### Load check
 
-Every unit carries exactly one main grammar point. Units 1, 2, 3, 4 and 6 carry
-a main point that is **consolidation** of A2 material, and are the only units
-carrying two secondary points.
+Every unit carries exactly one main grammar point (12 of 12, against the grid).
+
+- **Consolidation mains:** Units 1, 2 and 4 only, as §2 says. U3's main
+  (relativi `che`/`cui`) and U6's (pronomi diretti + `ne`) are **new**.
+- **Two secondary points:** U2, U3, U5, U7, U8, U10, U12. **One secondary
+  point:** U1, U4, U6, U9, U11.
+- **Where one-heavy-point-per-unit is under real strain:** **U5, U7, U8 and
+  U12.** Each carries a *new heavy* main point **plus two** secondary points.
+  U7 is the sharpest case: the imperativo across four persons, affirmative and
+  negative, with clitic attachment, plus `si` passivante, plus the movement
+  extension of the place prepositions, in five lessons. U12 is the second:
+  congiuntivo presente plus argumentative connectives plus concession, in the
+  last unit of the course. U10 fits the same count but is lighter in practice:
+  both its secondaries run on the futuro forms just taught (the real
+  conditional is one more clause; futuro epistemico is the same forms,
+  recognition-first). These are the four units for the Lesson Designer to
+  stage most carefully. This is a staging note, not a re-sequencing
+  (`docs/syllabus-shape-review.md` Defect 2).
 
 ---
 
@@ -1062,9 +1117,9 @@ carrying two secondary points.
 | Open item | Owner | Why it is open |
 | --- | --- | --- |
 | ~~Italian sign-off on every word, chunk and example in this file and its companions~~ **Closed on ITA-6** | Italian Content Editor | Format brief §5 — no Italian ships unvetted. Vetted word by word; pass with edits, applied in place across all three files. |
-| Whether the course should be **14 units** rather than 12, to give condizionale and congiuntivo properly widening spacing | Chief Italian Linguist | Design decision §5. A real conflict between cognitive load and distributed practice that a 12-unit container cannot resolve. Stated, not silently absorbed. |
-| Milestone and checkpoint internals — task types, durations, mark schemes, pass criteria | Curriculum Architect, in **ITA-4** | Placement and coverage are fixed here; the instruments are not. |
-| Lesson-internal staging, activity repertoire, timings, solo paths | Lesson Designer, in **ITA-5** | The L1–L5 convention fixes encounter positions only. |
+| ~~Whether the course should be **14 units** rather than 12, to give condizionale and congiuntivo properly widening spacing~~ **Decided 2026-10-12: twelve units**, ratified by the user on ITA-7 | Chief Italian Linguist | Design decision §5. Reopened only on placement-check or milestone evidence. |
+| ~~Milestone and checkpoint internals — task types, durations, mark schemes, pass criteria~~ **Closed on ITA-4:** the framework in `assessment/` was accepted (`docs/assessment-framework-review.md`) | Curriculum Architect | Placement and coverage are fixed here; the instruments are in `assessment/`. |
+| Lesson-internal staging, activity repertoire, timings, solo paths | Lesson Designer — template accepted on **ITA-5**; units built against it | The L1–L5 convention fixes encounter positions only. |
 
 **Closed since drafting:** the **anglophone L1 assumption** is no longer open.
 The board confirmed English as the learner L1 on ITA-1, and format brief §1 now

@@ -70,8 +70,17 @@ Referenced from [`a2-b1-syllabus-map.md`](a2-b1-syllabus-map.md). English is the
 learner L1, so the false-friend load is a *specific, predictable* one. These
 twelve items are handled as a **single running strand**, one per unit, rather
 than scattered — a recurring two-minute slot in `L3` that learners come to
-expect. They sit **outside** the thirty and are tested cumulatively at both
-milestones.
+expect. They are tested cumulatively at both milestones.
+
+**Counting rule (ruled on ITA-8).** Eleven of the twelve are **woven into their
+unit's thirty and tagged as strand items** — one item doing two jobs, which
+beats an extra item per unit. Each is listed in its set's subgroup table with
+the note *False-friend strand, Un*, and it counts toward that set's 30. The one
+exception is **`i preservativi`** (U6). It is recognition-only, a one-line
+written note that never appears in dialogue or audio, and it sits **outside**
+the thirty. Set 6's production slot is held by `i conservanti`. So the strand
+adds **one** item to the course total, not twelve. A designer sizing a glossary
+or a checkpoint should not look for a thirty-first item in any set.
 
 | Unit | Item | Actually means | English word it is not |
 | --- | --- | --- | --- |
@@ -134,7 +143,7 @@ Character adjectives are chosen for the ones that let a learner say something
 | `il collega` / `la collega` | colleague | Masculine `il collega` ends in `-a`. |
 | `il vicino` / `la vicina` | neighbour | Feeds U3. |
 | `il conoscente` | acquaintance | |
-| `i parenti` | relatives | False-friend strand, U1. |
+| `i parenti` | relatives | False-friend strand, U1 — counted inside the thirty ([counting rule](#the-false-friend-thread)). |
 
 ### C. Character adjectives and how you get on (11)
 
@@ -155,7 +164,7 @@ Character adjectives are chosen for the ones that let a learner say something
 **Plus, outside the thirty:** the five-chunk receptive `piacere` set — `mi
 piace / mi piacciono`, `mi interessa`, `mi serve`, `mi manca` — seeded here and
 analysed at U8. See [`grammar-progression.md`
-§Receptive seeding](grammar-progression.md#receptive-seeding).
+§Seed 1](grammar-progression.md#seed-1--piacere-family-u1--analysed-u8).
 
 **Interlock.** The reflexive paradigm is unteachable without routine verbs, and
 routine is untellable in Italian without the reflexive. `vedersi` and `sentirsi`
@@ -301,7 +310,7 @@ is not. Subgroup C supplies the adjectives that comparatives operate on.
 `vorrei` and `potrebbe` enter here as **recognition-only chunks** in the
 estate-agency and viewing dialogues — the start of the condizionale-di-cortesia
 seed that pays off at U11. See [`grammar-progression.md`
-§Receptive seeding](grammar-progression.md#receptive-seeding).
+§Seed 3](grammar-progression.md#seed-3--condizionale-di-cortesia-u3--analysed-u11-receptive).
 
 **Interlock.** Relative clauses need referents worth qualifying, and a building
 full of unfamiliar parts supplies them (`il vicino che abita al piano di
@@ -584,7 +593,7 @@ lemma, but the day a learner needs it, nothing else will do.
 | `la fila` / `la coda` | queue | |
 | `il numeretto` | queue ticket | |
 | `l'appuntamento` | appointment | |
-| `la residenza` | registered address | Legal status, not just where you live. |
+| `la residenza` | registered address | Legal status, not just where you live. For the resident case: a visitor can leave it, and the rest of the subgroup still serves them. |
 | `la tessera sanitaria` | health card | Feeds U8. |
 | `il codice fiscale` | tax number | The first thing you need in Italy and the precondition for everything after it — phone contract, bank account, doctor. Already named in this unit's culture note. |
 | `la patente` | driving licence | False-friend strand, U7. |
@@ -992,18 +1001,27 @@ gains a register axis rather than a second unrelated list.
 
 ### 3. The false-friend strand
 
-Twelve items, one per unit, outside the thirty. Listed in full
-[above](#the-false-friend-thread). Cumulative, and tested at both milestones.
+Twelve items, one per unit: eleven inside their set's thirty and tagged, and
+`i preservativi` outside it, recognition-only. Listed in full, with the counting
+rule, [above](#the-false-friend-thread). Cumulative, and tested at both
+milestones.
 
 ### Deliberate re-entries
 
 Items that appear in one set and are re-used, in a new sense or a new register,
-in a later one. These are **not** double-counted in the 360.
+in a later one. A re-entry does **not** take a second slot in the 360, with two
+deliberate exceptions that do: `appena` (Set 2 *just*, Set 5 *as soon as*: a
+different sense, so a different lexical unit) and `mancare` (Set 4 as a
+nostalgia chunk, Set 8 as an analysed verb that the learner now conjugates and
+builds with any subject). Both are productive targets in both sets, so both
+slots are real teaching. The 360 therefore counts **set slots**, and covers
+**358 distinct lexical units**.
 
 | Item | First set | Re-entry | What changes |
 | --- | --- | --- | --- |
 | `sentirsi` | 1 (reciprocal, *to be in touch*) | 8 (*to feel*) | Sense |
-| `mancare` | 1 (chunk) → 4 (nostalgia) | 8 (paradigm) | Analysis |
+| `mancare` | 1 (chunk, outside the thirty) → 4 (nostalgia) | 8 (paradigm) | Analysis — holds a slot in Sets 4 **and** 8 |
+| `appena` | 2 (*just*, with `già`) | 5 (*as soon as*) | Sense — holds a slot in Sets 2 **and** 5 |
 | `il vicino` | 1 (people) | 3 (the building) | Theme |
 | `il colloquio` | 2 (life events) | 10 (recruitment) | Register |
 | `assumere` | 2 | 10 | Theme |
@@ -1017,11 +1035,14 @@ in a later one. These are **not** double-counted in the 360.
 
 | | Units 1–6 | Units 7–12 | Total |
 | --- | --- | --- | --- |
-| Productive items | 180 | 180 | **360** |
-| False-friend strand | 6 | 6 | 12 |
-| Receptive seeds (`piacere`, congiuntivo, condizionale) | 5 + 4 + 3 | 3 + 0 + 1 | 16 |
+| Productive items (set slots) | 180 | 180 | **360** |
+| … of which distinct lexical units | | | 358 (`appena`, `mancare` hold two slots each) |
+| … of which tagged false-friend strand items | 5 | 6 | 11 |
+| False-friend recognition item outside the thirty (`i preservativi`) | 1 | 0 | **+1** |
+| Receptive seeds (`piacere` + congiuntivo + condizionale) | 5 + 3 + 3 | 0 + 4 + 1 | 16 |
 
-Every set is exactly 30, and every subgroup count matches the figure given for
+Taught lexis is **360 slots plus one** recognition item, with eleven of the 360
+carrying a strand tag. Every set is exactly 30, and every subgroup count matches the figure given for
 that unit in [`a2-b1-syllabus-map.md`](a2-b1-syllabus-map.md).
 
 ---
@@ -1031,7 +1052,7 @@ that unit in [`a2-b1-syllabus-map.md`](a2-b1-syllabus-map.md).
 | Open item | Owner |
 | --- | --- |
 | ~~Italian sign-off on all 360 items plus the strands — form, gender, register, regional spread, and whether any item is dated~~ **Closed on ITA-6:** pass with edits, applied in place | Italian Content Editor |
-| Item-count bookkeeping raised on ITA-6: the twelve false-friend items are counted *inside* their sets although the text says they sit outside the thirty, and `appena` (Sets 2 and 5) and `mancare` (Sets 4 and 8) each occupy two slots. A count decision, not a language one | Curriculum Architect |
+| ~~Item-count bookkeeping raised on ITA-6: the twelve false-friend items are counted *inside* their sets although the text says they sit outside the thirty, and `appena` (Sets 2 and 5) and `mancare` (Sets 4 and 8) each occupy two slots~~ **Closed on ITA-8:** eleven strand items inside the thirty, `i preservativi` outside ([counting rule](#the-false-friend-thread)); `appena` and `mancare` hold two slots each by design, so 360 slots cover 358 lexical units ([§Deliberate re-entries](#deliberate-re-entries)) | Curriculum Architect |
 | ~~Whether `i preservativi` (U6 false-friend strand) is right for a self-study product~~ **Resolved on ITA-6:** `i conservanti` takes the Set 6 production slot; `i preservativi` stays in the strand table as a one-line written recognition note, never in dialogue or audio. Reversible in one line if the board disagrees | Chief Italian Linguist |
 | ~~Glossary format, item presentation, and whether items are front-loaded in `L1`/`L3` or distributed~~ **Closed on ITA-5:** front-loaded — set A in `L1`, set B in `L3`, with an optional small set A′ in `L2` for items inseparable from the grammar point. Glossary format is `unit-NN-lexis.md`: four sections, columns *Italian · English · example sentence · met in*, example sentence compulsory. Reasoning in [`../units/unit-template/README.md` §9](../units/unit-template/README.md#9-lexis-presentation--the-decision-and-why) | Lesson Designer |
-| How many items per checkpoint, and the recycled-item ratio at each milestone | Curriculum Architect, in ITA-4 |
+| ~~How many items per checkpoint, and the recycled-item ratio at each milestone~~ **Closed on ITA-4:** checkpoint items are set in `assessment/unit-checkpoint-template.md`. The milestones fix coverage as a weighting, not a numeric ratio: M1 tests Sets 1–6, and M2 tests Sets 1–12 with Sets 9–12 dominant. Accepted in `docs/assessment-framework-review.md` | Curriculum Architect |

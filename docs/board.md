@@ -18,7 +18,7 @@ New tasks continue the Paperclip numbering from **ITA-19**.
 | ITA-5 | Unit template + sample Unit 1 | Lesson Designer | done | — | Accepted with three conditions: `docs/unit-template-format-verdict.md`. Conditions are carried by ITA-12. |
 | ITA-6 | Vet the Italian in the three syllabus documents | Italian Content Editor | done | — | Pass with edits at `3961be5`. |
 | ITA-7 | Syllabus shape review | Chief | done | — | `docs/syllabus-shape-review.md`. |
-| ITA-8 | Apply shape-review defects 1–3 + the `Lei`-imperative strand | Curriculum Architect | in progress | — | Defects 1–3 check; map line 280 "truncated infinitives"; map §5 stale "Receptive seeding" ref + Seed 4; grammar-progression "seven" → six; `i parenti` counting; rule on movement-preposition ownership (U7 L3 vs L4) and the "extended to" reading. |
+| ITA-8 | Apply shape-review defects 1–3 + the `Lei`-imperative strand | Curriculum Architect | done | — | Accepted. Defects 1–3 applied, Seed 4 subsection, parole tronche, six-at-M2 reconciled with milestone-2, `i parenti` inside the thirty, movement prepositions: U7 L3 presents / U7 L4 recycles, "extended to" reading written into `grammar-progression.md`. 271 links, 0 broken. |
 | ITA-9 | *Not recorded in the repo* | — | ? | — | Check the Paperclip board when it resumes. |
 | ITA-10 | Unit 1 Italian sign-off | Italian Content Editor | done | — | Pass with edits, all 10 files: `docs/unit-01-italian-signoff.md`. Cue 1 recording held until ITA-14; cues 2–4 recordable. |
 | ITA-11 | U7 `L4` spike: one lesson testing the L4 contract at its heaviest | Lesson Designer | done | — | Passed. Template L4 amendment approved (verdict doc, "Spike result"). Gate: U8 L4 paper stage-map check before U8 is built. |
@@ -61,6 +61,10 @@ Newest entry last within each task. Format: `- YYYY-MM-DD · who · what changed
 
 ### ITA-8
 - 2026-09-30 · Curriculum Architect · Added Seed 4 (`Lei` imperatives as productive congiuntivo seeding) to `grammar-progression.md`; not committed. · Finish defects 1–3 + map wording (Curriculum Architect).
+
+### ITA-8 (cont.)
+- 2026-10-12 · Curriculum Architect · Defects 2–3 applied (1 already in); Seed 4 subsection; map §5 and line ~297 fixed; "seven" → six + two; lexis counting rule; two rulings for the U7 spike. Unit 1 counting text and template lines handed to the Lesson Designer. · Chief review.
+- 2026-10-12 · Chief · Accepted and committed; Unit 1/template text routed into ITA-12. · ITA-12 (Lesson Designer).
 
 ### ITA-10
 - 2026-10-02 · Italian Content Editor · Pre-review at `ddf7de9` (`docs/unit-01-italian-pre-review.md`); blocked on ITA-5. · Full sign-off once Unit 1 exists (Italian Content Editor).

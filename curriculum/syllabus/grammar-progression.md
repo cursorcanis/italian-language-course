@@ -72,7 +72,7 @@ ten in Units 5–8, nine in Units 9–12.
 | **Pronomi relativi `che` / `cui`** *(new)* | `U3 L2` | `U6 L4` — `il formaggio che mi hai consigliato` | `U10 L5` — `un lavoro in cui si viaggia` | 3, 4 | `U4 L4`, `U12 L4` |
 | **Comparativi e superlativi** *(cons.)* | `U3 L3` | `U6 L4` — choosing between products | `U10 L5` — comparing job options | 3, 4 | `U4 L4`, `U12 L4` |
 | **`ci` locativo** *(new)* | `U3 L3` | `U7 L4` — `ci si arriva a piedi` | `U11 L5` — travel and arrival | 4, 4 | `U11 L3` (extended to pronominal) |
-| **Preposizioni di luogo**, then of movement | `U3 L3` | `U7 L4` — now with movement | `U11 L5` — travel and booking | 4, 4 | — |
+| **Preposizioni di luogo** + `preposizioni articolate`; movement added at `U7 L3` | `U3 L3` (position) | `U7 L4` — U3's prepositions re-used with movement; the movement items are not re-presented | `U11 L5` — travel and booking | 4, 4 | `U7 L3` (extended to movement: presented there) |
 | **Imperfetto** — deep treatment *(cons.)* | `U4 L2` | `U8 L4` — *I had a temperature, so I went* | `U10 L5` — career history | 4, 2 | `U5 L2`, `U9 L4` |
 | **`si` impersonale** *(new)* | `U4 L3` | `U7 L4` — extended to `si` passivante, new theme | `U12 L5` — generalising in the opinion piece | 3, 5 | `U10 L4` |
 
@@ -102,7 +102,7 @@ ten in Units 5–8, nine in Units 9–12.
 | **Futuro epistemico** — `sarà vero?` | `U10 L3` | `U12 L4` — speculation about a news story | **`M2`** | 2, — | — |
 | **Condizionale presente** *(new)* | `U11 L2` | `U12 L4` — softening: `sarebbe meglio`, `direi che` | **`M2`** | 1, — | `U11 L5` (within-unit) |
 | **`ci` pronominale** — `ci penso`, `non ci riesco` | `U11 L3` | `U12 L4` — `non ci credo`, `ci tengo` | **`M2`** | 1, — | — |
-| **Congiuntivo presente** after verbs of opinion *(new, first look)* | `U12 L2` | **`M2`** — supported production only | **none inside the course** | — | receptive seeding from `U5` onward; `U12 L5` |
+| **Congiuntivo presente** after verbs of opinion *(new, first look)* | `U12 L2` | **`M2`** — supported production only | **none inside the course** | — | function seeded receptively from `U5` (Seed 2); form produced from `U7` as `Lei` imperatives (Seed 4); `U12 L5` |
 | **Connettivi argomentativi** + concession | `U12 L3` | **`M2`** | **none inside the course** | — | grows out of narrative connectives (`U5 L3`) |
 
 ---
@@ -120,7 +120,7 @@ This is the same information turned round: what each unit's recycling lesson
 | **4** | **Presente vs imperfetto**; **riflessivi habitual in the past**; comparativi across time; relative clauses for remembered places | U1, U1, U3, U3 |
 | **5** | **Past-time expressions** anchoring the anecdote; passato prossimo in contrastive role; imperfetto likewise; riflessivi in narrative | U2, U2, U4, U1 |
 | **6** | **Passato prossimo carrying participle agreement**; **comparativi** for choosing; **relativi**; presente transactional | U2, U3, U3, U1 |
-| **7** | **`ci` locativo**; **preposizioni now with movement**; `si` impersonale extended to passivante; direct pronouns attached to imperatives | U3, U3, U4, U6 |
+| **7** | **`ci` locativo**; **preposizioni now with movement** (U3's place prepositions, used with the movement items `U7 L3` presents); `si` impersonale extended to passivante; direct pronouns attached to imperatives | U3, U3, U4, U6 |
 | **8** | **PP/imperfetto contrast**; **imperfetto**; **direct pronouns vs indirect**; **imperativo `Lei`**; **connettivi narrativi**; **`stare + gerundio`**; `piacere` chunks now analysed | U5, U4, U6, U7, U5, U5, U1 |
 | **9** | **Pronomi indiretti set against direct**; clitic attachment with clusters; passato prossimo + imperfetto building the trapassato; connettivi | U8, U7, U2/U4, U5 |
 | **10** | **`ne` with quantities**; **quantificatori**; **`si` impersonale/passivante** in job adverts; **avverbi in `-mente`**; comparativi; relativi; PP/imperfetto | U6, U6, U4/U7, U8, U3, U3, U5 |
@@ -134,6 +134,46 @@ extra exposure, valuable but not load-bearing.
 Unit 12's `L4` is the heaviest in the course by design and is **not** a
 congiuntivo lesson. See [`a2-b1-syllabus-map.md`
 §5](a2-b1-syllabus-map.md#5-deliberate-compression-at-the-end-of-the-course-stated-plainly).
+
+### Reading "extended to" entries
+
+Some contract entries name an earlier structure together with an operation that
+**this** unit adds: "extended to", "attached to", "now with", "→". Examples are
+`si` impersonale extended to passivante, direct pronouns attached to
+imperatives and preposizioni now with movement (U7), clitic attachment with
+clusters (U9), `ci` locativo → pronominale (U11), and connettivi narrativi →
+argumentative (U12).
+
+**Ruling (ITA-8, confirming the Lesson Designer's reading on ITA-11):**
+
+1. **The operation belongs to this unit's `L2` or `L3`.** It is presented there,
+   once. For U7, the imperative and attachment are `L2`; `si` passivante and the
+   movement items are `L3`.
+2. **`L4` practises the earlier structure as the operation acts on it.** It
+   never re-presents the operation: no paradigm, no rule presented as new, no
+   new item set. Each `L4` item must turn on a choice the learner first learned
+   to make in the **earlier** unit. In U7, for example: `lo/la/li/le` by gender
+   and number (U6), `si` by "is there a thing?" (U4), the place preposition and
+   its article (U3).
+3. **The encounter is counted for the earlier structure.** A bolded entry is
+   the earlier structure's mandated second encounter. It does not count as an
+   encounter for the operation. Where the operation is a structure in its own
+   right, it has its own row in the master table: imperativo, `si` passivante,
+   pronomi combinati, `ci` pronominale, connettivi argomentativi. The movement
+   prepositions are the exception, below.
+4. **This does not breach "L4 is not more practice of this unit's grammar".** The
+   operation is in play, because the theme needs it, but it is the medium of
+   the lesson, not what is being taught or checked. The test of an `L4`: delete
+   everything in it that depends on the earlier unit, and nothing should be
+   left.
+
+The movement prepositions follow the same rule. **`U7 L3` owns them**: it presents
+the movement items and the direction lexis (Set 7 subgroup B) as part of U7's
+light secondary point. **`U7 L4` owns the mandated second encounter of U3's
+place prepositions**, now used with movement. They are not a separate row in
+the master table. They add new uses and new items to the U3 prepositions, not a
+new form system, so they ride the U3 row and are freely produced with it at
+`U11 L5`.
 
 ---
 
@@ -216,6 +256,37 @@ morphology is taught at `U11 L2`.
 | `mi piacerebbe` | `U4 L1` |
 | `sarebbe meglio` | `U9 L1` |
 
+### Seed 4 — congiuntivo *form* through the `Lei` imperatives (U7 → analysed U12), productive
+
+The `Lei` imperatives taught at `U7 L2` (`mi dica`, `si accomodi`, `scusi`,
+`senta`) are congiuntivo presente, third person singular. They are taught there
+as imperatives, and the map is explicit that they are **not** a first
+congiuntivo. But the learner *produces* them from U7 to the end of the course,
+so by `U12 L2` congiuntivo morphology is not cold. It has been in the learner's
+mouth for five units. Seed 2 carries the function; this strand carries the form.
+
+| Where | What happens to the `Lei` imperatives | Status |
+| --- | --- | --- |
+| `U7 L2` | Taught, with clitic attachment | Introduction of the imperativo |
+| `U7 L4`, `U7 L5` | Produced at the counter, and in the errand task, whose success criterion requires `Lei` | Within-unit production |
+| `U8 L4` | Heard from the practitioner (`si accomodi`, `respiri`, `mi dica`), then used in the role-play | **Mandated** (U8 contract) |
+| `U9 L4` | With clusters (`me lo dica`) | Extra encounter |
+| `U11 L4`, `U11 L5` | Set against conditional requests, so the learner chooses a politeness level | `U11 L4` contract; free production at `U11 L5` |
+| `U12 L2` | **Revealed**: the lesson opens from forms the learner already says. `dica` and `vada` are on U12's irregular list. | The analysis |
+
+What binds whom:
+
+- **Lesson Designer.** Every `Lei`-register task from U7 on keeps these forms
+  in production. Do not replace them with conditional requests once U11 arrives:
+  U11 sets them *against* the conditional, it does not retire them. Before
+  `U12 L2` they are called imperatives and nothing else. `U12 L2` opens from them,
+  roughly: *you have been saying `mi dica` since Unit 7; here is what it actually
+  is*. It does not present congiuntivo forms cold.
+- **Assessment.** Before U12 these forms are assessed as imperatives only, never
+  as congiuntivo.
+- **Italian Content Editor.** Nothing new. The forms are U7's and are already
+  signed off.
+
 ---
 
 ## Deliberately deferred
@@ -276,7 +347,7 @@ hold flat. The strongest spirals are the ones the course most depends on:
 
 ### Where spacing genuinely fails
 
-Everything introduced from `U10` onward. This is the compressed tail, and it is
+Everything introduced from `U9` onward. This is the compressed tail, and it is
 a container problem, not a sequencing mistake:
 
 | Structure | Spacing | Shortfall |
@@ -290,28 +361,38 @@ a container problem, not a sequencing mistake:
 | **Congiuntivo presente** | — | **Two encounters, not three.** `U12 L2` and `M2`. There is no later unit. |
 | **Connettivi argomentativi** | — | **Two encounters, not three.** Same reason. |
 
-**Seven structures reach free production only at Milestone 2, and two never get
-a third encounter inside the course at all.** That is the honest statement of
-what a twelve-unit container buys.
+**Six structures reach free production only at Milestone 2** — pronomi
+combinati, trapassato prossimo, periodo ipotetico della realtà, futuro
+epistemico, condizionale presente and `ci` pronominale. **Two more** —
+congiuntivo presente and the connettivi argomentativi — get their second
+encounter there and never a third inside the course. That is eight tail
+structures, and the honest statement of what a twelve-unit container buys.
 
-It is mitigated three ways — receptive seeding (above), Unit 12 `L4` reserved
-for whole-course recycling, and **washback**: Milestone 2 is weighted toward the
-late structures precisely because learners study what gets tested. It is not
-*fixed* by any of them.
+It is mitigated three ways. First, cross-unit seeding (above): three receptive
+strands, and Seed 4, which seeds congiuntivo's form productively from U7.
+Second, Unit 12 `L4` is reserved for whole-course recycling. Third,
+**washback**: Milestone 2 is weighted toward the late structures precisely
+because learners study what gets tested. None of these *fixes* the
+compression.
 
-The fix, if the board wants one, is **14 units** — recommended and escalated in
+The only fix would be **14 units**. It was escalated on ITA-7 and declined: the
+user ratified twelve units on 2026-10-12 (`docs/format-brief.md` decision log;
 [`a2-b1-syllabus-map.md`
-§5](a2-b1-syllabus-map.md#5-deliberate-compression-at-the-end-of-the-course-stated-plainly),
-open for Chief Italian Linguist. Compressing more into Unit 12 is not the fix;
-it trades **cognitive load** for **distributed practice** at a net loss.
+§5](a2-b1-syllabus-map.md#5-deliberate-compression-at-the-end-of-the-course-stated-plainly)).
+It is reopened only on placement-check or milestone evidence. Compressing more
+into Unit 12 is not a fix: it trades **cognitive load** for **distributed
+practice** at a net loss.
 
 ---
 
 ## What this hands to ITA-4
 
-Milestone 2 is not optional cover for the tail — it is the **third encounter**
-for seven structures and the **second** for two more. That converts a design
-preference into a hard requirement on the assessment:
+Milestone 2 is not optional cover for the tail. It is the **third encounter**
+for six structures and the **second** for two more. That turns a design
+preference into a hard requirement on the assessment: **seven requirements
+covering eight structures**, because requirement 4 pairs periodo ipotetico and
+futuro epistemico in a single speculation task. `assessment/milestone-2.md`
+states the same count.
 
 **Milestone 2 must actively elicit, not merely permit:**
 
@@ -366,6 +447,6 @@ contract above appears in the corresponding unit's **Recycles** paragraph in
 | Open item | Owner |
 | --- | --- |
 | ~~Italian sign-off on every form, chunk and fragment in this file~~ **Closed on ITA-6:** pass | Italian Content Editor |
-| 12 units vs 14, to fix the compressed tail | Chief Italian Linguist |
-| Milestone 2 eliciting the seven tail structures | Curriculum Architect, in ITA-4 |
-| Honouring the per-unit `L4` contract in lesson design | Lesson Designer, in ITA-5 |
+| ~~12 units vs 14, to fix the compressed tail~~ **Decided 2026-10-12: twelve**, ratified by the user on ITA-7; reopened only on placement or milestone evidence | Chief Italian Linguist |
+| ~~Milestone 2 eliciting the eight tail structures through the seven requirements~~ **Closed on ITA-4:** accepted, see `docs/assessment-framework-review.md` | Curriculum Architect |
+| Honouring the per-unit `L4` contract, read as [§Reading "extended to" entries](#reading-extended-to-entries) rules, in lesson design | Lesson Designer |
