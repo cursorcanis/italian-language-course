@@ -16,11 +16,12 @@ selfstudy_min: 55
 
 # Unit 7, Lesson 4 — *Allo sportello*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: **ITA-13**.
+> ✅ **Italian signed off** — ITA-13, Italian Content Editor, 2026-10-12. Verdict
+> **pass with edits**; see
+> [`docs/unit-07-lesson-04-italian-review.md`](../../../docs/unit-07-lesson-04-italian-review.md).
+> Sign-off covers the Italian as it stands today. Units 2–6 do not exist yet, so
+> the level judgement rests on the syllabus map and lexis progression; re-check
+> it when they land.
 
 > **Spike file (ITA-11).** This lesson was built **before Units 2–6 exist**, to
 > test whether the L4 format survives the per-unit L4 contract. It is built to the
@@ -105,7 +106,7 @@ by ticking it off against the text.
 
 ---
 
-### 2 · Culture note as input — *Allo sportello* — 15 min · solo → pairs → lockstep · `A10` `[ITA?]`
+### 2 · Culture note as input — *Allo sportello* — 15 min · solo → pairs → lockstep · `A10`
 
 **Purpose.** The unit's culture note — **bureaucracy as a system, not an
 obstacle** — and, at the same time, the lesson's only input text. All four
@@ -123,14 +124,14 @@ Read it — five minutes — and then do exercise 1, part A: three questions, fo
 minutes. **Don't
 look up every word.** The six hard ones are glossed underneath."
 
-#### *Allo sportello: istruzioni per l'uso* `[ITA?]`
+#### *Allo sportello: istruzioni per l'uso*
 
 > In Italia quasi tutto comincia da un numero: il **codice fiscale**. Ti serve per
 > il telefono, per un conto in banca, per andare dal medico. Si chiede
-> all'Agenzia delle Entrate ed è gratuito. Vacci per primo: senza codice fiscale,
-> gli altri uffici non possono fare niente.
+> all'Agenzia delle Entrate ed è gratuito. Vacci per prima cosa: senza codice
+> fiscale, gli altri uffici non possono fare quasi niente.
 >
-> Poi c'è la **residenza**, che non è solo l'indirizzo: è un fatto legale. Si chiede
+> Poi c'è la **residenza**, che non è solo l'indirizzo: ha un valore legale. Si chiede
 > all'anagrafe del Comune. Dopo qualche settimana, può darsi che un vigile passi a
 > casa tua per controllare che ci abiti davvero.
 >
@@ -140,8 +141,8 @@ look up every word.** The six hard ones are glossed underneath."
 >    entra solo su prenotazione, e gli appuntamenti si prenotano online. Controlla
 >    anche come ci si arriva.
 > 2. **La marca da bollo non si compra allo sportello.** Si compra dal tabaccaio.
->    Comprala prima di andarci, e porta i moduli già compilati: si scaricano dal
->    sito del Comune.
+>    Non tutte le pratiche la chiedono: se serve, comprala prima di andarci. E
+>    porta i moduli già compilati: di solito si scaricano dal sito dell'ufficio.
 > 3. **Il numeretto è sacro.** Appena entri, prendilo dalla macchinetta — ogni
 >    servizio ha la sua lettera, quindi scegli quella giusta — e non perderlo.
 >    Quando il tuo numero appare sullo schermo, vai allo sportello indicato.
@@ -150,13 +151,14 @@ look up every word.** The six hard ones are glossed underneath."
 > davanti a nessuno. Chi arriva preparato esce prima.
 
 **Glossed** — `l'Agenzia delle Entrate` the tax office · `l'anagrafe` the
-registry office (in the town hall) · `un vigile` a municipal police officer ·
+registry office (in the town hall) · `un vigile` a municipal police officer
+(officially `agente di polizia locale` today; everyone still says `vigile`) ·
 `su prenotazione` by appointment only · `la macchinetta` the ticket machine ·
 `passare davanti a qualcuno` to jump the queue.
 
 **Recognition only, and say so if asked — do not explain:**
 
-- `Ti serve`, `se serve l'appuntamento` — `piacere`-family chunks.
+- `Ti serve`, `se serve l'appuntamento`, `se serve` (rule 2) — `piacere`-family chunks.
   **`piacere` chunks are recognition-only until `U8 L2`; do not explain the
   construction.** "It means *you need* / *is needed*. Unit 8 takes it apart."
 - `può darsi che un vigile passi` — *a police officer may come round*. A fixed
@@ -192,7 +194,7 @@ only — no correction.
 
 ---
 
-### 3 · Sort — four structures in the text — 6 min · solo → pairs · `A2` (recycling use) `[ITA?]`
+### 3 · Sort — four structures in the text — 6 min · solo → pairs · `A2` (recycling use)
 
 **Purpose.** Get learners to *retrieve* all four contract structures out of the
 text before working on any of them, so that the next three stages build on
@@ -222,7 +224,7 @@ corrected by a question — "who is doing it?" — not by a rule.
 
 ---
 
-### 4 · Recycle A — getting there: `ci` and prepositions with movement — 14 min · lockstep → solo → pairs · `A4` `[ITA?]`
+### 4 · Recycle A — getting there: `ci` and prepositions with movement — 14 min · lockstep → solo → pairs · `A4`
 
 **Purpose.** The two **mandated** recyclings. U3 used `ci` and the place
 prepositions to say *where something is*; this stage uses them to say *how you
@@ -252,6 +254,9 @@ for *people in general*. The only new thing is the order."
 | Along, through | `per` | `sempre dritto per Corso Italia` |
 | How | `a piedi` · `in autobus / in metro / in bici` · `con il 12` | **never `per autobus`** |
 
+`in Comune` and `al Comune` are both correct and both common — `in` by analogy
+with `in banca`, `in posta`. Accept either; never mark one of them wrong.
+
 "First row: **Italian doesn't change the preposition when you start moving.**
 `Sono in banca`, `vado in banca`. English does — *at* the bank, *to* the bank.
 That is why English speakers reach for the wrong one."
@@ -266,7 +271,7 @@ the instruction in italics."
 
 **Part 3 — pairs, 6 minutes: the map.** Point at the map on the board.
 
-**The map** `[ITA?]` — copy onto the board before class.
+**The map** — copy onto the board before class.
 
 > [visual: simple street map, north at top. A straight main street, Corso Italia,
 > runs from a bus stop at the bottom to a tax office at the top. Labels as in the
@@ -304,18 +309,18 @@ Then swap. **Four places each.**"
 *The one who doesn't.* · "`tu` or `Lei`?" → *`tu`.*
 
 **Model directions** (key for the map — give one as a model before the pairs
-start; the rest are for checking) `[ITA?]`:
+start; the rest are for checking):
 
 - **Al Comune.** `Dalla fermata vai sempre dritto per Corso Italia. Supera il
-  semaforo, e alla rotonda gira a destra in Via Manzoni. Il Comune è di fronte
+  semaforo e alla rotonda gira a destra in Via Manzoni. Il Comune è di fronte
   alla scuola. Ci si arriva a piedi in dieci minuti.`
 - **In posta.** `Vai dritto fino al semaforo, gira a destra in Via Dante e vai
   fino in fondo: la posta è sulla sinistra.`
 - **Dal tabaccaio.** `È a due passi: la tabaccheria è sulla sinistra, accanto al
   Bar Centrale.`
 - **All'Agenzia delle Entrate.** `Prendi il 12 e scendi alla seconda fermata.
-  Oppure vacci a piedi: sempre dritto per Corso Italia, supera la rotonda, ed è
-  sulla destra. Ci vuole un quarto d'ora.`
+  Oppure vacci a piedi: sempre dritto per Corso Italia, supera la rotonda e la
+  trovi sulla destra. Ci vuole un quarto d'ora.`
 - **In banca.** `Vai dritto, supera il semaforo: la banca è sulla sinistra, prima
   della rotonda.`
 
@@ -324,7 +329,7 @@ the finger is the correction. Collect two things for stage 8.
 
 ---
 
-### 5 · Recycle B — at the counter: `si` and the pronoun with the imperative — 14 min · lockstep → solo → pairs · `A4` `[ITA?]`
+### 5 · Recycle B — at the counter: `si` and the pronoun with the imperative — 14 min · lockstep → solo → pairs · `A4`
 
 **Purpose.** The two unbolded recyclings, both operating on an **older**
 structure. U4's `si` (*people in general*) is now the voice of every sign in an
@@ -387,7 +392,7 @@ stage 8.
 
 ---
 
-### 6 · Error clinic — all four structures — 8 min · pairs → lockstep · `A8` `[ITA?]`
+### 6 · Error clinic — all four structures — 8 min · pairs → lockstep · `A8`
 
 **Purpose.** The four structures' predicted English-L1 errors, side by side, so
 that learners have to decide *which* rule applies rather than apply the last one
@@ -409,7 +414,7 @@ stage 4 or 5 already put on the board: point at the board line.
 
 ---
 
-### 7 · Activate — the information desk, `Lei` then `tu` — 22 min · lockstep → pairs → new pairs · `A7` `[ITA?]`
+### 7 · Activate — the information desk, `Lei` then `tu` — 22 min · lockstep → pairs → new pairs · `A7`
 
 **Purpose.** The lesson's one goal, performed. Round 1 is a real information gap
 at a counter in `Lei` — the citizen does not know the answers, the clerk has them
@@ -438,20 +443,21 @@ stays up for both rounds:
 Card 3 (the post office), which nobody uses in the rounds. Ninety seconds.
 
 > **Cittadino:** Buongiorno. Devo pagare una multa. Dove si paga?
-> **Impiegata:** In posta. L'ufficio postale è in Via Dante.
+> **Impiegata:** Online, oppure in posta. L'ufficio postale è in Via Dante.
 > **Cittadino:** E come ci si arriva da qui?
-> **Impiegata:** Vada dritto per Corso Italia fino al semaforo, giri a destra in
+> **Impiegata:** Allora: vada dritto per Corso Italia fino al semaforo, giri a destra in
 > Via Dante e prosegua fino in fondo. È sulla sinistra. Ci si arriva in cinque
 > minuti.
 > **Cittadino:** Scusi, più piano: fino al semaforo, e poi?
 > **Impiegata:** A destra, in Via Dante. Fino in fondo.
 > **Cittadino:** Cosa devo portare?
-> **Impiegata:** La multa — la porti con sé — e un documento.
+> **Impiegata:** Solo la multa: la porti con sé, perché sopra c'è il codice per
+> pagare.
 > **Cittadino:** Si paga con la carta?
-> **Impiegata:** Sì, si accettano contanti e carte. Il numeretto lo prenda
+> **Impiegata:** Sì, si accettano contanti e carte. Ah, il numeretto lo prenda
 > all'ingresso: lettera P.
-> **Cittadino:** Quindi: Via Dante, in fondo a sinistra, la multa e un documento,
-> lettera P. Giusto?
+> **Cittadino:** Quindi: Via Dante, in fondo a sinistra, porto la multa, lettera
+> P. Giusto?
 > **Impiegata:** Esatto.
 
 Point at three things in it, ten seconds each: `ci si arriva` · `la porti`
@@ -496,17 +502,17 @@ the room: "**Which bit got lost between the clerk and the flatmate?**" It is
 usually the appointment or the letter on the ticket — which is the takeaway, and
 worth saying so.
 
-#### Information-desk cards `[ITA?]` — one set per four learners
+#### Information-desk cards — one set per four learners
 
 **Card 1 — citizen.**
 
-> Sei appena arrivato/a in città e devi chiedere la residenza. Sei alla fermata
-> del 12, in Piazza della Stazione. Allo sportello informazioni chiedi:
+> Sei appena arrivato/a in città e devi chiedere la residenza. Sei allo sportello
+> informazioni in Piazza della Stazione, accanto alla fermata del 12. Chiedi:
 > (1) dove si chiede la residenza; (2) come ci si arriva da qui; (3) cosa devi
 > portare; (4) se devi prendere un appuntamento; (5) quale numeretto prendere.
-> Prima di andare via: `Quindi…`. Usa **Lei**. Prendi appunti.
+> Prima di andare via: `Quindi…`. Dai del **Lei**. Prendi appunti.
 
-**Card 1 — clerk.** *Rispondi in **Lei**. Trasforma gli appunti in frasi.*
+**Card 1 — clerk.** *Rispondi dando del **Lei**. Trasforma gli appunti in frasi.*
 
 > - **Dove:** Comune, Via Manzoni — anagrafe, 2° piano.
 > - **Percorso:** Corso Italia dritto → semaforo → rotonda → destra, Via Manzoni →
@@ -519,13 +525,13 @@ worth saying so.
 
 **Card 2 — citizen.**
 
-> Sei appena arrivato/a in città e devi chiedere il codice fiscale. Sei alla
-> fermata del 12, in Piazza della Stazione. Allo sportello informazioni chiedi:
-> (1) dove si chiede il codice fiscale; (2) come ci si arriva da qui; (3) cosa
+> Sei appena arrivato/a in città e devi chiedere il codice fiscale. Sei allo
+> sportello informazioni in Piazza della Stazione, accanto alla fermata del 12.
+> Chiedi: (1) dove si chiede il codice fiscale; (2) come ci si arriva da qui; (3) cosa
 > devi portare; (4) se devi prendere un appuntamento; (5) quale numeretto
-> prendere. Prima di andare via: `Quindi…`. Usa **Lei**. Prendi appunti.
+> prendere. Prima di andare via: `Quindi…`. Dai del **Lei**. Prendi appunti.
 
-**Card 2 — clerk.** *Rispondi in **Lei**. Trasforma gli appunti in frasi.*
+**Card 2 — clerk.** *Rispondi dando del **Lei**. Trasforma gli appunti in frasi.*
 
 > - **Dove:** Agenzia delle Entrate, Corso Italia, angolo Via Pascoli.
 > - **Percorso:** autobus 12, scendere alla 2ª fermata — oppure a piedi: Corso
@@ -541,14 +547,14 @@ worth saying so.
 > - **Dove:** ufficio postale, Via Dante, in fondo a sinistra.
 > - **Percorso:** Corso Italia dritto fino al semaforo → destra, Via Dante → fino
 >   in fondo. 5 min.
-> - **Portare:** la multa; un documento.
-> - **Pagamento:** contanti o carta.
+> - **Portare:** solo la multa (sopra c'è il codice per pagare).
+> - **Pagamento:** online, oppure in posta: contanti o carta.
 > - **Numeretto:** lettera **P**, all'ingresso.
 
 **Flatmate checklist** — on the back of every citizen card.
 
 > Domani fai tu la pratica. Chiedi e scrivi: **Dove** devo andare? · **Come ci
-> arrivo?** · **Cosa porto?** — e almeno due volte: `E il/la …? Lo/La porto?` ·
+> arrivo?** · **Cosa porto?** — e almeno due volte: `E il/la/i/le …? Lo/La/Li/Le porto?` ·
 > **Devo prenotare?** · **Che numeretto prendo?**
 
 The cards are written so that nobody **needs** `mi serve` or `vorrei`: the
@@ -557,23 +563,23 @@ learner produces `vorrei` or `mi serve` on their own, accept it and say nothing 
 they are seeded chunks (Seeds 1 and 3), not targets, and correcting them would
 mean explaining them.
 
-**Model clerk turns — the key for round 1** `[ITA?]`:
+**Model clerk turns — the key for round 1**:
 
-- **Card 1.** `La residenza si chiede all'anagrafe, in Comune, in Via Manzoni. Ci
+- **Card 1.** `Allora, la residenza si chiede all'anagrafe, in Comune, in Via Manzoni. Ci
   si arriva a piedi in dieci minuti: vada dritto per Corso Italia, superi il
   semaforo e alla rotonda giri a destra in Via Manzoni. Il Comune è di fronte alla
   scuola; l'anagrafe è al secondo piano. Porti un documento d'identità, il codice
   fiscale e il contratto d'affitto — il contratto lo porti in originale e in
   fotocopia. L'appuntamento è obbligatorio: lo prenoti online, sul sito del Comune.
   Il modulo si scarica dal sito: lo compili a casa. Il numeretto lo prenda alla
-  macchinetta all'ingresso: lettera A.`
+  macchinetta, all'ingresso: lettera A.`
 - **Card 2.** `Il codice fiscale si chiede all'Agenzia delle Entrate, all'angolo
   tra Corso Italia e Via Pascoli. Ci può andare in autobus: prenda il 12 e scenda
   alla seconda fermata. Oppure ci vada a piedi: sempre dritto per Corso Italia,
-  superi la rotonda. Sono quindici minuti. Porti il passaporto in originale e una
+  superi la rotonda ed è sulla destra. Sono quindici minuti. Porti il passaporto in originale e una
   fotocopia. La mattina non c'è bisogno dell'appuntamento; il pomeriggio si entra
-  solo su prenotazione. Il modulo lo compili allo sportello. Il numeretto è la
-  lettera C. Ed è gratuito: la marca da bollo non la deve comprare.`
+  solo su prenotazione. Il modulo lo compili allo sportello. Per il numeretto,
+  scelga la lettera C. Ed è gratuito: la marca da bollo non la deve comprare.`
 
 **Success criterion for the stage.** Read the four role headings out before
 round 1; read the relayer's again before round 2.
@@ -624,7 +630,7 @@ the conversation; next time is the explanation."
 
 ## Exercises and answer keys
 
-### Exercise 1 — *Allo sportello* `[ITA?]`
+### Exercise 1 — *Allo sportello*
 
 **Part A — on the text.** Answer in English or Italian.
 
@@ -633,10 +639,10 @@ the conversation; next time is the explanation."
 3. Why does the text tell you to choose carefully when you take the `numeretto`?
 
 **Key.** 1 Other offices **can't do anything for you without it** — `senza codice
-fiscale, gli altri uffici non possono fare niente`. Accept also: you need it
+fiscale, gli altri uffici non possono fare quasi niente`. Accept also: you need it
 for a phone contract, a bank account, the doctor. · 2 At the **tabaccaio**,
-**before** going to the office — `Si compra dal tabaccaio. Comprala prima di
-andarci.` · 3 **Each service has its own letter** — `ogni servizio ha la sua
+**before** going to the office — `Si compra dal tabaccaio … se serve, comprala
+prima di andarci.` · 3 **Each service has its own letter** — `ogni servizio ha la sua
 lettera` — so the wrong letter puts you in the wrong queue. **3 marks.**
 
 **Part B — on you.** No key; for discussion, nothing is marked.
@@ -646,7 +652,7 @@ lettera` — so the wrong letter puts you in the wrong queue. **3 marks.**
 5. Think of the stage 1 story — yours or your partner's. Which of the four
    takeaway points would have changed what happened?
 
-### Exercise 2 — Sort: four things you already know `[ITA?]`
+### Exercise 2 — Sort: four things you already know
 
 Find each form in the text and write it in the right column. The first row is
 done.
@@ -668,7 +674,7 @@ done.
 `vacci` and `ci si arriva` legitimately sit in two columns each. A learner who
 noticed that has noticed the lesson.
 
-### Exercise 3 — Getting there: answer with `ci` `[ITA?]`
+### Exercise 3 — Getting there: answer with `ci`
 
 Answer each question using **`ci`** and the cue. Two models:
 
@@ -695,7 +701,7 @@ Answer each question using **`ci`** and the cue. Two models:
 | 3 | Ci vado a piedi. | |
 | 4 | Sì, ci devo andare oggi pomeriggio. / Sì, devo andarci oggi pomeriggio. | **Both**, as an equal pair — the same two options as Unit 1's `mi devo sbrigare` / `devo sbrigarmi`. |
 | 5 | Ci si arriva a piedi in dieci minuti. | **`ci` before `si`.** |
-| 6 | Sì, ci sono stato/a la settimana scorsa. | `ci` goes before the auxiliary; `stare` takes `essere`, and the participle agrees — U2. |
+| 6 | Sì, ci sono stato/a la settimana scorsa. | `ci` goes before the auxiliary; `sono stato/a` agrees with the speaker — U2. |
 | 7 | Sì, ci abito da tre anni. | U3's own sentence, unchanged. |
 | 8 | Ci vada a piedi. | `Lei`: `ci` in front. `*Vadaci` is the error this item exists for. |
 | 9 | Vacci subito. | `tu`: attached, and `va'` + `ci` doubles. |
@@ -704,7 +710,7 @@ Answer each question using **`ci`** and the cue. Two models:
 **10 marks.** Items 8–10 carry the lesson; if time is short, check those three
 aloud and let the key do the rest.
 
-### Exercise 4 — At the counter `[ITA?]`
+### Exercise 4 — At the counter
 
 **Part A — the notice on the wall.** Rewrite each one in the `si` form. Two
 models:
@@ -721,7 +727,7 @@ models:
 6. *Decide.* Non entrate senza numeretto.
 
 **Key.** 1 Si accettano solo contanti. · 2 Qui si chiude alle 13. · 3 I documenti
-si ritirano dalle 9 alle 12. · 4 Gli appuntamenti si prenotano online. · 5 **Il
+si ritirano dalle 9 alle 12 (accept also `I documenti si possono ritirare…`). · 4 Gli appuntamenti si prenotano online. · 5 **Il
 modulo si compila** in stampatello — *one* thing, so singular; learners who have
 just written three plurals write `*si compilano`. · 6 **Non si entra** senza
 numeretto — **no thing**, so singular whatever follows; `numeretto` is not what is
@@ -758,7 +764,7 @@ being entered. **6 marks.**
 
 **8 marks.**
 
-### Exercise 5 — Error clinic `[ITA?]`
+### Exercise 5 — Error clinic
 
 Some have **one** mistake. Some are correct. For each one, say which of the four
 it is: `ci` · preposition · `si` · pronoun-with-imperative.
@@ -769,7 +775,7 @@ it is: `ci` · preposition · `si` · pronoun-with-imperative.
 4. Il numeretto? Prendilo all'ingresso e non perderlo.
 5. Con la tessera sanitaria vado al medico.
 6. Ci vado per autobus.
-7. Il Comune? Ci vada a piedi, è vicino.
+7. Al Comune? Ci vada a piedi, è vicino.
 8. Vaci subito, chiude alle dodici.
 
 **Key.**
@@ -787,19 +793,19 @@ it is: `ci` · preposition · `si` · pronoun-with-imperative.
 
 **8 marks**, for verdict plus correction. Items 4 and 7 score only if left alone.
 
-### Exercise 6 — The message to your flatmate (homework, written) `[ITA?]`
+### Exercise 6 — The message to your flatmate (homework, written)
 
 Write the message you would send your flatmate about **your** errand from stage 7
 — or a real errand of your own. `tu`. 80–100 words.
 
-**Model answer** `[ITA?]`
+**Model answer**
 
-> Ciao Luca! Sono stato all'anagrafe oggi: ti scrivo tutto per domani. Ci si
+> Ciao Luca! Oggi sono stato all'anagrafe: ti scrivo tutto per domani. Ci si
 > arriva a piedi in dieci minuti. Dalla fermata del 12 vai dritto per Corso Italia,
 > supera il semaforo e alla rotonda gira a destra in Via Manzoni. Il Comune è di
-> fronte alla scuola, l'anagrafe è al secondo piano. Prima però prenota
-> l'appuntamento: si prenota online. Il modulo scaricalo dal sito e compilalo a
-> casa. Porta il documento, il codice fiscale e il contratto d'affitto — il
+> fronte alla scuola; l'anagrafe è al secondo piano. Prima, però, devi prendere
+> l'appuntamento: si prenota online, sul sito del Comune. Il modulo scaricalo dal
+> sito e compilalo a casa. Porta il documento, il codice fiscale e il contratto d'affitto — il
 > contratto portalo anche in fotocopia. All'ingresso prendi il numeretto, lettera
 > A, e non perderlo! A domani!
 
