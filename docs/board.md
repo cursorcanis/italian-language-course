@@ -24,8 +24,7 @@ New tasks continue the Paperclip numbering from **ITA-13**.
 | ITA-11 | U7 `L4` spike: one lesson testing the L4 contract at its heaviest | Lesson Designer | in progress | — | Build `curriculum/units/unit-07/unit-07-lesson-04.md`; pass criteria are in the ITA-5 verdict. |
 | ITA-12 | Template amendments from the ITA-5 verdict | Lesson Designer | blocked | ITA-4, ITA-10 | `piacere`-seed warning row (can start now); checkpoint re-alignment (after ITA-4); template examples synced to signed-off Unit 1 (after ITA-10). |
 
-Open decision for the user (from ITA-7): ratify twelve units or choose fourteen.
-Twelve is the working assumption.
+Decided 2026-10-12 by the user: **twelve units** (recorded in `docs/format-brief.md` decision log).
 
 ---
 

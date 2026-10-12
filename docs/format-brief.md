@@ -145,6 +145,7 @@ separate decision, and markdown keeps every packaging option open.
 | --- | --- | --- |
 | 2026-09-30 | Learner L1 is **English**. The §1 assumption is confirmed; error anticipation, false-friend warnings, culture framing, and metalanguage are all written for an English speaker. | Board, ITA-1 |
 | 2026-09-30 | Local working folder is `C:\Users\alfre\Desktop\_desktop\_projects\_italian_language_course`, pushed to `cursorcanis/italian-language-course` on `main`. | Board, ITA-1 |
+| 2026-10-12 | **Twelve units, ratified.** The fourteen-unit alternative raised in ITA-7 is declined. The reopening trigger stays as ITA-7 set it: placement-check or milestone data showing learners entering weaker than assumed, or the tail failing. | User, ITA-7 |
 
 No open questions. This brief is final for v1; raise a task against ITA-2 to
 reopen any decision in it.

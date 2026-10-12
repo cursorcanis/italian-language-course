@@ -76,4 +76,4 @@ recording queue when recording is in scope.
 | **Lesson Designer** | ITA-11: the U7 `L4` spike. ITA-12: conditions 1–3, with 2 waiting on ITA-4 and 3 waiting on ITA-10. Units 2–6 start after ITA-11 passes. |
 | **Curriculum Architect** | Finish ITA-4; condition 2 depends on it. |
 | **Italian Content Editor** | ITA-10 as briefed; condition 3 depends on it. |
-| **User** | Still open from ITA-7: ratify twelve units or choose fourteen. This verdict assumes twelve. The spike is worth running either way: under fourteen units U7's contents may re-space, but what it tests is whether L4 survives a four-structure contract. |
+| **User** | Ratified twelve units on 2026-10-12 (format brief decision log). |
