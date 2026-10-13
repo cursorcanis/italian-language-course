@@ -41,9 +41,9 @@ recycles: ["<U? structure>", "…"]
 
 | # | Can-do goal | Level | Owned by | Tested by |
 | --- | --- | --- | --- | --- |
-| 1 | I can introduce myself and describe my daily and weekly routine in enough detail that someone gets a real picture of my life, not just a list of times. | A2 | L1, L2 | Checkpoint C + spoken task |
-| 2 | I can describe the people closest to me — what they're like and how I get on with them — using several different character adjectives. | A2 | L3 | Checkpoint B + written task |
-| 3 | I can say what I like, need and miss using fixed expressions, even though I can't yet explain how they work. | A2 | L3 | Checkpoint B4–B5 |
+| 1 | I can introduce myself and describe my daily and weekly routine in enough detail that someone gets a real picture of my life, not just a list of times. | A2 | L1, L2 | Checkpoint A, B1–B4, D + spoken task |
+| 2 | I can describe the people closest to me — what they're like and how I get on with them — using several different character adjectives. | A2 | L3 | Checkpoint C + written task |
+| 3 | I can say what I like, need and miss using fixed expressions, even though I can't yet explain how they work. | A2 | L3 | **Not checkpoint-tested** — recognition-only, so self-rated only |
 | 4 | I can ask someone the same questions back and keep a short conversation about routines going without stalling. | A2+ | L4 | L4 interview carousel, L5 follow-up |
 
 ---
@@ -64,10 +64,11 @@ recycles: ["<U? structure>", "…"]
 
 | Input | Lesson | Type | Length | Must contain |
 | --- | --- | --- | --- | --- |
-| `Un messaggio vocale da Giulia` | L1 | Voice message, one speaker | ~190 words | All 11 reflexive routine verbs; ≥6 present-tense irregulars; one reciprocal (`ci vediamo`). **No** `piacere` chunks — they are seeded in L3, not before. |
-| `Tre persone intorno a me` | L3 | Three short spoken descriptions | 3 × ~60 words | 8 people/relationship items; ≥7 character adjectives; all five `piacere` chunks, unanalysed; `i parenti` in a context that forces the "relatives" reading. |
-| `Due profili` | L4 | Two written profiles, one `tu`, one `Lei` | 2 × ~90 words | Same content in both registers; ≥5 question forms; adjective agreement across both genders. |
-| `Un ritratto in due minuti` | L5 | Model self-portrait, one speaker | ~230 words | The task's target shape, at the standard the success criterion asks for — no better. |
+| `Un messaggio vocale da Giulia` | L1 s4–s6 | Voice message, one speaker | ~205 words, ~1:50 | All 11 reflexive routine verbs; 10 present-tense irregulars; two reciprocals (`ci vediamo`, `ci sentiamo`); 16 reflexive instances for the noticing grid. **No** `piacere` chunks and **no past tenses**. |
+| `Tre persone intorno a me` | L3 s4 | Three short spoken descriptions | 3 × ~65 words | The 8 people/relationship items; 7 character adjectives + `andare d'accordo`, `litigare`; all five `piacere` chunks, unanalysed; `i parenti` in a context that makes the "parents" reading impossible. |
+| `Accento: coppie e verbi in -ano` | L3 s8 | Pronunciation cue, one speaker | ~1:10 | Five meaning-bearing stress pairs; five `-ano` third-person plurals; three final-stressed words. |
+| `Due profili: Claudia e l'ing. Ferri` | L4 s3 | Two written profiles, one `tu`, one `Lei` | 2 × ~95 words | The same content in both registers; ≥6 question forms between them; adjective agreement across both genders and both numbers. |
+| `Un ritratto in due minuti` | L5 s2 | Model self-portrait, one speaker | ~195 words, 1:50–1:58 | The task's target shape at exactly the standard the success criterion asks for — no better. |
 
 ---
 
@@ -139,12 +140,18 @@ False-friend slot (L3): `i parenti` ≠ *parents*.
 
 **Word stress.** L3, via `A9`.
 - The penultimate-syllable default.
-- `-ano` third-person plurals — `àbitano`, `telèfonano`, `svègliano` — where an
+- `-ano` third-person plurals — `àbitano`, `telèfonano`, `svégliano` — where an
   English-L1 learner reliably stresses the penultimate by analogy and produces
-  *abìtano*.
-- Truncated infinitives and futures (`caffè`, `perché`, `farò`), stressed final.
-- Meaning-bearing pairs: `pàrlano` / `parlerànno`, `àbito` / `abìto`,
-  `càpito` / `capitò`, `àncora` / `ancòra`.
+  *abitàno*.
+- **Parole tronche** — words with obligatory final stress, where the written
+  accent is part of the spelling: `caffè`, `perché`, `città`, `però`, `così`,
+  `papà`, `lunedì`.
+- Meaning-bearing pairs: `papà` / `pàpa`, `càpito` / `capìto`,
+  `ancóra` / `àncora`, `princìpi` / `prìncipi`, `sùbito` / `subìto`.
+- Accents on a non-final syllable (`àbito`, `svégliano`) are a reading aid for
+  this exercise and are never written in ordinary Italian. Accents on a final
+  syllable (`caffè`, `perché`, `papà`) are part of the spelling and are always
+  written.
 
 ---
 
@@ -197,18 +204,23 @@ reads differently from an anglophone defaulting to first names in English.
 
 ## 8. Checkpoint
 
-> **Shape.** One line on what it covers and its pass criterion. The instrument
-> itself is `unit-NN-checkpoint.md` and its spec is ITA-4. Proportions are fixed
-> by `A12`: ~40% lexis, ~40% the unit's main grammar, ~20% recycled material.
-> Unit 1 is the one unit with nothing earlier to recycle, so its recycled
-> portion comes from **within** A2.
+> **Shape.** A few lines: the four parts with this unit's parameters, the pass
+> conditions, and the no-blocking rule. The instrument itself is
+> `unit-NN-checkpoint.md`; its spec, and this unit's row of parameters, are in
+> [`assessment/unit-checkpoint-template.md`](../../../assessment/unit-checkpoint-template.md)
+> (ITA-4). Copy the parameters; do not choose them. Unit 1 is the one unit with
+> nothing earlier to recycle, so its recycled gaps come from **within** A2.
 
 **Filled example (Unit 1)**
 
-10 minutes, solo, at the start of L5's second half. 25 marks: lexis 10, riflessivi
-and presente 10, within-A2 recycling (question forms, adjective agreement) 5.
-Pass criterion 18/25, plus a self-rating against each of the four can-do goals.
-See [`../unit-01/unit-01-checkpoint.md`](../unit-01/unit-01-checkpoint.md).
+10 minutes inside L5 stage 7, marked in stage 8. 25 marks: **A** listening, a
+script-read exchange (4) · **B** cloze, 4 gaps riflessivi incl. reciprocal + 2
+within-A2 recycled (6) · **C** lexis in use, subgroups A and C + the false friend
+(5) · **D** 45–60-second spoken turn, TA + TS, floor 4 reflexives (10). **Pass:
+≥ 18/25, TA ≥ 3, TS ≥ 3, ≥ 1/2 recycled.** A *not yet* does not block Unit 2; it
+writes a carry-forward entry that closes at U2 L4. Plus a self-rating against each
+of the four can-do goals. See
+[`../unit-01/unit-01-checkpoint.md`](../unit-01/unit-01-checkpoint.md).
 
 ---
 

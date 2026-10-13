@@ -73,8 +73,8 @@ Six things, every time:
 
 | Mark | Means |
 | --- | --- |
-| `↗` | rising contour, on the syllable that follows |
-| `↘` | falling contour |
+| `↗` | rising contour, carried by the last stressed syllable before the mark |
+| `↘` | falling contour, carried by the last stressed syllable before the mark |
 | `→` | level / suspended, list not finished |
 | `//` | pause, ~1 second |
 | `///` | pause, ~2 seconds (gap for a learner to answer) |
@@ -87,24 +87,31 @@ Six things, every time:
 
 ### Cue 1 — `assets/audio/unit-01/u01-l01-messaggio.mp3`
 
-**Serves.** L1 stages 4, 5, 6. **Length target** 1:20–1:35.
+**Serves.** L1 stages 4, 5, 6. **Length target** 1:45–1:55 (`normal` take), ~205
+words: ≈1:28 of speech at ≈140 wpm plus ≈27 s of marked pauses. Work the length
+out from the script — words at the stated pace, plus the pauses — and do not set
+a target the script cannot meet.
 **Speakers.** Giulia, 30s, Bologna, standard with a light northern colour.
-**Pace.** Two takes: `normal` for stages 4–5, `slow` for stage 6.
+**Pace.** Two takes: `normal` (≈140 wpm) for stages 4–5, `slow` for stage 6.
 **Must contain.** All 11 reflexive routine verbs · ≥6 present-tense irregulars ·
-one reciprocal (`ci vediamo`) · **no** `piacere` chunks (they are seeded in L3;
-putting them here would spend the seed a lesson early).
+at least one reciprocal (`ci vediamo`) · **no** `piacere` chunks (they are seeded
+in L3; putting them here would spend the seed a lesson early) · **no past tenses**.
 
-**Script** `[ITA?]`
+**Script** (paragraphs 1–2 of 8; signed off under ITA-10)
 
-> **[1]** Ciao Mark! Sono Giulia. // Allora, mi hai chiesto com'è la mia
-> settimana↗ // Ti racconto. ///
+> **[1]** Ciao Mark! Sono Giulia. // Allora, vuoi sapere com'è la mia settimana? ↗
+> // Ti racconto tutto. ///
 >
 > **[2]** Durante la settimana mi sveglio alle sei e mezza, ma non mi alzo
 > **subito**: resto a letto dieci minuti. // Poi mi faccio la doccia, mi vesto →
-> e faccio colazione in piedi, in cucina. ↘
+> e faccio colazione in piedi, in cucina. ↘ // Mi preparo in venti minuti: non
+> ho tempo per altro. ///
 
-**Notes to voice talent.** [1] The `com'è la mia settimana↗` rises because she
-is quoting his question back, not asking her own — if it falls it sounds like she
-is asking him. [2] `subito` takes contrastive stress; the whole point of the
-sentence is the gap between waking and getting up. Keep the list contour level
-on `mi vesto` — she has not finished listing yet.
+**Notes to voice talent.** [1] `vuoi sapere com'è la mia settimana? ↗` is a
+yes/no question, and in Italian the rise alone is what makes it one — the word
+order is the same as the statement. The rise sits on `-mà-` of `settimana`; keep it
+light. [2] `subito` takes contrastive stress; the whole point of the sentence is
+the gap between waking and getting up. Keep the list contour level on `mi vesto`
+— she has not finished listing yet. And the general rule this cue teaches its
+voice talent: a question **with** a question word (`Com'è la tua? ↘`) falls in
+Italian; only a yes/no question rises.

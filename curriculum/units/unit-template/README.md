@@ -1,6 +1,6 @@
 # Unit Template — how a unit is built
 
-Owner: Lesson Designer · Task: ITA-5 · Status: for review by Chief Italian Linguist
+Owner: Lesson Designer · Task: ITA-5 (accepted) · Amended: ITA-12 (L4 amendment from ITA-11, ITA-4 checkpoint, ITA-10 sync) · Status: ITA-12 amendments for review by Chief Italian Linguist
 
 This folder is the skeleton every one of the twelve units fills in. It is not a
 style guide to read once — it is a set of files to **copy** into `unit-NN/`,
@@ -59,9 +59,40 @@ Two consequences the lesson files must respect:
 - **L1 never explains the target form.** If L1 has a paradigm table in it, L1 is
   wrong. Noticing tasks that get learners to *collect* forms are correct; tasks
   that get them to *name* forms belong in L2.
-- **L4 is not more practice of this unit's grammar.** Its content is dictated by
-  the [`grammar-progression.md` §Per-unit L4 contract](../../syllabus/grammar-progression.md#per-unit-l4-contract).
+- **L4 is not more practice of this unit's grammar.** Its content is dictated by the
+  [`grammar-progression.md` §Per-unit L4 contract](../../syllabus/grammar-progression.md#per-unit-l4-contract).
   An L4 that drops its listed structures breaks the spiral for every later unit.
+  Contract entries that name an operation this unit adds ("extended to",
+  "attached to", "now with", "→") are read per
+  [`grammar-progression.md` §Reading "extended to" entries](../../syllabus/grammar-progression.md#reading-extended-to-entries).
+
+### How an L4 is built (ITA-11 amendment)
+
+Proved on the U7 spike ([`../unit-07/unit-07-lesson-04.md`](../unit-07/unit-07-lesson-04.md))
+for contracts of up to about four structures. Binding on every L4 from Unit 2.
+
+- **Extended structures.** Where a contract entry is "extended to" (or
+  "attached to", "now with", "→"), the operation is presented **once, in this
+  unit's L2 or L3**. L4 practises the **earlier** structure as the operation acts
+  on it, and never re-presents the operation: no paradigm, no rule presented as
+  new, no new item set. Every L4 item turns on a choice the learner first learned
+  to make in the earlier unit (U7: `lo/la/li/le` by gender and number from U6, `si`
+  by "is there a thing?" from U4). The test: delete everything in the L4 that
+  depends on the earlier unit, and nothing should be left.
+- **Task-clusters of two or three.** Group the contract structures into clusters
+  of two or three that one task naturally needs together, and give each cluster
+  one Study block (U7: `ci` + movement prepositions on a map; `si` + attached
+  pronouns in an instruction chain). One block per structure turns a
+  four-structure contract into a grammar revision class.
+- **The culture note is the L4 input text, or sits beside it.** Write the note so
+  that the contract structures are in it, and use it as the text the recycling
+  starts from. A culture note that competes with the recycling for time is the
+  first thing cut when L4 runs late; one that *is* the input cannot be cut
+  quietly.
+- **Every L4 file carries a contract ledger** — see §4.
+- **Contracts heavier than about four structures** (U8: six of seven entries
+  bolded; U11: five of eight) get a paper stage-map check before the unit is
+  built, recorded as a gate on the board.
 
 ---
 
@@ -82,7 +113,7 @@ grammar: ["riflessivi (receptive)", "presente indicativo (receptive)"]
 slot: L1                      # L1 | L2 | L3 | L4 | L5
 method: ESA                   # ESA | PPP | TBLT — stated deliberately, see §4
 lexis_set: A                  # A | B | — | recycled
-recycles: []                  # e.g. ["U1 riflessivi", "U3 comparativi"]
+recycles: []                  # e.g. ["U3 ci locativo (mandated)", "U4 si impersonale → passivante"]
 selfstudy_min: 50             # 45–60 per format brief §3
 ---
 ```
@@ -95,12 +126,18 @@ Rules for the header:
   learner-facing. A lesson with four can-do goals has none.
 - `recycles` is empty only in Unit 1. Everywhere else, an empty `recycles` on an
   L4 file is a bug.
+- In `recycles`, mark every entry that is a **bolded** row of the unit's L4
+  contract — a mandated second encounter — with `(mandated)`, e.g.
+  `"U3 ci locativo (mandated)"`. Unmarked entries are bonus exposure. The marker
+  makes the mandated encounters greppable across twelve units, and it is what the
+  checkpoint's recycled gaps are drawn from.
 
 ---
 
 ## 4. The nine things every lesson file must contain
 
-In this order. The lesson template file shows each one filled in.
+In this order. The lesson template file shows each one filled in. **L4 files add
+a tenth, the contract ledger**, directly after *At a glance*.
 
 1. **Header block** (§3).
 2. **Italian-review banner** — see §6. Delete only when the Italian Content
@@ -108,6 +145,13 @@ In this order. The lesson template file shows each one filled in.
 3. **At a glance** — the lesson's one goal, what the learner can do by the end,
    materials, and the teacher's prep time. Prep must be honest: if it is
    "read this file", say so.
+   - **L4 only — the contract ledger. Compulsory.** A table directly under *At a
+     glance*, one row per structure in the unit's L4 contract: *structure (origin
+     unit) · mandated? · written production site · spoken production site ·
+     counted in* (the success criterion or exercise criterion that counts it).
+     Every row needs **both** production sites and a count. The pass test for L4 is
+     production, not mention: a structure the lesson only names or shows is not
+     recycled. The U7 spike's ledger is the worked example.
 4. **Stage map** — a table of stage / minutes / interaction pattern / purpose,
    with the total on the last row. This is the thing a teacher glances at with
    three minutes to go before class.
@@ -129,7 +173,9 @@ In this order. The lesson template file shows each one filled in.
 7. **Teacher notes** — the two or three errors this lesson will *predictably*
    produce from an English-L1 learner, and what to do about each; the
    error-correction stance per stage; one way to shorten the lesson and one way
-   to extend it.
+   to extend it. **Never cut the only production site of a bolded structure**: a
+   shortening that removes it breaks the contract. In L4 the ledger says which
+   stages those are, and the "to shorten" line names them as uncuttable.
 8. **Self-study version** — a real 45–60-minute solo route through the same
    material, with a solo equivalent for **every** pair or group stage. "Do this
    alone" is not a solo equivalent.
@@ -176,10 +222,12 @@ banner directly under its header block:
   is the single most common way this project could ship something wrong.
 
 The template files in *this* folder contain Italian too — inside their filled
-examples, which are lifted from Unit 1. That Italian is draft like any other and
-is covered by the same review task, **ITA-10**. When Unit 1's Italian is signed
-off, the examples here are updated to match it in the same pass; a filled example
-that disagrees with the finished unit is worse than no example.
+examples, which are lifted from Unit 1. Unit 1's Italian was
+signed off under **ITA-10**, and the examples here were synced to it under
+**ITA-12**; a filled example that disagrees with the finished unit is worse than
+no example. Two exceptions are still draft and say so: the checkpoint example
+(re-aligned to ITA-4, awaiting review with `unit-01-checkpoint.md`) and any
+example text a later amendment adds.
 
 ---
 
@@ -197,7 +245,11 @@ Checklist — all of it, not most of it:
 - [ ] Every exercise has a key. Every open task has a rubric or a model answer.
 - [ ] Every pair or group stage has a stated solo equivalent.
 - [ ] Teacher notes name two or three predictable errors and what to do.
-- [ ] One shortening and one extension are named.
+- [ ] One shortening and one extension are named, and the shortening never cuts
+      the only production site of a bolded structure.
+- [ ] L4 only: the contract ledger is present, every contract structure has a
+      written and a spoken production site and a count, and mandated `recycles`
+      entries are marked `(mandated)`.
 - [ ] Every free-production stage has a scaffold **and** a success criterion.
 - [ ] All Italian is signed off, or the banner is present and the review task
       exists and is linked.

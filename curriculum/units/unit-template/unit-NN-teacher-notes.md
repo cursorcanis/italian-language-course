@@ -52,11 +52,26 @@ The honest list: where the design is thin, where it depends on something not yet
 built, where a reasonable teacher will disagree with a choice. A unit with no
 weak spots listed has not been read carefully by its author.
 
+**Fixed row — mandatory in Units 2–7.** Copy it verbatim as the first item of
+this section, whatever else the unit lists (ITA-5 verdict, condition 1):
+
+> **The `piacere` seed.** `piacere` chunks are recognition-only until `U8 L2`; do
+> not explain the construction.
+
+Then one line on where this unit's materials put the chunks, and how to gloss
+them as phrases if a learner asks (U7 L4 is the worked example). The seed runs
+from U1 to U8 and is protected only if every unit in between says so. Delete the
+row from U8 on.
+
 ### 5. Pacing reality
 
 Which stages overrun, in practice, and the standing instruction for what to cut.
 This duplicates each lesson's "to shorten" line on purpose: a teacher who is
 already running late reads one file, not five.
+
+**Rule for every "cut this" entry: never cut the only production site of a
+bolded (mandated) structure.** For L4, the lesson's contract ledger says which
+stages those are; name them in the "What you lose" column as uncuttable.
 
 ---
 

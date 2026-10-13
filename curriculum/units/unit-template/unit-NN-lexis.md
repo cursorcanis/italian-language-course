@@ -77,7 +77,7 @@ rather than listed.)*
 | Italian | English | Example sentence | Met in |
 | --- | --- | --- | --- |
 | `il coinquilino` / `la coinquilina` | flatmate | Il mio coinquilino è molto disponibile. | L3 s3, s9 · L4 s7 |
-| `permaloso` | touchy, easily offended | Mio fratello è un po' permaloso: non scherzare sul lavoro. | L3 s5, s9 · L5 |
+| `permaloso` | touchy, easily offended | Mio fratello è un po' permaloso: meglio non scherzare sul suo lavoro. | L3 s5, s9 · L5 |
 | `andare d'accordo (con)` | to get on (with) | Vado molto d'accordo con i miei vicini. | L3 s5, s9 · L4 s7 · L5 |
 
 ### Recognition only — not counted, not tested

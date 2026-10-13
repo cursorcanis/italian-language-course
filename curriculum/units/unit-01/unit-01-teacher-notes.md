@@ -30,8 +30,11 @@ lesson names the two or three errors *it* produces and links here for the rest.
   4 is not met.
 - **What Unit 2 needs from this one.** **Secure reflexives in the present.** U2 puts
   them in the past and uses them to teach `essere` plus participle agreement. If they
-  are shaky here, U2's main grammar point has no foundation — which is why the
-  checkpoint's below-18 band says "do not move on" and means it.
+  are shaky here, U2's main grammar point has no foundation. A *not yet* at the
+  checkpoint does **not** hold the learner back (ITA-4: a fail never blocks
+  progression); it writes a carry-forward entry that closes at U2 L4, where the
+  reflexives come back in the past. Make sure every learner who gets one writes it
+  down.
 
 ---
 
@@ -50,9 +53,9 @@ predictions rather than observations.
 | 4 | Pronoun between modal and infinitive | `*Devo mi sbrigare.` | **Both** correct Italian options (`mi devo sbrigare`, `devo sbrigarmi`) are unlike English, so the learner builds a third that splits the difference. | L2 s5 onward, L5 | Teach both correct options as an **equal pair**, never one as primary. Then point at the three board lines rather than re-explaining. `A8`: L2 ex 4 item 4. |
 | 5 | Pronoun right, verb wrong | `*I miei coinquilini si rilassa in salotto.` | The learner has learned "the pronoun follows the subject" so thoroughly that it absorbs all available attention and the verb ending is left behind. | L2 s4, s8 | "How many flatmates?" and let them fix it. It is an **attention** error, not a knowledge error; explaining it achieves nothing. `A8`: L2 ex 4 item 6. |
 | 6 | `-o` agreement over-applied to `-e` adjectives | `*La mia coinquilina è socievola.` | Over-generalising the `-o/-a` rule, which they have just learned correctly. A sign of learning, not of confusion. | L3 s5 onward, L4, L5 | Point at the **three columns** — `-o`, `-e`, `in gamba`. One gesture per error. `A8`: L4 ex 3 items 1, 2, 6. |
-| 7 | `il collega` repaired to a "proper" masculine | `*il collego`, `*il mio collega è riservata` | `il` is masculine and `-a` is feminine, so the learner fixes the word. **Rule-driven**, which is why it survives correction. | L3 s3 onward, L5 | Say it once in L3 s3, then give article + noun together and nothing else: "il collega." Add `il problema` and `il programma` only if asked. `A8`: L4 ex 3 item 8. Checkpoint C5. |
+| 7 | `il collega` repaired to a "proper" masculine | `*il collego`, `*il mio collega è riservata` | `il` is masculine and `-a` is feminine, so the learner fixes the word. **Rule-driven**, which is why it survives correction. | L3 s3 onward, L5 | Say it once in L3 s3, then give article + noun together and nothing else: "il collega." Add `il problema` and `il programma` only if asked. `A8`: L4 ex 3 item 8. |
 | 8 | `in gamba` inflected | `*Chiara e Petra sono in gambe.` | It looks like an adjective and it is a prepositional chunk. | L3 s5, L5 | "It never changes." Three words. `A8`: L4 ex 3 item 7. |
-| 9 | `tu` possessive surviving into `Lei` | `*Va d'accordo con i tuoi vicini?` | The verb switched and the possessive did not: the verb is where the learner's attention is. | L4 s4, s7 | One-word correction — "suoi" — and move on. Late-acquired detail; getting the verb right is the main thing at A2+. L4 ex 2 item 7. Checkpoint C3. |
+| 9 | `tu` possessive surviving into `Lei` | `*Va d'accordo con i tuoi vicini?` | The verb switched and the possessive did not: the verb is where the learner's attention is. | L4 s4, s7 | One-word correction — "suoi" — and move on. Late-acquired detail; getting the verb right is the main thing at A2+. L4 ex 2 item 7. |
 | 10 | `ogni` + plural | `*Ogni giorni mi riposo.` | English *every day* / *all days* interference, plus `ogni` looking plural. | Anywhere | One-word correction and move on. It is maintenance, not this unit's business. It is in `A8` (L2 ex 4 item 8) **only** so that "find the reflexive error" is not a winning strategy. |
 
 **Two notes on using this table.**
@@ -81,7 +84,7 @@ Unit 1's decisions, written down:
 | *Due profili* (L4) | **One of each** | This is the unit's register teaching, and it is carried by two texts with the same content, so the difference is observable rather than asserted. |
 | Culture note (L4 s6) | **English** | `A10` allows either. Unit 1's is in English because the takeaway has to be unambiguous: a learner who half-understands an Italian text about register makes a confident guess, and a confident guess about `tu` is precisely the error the note exists to prevent. Later units' culture notes move into Italian as the level rises. |
 | Role cards (L4 s7 round 3) | **The learner chooses** | Three of the four cards are decided by the setting; card C (the sixty-year-old neighbour on the stairs) is decided by age alone, and it is the only genuinely ambiguous one. |
-| Checkpoint item B10 | `Lei` | `Lei si trova bene in questa città?` — the form is identical for `lei` and `Lei`, so the mark is unaffected. It is there to put the register in front of the learner once more at no cost. |
+| Checkpoint B6 and Part D | `tu`; Part D unmarked for register | B6 sits in a letter between flatmates, so the key is `fai` and `fa` is wrong *because* the letter is `tu` — register in front of the learner once more, at the cost of one recycled mark. Part D's prompt is a new colleague, but the turn describes the speaker's own life, so no `tu`/`Lei` choice arises and none is marked. |
 | Production task (L5) | **Spoken: `tu`-neutral. Written: the learner states which.** | The spoken self-portrait addresses nobody, so no choice arises. The written profile **must** state its register at the top, and the rubric marks **consistency, not choice** — getting it "wrong" is not possible; drifting is. |
 
 **What learners are told, explicitly, in L4 stage 6:** with someone you have not met
@@ -108,8 +111,9 @@ author.
    this unit's materials keep it unanalysed correctly. Nothing in this unit can stop
    a teacher — or a later unit's writer — from explaining it in U3. The seed needs
    seven units of discipline and only has one unit's worth of instruction behind it.
-   A one-line warning in every unit's teacher notes between U2 and U7 would fix this,
-   and it does not exist yet.
+   A one-line warning in every unit's teacher notes between U2 and U7 fixes this:
+   it is now a mandatory row in the template's teacher notes (ITA-12), so U2–U7
+   each carry it.
 3. **No audio is recorded**, so every listening stage depends on the teacher reading
    aloud. For cues 1, 2 and 4 that is merely less good. For **cue 3 it is a real
    risk**: the stress-discrimination task is only valid if the two members of each
@@ -117,10 +121,13 @@ author.
    Italian speaker can invalidate the stage without noticing. The lesson says to
    rehearse it twice. That is mitigation, not a fix, and cue 3 should be near the
    front of the recording queue when recording is in scope.
-4. **The checkpoint's mark boundaries are a judgement, not a measurement.** 18/25 to
-   pass, with a three-band action table, is built to the `A12` proportions and to
-   nothing else — ITA-4's full assessment spec has not landed, and no real learner
-   has sat it. The proportions and the shape will survive; the boundary may not.
+4. **The checkpoint has never been sat.** It is now built to the ITA-4 instrument
+   (re-aligned under ITA-12): four parts, a profile, four pass conditions, and no
+   blocking. The boundaries are ITA-4's, so they are no longer this unit's
+   judgement — but the 3 + 3 + 2 + 2 timing has not been checked against a real
+   learner, the Part A–C Italian is a draft awaiting the Italian Content Editor, and
+   Part D's TS needs a partner, which a solo learner does not have. The first live
+   run should time each part.
 5. **L3 carries five separate things** — lexis set B, a listening, the pronunciation
    point, the secondary grammar point and the false-friend slot — and is therefore the
    lesson most likely to be under-delivered. Its "to shorten" line moves the `piacere`
@@ -131,10 +138,11 @@ author.
    learners have been told — but it means one of four goals is assessed on the
    learner's word. The alternative is worse; the cost is real and it is stated in
    `unit-01-overview.md` §1 rather than hidden.
-7. **Lexis counting.** `i parenti` is counted inside set B here, following
-   `lexis-progression.md`, which elsewhere says the false-friend items sit outside the
-   thirty. This is bookkeeping, it is already an open item on the Curriculum
-   Architect from ITA-6, and nothing in the unit changes whichever way it goes.
+7. **Lexis counting.** `i parenti` is counted inside set B, and that is now the
+   rule: `lexis-progression.md` §The false-friend thread (ruled on ITA-8) puts eleven
+   of the twelve false-friend items inside their set's thirty, tagged as strand
+   items; the only exception is `i preservativi` (U6), recognition-only. Nothing in
+   this unit changes.
 
 ---
 

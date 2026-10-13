@@ -115,7 +115,7 @@ someone else up*, so `Sveglio alle sette` is a sentence waiting for an object.
 This is the single most important sentence in the unit. It is the error that
 survives to B1 if it survives Unit 1.
 
-**Question 3 (4 min).** "Three of them say `ci`, not `mi`. Which three, and
+**Question 3 (4 min).** "Two of them say `ci`, not `mi`. Which two, and
 what's different about them?"
 → `ci vediamo`, `ci sentiamo` — and the answer is *they're about two people*, not
 one.

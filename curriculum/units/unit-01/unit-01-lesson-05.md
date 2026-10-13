@@ -46,9 +46,9 @@ selfstudy_min: 60
 | 4 | Rehearsal 1, timed (`A11` attempt 1) | 12 | Pairs | Perform it once and find out |
 | 5 | Two feedback points, named | 6 | Pairs → lockstep | Selective, not a list |
 | 6 | **The recording** (`A11` attempt 2, `A6` rung 3) | 14 | Solo | The deliverable |
-| 7 | **Checkpoint** (`A12`) | 10 | Solo, silent, timed | The unit check |
-| 8 | Mark, self-rate, act | 7 | Solo → lockstep | A mark with a consequence |
-| 9 | The written task + unit close | 11 | Lockstep | Set the writing, close the unit |
+| 7 | **Checkpoint** (`A12`) | 10 | Lockstep → solo, timed | The unit check |
+| 8 | Mark, self-rate, act | 9 | Solo → pairs → solo | A profile with a consequence |
+| 9 | The written task + unit close | 9 | Lockstep | Set the writing, close the unit |
 | | **Total** | **90** | | |
 
 ---
@@ -253,52 +253,71 @@ skill `A11` exists to build.
 
 ---
 
-### 7 · Checkpoint — 10 min · solo, silent, timed · `A12`
+### 7 · Checkpoint — 10 min · lockstep → solo, timed · `A12`
 
-**Purpose.** The unit check. Not a test — a check: ten minutes, every item with one
-unambiguous answer, so that a learner working alone can mark it and know what to do
-next.
+**Purpose.** The unit check. Not a test — a check: ten minutes, four short parts,
+built to the course-wide ITA-4 instrument so that a Unit 1 result can be compared
+with a Unit 9 one, and so that a learner working alone can mark most of it and know
+what to do next.
 
-**Instruction.** "Papers out. **Ten minutes, on your own, in silence, no notes.**
-Twenty-five marks: ten on the words from this unit, ten on the reflexive verbs, five
-on questions and agreement. Everything in it has been taught and used in the last
-five lessons. I'll tell you when there are two minutes left."
+**It runs in three blocks, and you hold the clock:**
 
-**CCQ.** "Notes?" → *No.* · "Is this a test?" → *No — you mark it yourself in five
-minutes and the mark tells you what to do next.*
+1. **Part A, lockstep (3 min).** "Papers face down. **I'm going to read a short
+   conversation twice. Then turn over and answer Part A — English or Italian, it
+   doesn't matter.**" Read the script in the checkpoint file twice at normal pace,
+   taking both voices. Then papers over; ninety seconds to answer.
+2. **Parts B and C, silent (5 min).** "Now Parts B and C, on your own, in silence, no
+   notes. Five minutes. I'll tell you when there's one minute left."
+3. **Part D, everyone at once (2 min).** "Phones out. Read the Part D prompt. **You
+   have sixty seconds to think and sixty to record.** Speak quietly, phone close —
+   everyone's recording at the same time, like stage 6." Call *start* and *stop*.
 
-The instrument and its key: [`unit-01-checkpoint.md`](unit-01-checkpoint.md). Hand it
-out face down and start everyone together. Call two minutes remaining. Stop at ten
-minutes **even if people are not finished** — an unfinished checkpoint is itself
-information, and a checkpoint that runs to fifteen minutes has become a test.
+**CCQ.** "Notes?" → *No.* · "Is this a test?" → *No — you mark most of it yourself,
+and the result tells you what to do next.* · "In Part D, does it matter if you make a
+mistake that isn't a reflexive verb?" → *No.*
+
+The instrument and its key: [`unit-01-checkpoint.md`](unit-01-checkpoint.md). Stop
+each block on time **even if people are not finished** — an unfinished checkpoint is
+itself information, and a checkpoint that runs to fifteen minutes has become a
+test.
 
 **Correction stance.** Accuracy, and the marking is the learner's own.
 
 ---
 
-### 8 · Mark, self-rate, act — 7 min · solo → lockstep
+### 8 · Mark, self-rate, act — 9 min · solo → pairs → solo
 
-**Purpose.** Put a consequence on the mark. A mark with no action attached teaches
+**Purpose.** Put a consequence on the result. A mark with no action attached teaches
 nothing, and the self-rating is the part a solo learner actually acts on.
 
-**Instruction (5 min, solo).** "Keys are in the checkpoint file. **Mark your own**,
-out of 25. Then two things:
-1. find your mark in the three-band table and **write down what it tells you to
-   do**;
-2. the self-rating — four goals, rate each **1, 2 or 3**. Be honest; nobody sees
-   it and it's the only part of this that changes what you do next week."
+**Instruction, part 1 (4 min, solo).** "Keys are in the checkpoint file. **Mark Parts
+A, B and C yourself.** Then listen to your own Part D recording once and score
+**TA only** — the three things the prompt asked for, and the length. Leave TS empty."
 
-**Then, lockstep, 2 minutes.** Do not ask for marks — ask for one thing only: "Which
-of the four goals did most people rate lowest?" In most groups it is goal 4, keeping
-a conversation going, because it is the A2+ one and the only one that needs another
-person. Say so if it comes up, and say what to do about it: "That is the goal Unit 2
-keeps working on. It is supposed to be a 2 at this point."
+**Instruction, part 2 (2 min, pairs).** "Swap phones with your neighbour. Listen to
+their Part D **once**. Your only job: **count the reflexive verbs, and count how many
+have the right little word in the right place.** Four or more, mostly right, is a 3.
+Write their TS on their paper." Do not let pairs discuss anything else — TA and the
+rest are not the partner's to mark.
 
-**Correction stance.** Self-marked against the key.
+**CCQ.** "What do you score for your partner — everything, or one thing?" → *One
+thing: the reflexive verbs.*
+
+**Instruction, part 3 (3 min, solo).** "Now three things:
+1. write your result as the **profile** at the bottom of the checkpoint, and check
+   the **four** pass conditions — not just the total;
+2. find your row in the table and **write down what it tells you to do**. If it says
+   *not yet*, write the carry-forward entry. **Everyone starts Unit 2** — a not-yet
+   changes what you do alongside it, not whether you go on;
+3. the self-rating — four goals, rate each **1, 2 or 3**. Be honest; nobody sees it
+   and it's the only part of this that changes what you do next week."
+
+**Correction stance.** Self-marked against the key, except Part D's TS, which a
+partner marks.
 
 ---
 
-### 9 · The written task, and the unit close — 11 min · lockstep
+### 9 · The written task, and the unit close — 9 min · lockstep
 
 **Purpose.** Set the written half of the production task with its criteria, then close
 the unit against the four can-do goals.
@@ -311,8 +330,10 @@ the four things yours has to do. **Choose your register and say which you chose 
 the top of the page** — one word, `tu` or `Lei`. That choice is marked; getting it
 'wrong' is not possible, but being inconsistent is."
 
-**Instruction, part 2 — the close (7 min).** Put the four can-do goals on the board,
-and go through them in order, out loud, with the group — one minute each:
+**Instruction, part 2 — the close (5 min).** Put the four can-do goals on the board,
+and go through them in order, out loud, with the group — just over a minute each.
+Ask which goal most people rated lowest at stage 8; in most groups it is goal 4, and
+row 4 below is what to say about it:
 
 | # | Goal | Where you did it |
 | --- | --- | --- |
@@ -491,7 +512,7 @@ errors, which is normal for a TBLT lesson.
    the right place for it to cost something.
 
 **Correction stance per stage.** Stage 2 and stage 7 — **accuracy** (exercise 1, and
-the checkpoint). Stage 8 — self-marked. Every other stage — **no correction at all**,
+the checkpoint). Stage 8 — self-marked, with Part D's TS marked by a partner. Every other stage — **no correction at all**,
 and that is a deliberate feature of the lesson rather than an oversight. The
 learner's own judgement against three stated criteria is the feedback, and `A11`
 exists to build exactly that.
@@ -501,8 +522,8 @@ of twelve (−4), and take two minutes off stage 9's close. You lose the before-
 after, which is the unit's best motivational moment but carries no language. Do
 **not** shorten stage 6, and do **not** move the checkpoint out of the lesson: a
 checkpoint set as homework is marked by nobody and acted on by nobody, and the
-three-band action table in stage 8 is the only part of assessment in this course that
-changes what a learner does next.
+action table in stage 8 is the only part of assessment in this course that changes
+what a learner does next.
 
 **To extend (+12 min).** After stage 8, a listening gallery: learners swap phones in
 groups of three and listen to each other's recordings with **one** job — tick the
@@ -524,12 +545,12 @@ compress. **Do it in one sitting if you can.** The gap between attempt 1 and att
 | --- | --- | --- |
 | 1 Opener (solo → pairs) | Identical for the listening. Instead of telling a partner, **write** the two answers — one sentence each. | 5 |
 | 2 Task framing + model (lockstep → solo) | Copy the task and the three criteria onto a card and keep it visible for the rest of the lesson. Read the cue-4 script aloud **and time yourself** — you will be under two minutes, and finding that out from your own voice is more convincing than being told. Then exercise 1, key supplied. | 9 |
-| 3 Planner (solo → pairs) | Fill all six rows in note form. The partner's one question is what you are missing, so replace it: **put the planner away for two minutes**, come back, and ask yourself what is not there yet. Usually Sunday, and usually the second person. | 9 |
+| 3 Planner (solo → pairs) | Fill all six rows in note form. The partner's one question is what you are missing, so replace it: **put the planner away for two minutes**, come back, and ask yourself what is not there yet. Usually Sunday, and usually the second person. | 8 |
 | 4 Rehearsal 1 (pairs) | **This is the solo format, not a substitute.** Record attempt 1 on your phone with the planner in front of you. Then do the partner's three jobs on your own recording, listening back once: time it, count the reflexives on your fingers, tick every stall over five seconds. | 10 |
 | 5 Two feedback points (pairs → lockstep) | Write the two points yourself, from exercise 3's sheet, and obey the same rule: **one** fix, and it must be one of the three criteria. If your fix is "length", also write down **which planner row** you are going to grow. | 3 |
 | 6 The recording (solo) | Identical — this stage never needed a partner. Planner face down, five words, record. Keep both files. Then exercise 4 on your own recording. | 11 |
-| 7 Checkpoint (solo, silent) | Identical. **Time it: ten minutes, no notes.** Marking your own is the point, which is why every item has one answer. | 10 |
-| 8 Mark, self-rate, act (solo → lockstep) | Identical, and the part you must not skip is the **action band** — write down the sentence it tells you to do, and do it before Unit 2's L3. The lockstep question has a written version: which of the four goals did **you** rate lowest, and what will you do about it? | 3 |
+| 7 Checkpoint (solo, silent) | **Time it: ten minutes, no notes.** Part A: read the script **once, silently**, cover it, answer from memory. Parts B and C as written. Part D: record yourself on your phone, 45–60 seconds. | 10 |
+| 8 Mark, self-rate, act (solo → pairs → solo) | Mark A–C and your own TA against the key. **TS has no partner, so leave it blank and write *provisional*** — the checkpoint file says what that means and when to find a marker. Then the part you must not skip: the **action row** (and the carry-forward entry if it says *not yet*) — write down what it tells you to do, and do it before Unit 2's L3. Then the self-rating, and one written line: which goal did **you** rate lowest, and what will you do about it? | 4 |
 | | **The session — stages 1–8** | **60** |
 | 9 Written task + close *(homework, separate sitting)* | Read the four can-do goals and rate yourself against each. Then exercise 5, the written profile, self-marked against its four-row rubric. | 30 |
 
@@ -549,10 +570,11 @@ are 1 and 3, in that order. Never 4 and 6: they are the task.
 - **Keep three things:** the forty seconds from L1, today's attempt 1, and today's
   attempt 2. They are the unit's evidence, and the milestone review after Unit 6
   asks for the first and the last.
-- **Act on the checkpoint band before Unit 2's L3.** Below 18 means redoing L2's
-  self-study and the checkpoint in a week, and **not moving on** — Unit 2 puts these
-  same reflexive verbs into the past, so a shaky foundation here is not a small
-  problem later.
+- **Act on the checkpoint row before Unit 2's L3.** A *not yet* means starting Unit 2
+  anyway, with a carry-forward entry in your notebook and the failed part's
+  self-study done before Unit 2's L3. Unit 2 puts these same reflexive verbs into the
+  past, and its L4 is where they come back — so the entry closes there, not by
+  repeating Unit 1.
 - **Unit 2** is the same content in the past: *L'ultimo anno*. Its L4 comes back to
   this unit's riflessivi and sets the present against the past, which is the first
   turn of the spiral and the reason this unit was worth five lessons.

@@ -7,7 +7,7 @@ reconcile this file back onto the Paperclip board, then stop editing it there or
 here — one board at a time.
 
 Statuses: `todo` · `in progress` · `blocked` · `in review` · `done`.
-New tasks continue the Paperclip numbering from **ITA-19**.
+New tasks continue the Paperclip numbering from **ITA-21**.
 
 | ID | Title | Owner | Status | Blocked by | Next action |
 | --- | --- | --- | --- | --- | --- |
@@ -22,13 +22,15 @@ New tasks continue the Paperclip numbering from **ITA-19**.
 | ITA-9 | *Not recorded in the repo* | — | ? | — | Check the Paperclip board when it resumes. |
 | ITA-10 | Unit 1 Italian sign-off | Italian Content Editor | done | — | Pass with edits, all 10 files: `docs/unit-01-italian-signoff.md`. Cue 1 recording held until ITA-14; cues 2–4 recordable. |
 | ITA-11 | U7 `L4` spike: one lesson testing the L4 contract at its heaviest | Lesson Designer | done | — | Passed. Template L4 amendment approved (verdict doc, "Spike result"). Gate: U8 L4 paper stage-map check before U8 is built. |
-| ITA-12 | Template amendments (ITA-5 conditions + ITA-11 L4 amendment) | Lesson Designer | in progress | — | `piacere` row; template sync from sign-off §6; checkpoint re-alignment to ITA-4 (incl. Unit 1 "do not move on" → no-blocking); the L4 amendment. Gates Unit 2. |
+| ITA-12 | Template amendments (ITA-5 conditions + ITA-11 L4 amendment) | Lesson Designer | done | — | Accepted: L4 amendment (extended structures, clusters, culture note as input, contract ledger, `(mandated)`), checkpoint re-aligned to ITA-4 (no blocking), `piacere` row, template synced to signed-off Unit 1. New checkpoint Italian → ITA-19. |
 | ITA-13 | Italian review of the U7 `L4` spike | Italian Content Editor | done | — | Pass with edits: `docs/unit-07-lesson-04-italian-review.md`. Re-check glosses/level when U2–U6 and U7 L1–L3 exist. |
-| ITA-14 | Unit 1 staging fixes from the Italian sign-off | Lesson Designer | in progress | — | Sign-off §4: reconcile cue 1 length target (~1:50 vs 1:20–1:35; hold on recording), cue 4 word count, L3 s8 step 1 instruction, L2 s2 Q3 count, L1 ex3 key order, L3 ex2 note, L3 extension prompt count. |
-| ITA-15 | Write the placement check's Italian | Italian Content Editor | in progress | — | All `⟨…⟩` specs in `assessment/placement-check.md`. Ships before Unit 1 is taught. |
+| ITA-14 | Unit 1 staging fixes from the Italian sign-off | Lesson Designer | done | — | Cue 1 target → ~1:50 (script unchanged), L1 s4/s5 re-timed; six count/instruction fixes. Chief lifted the cue 1 recording hold 2026-10-13: all four cues recordable. |
+| ITA-15 | Write the placement check's Italian | Italian Content Editor | in progress | — | Interrupted 2026-10-12 by usage limit (partial edit in tree); resumed 2026-10-13. Ships before Unit 1 is taught. |
 | ITA-16 | Write the Italian for Milestones 1 and 2 | Italian Content Editor | todo | ITA-15 | Per each milestone's Open table. |
-| ITA-17 | Verify the CILS/CELI B1 mapping against the publishers' current specs | Chief | todo | — | Before any learner-facing material names the exams. |
+| ITA-17 | Verify the CILS/CELI B1 mapping against the publishers' current specs | Curriculum Architect | in progress | — | Interrupted 2026-10-12 by usage limit (no edits); resumed 2026-10-13. Output: corrections in `milestone-2.md` + evidence in `docs/cils-celi-verification.md`. |
 | ITA-18 | U7 L4 tidy-up after its Italian review | Lesson Designer | todo | — | Update/remove the closing "Built ahead of Units 2–6" request (review done); consider the editor's 5 suggestions (review doc §5). Low priority; do with U7. |
+| ITA-19 | Italian review of the re-aligned Unit 1 checkpoint | Italian Content Editor | todo | — | `unit-01-checkpoint.md` Parts A–C and the template checkpoint example (`[ITA?]`). Check A4 `mio figlio mi sveglia` and gap B6 `che lavoro fai`. |
+| ITA-20 | Build Unit 2 | Lesson Designer | todo | — | Unblocked by ITA-12. Build to the amended template; L4 with contract ledger. Then Italian review. |
 
 Decided 2026-10-12 by the user: **twelve units** (recorded in `docs/format-brief.md` decision log).
 
@@ -51,6 +53,10 @@ Newest entry last within each task. Format: `- YYYY-MM-DD · who · what changed
 ### ITA-11
 - 2026-10-12 · Lesson Designer · Built U7 L4; 90/90, all four structures produced, culture note as input text. L4 template needs clustering, a ledger and an extended-structure clause; U8/U11 contracts are heavier than U7. · Chief verdict.
 - 2026-10-12 · Chief · Passed; template amendment approved into ITA-12; U8 L4 paper check gate. · ITA-12 (Lesson Designer), ITA-13 (Italian Content Editor).
+
+### ITA-12 / ITA-14
+- 2026-10-12 · Lesson Designer · ITA-14 staging fixes and cue 1 targets; ITA-12 template amendments incl. L4 rules, checkpoint re-alignment, ITA-8 text. All maps sum to 90. · Chief review.
+- 2026-10-13 · Chief · Both accepted; L4 wording reads as approved; cue 1 recording hold lifted. · ITA-19 (Italian Content Editor), ITA-20 Unit 2 (Lesson Designer).
 
 ### ITA-13
 - 2026-10-12 · Italian Content Editor · Pass with edits on the U7 L4 spike: culture note checked for 2026 (pagoPA fines, marca da bollo scope), idioms, card scene logic, keys re-synced; all 19 `[ITA?]` cleared; no production site lost. · ITA-18 tidy-up (Lesson Designer).

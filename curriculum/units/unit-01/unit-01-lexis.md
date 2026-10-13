@@ -36,17 +36,17 @@ This file is the study list.
 
 | Italian | English | Example sentence | Met in |
 | --- | --- | --- | --- |
-| `svegliarsi` | to wake up | Mi sveglio alle sette meno un quarto. | L1 s3, s7 · L2 s2, s3 · L5 s6 · Ckpt B1 |
-| `alzarsi` | to get up | Non mi alzo subito: resto a letto dieci minuti. | L1 s3, s7 · L2 s3, s4, s5 · L5 s6 · Ckpt B2 |
+| `svegliarsi` | to wake up | Mi sveglio alle sette meno un quarto. | L1 s3, s7 · L2 s2, s3 · L5 s6 · Ckpt A4, B1 |
+| `alzarsi` | to get up | Non mi alzo subito: resto a letto dieci minuti. | L1 s3, s7 · L2 s3, s4, s5 · L5 s6 · Ckpt A2 |
 | `farsi la doccia` | to have a shower | Mi faccio la doccia la sera, non la mattina. | L1 s3, s7 · L2 s4, s8 · L5 s6 |
 | `vestirsi` | to get dressed | Mi vesto in cinque minuti e scendo. | L1 s3, s7 · L2 s3, s4 · L5 s6 |
-| `prepararsi` | to get ready | Mi preparo in venti minuti: non ho tempo per altro. | L1 s3, s7 · L2 s4, s6 · Ckpt B5 |
-| `sbrigarsi` | to hurry up | Il martedì devo sbrigarmi, perché alle sei ho il corso. | L1 s3, s7 · L2 s5, s7, s8 · L5 s3 · Ckpt B4 |
-| `occuparsi di` | to deal with, to look after | In ufficio mi occupo dei clienti stranieri. | L1 s3, s7 · L2 s4, s8 · Ckpt B6 |
+| `prepararsi` | to get ready | Mi preparo in venti minuti: non ho tempo per altro. | L1 s3, s7 · L2 s4, s6 |
+| `sbrigarsi` | to hurry up | Il martedì devo sbrigarmi, perché alle sei ho il corso. | L1 s3, s7 · L2 s5, s7, s8 · L5 s3 |
+| `occuparsi di` | to deal with, to look after | In ufficio mi occupo dei clienti stranieri. | L1 s3, s7 · L2 s4, s8 · Ckpt B3 |
 | `riposarsi` | to rest | Il mercoledì torno a casa presto e mi riposo. | L1 s3, s7 · L2 s4 · L5 s6 |
-| `rilassarsi` | to relax | Mi rilasso sul divano con una serie. | L1 s3, s7 · L2 s3, s4 · L5 s6 · Ckpt B7 |
-| `addormentarsi` | to fall asleep | La domenica sera mi addormento davanti alla televisione. | L1 s3, s7 · L2 s4, s6 · Ckpt B8 |
-| `trovarsi (bene / male)` | to be comfortable, to be settled | Mi trovo bene in questo quartiere. | L1 s3, s7 · L2 s4, s6 · L3 s9 · Ckpt B10 |
+| `rilassarsi` | to relax | Mi rilasso sul divano con una serie. | L1 s3, s7 · L2 s3, s4 · L5 s6 |
+| `addormentarsi` | to fall asleep | La domenica sera mi addormento davanti alla televisione. | L1 s3, s7 · L2 s4, s6 · Ckpt A (script) |
+| `trovarsi (bene / male)` | to be comfortable, to be settled | Mi trovo bene in questo quartiere. | L1 s3, s7 · L2 s4, s6 · L3 s9 · Ckpt C1 |
 
 **Two of these have something extra in them, and it is worth knowing which:**
 
@@ -66,8 +66,8 @@ second job: the same pronouns, meaning *each other* instead of *myself*.
 
 | Italian | English | Example sentence | Met in |
 | --- | --- | --- | --- |
-| `vedersi` | to see each other | Io e Sara ci vediamo quasi ogni settimana. | L1 s6 · L2 s7 · L3 s9 · L5 s3 · Ckpt B9 |
-| `sentirsi` | to be in touch | Ci sentiamo tutti i giorni, anche solo con un messaggio. | L1 s6 · L2 s7 · L3 s9 · Ckpt B3 |
+| `vedersi` | to see each other | Io e Sara ci vediamo quasi ogni settimana. | L1 s6 · L2 s7 · L3 s9 · L5 s3 · Ckpt A3, B4 |
+| `sentirsi` | to be in touch | Ci sentiamo tutti i giorni, anche solo con un messaggio. | L1 s6 · L2 s7 · L3 s9 |
 
 **Learn these two as goodbyes as well as verbs.** `Ci vediamo!` is *See you!* and
 `Ci sentiamo!` is *Talk soon!* — they are the two most useful things in Lesson 2
@@ -85,11 +85,11 @@ only means being in touch.
 | `il compagno` / `la compagna` | partner | Vivo con il mio compagno da tre anni. | L3 s3, s9 · L4 s3 · L5 s3 |
 | `il fidanzato` / `la fidanzata` | boyfriend, girlfriend | Il fidanzato della mia coinquilina viene spesso a cena. | L3 s3, s4 |
 | `la coppia` | couple | Siamo una coppia tranquilla: usciamo poco. | L3 s3, s4 |
-| `il coinquilino` / `la coinquilina` | flatmate | Il mio coinquilino è molto disponibile. | L3 s3, s9 · L4 s3, s5 · L5 s3 · Ckpt A1 |
-| `il collega` / `la collega` | colleague | Ho una collega in gamba che risolve tutto in cinque minuti. | L3 s3, s9 · L4 s5 · L5 s3 · Ckpt A2, C5 |
-| `il vicino` / `la vicina` | neighbour | Vado d'accordo con i miei vicini, ma non li vedo mai. | L3 s3 · L4 s4, s5 · Ckpt A4, C3 |
-| `il conoscente` | acquaintance | Il signor Rossi non è un amico, è un conoscente: ci salutiamo e basta. | L3 s3, s4 · Ckpt A3 |
-| `i parenti` | relatives | A Natale vengono tutti i parenti: zii, cugini, nonni. | L3 s3, s4, s6 · Ckpt A5 |
+| `il coinquilino` / `la coinquilina` | flatmate | Il mio coinquilino è molto disponibile. | L3 s3, s9 · L4 s3, s5 · L5 s3 |
+| `il collega` / `la collega` | colleague | Ho una collega in gamba che risolve tutto in cinque minuti. | L3 s3, s9 · L4 s5 · L5 s3 |
+| `il vicino` / `la vicina` | neighbour | Vado d'accordo con i miei vicini, ma non li vedo mai. | L3 s3 · L4 s4, s5 |
+| `il conoscente` | acquaintance | Il signor Rossi non è un amico, è un conoscente: ci salutiamo e basta. | L3 s3, s4 |
+| `i parenti` | relatives | A Natale vengono tutti i parenti: zii, cugini, nonni. | L3 s3, s4, s6 · Ckpt C5 |
 
 **Three things to get right:**
 
@@ -110,15 +110,15 @@ only means being in touch.
 
 | Italian | English | Example sentence | Met in |
 | --- | --- | --- | --- |
-| `socievole` | sociable | La mia coinquilina è molto socievole: conosce tutti nel palazzo. | L3 s5, s9 · L4 s5 · L5 s3 · Ckpt A6 |
-| `riservato` | reserved | Io invece sono abbastanza riservato: non parlo molto di me. | L3 s5, s9 · L4 s3, s5 · Ckpt C5 |
+| `socievole` | sociable | La mia coinquilina è molto socievole: conosce tutti nel palazzo. | L3 s5, s9 · L4 s5 · L5 s3 · Ckpt C4 |
+| `riservato` | reserved | Io invece sono abbastanza riservato: non parlo molto di me. | L3 s5, s9 · L4 s3, s5 · Ckpt B5 |
 | `testardo` | stubborn | Mio padre è testardo: ha deciso e non cambia idea. | L3 s5 · L4 s5 |
-| `permaloso` | touchy, easily offended | Meglio non scherzare sul suo lavoro: è un po' permaloso. | L3 s5, s7 · Ckpt A7 |
-| `affidabile` | reliable | È la persona più affidabile che conosco: se dice alle otto, alle otto c'è. | L3 s5, s9 · L4 s3 · Ckpt A8 |
+| `permaloso` | touchy, easily offended | Meglio non scherzare sul suo lavoro: è un po' permaloso. | L3 s5, s7 · Ckpt C4 |
+| `affidabile` | reliable | È la persona più affidabile che conosco: se dice alle otto, alle otto c'è. | L3 s5, s9 · L4 s3 · Ckpt C4 |
 | `disponibile` | helpful, willing to help | Il mio vicino è sempre disponibile se hai bisogno di una mano. | L3 s5, s9 · L4 s3, s5 · L5 s3 · Ckpt C4 |
-| `in gamba` | capable, on the ball | Ha trentadue anni e gestisce due negozi: è davvero in gamba. | L3 s5, s9 · L4 s5 · L5 s3 · Ckpt A9 |
-| `andare d'accordo (con)` | to get on (with) | Vado molto d'accordo con i miei vicini. | L3 s5, s9 · L4 s4, s5 · L5 s3 · Ckpt A10, C3 |
-| `litigare` | to argue, to fall out | Io e mio fratello litighiamo ogni volta che parliamo di soldi. | L3 s5, s9 · L4 s5 · L5 s3 · Ckpt A10 |
+| `in gamba` | capable, on the ball | Ha trentadue anni e gestisce due negozi: è davvero in gamba. | L3 s5, s9 · L4 s5 · L5 s3 · Ckpt C3 |
+| `andare d'accordo (con)` | to get on (with) | Vado molto d'accordo con i miei vicini. | L3 s5, s9 · L4 s4, s5 · L5 s3 · Ckpt C2 |
+| `litigare` | to argue, to fall out | Io e mio fratello litighiamo ogni volta che parliamo di soldi. | L3 s5, s9 · L4 s5 · L5 s3 |
 
 **The agreement, in three groups.** Copy this into your notebook; it covers every
 adjective in this unit and most of the ones in the next eleven.
@@ -200,11 +200,9 @@ her grandparents are not parents. Use the context, not the warning.
 | | **Total productive** | **30** |
 | Recognition only | L3, L4, L5 | 5 `piacere` chunks + 4 others |
 
-Thirty, matching the syllabus. `i parenti` is counted **inside** set B (i) here,
-following `lexis-progression.md`, although that document also describes the
-false-friend strand as sitting outside the thirty. That inconsistency is bookkeeping
-rather than language and it is an open item on the Curriculum Architect, raised at
-ITA-6; nothing in this unit changes depending on how it is resolved.
+Thirty, matching the syllabus. `i parenti` is counted **inside** set B (i), per the
+counting rule in `lexis-progression.md` §The false-friend thread (ITA-8): false-friend
+items sit inside their set's thirty, tagged as strand items.
 
 **Every item in this file is used in at least one activity**, which is what the "met
 in" column is for. An item whose only entry was its presentation stage would have

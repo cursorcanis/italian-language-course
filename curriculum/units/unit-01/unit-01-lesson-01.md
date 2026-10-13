@@ -19,8 +19,8 @@ selfstudy_min: 50
 > ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
 > **pass with edits**; see
 > [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
-> Audio cue 1 is not to be recorded until its length target is reconciled; read
-> the script aloud as this file already says.
+> Cue 1 runs ~1:50 (ITA-14); stages 4 and 5 are timed to absorb it, and it may
+> be recorded. Until it is, read the script aloud as this file says.
 
 ---
 
@@ -32,8 +32,8 @@ selfstudy_min: 50
 | **Slot** | L1 — input and theme entry. Riflessivi appear **receptively only**. |
 | **One goal** | By the end, the learner can describe their own week using at least eight reflexive routine verbs, working from a model. |
 | **Method** | **ESA.** Engage (my week on a clock) → Study (lexis set A, then a three-pass listen with a noticing grid) → Activate (routine ladder, then a retell). PPP would be wrong here: the form is not being taught yet, and presenting it would spend L2's lesson a day early. |
-| **Materials** | This file. Audio cue 1, `assets/audio/unit-01/u01-l01-messaggio.mp3` — **not yet recorded.** Read the script in [`unit-01-audio-script.md`](unit-01-audio-script.md) aloud: twice at normal pace (stages 4 and 5) and once slowly (stage 6). Board or large paper. |
-| **Prep** | Read this file: 15 minutes. Read cue 1 aloud once to yourself, out loud, with the pauses — it is 95 seconds and reading it cold in front of a class is the one thing that goes wrong. Nothing to print; if you want the noticing grid and the clock grid on paper, one double-sided copy per learner. |
+| **Materials** | This file. Audio cue 1, `assets/audio/unit-01/u01-l01-messaggio.mp3` — **not yet recorded.** Read the script in [`unit-01-audio-script.md`](unit-01-audio-script.md) aloud: three times at normal pace (once in stage 4, twice in stage 5) and once slowly (stage 6). Board or large paper. |
+| **Prep** | Read this file: 15 minutes. Read cue 1 aloud once to yourself, out loud, with the pauses — it is about 1:50 at normal pace and reading it cold in front of a class is the one thing that goes wrong. Nothing to print; if you want the noticing grid and the clock grid on paper, one double-sided copy per learner. |
 
 ---
 
@@ -44,8 +44,8 @@ selfstudy_min: 50
 | 1 | Opener — *tre cose* | 5 | Pairs → lockstep | Warm the mouth, set the theme |
 | 2 | Engage — my week on a clock | 7 | Solo → pairs | Create the need for the lexis |
 | 3 | Lexis set A — the 11 routine verbs | 13 | Lockstep → solo | Meet, hear, say, record |
-| 4 | Listen 1 — gist (`A1` pass 1) | 6 | Solo → lockstep | Global understanding, remove panic |
-| 5 | Listen 2 — detail (`A1` pass 2) | 10 | Solo → pairs → lockstep | The actual listening work |
+| 4 | Listen 1 — gist (`A1` pass 1) | 5 | Solo → lockstep | Global understanding, remove panic |
+| 5 | Listen 2 — detail (`A1` pass 2) | 11 | Solo → pairs → lockstep | The actual listening work |
 | 6 | Listen 3 + noticing grid (`A1` pass 3, `A2`) | 10 | Solo → pairs | Collect the form without analysing it |
 | 7 | Controlled practice — supported gap-fill | 10 | Solo → pairs | First accurate use |
 | 8 | Routine ladder (`A6`, rungs 1–2) | 15 | Lockstep → pairs | Scaffolded spoken output |
@@ -161,7 +161,7 @@ destroys stage 6.
 
 ---
 
-### 4 · Listen 1 — gist — 6 min · solo → lockstep
+### 4 · Listen 1 — gist — 5 min · solo → lockstep
 
 **Purpose.** One global question, so that learners hear the whole recording once
 without a task heavy enough to stop them hearing it. `A1` pass 1.
@@ -185,7 +185,7 @@ twice costs four minutes you need at stage 8.
 
 ---
 
-### 5 · Listen 2 — detail — 10 min · solo → pairs → lockstep
+### 5 · Listen 2 — detail — 11 min · solo → pairs → lockstep
 
 **Purpose.** The real listening work. `A1` pass 2. Two exercises, one closed and
 one open, so that learners who found pass 1 easy are not idle.
@@ -198,8 +198,9 @@ own first, then compare with your partner, then we check."
 **CCQ.** "Do you compare with your partner before or after you listen?"
 → *After, and after I've written my own answers.*
 
-Play twice at normal pace, no pause between. Then two minutes in pairs, then check
-in lockstep. Exercises 1 and 2 with their keys are below.
+Play twice at normal pace, no pause between — about four minutes of audio, which
+is why this stage has eleven minutes and stage 4 has five. Then two minutes in
+pairs, then check in lockstep. Exercises 1 and 2 with their keys are below.
 
 **Correction stance.** Accuracy. Right or wrong, checked openly. When an answer is
 wrong, give the paragraph number and play those eight seconds again rather than
@@ -451,11 +452,11 @@ Two are done for you.
 | 11 | ci | sentiamo | Giulia and Sara | [6] |
 | 12 | mi | sveglio | Giulia | [7] |
 | 13 | mi | alzo | Giulia | [7] |
-| 14 | mi | addormento | Giulia | [8] |
-| 15 | mi | trovo (bene) | Giulia | [8] |
-| 16 | — | lamentarmi | Giulia | [7] |
+| 14 | — | lamentarmi | Giulia | [7] |
+| 15 | mi | addormento | Giulia | [8] |
+| 16 | mi | trovo (bene) | Giulia | [8] |
 
-**Items 7 and 16 are the interesting ones** and the key must say so, because a
+**Items 7 and 14 are the interesting ones** and the key must say so, because a
 learner marking their own work will think they are wrong: in `devo sbrigarmi` and
 `non posso lamentarmi` the little word is **stuck on the end** of the verb instead
 of standing in front of it. Both are correct, both are Italian, and **why** is

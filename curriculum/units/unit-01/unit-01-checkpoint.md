@@ -5,169 +5,270 @@ instrument: checkpoint
 duration_min: 10
 marks: 25
 pass_mark: 18
-covers: ["lexis set 1", "riflessivi + presente indicativo", "within-A2: question forms and adjective agreement"]
+pass_conditions: ["≥ 18/25", "Part D TA ≥ 3", "Part D TS ≥ 3", "≥ 1/2 on Part B recycled gaps (B5–B6)"]
+covers: ["lexis set 1 (subgroups A, C + false friend)", "riflessivi in the present, incl. reciprocal", "within-A2: question forms and adjective agreement"]
+spec: assessment/unit-checkpoint-template.md
 ---
 ```
 
 # Unit 1 — Checkpoint
 
-> ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
-> **pass with edits**; see
-> [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
-> The ITA-4 re-alignment below is separate and still owed.
+> ⚠️ **Italian partly awaiting review.** This instrument was re-aligned to the
+> ITA-4 checkpoint template under ITA-12 (Lesson Designer, 2026-10-12). The
+> **Part A script, the Part B text and the Part C items are new Lesson Designer
+> drafts**, marked `[ITA?]`; do not use the checkpoint with learners until the
+> Italian Content Editor has passed them. The **self-rating** wording is unchanged
+> from the version signed off under ITA-10
+> ([`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md)).
 
-**Ten minutes, on your own, in silence, no notes.** Run inside
-[L5 stage 7](unit-01-lesson-05.md). Twenty-five marks. Everything in it was taught
-**and used** in Lessons 1–4. You mark it yourself in five minutes, and the mark
-comes with an instruction — that instruction is the point of the checkpoint, not
-the mark.
+**Ten minutes of your time, then about nine to mark it.** Run inside
+[L5 stages 7 and 8](unit-01-lesson-05.md). Twenty-five marks in four parts.
+Everything in it was taught **and used** in Lessons 1–4. You mark three parts
+yourself; a partner marks one score in the fourth. The result is a **profile**,
+not a single number, and it comes with an instruction — that instruction is the
+point of the checkpoint, not the mark.
 
-Built to the shape in
+Built to [`assessment/unit-checkpoint-template.md`](../../../assessment/unit-checkpoint-template.md)
+(ITA-4), Unit 1 row of its per-unit parameters, and to the course shape in
 [`../unit-template/unit-NN-checkpoint.md`](../unit-template/unit-NN-checkpoint.md).
-Its full specification belongs to **ITA-4 (assessment framework)**; when that spec
-lands, this instrument is revised against it.
 
-| Part | Tests | Marks |
-| --- | --- | --- |
-| **A** | Lexis set 1 | 10 |
-| **B** | Riflessivi and presente indicativo | 10 |
-| **C** | Recycled: question forms and adjective agreement | 5 |
-| | | **25** |
+| Part | Tests | Time | Marks | Who marks |
+| --- | --- | --- | --- | --- |
+| **A** | Listening: a short exchange, two people comparing weeks | 3 min | 4 | You |
+| **B** | Grammar in a text: riflessivi (4 gaps) + within-A2 recycling (2 gaps) | 3 min | 6 | You |
+| **C** | Words in use: lexis set 1 | 2 min | 5 | You |
+| **D** | Speaking: a 45–60-second recorded turn | 2 min | 10 (TA 5 + TS 5) | You (TA) · a partner (TS) |
+| | | **10 min** | **25** | |
 
-**Pass mark 18/25**, plus the self-rating at the end, which is part of the
-instrument and not an afterthought.
+**Pass — all four conditions:** **≥ 18/25** overall · **TA ≥ 3** in Part D ·
+**TS ≥ 3** in Part D · **at least 1 of 2** on Part B's recycled gaps (B5–B6).
+
+**Unit 1's recycled section is an exception, stated as one.** There is no earlier
+unit to recycle, so B5–B6 recycle **within A2**: noun–adjective agreement and a
+present-tense question form (ITA-4 per-unit parameters, row 1).
 
 **What is deliberately not here.** The five `piacere` chunks. They are
 recognition-only lexis, and recognition-only items are not tested — the learner has
 been told, repeatedly, that understanding how they work is not yet their job, and
 testing them would contradict that. Can-do goal 3 is therefore assessed by
-**self-rating alone**, and the rating wording below says so.
+**self-rating alone**, and the rating wording below says so. Pronunciation and the
+`tu`/`Lei` culture note are not checked either (ITA-4: neither is a ten-minute
+construct).
 
 ---
 
-## Part A — Le parole di questa unità · 10 marks
+## Part A — Ascolto · 3 minutes · 4 marks `[ITA?]`
 
-Write the missing word. No options are given. One word per gap unless the gap says
-otherwise.
+**How it runs.** The teacher reads the exchange aloud **twice**, at normal pace,
+taking both voices. Learners answer **in English or Italian** — this part checks
+understanding, not writing. Self-study: read the script below **once, silently**,
+then cover it and answer from memory (the course's rule for unrecorded audio).
+The script is not a recorded cue in v1; if it is recorded later it becomes
+`assets/audio/unit-01/u01-l05-checkpoint.mp3` and moves to the audio script file.
 
-1. Vivo con due altre persone in un appartamento: sono le mie ______ .
-2. Lavoriamo insieme, nello stesso ufficio, tutti i giorni: è un mio ______ .
-3. Non è un amico — è una persona che conosco e basta: un ______ .
-4. Abita nell'appartamento accanto al mio: è il mio ______ .
-5. A Natale vengono zii, cugini e nonni: vengono tutti i ______ .
-6. Conosce tutti e parla con tutti: è molto ______ .
-7. Se dici una cosa sul suo lavoro, si offende subito: è ______ .
-8. Se dice che viene alle otto, alle otto c'è: è ______ .
-9. Ha trentadue anni e gestisce due negozi: è una donna ______ *(two words)*.
-10. Io e mio fratello non ______ *(two words)*: litighiamo sempre.
+**Script** (two speakers, ~85 words, about 45 seconds)
 
-**Key.** 1 coinquiline · 2 collega · 3 conoscente · 4 vicino · 5 parenti ·
-6 socievole · 7 permaloso · 8 affidabile · 9 **in gamba** · 10 **andiamo
-d'accordo**. **1 mark each, 10 marks.**
+> **Anna:** Allora, Luca, com'è la tua settimana?
+>
+> **Luca:** Normale. Mi sveglio alle sette, ma il martedì no: il martedì mio figlio
+> mi sveglia alle sei, perché ha la piscina. E tu?
+>
+> **Anna:** Io mi alzo tardi, alle nove: lavoro da casa. Però la sera esco spesso.
+>
+> **Luca:** Io invece la sera mi addormento sul divano!
+>
+> **Anna:** E il weekend? Ci vediamo sabato?
+>
+> **Luca:** Sabato no, lavoro. Domenica?
+>
+> **Anna:** Va bene, domenica.
+
+**Questions**
+
+1. *(gist)* What are Anna and Luca mainly talking about?
+   (a) their jobs · (b) their normal week · (c) a holiday
+2. *(detail)* What time does Anna get up, and why so late?
+3. *(detail)* Which day do they agree to meet?
+4. *(main structure)* On Tuesdays, what happens at six o'clock?
+   (a) Luca's son wakes Luca up · (b) Luca's son wakes up on his own ·
+   (c) Luca wakes his son up
+
+**Key.** 1 **(b)** · 2 **nine o'clock — she works from home** (both halves needed) ·
+3 **Sunday** · 4 **(a)**. **1 mark each, 4 marks.** Spelling and language not
+marked: a right answer in rough English is right.
 
 **Marking notes.**
-- **1** — `coinquiline` (feminine plural, because of `le mie`). Accept
-  `coinquilini` only if the learner also changed `le mie` to `i miei`; otherwise it
-  is an agreement error inside a lexis item and loses the mark. This is the one item
-  in part A where agreement is marked, and it is marked because the stem gives it
-  away.
-- **2 and 3** are written so that each has one answer: 2 is defined by working
-  together (`collega`), 3 by knowing someone and nothing more (`conoscente`). A
-  colleague is not a `conoscente` in Italian — the relationship already has a name.
-- **5** — `parenti`. `genitori` is **wrong**: uncles, cousins and grandparents are
-  not parents, and the sentence was written to make that impossible. This is the
-  unit's false-friend item and it is the one part-A mark worth looking at twice.
-- **9** — `in gamba`, never `*in gambe`, even about a woman.
-- Spelling: accept one wrong letter if the word is unambiguous (`*sociavole` for
-  `socievole`). Do not accept a word that has become a different word.
-
-*Part A tests set B — the people and the character words — because set A is eleven
-reflexive verbs and those are tested as grammar in part B. Testing them twice would
-spend four marks proving the same thing.*
+- **Item 4 is the one that turns on the unit's grammar.** `mio figlio mi sveglia`
+  — the pronoun is `mi`, so the son wakes **me**. A learner who hears only
+  `figlio`, `sveglia` and `sei` cannot choose: all three options contain them.
+  (b) would be `mio figlio si sveglia`; (c) would be `sveglio mio figlio`. This is
+  L2 stage 2's point — *the wrong pronoun makes a different sentence* — turned into
+  a listening item.
+- **Item 2** needs both the time and the reason; either alone is 0.
 
 ---
 
-## Part B — Riflessivi e presente · 10 marks
+## Part B — Grammar in a text · 3 minutes · 6 marks `[ITA?]`
 
-Write the correct form of the verb in brackets.
+Chiara is writing to Petra, who is moving into her flat. Write the right form of
+the word in brackets. One to three words per gap.
 
-1. La mattina io ______ (svegliarsi) alle sei e mezza.
-2. Mia sorella non ______ (alzarsi) mai prima delle dieci.
-3. Io e Marco ______ (sentirsi) ogni domenica.
-4. Ragazzi, ______ (sbrigarsi)! Siamo in ritardo.
-5. Prima di uscire, ______ (dovere / prepararsi, io).
-6. I miei coinquilini ______ (occuparsi) del cane.
-7. Il sabato ______ (rilassarsi, io) e non faccio niente.
-8. Tu a che ora ______ (addormentarsi) di solito?
-9. Noi ______ (vedersi) al bar dopo il lavoro.
-10. Lei ______ (trovarsi) bene in questa città?
+> Ciao Petra! Allora, ti racconto com'è la vita in questa casa. Io e Marta
+> **(1)** ______ (svegliarsi) presto, alle sei e mezza, perché lavoriamo tutte e
+> due in centro. La mattina io **(2)** ______ (farsi) la doccia per prima, e Marta
+> prepara il caffè. Il giovedì lei **(3)** ______ (occuparsi) della spesa, e io
+> pulisco la cucina. Durante la settimana io e Marta non **(4)** ______ (vedersi)
+> molto, ma la domenica pranziamo sempre insieme. Le altre due ragazze sono molto
+> **(5)** ______ (riservato), ma simpatiche. E tu, che lavoro **(6)** ______
+> (fare)? A presto, Chiara
 
-**Key.** 1 mi sveglio · 2 si alza · 3 ci sentiamo · 4 **sbrigatevi** ·
-5 **devo prepararmi** *or* **mi devo preparare** · 6 si occupano · 7 mi rilasso ·
-8 ti addormenti · 9 ci vediamo · 10 si trova. **1 mark each, 10 marks.**
+**Key and alternatives.**
+
+| Gap | Tests | Key | Also accept | Not accepted |
+| --- | --- | --- | --- | --- |
+| B1 | riflessivi — `noi` | **ci svegliamo** | — | `*si svegliamo`, `*svegliamo` |
+| B2 | riflessivi — `io`, with an object | **mi faccio** | — | `*faccio` |
+| B3 | riflessivi — third person | **si occupa** | — | `*mi occupa` (see note) |
+| B4 | reciprocal | **ci vediamo** | — | `*si vediamo`, `*vediamo` |
+| B5 | **recycled** — adjective agreement | **riservate** | — | `riservata`, `riservati` |
+| B6 | **recycled** — present-tense question form | **fai** | — | `fa` (that is `Lei`; the letter says `tu`) |
+
+**1 mark each, all or nothing, 6 marks.** B1–B4 are the main structure; **B5–B6
+are the recycled gaps, and pass condition 4 needs at least one of them.**
+Spelling and accents not marked.
 
 **Marking notes.**
-- **Item 5 accepts two answers** because both are correct Italian and L2 stage 5
-  taught them as an equal pair. That is a deliberate exception to the
-  one-unambiguous-answer rule, and the key states it rather than leaving a
-  self-marking learner to guess. `*devo mi preparare` is wrong.
-- **Item 4** is the only imperative on the paper. It was taught as a **fixed chunk**
-  in L2 stage 7 and tested as one; `sbrigarsi` is seeded in this unit precisely
-  because U7 needs its imperative. A learner who writes `sbrigatevi` has remembered
-  a phrase, which is all that was asked.
-- **Item 10** is `Lei`, not `lei` — a formal question. The form is the same either
-  way, so the mark is the same either way; it is here to put the register in front of
-  the learner one last time.
-- **Items 3 and 9** are the reciprocals. `*si sentiamo` / `*si vediamo` is the
-  commonest wrong answer: the learner has learned that `si` means "reflexive" rather
-  than that the pronoun follows the subject.
+- **B3** — `*mi occupa della spesa` is the error L2's clinic was built on: the
+  pronoun stays `mi` because `mi` has been drilled, not because the subject is
+  `io`. It scores 0.
+- **B1 and B4** — `*si svegliamo` / `*si vediamo` is the commonest wrong answer:
+  the learner has stored `si` as "the reflexive word" rather than learning that the
+  pronoun follows the subject.
+- **B5** — `ragazze` is feminine plural; `riservate`. `riservato` copied from the
+  brackets scores 0.
 
 ---
 
-## Part C — Recycled: domande e accordo · 5 marks
+## Part C — Words in use · 2 minutes · 5 marks `[ITA?]`
 
-**C1–C3.** Rewrite each question using `Lei`.
+**C1–C3 and C5.** Write the missing word or words. No options are given.
 
-1. Come ti chiami?
-2. Dove abiti?
-3. Vai d'accordo con i tuoi vicini?
+1. Mi trovo ______ qui: il quartiere è tranquillo e i vicini sono simpatici.
+2. Io e mia sorella andiamo molto ______ : non litighiamo mai.
+3. È una persona in ______ : risolve sempre tutto.
+5. Il 25 dicembre vengono a pranzo tutti i miei ______ : zii, cugini, nonni.
 
-**C4–C5.** Write the adjective in the right form.
+**C4.** Which word is the odd one out? Circle it, and write **why** in one English
+word.
 
-4. Le mie colleghe sono molto ______ (disponibile).
-5. Il mio collega è molto ______ (riservato).
+4. `socievole` · `affidabile` · `disponibile` · `permaloso`
 
-**Key.** 1 Come si chiama? · 2 Dove abita? · 3 Va d'accordo con i **suoi** vicini? ·
-4 disponibil**i** · 5 riservat**o**. **1 mark each, 5 marks.**
+**Key.** 1 **bene** · 2 **d'accordo** · 3 **gamba** · 4 **permaloso** — *negative*
+(accept any one English word that says it is the unflattering one: *negative*,
+*bad*, *unkind*, *critical*) · 5 **parenti**. **1 mark each, 5 marks.** Spelling
+not marked unless the word has become a different word.
+
+**What the five sample.** Subgroup A (routine verbs: C1, the chunk `trovarsi
+bene`), subgroup C (character and getting on: C2–C4), and the unit's false friend
+(C5, subgroup B). Three of the five are **chunks** (`trovarsi bene`, `andare
+d'accordo`, `in gamba`).
 
 **Marking notes.**
-- **C3** needs **both** changes — the verb *and* the possessive. Half-marks are not
-  used anywhere in this course, so `Va d'accordo con i tuoi vicini?` scores **0**.
-  That is harsh and it is deliberate: it is the error L4 predicted, and a mark for
-  getting half of it would tell the learner they had got it.
-- **C5's answer is the same word as the prompt.** `il collega` is **masculine**
-  despite ending in `-a`, so `riservato` does not change. A learner who wrote
-  `riservata` was agreeing with the letter at the end of the noun instead of with its
-  gender, which is exactly the thing this item exists to catch.
-- **C4** — `-e` adjectives do not change for gender but **do** change for number.
+- **C4** needs both the circled word and a reason that says why. `permaloso` with
+  no reason, or with a reason that is not about it being negative, scores 0.
+- **C5** — `genitori` is **wrong**: uncles, cousins and grandparents are not
+  parents, and the sentence was written to make that impossible. This is the
+  unit's false-friend item.
+- **C3** — `gamba`, never `*gambe`.
 
 ---
 
-## Mark, and what to do about it
+## Part D — Speaking · 2 minutes · 10 marks
 
-| Mark | Reading | Do this |
+**Prompt** (read it, then record on your phone — the room will not be silent for
+this part; speak quietly, phone close):
+
+> A new colleague asks about your life outside work. Record **45–60 seconds**.
+> Tell them: **(1)** what a normal weekday looks like for you, **(2)** one thing
+> that is different at the weekend, and **(3)** one person close to you and what
+> they are like.
+
+**Required elements** (this is the TA checklist): **(1)** a weekday routine, with
+at least two times or parts of the day · **(2)** one weekend difference ·
+**(3)** one named person, with at least one character word. Length 45–60 seconds.
+
+**Elicitation floor:** **4 reflexive verbs** (any person). Below 4, TS cannot score
+above 2, however accurate the rest is.
+
+**Scales** — from [`assessment/rubrics.md`](../../../assessment/rubrics.md):
+
+- **TA — Task achievement, 0–5.** **You** score this, against the three required
+  elements and the length. All three present and 45–60 seconds is a 3 at least;
+  missing one is a 2. Full descriptors:
+  [§Scale TA](../../../assessment/rubrics.md#scale-ta--task-achievement-05).
+- **TS — the reflexive verbs, 0–5.** **A partner** scores this, listening once:
+  count the reflexive verbs, count how many have the right pronoun in the right
+  place. Four or more with most of them right is a 3 (pass). Full descriptors:
+  [§Scale TS](../../../assessment/rubrics.md#scale-ts--range-and-control-of-the-target-structure-05).
+  You do not score your own TS — a learner cannot reliably judge their own control
+  of a structure learned this week, and the error is always optimistic.
+
+**Not scored here:** general accuracy, pronunciation, agreement. A recording that
+gets an adjective wrong loses nothing in Part D; if it drops the reflexive pronoun,
+that goes to TS and only there.
+
+**Working alone, with no partner?** Score TA, leave TS blank, and write
+**provisional** next to your result. A provisional result tells you everything
+except whether the reflexive verbs were right. If Unit 2's checkpoint is also
+provisional, find a marker — another learner, a teacher, an Italian speaker — for
+the next one.
+
+---
+
+## Your result, and what to do about it
+
+**Write your result as a profile**, not a number:
+`A __/4 · B main __/4 + recycled __/2 · C __/5 · D TA __/5, TS __/5 · total __/25 ·
+pass / not yet`. A bare "19/25" tells you nothing you can act on.
+
+**Pass** needs all four: **≥ 18/25**, **TA ≥ 3**, **TS ≥ 3**, **≥ 1/2 on B5–B6.**
+
+| Result | Reading | Do this |
 | --- | --- | --- |
-| **22–25** | Secure | Move on to Unit 2. Write down the two items you got wrong and look at them once more this week. |
-| **18–21** | Pass | Move on, **and** redo the self-study for your weakest part before Unit 2's L3. If that was part B, it is L2's self-study, which takes 55 minutes. |
-| **Below 18** | Not yet | Redo Unit 1 L2's self-study and take this checkpoint again in a week. **Do not move on.** Unit 2 puts these same reflexive verbs into the past and uses them to teach `essere` plus participle agreement; shaky here is not a small problem there. |
+| Pass, **22–25** | Secure | Start Unit 2. Write down the two items you got wrong and look at them once more this week. |
+| Pass, **18–21** | Pass | Start Unit 2, **and** redo the self-study for your weakest part (table below) before Unit 2's L3. |
+| **Not yet** — any condition missed | Not yet | **Start Unit 2 anyway**, and write a **carry-forward entry** (below). Redo the self-study for the part that failed before Unit 2's L3. A checkpoint result never stops you starting the next unit. |
+
+**Why "not yet" does not hold you back.** The reflexive verbs come back, already
+scheduled: in the past at **U2 L4**, again at U3 L4, and as a mandated second
+encounter at **U4 L4**. A structure that did not land in week one often lands at
+its next encounter, inside a new theme, which is a better repair than repeating
+the same lessons.
+
+**The carry-forward entry.** Write it on the first page of your notebook:
+
+> *Riflessivi in the present (U1) — returns U2 L4. Closed when U2 L4 is done **and**
+> the U2 checkpoint's recycled gaps (riflessivi in the past) are right.*
+
+If the condition you missed was B5–B6 rather than the reflexives, write
+*question forms / agreement (U1, within A2) — returns U1's own L4 self-study and U3
+L4 (adjectives extended to places)* instead.
+
+**Two "not yet" results in a row** — here and at Unit 2 — mean doing the repair set
+for the earlier structure before Unit 3's L2 (ITA-4 escalation; the repair sets are
+not built yet). **Three in a row** means re-running the placement check. One is
+normal.
 
 **Where your marks were lost tells you which thing to redo:**
 
 | Lost most marks in | Redo |
 | --- | --- |
-| Part A | L3 self-study stages 3 and 5, plus `unit-01-lexis.md` with the English column covered |
-| Part B | L2 self-study in full — in particular exercise 1 round 3 and exercise 3 |
-| Part C | L4 self-study stages 4 and 5 |
+| Part A | L1 self-study stages 4–5, then L2 stage 2 — item 4 is about who the pronoun points to |
+| Part B, B1–B4 | L2 self-study in full — in particular exercise 1 round 3 and exercise 4 |
+| Part B, B5–B6 | L4 self-study stages 4 and 5 |
+| Part C | L3 self-study stages 3 and 5, plus `unit-01-lexis.md` with the English column covered |
+| Part D, TS | L2 self-study exercise 6, then re-record Part D and have it marked again |
+| Part D, TA | L5 stage 3 — the planner — and re-record against the three required elements |
 
 ---
 
@@ -196,6 +297,29 @@ twelve units.
 - **Goal 3 is the odd one out**, and the wording tells you why: it asks whether the
   five phrases come out fluently, not whether you understand them. You are not
   supposed to understand them yet. Unit 8.
-- If **goal 2** is a 1 or 2 while part A scored well, you have the words and cannot
+- If **goal 2** is a 1 or 2 while part C scored well, you have the words and cannot
   yet use them at speed. The fix is L3's exercise 7 — written, then said aloud from
   memory — not more vocabulary.
+
+---
+
+## Construct-validity check (ITA-4 checklist, run 2026-10-12)
+
+- [x] Part A uses only Unit 1 lexis and A2 basics (`piscina`, `lavoro da casa` are
+      A2 and transparent from context).
+- [x] Part A item 4 cannot be reached by keyword matching: all three options share
+      `son`, `wake` and `six`.
+- [x] No Part A or C item needs accurate Italian to score (C keys are single words
+      or chunks; spelling not marked).
+- [x] Part B splits 4 main / 2 recycled; Unit 1's recycled gaps are within-A2, as
+      the parameter table states for U1.
+- [x] Every Part B gap has its alternatives line, and each needs the co-text (B1
+      and B4 need `Io e Marta`; B3 needs `lei`; B5 needs `ragazze`; B6 needs `tu`).
+- [x] Part C: one false-friend item (C5), three chunks.
+- [x] Part D lists its required elements and does not name the target structure.
+- [x] Part D's floor (4 reflexives) is reachable in 45 seconds — cue 4 does eleven
+      in under two minutes.
+- [x] Nothing tests a structure later than Unit 1; no congiuntivo; no `piacere`.
+- [x] Timing 3 + 3 + 2 + 2 = 10. **Not yet verified by timing a worked answer** —
+      do that at the first live run and adjust Part A's script length if it
+      overruns.

@@ -53,6 +53,12 @@ selfstudy_min: 50
 > **Shape.** Six lines a teacher reads in ninety seconds. The prep line is
 > honest: if the prep really is "read this file", say that, and if the lesson
 > needs cards cut up, say how many and how long that takes.
+>
+> **L4 files only:** directly under this table, a **contract ledger** — one row
+> per contract structure: *structure (origin) · mandated? · written production
+> site · spoken production site · counted in*. Compulsory; see `README.md` §2 and
+> §4, and the worked ledger in
+> [`../unit-07/unit-07-lesson-04.md`](../unit-07/unit-07-lesson-04.md).
 
 **Filled example (Unit 1 L1)**
 
@@ -62,8 +68,8 @@ selfstudy_min: 50
 | **Slot** | L1 — input and theme entry. Riflessivi appear **receptively only**. |
 | **One goal** | By the end, the learner can describe their week using at least eight reflexive routine verbs, working from a model. |
 | **Method** | **ESA.** Engage (routine on a clock) → Study (three-pass listen + noticing grid) → Activate (routine ladder + third-person retell). PPP would be wrong here: the form is not being taught yet, and presenting it would spend L2's lesson a day early. |
-| **Materials** | This file. Audio `assets/audio/unit-01/u01-l01-messaggio.mp3` — **not yet recorded**; read the script in `unit-01-audio-script.md` aloud, twice at normal pace and once slowly. |
-| **Prep** | Read this file (15 min). Practise reading the script aloud once. Nothing to print; if you want the noticing grid on paper, one copy per learner. |
+| **Materials** | This file. Audio `assets/audio/unit-01/u01-l01-messaggio.mp3` — **not yet recorded**; read the script in `unit-01-audio-script.md` aloud: three times at normal pace (once in stage 4, twice in stage 5) and once slowly (stage 6). |
+| **Prep** | Read this file (15 min). Practise reading the script aloud once — it is about 1:50 at normal pace. Nothing to print; if you want the noticing grid on paper, one copy per learner. |
 
 ---
 
@@ -81,8 +87,8 @@ selfstudy_min: 50
 | 1 | Opener — *tre cose* | 5 | Pairs → lockstep | Warm the mouth, set the theme |
 | 2 | Engage — my week on a clock | 7 | Solo → pairs | Create the need for the lexis |
 | 3 | Lexis set A — the 11 routine verbs | 13 | Lockstep → solo | Meet, hear, say, record |
-| 4 | Listen 1 — gist | 6 | Solo → lockstep | Global understanding, remove panic |
-| 5 | Listen 2 — detail | 10 | Solo → pairs → lockstep | Real listening work |
+| 4 | Listen 1 — gist | 5 | Solo → lockstep | Global understanding, remove panic |
+| 5 | Listen 2 — detail | 11 | Solo → pairs → lockstep | Real listening work |
 | 6 | Listen 3 + noticing grid (`A2`) | 10 | Solo → pairs | Collect the form without analysing it |
 | 7 | Controlled practice — gap-fill | 10 | Solo → pairs | First accurate use |
 | 8 | Routine ladder (`A6` rungs 1–2) | 15 | Lockstep → pairs | Scaffolded spoken output |
@@ -164,15 +170,16 @@ asked for, or given.
 3. Il martedì deve sbrigarsi.
 4. Il sabato si sveglia con la sveglia.
 5. Vede Sara una volta al mese.
-6. La domenica si addormenta davanti alla televisione.
+6. La domenica sera si addormenta davanti alla televisione.
 
-**Key.** 1 **F** — *non mi alzo subito, resto a letto dieci minuti.* · 2 **F** —
-*faccio colazione in piedi, in cucina.* · 3 **V** · 4 **F** — *il sabato non mi
-sveglio con la sveglia.* · 5 **F** — *ci vediamo quasi ogni settimana.* ·
-6 **V**.
+**Key.** 1 **F** — *non mi alzo subito: resto a letto dieci minuti* [2]. ·
+2 **F** — *faccio colazione in piedi, in cucina* [2]. · 3 **V** [4]. · 4 **F** —
+*il sabato non mi sveglio con la sveglia* [7]. · 5 **F** — *ci vediamo quasi ogni
+settimana* [6]. · 6 **V** [8]. **1 mark each, 6 marks.**
 
-*The quoted justification is part of the key, not decoration: a solo learner who
-got an item wrong needs to know where in the text the answer was.*
+*The quoted justification and the paragraph number are part of the key, not
+decoration: a solo learner who got an item wrong needs to know where in the text
+the answer was.*
 
 ---
 
@@ -186,7 +193,10 @@ got an item wrong needs to know where in the text the answer was.*
 >    response.
 > 2. **Correction stance per stage** — which stages get on-the-spot correction
 >    and which get delayed feedback. Name them.
-> 3. **One way to shorten**, for the session that starts late.
+> 3. **One way to shorten**, for the session that starts late. **Never cut the
+>    only production site of a bolded (mandated) structure** — in L4 the contract
+>    ledger says which stages those are, and the shortening line names them as
+>    uncuttable.
 > 4. **One way to extend**, for the group that finishes early.
 >
 > Shortening and extending are both compulsory and both specific: which stage

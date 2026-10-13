@@ -72,7 +72,14 @@ being told what the form *is*.
 - **Discipline.** If a learner asks "so why is it `mi`?", the answer is "we do
   that next lesson — for now just collect them." Answering it converts L1 into
   L2 and throws away the noticing.
-- **Recurs at.** Every unit's L1, feeding that unit's L2.
+- **L4 recycling use.** In L4, `A2` retrieves the contract structures from the L4
+  input text before any work on them: one column per structure, two model rows per
+  column, collection first. Because none of the structures is new, learners **may
+  say what each form does** — but nothing is **taught**: no rule is presented, no
+  paradigm is drawn. Default 6 minutes, solo → pairs. Mark it in the stage title
+  as `A2` (recycling use). Worked example: U7 L4 stage 3.
+- **Recurs at.** Every unit's L1, feeding that unit's L2; and, in its recycling
+  use, every L4 from Unit 2.
 
 ### `A10` — Read and compare (culture)
 
@@ -250,17 +257,24 @@ improve at all.
 
 The ~10-minute end-of-unit check, run inside L5.
 
-- **Shape.** Fixed proportions, so learners know what they are walking into:
-  ~40% the unit's lexis, ~40% its main grammar point, ~20% at least one recycled
-  structure from an earlier unit (syllabus map §Assessment points). Ends with
-  the learner self-rating each can-do goal on the unit's three-point scale.
-- **Pattern.** Solo, silent, timed.
-- **Default timing.** 10 minutes, plus 5 to check and self-rate.
-- **Solo equivalent.** Identical. Self-study learners mark their own, which is
-  why every item has a single unambiguous answer.
-- **Correction stance.** Accuracy. Marked, then the self-rating is what the
-  learner acts on.
-- **Recurs at.** Every unit's L5. Full spec: ITA-4.
+- **Shape.** The ITA-4 instrument
+  ([`assessment/unit-checkpoint-template.md`](../../../assessment/unit-checkpoint-template.md)):
+  four parts — **A** understanding (4), **B** grammar cloze, 4 main + 2 recycled
+  gaps (6), **C** lexis in use (5), **D** a short productive turn scored TA + TS
+  (10) — 25 marks. Pass needs ≥ 18/25, TA ≥ 3, TS ≥ 3 and ≥ 1/2 on the recycled
+  gaps. A fail **does not block** the next unit; it writes a carry-forward entry.
+  Ends with the learner self-rating each can-do goal on the three-point scale.
+  Shape and Unit 1 example: [`unit-NN-checkpoint.md`](unit-NN-checkpoint.md).
+- **Pattern.** Part A lockstep (script read aloud) or solo; B and C solo, silent;
+  D solo, everyone at once. Then solo marking, with a partner for TS.
+- **Default timing.** 10 minutes (3 + 3 + 2 + 2), plus about 9 to mark, swap for
+  TS, write the profile and self-rate.
+- **Solo equivalent.** Part A read once silently, then covered; B–D identical.
+  The learner marks everything except TS, which is left blank and the result
+  marked **provisional**.
+- **Correction stance.** Accuracy. Marked, then the action row and the
+  self-rating are what the learner acts on.
+- **Recurs at.** Every unit's L5. Spec: ITA-4.
 
 ### `A13` — Delayed feedback board
 

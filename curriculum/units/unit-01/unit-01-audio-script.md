@@ -11,10 +11,10 @@ recorded: false
 > ✅ **Italian signed off** — ITA-10, Italian Content Editor, 2026-10-12. Verdict
 > **pass with edits**; what changed and why is in
 > [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
-> **Cues 2, 3 and 4 may be recorded as written.** **Cue 1's Italian is signed
-> off, but hold its recording** until the Lesson Designer reconciles its length
-> target with the script (it runs ~1:50 at the stated pace, not 1:25 — see the
-> sign-off doc). If cue 1 is cut to fit, the cut comes back for Italian review.
+> **All four cues may be recorded as written.** Cue 1's length target was
+> reconciled to ~1:50 under ITA-14 with the script unchanged; the Chief lifted
+> its recording hold on 2026-10-13. Any future cut to a cue comes back for
+> Italian review.
 
 **Until a recording exists**, the teacher reads the script aloud and the
 self-study learner reads it silently once, then covers it and works from memory.
@@ -27,7 +27,7 @@ left waiting for audio that does not exist.
 
 | Cue | Asset path | Lesson | Speakers | Length | Purpose |
 | --- | --- | --- | --- | --- | --- |
-| 1 | `assets/audio/unit-01/u01-l01-messaggio.mp3` | L1 s4–s6 | 1 | ~1:25 | Main input: a voice message about a normal week |
+| 1 | `assets/audio/unit-01/u01-l01-messaggio.mp3` | L1 s4–s6 | 1 | ~1:50 | Main input: a voice message about a normal week |
 | 2 | `assets/audio/unit-01/u01-l03-persone.mp3` | L3 s4 | 3 | ~1:35 | Three people describing the people around them |
 | 3 | `assets/audio/unit-01/u01-l03-accento.mp3` | L3 s8 | 1 | ~1:10 | Word-stress discrimination: pairs and `-ano` verbs |
 | 4 | `assets/audio/unit-01/u01-l05-ritratto.mp3` | L5 s2 | 1 | ~1:55 | Model self-portrait at the task's target standard |
@@ -52,7 +52,10 @@ because learners time themselves against it.
 
 ## Cue 1 — `assets/audio/unit-01/u01-l01-messaggio.mp3`
 
-**Serves.** L1 stages 4, 5 and 6. **Length target** 1:20–1:35, ~195 words.
+**Serves.** L1 stages 4, 5 and 6. **Length target** 1:45–1:55 (`normal` take),
+~205 words. At ≈140 wpm the words take ≈1:28 and the eight `///` and eleven `//`
+pauses add ≈27 s. The target was raised to fit the signed-off script (ITA-14);
+the script was not cut.
 **Speakers.** Giulia, 30s, Bologna. Standard, with a light northern colour.
 **Pace.** Two takes of this script: `normal` (≈140 wpm) for stages 4–5, `slow`
 for stage 6, where learners read along and collect forms.
@@ -280,7 +283,7 @@ that chunk, not as a tense — the passato prossimo is Unit 2.
 ## Cue 4 — `assets/audio/unit-01/u01-l05-ritratto.mp3`
 
 **Serves.** L5 stage 2 (`A6` rung 1 — the worked model). **Length target**
-**1:50–1:58**, ~225 words.
+**1:50–1:58**, ~195 words.
 **Speakers.** Elena, 30s, Padova living in Milan. Standard.
 **Pace.** `normal`. One take.
 

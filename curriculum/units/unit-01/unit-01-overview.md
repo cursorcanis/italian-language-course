@@ -19,8 +19,12 @@ recycles: ["within-A2: present-tense question forms", "within-A2: adjective agre
 > files in this unit pass, with edits made in place; the per-file verdicts, what
 > changed and why are in
 > [`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md).
-> One hold remains: **do not record audio cue 1** until its length target is
-> reconciled (Lesson Designer). Cues 2–4 may be recorded.
+> All four audio cues may be recorded (cue 1's hold lifted 2026-10-13 after
+> ITA-14 reconciled its length to ~1:50, script unchanged).
+>
+> **ITA-12 (Lesson Designer, 2026-10-12):** `unit-01-checkpoint.md` was re-aligned
+> to the ITA-4 instrument. Its Part A–C Italian is **new and awaiting review**; the
+> other nine files' sign-off is unaffected.
 
 **Built to** [`../unit-template/README.md`](../unit-template/README.md). This is
 the unit the template was written against, so it is also the reference
@@ -36,10 +40,10 @@ Lifted unchanged from
 
 | # | Can-do goal | Level | Owned by | Tested by |
 | --- | --- | --- | --- | --- |
-| 1 | I can introduce myself and describe my daily and weekly routine in enough detail that someone gets a real picture of my life, not just a list of times. | A2 | L1, L2 | Checkpoint B + the spoken production task |
-| 2 | I can describe the people closest to me — what they're like and how I get on with them — using several different character adjectives. | A2 | L3 | Checkpoint A + the written production task |
+| 1 | I can introduce myself and describe my daily and weekly routine in enough detail that someone gets a real picture of my life, not just a list of times. | A2 | L1, L2 | Checkpoint A, B1–B4 and D + the spoken production task |
+| 2 | I can describe the people closest to me — what they're like and how I get on with them — using several different character adjectives. | A2 | L3 | Checkpoint C (and D's third element) + the written production task |
 | 3 | I can say what I like, need and miss using fixed expressions, even though I can't yet explain how they work. | A2 | L3 | **Not checkpoint-tested** — see the note below |
-| 4 | I can ask someone the same questions back and keep a short conversation about routines going without stalling. | A2+ | L4 | Checkpoint C + L4 stage 7, L5 stage 4 |
+| 4 | I can ask someone the same questions back and keep a short conversation about routines going without stalling. | A2+ | L4 | Checkpoint B6 (question form) + L4 stage 7, L5 stage 4 |
 
 **The note on goal 3.** The `piacere` chunks are *recognition-only* lexis, and the
 checkpoint rule is that recognition-only items are not tested
@@ -60,11 +64,11 @@ lesson files and, where spoken, in
 
 | Input | Lesson | Type | Length | Must contain |
 | --- | --- | --- | --- | --- |
-| `Un messaggio vocale da Giulia` | L1 s4–s6 | Voice message, one speaker | ~195 words | All 11 reflexive routine verbs; 10 present-tense irregulars; two reciprocals (`ci vediamo`, `ci sentiamo`); 16 reflexive instances for the noticing grid. **No** `piacere` chunks and **no past tenses**. |
+| `Un messaggio vocale da Giulia` | L1 s4–s6 | Voice message, one speaker | ~205 words, ~1:50 | All 11 reflexive routine verbs; 10 present-tense irregulars; two reciprocals (`ci vediamo`, `ci sentiamo`); 16 reflexive instances for the noticing grid. **No** `piacere` chunks and **no past tenses**. |
 | `Tre persone intorno a me` | L3 s4 | Three short spoken descriptions | 3 × ~65 words | The 8 people/relationship items; 7 character adjectives + `andare d'accordo`, `litigare`; all five `piacere` chunks, unanalysed; `i parenti` in a context that makes the "parents" reading impossible. |
 | `Accento: coppie e verbi in -ano` | L3 s8 | Pronunciation cue, one speaker | ~1:10 | Five meaning-bearing stress pairs; five `-ano` third-person plurals; three final-stressed words. |
 | `Due profili: Claudia e l'ing. Ferri` | L4 s3 | Two written profiles, one `tu`, one `Lei` | 2 × ~95 words | The same content in both registers; ≥6 question forms between them; adjective agreement across both genders and both numbers. |
-| `Un ritratto in due minuti` | L5 s2 | Model self-portrait, one speaker | ~225 words, 1:50–1:58 | The task's target shape at exactly the standard the success criterion asks for — no better. |
+| `Un ritratto in due minuti` | L5 s2 | Model self-portrait, one speaker | ~195 words, 1:50–1:58 | The task's target shape at exactly the standard the success criterion asks for — no better. |
 
 ---
 
@@ -188,12 +192,18 @@ via `A10`. Who offers `diamoci del tu` and who waits to be offered it; what
 
 ## 8. Checkpoint
 
-10 minutes, solo, silent, run inside L5 stage 7. 25 marks: lexis 10, riflessivi
-and presente 10, within-A2 recycling (question forms and adjective agreement) 5.
-Pass criterion **18/25**, plus a self-rating against each of the four can-do
-goals. Unit 1 is the one unit in the course with nothing earlier to recycle, so
-its part C comes from **within** A2. Instrument and key:
-[`unit-01-checkpoint.md`](unit-01-checkpoint.md).
+Built to the ITA-4 instrument
+([`assessment/unit-checkpoint-template.md`](../../../assessment/unit-checkpoint-template.md),
+Unit 1 row). 10 minutes inside L5 stage 7, marked in L5 stage 8. 25 marks in four
+parts: **A** listening, a script-read exchange (4) · **B** a cloze text, 4 gaps on
+riflessivi incl. the reciprocal + 2 recycled (6) · **C** lexis in use, subgroups A
+and C plus the false friend (5) · **D** a 45–60-second spoken turn, TA + TS, floor 4
+reflexive verbs (10). **Pass: ≥ 18/25, TA ≥ 3, TS ≥ 3 and ≥ 1/2 on the recycled
+gaps.** A *not yet* **does not block** Unit 2: it writes a carry-forward entry that
+closes at U2 L4. Unit 1 is the one unit with nothing earlier to recycle, so its
+recycled gaps come from **within** A2. Plus a self-rating against each of the four
+can-do goals. Instrument and key: [`unit-01-checkpoint.md`](unit-01-checkpoint.md)
+— its Part A–C Italian is a draft awaiting the Italian Content Editor.
 
 ---
 

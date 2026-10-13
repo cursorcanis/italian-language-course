@@ -311,13 +311,16 @@ language.
 
 **Instruction.** "Ten words, and they're five **pairs**. The two words in each pair
 have exactly the same letters and a different meaning, and the only difference is
-**which syllable is loud**. I'll say one of each pair. Write `A` or `B`. Exercise 6
-part A — the pairs are on the page in front of you."
+**which syllable is loud**. You'll hear all ten, in a mixed order — both words of
+every pair, never one straight after the other. For each word, write the **pair
+number and the letter**: `3A`, `1B`. Exercise 6 part A — the pairs are on the page
+in front of you."
 
 Read cue 3 part 1 as written. Same speed, same volume, every item.
 
 **CCQ.** "What's different between the two words in a pair?" → *Which syllable is
-loud.* · "Are they different words?" → *Yes — different meanings.*
+loud.* · "Are they different words?" → *Yes — different meanings.* · "What do
+you write — just `A` or `B`?" → *No — the pair number and the letter, like `3A`.*
 
 Check immediately. Take the score, out loud: "Who got eight or more?"
 
@@ -467,10 +470,10 @@ Write **M** (Marta), **D** (Davide) or **L** (Lina).
 
 **Key.** 1 **M** · 2 **D** · 3 **L** · 4 **D** · 5 **M** · 6 **M**. **6 marks.**
 
-*Four of the six are Marta or Davide, which is deliberate: Marta is the fast
+*Five of the six are Marta or Davide, which is deliberate: Marta is the fast
 speaker and Davide the slow one, so a learner who scores well on Marta's items has
-done something real. If a learner gets 3 and 6 wrong but 1 and 5 right, their
-problem is Lina's register, not their Italian.*
+done something real. Item 3 is Lina's only item: if a learner gets 3 wrong but
+Marta's 1, 5 and 6 right, their problem is Lina's register, not their Italian.*
 
 ### Exercise 3 — Which adjective?
 
@@ -527,7 +530,7 @@ not go further. **Unit 8.***
 
 ### Exercise 6 — Word stress
 
-**Part A — Discriminate.** You will hear **one** word from each pair. Write A or B.
+**Part A — Discriminate.** You will hear **ten** words: both words of every pair. Write the pair number and A or B.
 
 | Pair | A | B |
 | --- | --- | --- |
@@ -652,7 +655,7 @@ sentence in class, out loud, which takes twenty seconds. Do **not** cut stage 8 
 save time: it is the unit's only pronunciation stage, and the `-ano` error it
 prevents is already being produced, since L2 taught the `loro` form yesterday.
 
-**To extend (+12 min).** After stage 9 rung 3, run a `A5` mingle: six prompts —
+**To extend (+12 min).** After stage 9 rung 3, run a `A5` mingle: four prompts —
 *trova qualcuno che… va d'accordo con i suoi vicini / litiga spesso con un
 fratello / ha un collega in gamba / ha un coinquilino permaloso* — with one
 compulsory follow-up question per person. It recycles set B under time pressure and
