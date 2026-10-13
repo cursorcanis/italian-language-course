@@ -31,10 +31,10 @@ New tasks continue the Paperclip numbering from **ITA-26** (ITA-21 is reserved f
 | ITA-18 | U7 L4 tidy-up after its Italian review | Lesson Designer | todo | — | Update/remove the closing "Built ahead of Units 2–6" request (review done); consider the editor's 5 suggestions (review doc §5). Low priority; do with U7. |
 | ITA-19 | Italian review of the re-aligned Unit 1 checkpoint | Italian Content Editor | done | — | Pass with edits (both checkpoint files): four broken keys fixed, Part A lengthened to meet ITA-4's 40–60 s. Open for the Lesson Designer: time Part A at the first live run; two suggestions in the sign-off addendum. |
 | ITA-20 | Build Unit 2 | Lesson Designer | todo | — | Unblocked by ITA-12. Build to the amended template; L4 with contract ledger. Then Italian review. |
-| ITA-22 | Swap M2 A3 and B3 for verified CILS/CELI formats | Curriculum Architect | in progress | — | Keep their constructs; update marks/timing only if unavoidable and say so. See `docs/assessment-framework-review.md` §ITA-17 ruling. |
-| ITA-23 | Rule on the six placement-check spec clarifications | Curriculum Architect | in progress | — | ICE notes in `placement-check.md`: verb-gap cue, C2.5 → `ci` locativo, `ne` agreement example, map rows C1.6 / B2, D2 sequencing rule; plus four suggestions. |
-| ITA-24 | Placement check parallel version (borderline re-takes) | Italian Content Editor | blocked | ITA-23 | Write after the spec is ratified. |
-| ITA-25 | Construct-validity checklist on the placement check before first use | Chief | blocked | ITA-23, ITA-24 | Ship gate: placement check must ship before Unit 1 is taught. |
+| ITA-22 | Swap M2 A3 and B3 for verified CILS/CELI formats | Curriculum Architect | done | — | A3/B3 now CILS UNO-B1 true/false information selection; marks, timing, constructs unchanged. External formats 100/150; course-designed C2/D2/E4 50/150. |
+| ITA-23 | Rule on the six placement-check spec clarifications | Curriculum Architect | done | — | All six accepted (3 and 6 reworded); suggestions applied; `si` impersonale no longer probed (first tested at U4 checkpoint), no band threshold change. |
+| ITA-24 | Placement check parallel version (borderline re-takes) | Italian Content Editor | in progress | — | Write the parallel version; also fix the C2 key table gap-5 target cell to "`ci` locativo" only. |
+| ITA-25 | Construct-validity checklist on the placement check before first use | Chief | blocked | ITA-24 | Ship gate: placement check must ship before Unit 1 is taught. |
 
 Decided 2026-10-12 by the user: **twelve units** (recorded in `docs/format-brief.md` decision log).
 

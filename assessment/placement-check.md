@@ -24,9 +24,11 @@ Built against: [`a2-b1-syllabus-map.md`](../curriculum/syllabus/a2-b1-syllabus-m
 >
 > **Before a learner sits this check, three things are still needed:**
 >
-> 1. **The Architect ratifies the clarifications made while writing it.** The
->    main one: verb gaps in Part C give the infinitive in brackets. The
->    clarifications are listed under each part as *ICE note*.
+> 1. ~~**The Architect ratifies the clarifications made while writing it.**~~
+>    **Done, ITA-23 (2026-10-13):** all six accepted, along with the
+>    suggestions. Each ruling appears under its *ICE note* as **Architect
+>    ruling (ITA-23)**, and the spec and map have been updated. No Italian item or key
+>    needed rewriting.
 > 2. **A parallel version exists.** See the last line of the construct-validity
 >    checklist.
 > 3. **The construct-validity checklist has been run.**
@@ -62,7 +64,7 @@ written for. So Band 3 requires productive evidence, not just a high total.
 | --- | --- |
 | **Task type** | Mixed-skill diagnostic: reading comprehension, contextual cloze, script-read listening, short guided writing, short guided monologue. Self-administered with a stated partner path. |
 | **Duration** | **Stage 1: 23 minutes** (Parts A–C, paper only). **Stage 2: 23 minutes** (Parts D–F). Total **≈46 minutes** of learner time, one sitting or two. A stop rule ends it at Stage 1 for learners already placed in Band 1. |
-| **What it measures** | Control of the A2 spine the course re-enters (present including high-frequency irregulars, riflessivi, passato prossimo with auxiliary choice and agreement, imperfetto, comparatives, past-time expressions) and, separately, whether Units 3–6 payload (relatives with `cui`, direct pronouns and `ne`, the PP/imperfetto contrast, `si` impersonale, `ci` locativo) is *already* productive. |
+| **What it measures** | Control of the A2 spine the course re-enters (present including high-frequency irregulars, riflessivi, passato prossimo with auxiliary choice and agreement, imperfetto, comparatives, past-time expressions) and, separately, whether Units 3–6 payload (relatives with `cui`, direct pronouns and `ne`, the PP/imperfetto contrast, `ci` locativo) is *already* productive. `si` impersonale is not probed: no free gap can force it (ITA-23, ruling 2). |
 | **Pass criterion** | There is no pass. This is a **placement** instrument: every learner gets a band, and each band names an action. Band thresholds are in [§Scoring](#scoring-and-bands) and are hard. |
 
 ### Why not shorter
@@ -161,7 +163,7 @@ item and is rejected at review, not patched.
 
 | | |
 | --- | --- |
-| **Spec** | Advert 70–90 words in advert register; reply 50–60 words asking practical questions. Language: relative clauses including at least two with `cui` after a preposition, comparatives, `ci` locativo, `si` passivante in the advert's register. Lexis from [Set 3](../curriculum/syllabus/lexis-progression.md#unit-3--casa-palazzo-quartiere). |
+| **Spec** | Advert 70–90 words in advert register; reply 50–60 words asking practical questions. Language: relative clauses including at least two with `cui` after a preposition, comparatives, `ci` locativo, `si` passivante in the advert's register *(input only: no item turns on it, because it is a `U7 L3` structure)*. Lexis from [Set 3](../curriculum/syllabus/lexis-progression.md#unit-3--casa-palazzo-quartiere). |
 | **Task type** | 3 × three-option multiple choice + 2 × short written answer in English (one to four words). |
 | **Items** | 1 detail requiring a relative clause to be parsed correctly (what the thing described *is*, where the modifier is attached by `in cui` / `di cui`) · 1 comparison (which of two stated features is presented as the better) · 1 detail on costs · 2 short answers: what the writer of the reply wants to know, and what the advert does *not* say about it. |
 | **Why English answers** | The short-answer items test comprehension. Requiring an Italian answer would confound comprehension with production and make the item unmarkable against its own construct. Production is Parts E and F. |
@@ -339,13 +341,21 @@ nothing in it is wrong. Spelling is not marked.
   no item turns on it)*". Without that, the spec conflicts with "Nothing in this
   check tests a structure introduced after Unit 6".
 
+**Architect ruling (ITA-23).**
+- **Ruling 5 (B2 map rows): accepted.** B2.5 compares the reply with the advert, so it
+  traces to the rental-advert can-do. The map now has a `B2.1` row and a
+  `B2.3–B2.5` row.
+- **`si` passivante, input only: accepted.** The note is added to the B2 spec.
+
 ---
 
 ## Part C — Language in use (10 minutes, 12 marks)
 
 **Task type:** two short connected texts with numbered gaps — **contextual
-cloze**, one to three words per gap, no options supplied. Not discrete
-sentences.
+cloze**, one to three words per gap. **Verb gaps show the infinitive in
+brackets; other gaps are bare. No options are supplied.** Not discrete
+sentences. (The infinitive cue was ratified by ITA-23. Without it, a verb gap can
+be filled with a different verb and the gap stops testing its form.)
 
 **Why cloze and not multiple choice on isolated sentences.** A discrete-point
 grammar item tells you whether a learner can pick a form when the target is
@@ -367,8 +377,8 @@ which multiple choice does not.
 | | |
 | --- | --- |
 | **Spec** | 100–120 words, a short anecdote about a shopping trip that went wrong — a topic that makes all five targets natural rather than decorative. |
-| **Gaps** | 1 `che` or `cui` relative (the co-text decides which; both must not be possible) · 1 direct object pronoun replacing a noun named in the previous clause · 1 `ne` partitivo with a quantity · 1 imperfetto-vs-passato-prossimo choice at a genuine background/foreground boundary · 1 `si` impersonale or `ci` locativo. |
-| **Marking** | 1 mark each, all-or-nothing. Where the target is agreement (`l'ho comprata`, `ne ho presi due`), the agreement is part of the key. |
+| **Gaps** | 1 `che` or `cui` relative (the co-text decides which; both must not be possible) · 1 direct object pronoun replacing a noun named in the previous clause · 1 `ne` partitivo with a quantity · 1 imperfetto-vs-passato-prossimo choice at a genuine background/foreground boundary · 1 `ci` locativo (the gap sits in the clitic slot, so no non-clitic answer fits). |
+| **Marking** | 1 mark each, all-or-nothing. Where the target is agreement with a direct object pronoun (`l'ho comprata`), the agreement is part of the key. No gap's key turns on participle agreement after partitive `ne`, which is optional in current usage. |
 
 > **ICE dependency:** both cloze texts, the key, and the acceptable-alternative
 > list per gap. **Written, ITA-15** — below.
@@ -499,6 +509,21 @@ is shown, choose the word yourself.*
     imperfetto `U5 L2`, diretti and `ne` `U6 L2`). That makes B1-probe correct.
   - **Nothing gapped comes later than U6.**
 
+**Architect ruling (ITA-23).**
+- **Ruling 1 (infinitive in brackets): accepted**, in the Editor's wording. It is now in
+  the Part C task-type paragraph and applies to C1 and C2.
+- **Ruling 2 (C2.5 is `ci` locativo only): accepted.** A gap that a correct
+  non-target answer can fill does not test its target. As a result, the check no
+  longer probes `si` impersonale (`U4`), and "What it measures" now says so. The
+  B1-probe is still five marks, so no band threshold moves. `si` impersonale's
+  first test is the U4 checkpoint.
+- **Ruling 3 (drop `ne ho presi due`): accepted, with my own wording.** The Marking row
+  now says that agreement is keyed only after a direct object pronoun, and that no
+  key turns on agreement after partitive `ne`. C2.3, which is set in the present,
+  stands.
+- **Ruling 4 (C1.6 map row): accepted.** The spec gap was always "past-time
+  expression from Set 2 subgroup A". The old map row was what was wrong.
+
 ---
 
 ## ⛔ Stop rule — end of Stage 1
@@ -536,8 +561,8 @@ would test memory, not listening.
 | | |
 | --- | --- |
 | **Spec** | 60–75 seconds. Someone telling a small mishap story with a clear background/foreground structure and at least four narrative connectives from [Set 5 subgroup A](../curriculum/syllabus/lexis-progression.md#a-narrative-signposts-and-connectives-10). |
-| **Task type** | 2 × three-option multiple choice (what was going on when the problem happened; how it ended) + 2 × sequencing (put four stated events in the order they occurred). |
-| **Construct note** | The sequencing items are the discriminating ones: they cannot be done without hearing the tense contrast, and they cannot be done from vocabulary alone. The four events must be presented in the script in an order that differs from their chronological order, or the item tests nothing. |
+| **Task type** | 2 × three-option multiple choice (what was going on when the problem happened; how it ended) + 2 × sequencing: the learner numbers all four stated events 1–4 in the order they occurred. **Each sequencing mark is one ordered pair**, fixed in the key (for example, *x* before *y*). The mark is given if the learner's numbers put that pair in the right order, whatever the other numbers are. A pair with a missing or duplicated number scores 0. Neither key pair may be in script order. |
+| **Construct note** | The sequencing items are the discriminating ones: they cannot be done without hearing the PP/imperfetto contrast *and the time anchors that go with it*, and they cannot be done from vocabulary alone. The four events must be presented in the script in an order that differs from their chronological order, or the item tests nothing. |
 
 > **ICE dependency:** both scripts, marked for pace and speaker, plus items and
 > key. Scripts must be recordable as written (format brief §4) and name their
@@ -711,6 +736,14 @@ words, about 70 seconds with its pauses.
 - **Tags:** D1 is A2-core and contains nothing from after U2 in any key. D2 is
   B1-probe (U5 contrast and connectives).
 
+**Architect ruling (ITA-23).**
+- **Ruling 6 (D2 sequencing): accepted, with my own wording.** One mark per ordered pair
+  fixed in the key, scored from the learner's 1–4 numbering. A missing or
+  duplicated number scores 0 for that pair. No key pair may be in script order.
+  This is now in the D2 task-type row. The current key (d before a, c before b)
+  meets it.
+- **Construct-note wording: accepted** as proposed, and now in the D2 spec.
+
 ---
 
 ## Part E — Writing (10 minutes, 15 marks)
@@ -795,7 +828,8 @@ misses the Band 3 floor (TA ≥ 4).
 | | |
 | --- | --- |
 | **Task type** | Recorded monologue, 2 minutes, from three prompts shown together. One minute of preparation is allowed and should be taken — this is a placement check, not a stress test. |
-| **Prompt spec** | (1) Describe your normal week. (2) Tell me about one thing that happened to you in the last year. (3) Describe the place where you live and say what you would change about it. |
+| **Prompt spec** | (1) Describe your normal week. (2) Tell me about one thing that happened to you in the last year. (3) Describe the place where you live and say what you would like to change about it. |
+| **Marker note, prompt (3)** | Element (3) is fully met by `vorrei…` / `mi piacerebbe…` or by any present-tense wish (`voglio cambiare`, `mi serve`). A productive conditional (`U11`) is not expected, and its absence is not penalised on GA. |
 | **What it measures** | Sustained speech at A2/A2+: whether the learner can keep going for two minutes, and whether the past-tense system holds up without a page to plan on. Prompt (3) is the B1-probe: extended description is where relatives and comparatives either appear or are visibly missing. |
 | **Scales** | **TA ×1** + **GA ×1** + **FD ×1** (0–15). |
 | **Pass criterion** | None (placement). **Floor:** TA ≥ 3 for Band 2 or above; TA ≥ 4 **and** FD ≥ 3 for Band 3. |
@@ -883,6 +917,11 @@ Proposed marker note for the Part F table: "Element (3) is fully met by
 `vorrei…` / `mi piacerebbe…` or by any present-tense wish (`voglio cambiare`,
 `mi serve`). A productive conditional is not expected, and its absence is not
 penalised on GA."
+
+**Architect ruling (ITA-23): accepted.** The marker note is added to the Part F
+table. Prompt (3) is reworded to "what you would like to change", which points
+to `vorrei` / `mi piacerebbe` and not to the U11 conditional. Both anchors already
+meet it, so they stand unchanged.
 
 ---
 
@@ -1040,18 +1079,18 @@ traces to nothing is testing something the course does not claim to teach.
 | B1.1–B1.3 | "I can say what I've done over the past year… and place each event in time" | U2 | A2-core |
 | B1.4 | "I can ask someone about their recent past and follow up" (receptive half) | U2 | A2-core |
 | B1.5 | "I can introduce myself and describe my daily and weekly routine" (reference tracking within it) | U1 | A2-core |
-| B2.1, B2.5 | "I can join my descriptions into longer sentences… using `che` and `in cui / di cui / con cui / a cui`" | U3 | B1-probe |
+| B2.1 | "I can join my descriptions into longer sentences… using `che` and `in cui / di cui / con cui / a cui`" | U3 | B1-probe |
 | B2.2 | "I can compare two places and say which one suits me better and why" | U3 | B1-probe |
-| B2.3–B2.4 | "I can understand a rental advert and ask a landlord or agent the practical questions" | U3 | B1-probe |
+| B2.3–B2.5 | "I can understand a rental advert and ask a landlord or agent the practical questions" | U3 | B1-probe |
 | C1.1–C1.2 | "I can introduce myself and describe my daily and weekly routine" | U1 | A2-core |
 | C1.3–C1.4 | "I can say what I've done over the past year" | U2 | A2-core |
 | C1.5 | "I can describe what my life was like as a child" (descriptive imperfetto) | U4 | A2-core |
-| C1.6 | "I can say whether something has already happened, hasn't happened yet, or has just happened" | U2 | A2-core |
+| C1.6 | "I can say what I've done over the past year… and place each event in time" (`[quantity] + fa`, Set 2 A) | U2 | A2-core |
 | C1.7 | "I can describe where I live" (prepositions with places) | U3 | A2-core |
 | C2.1 | U3 relative-clause can-do, above | U3 | B1-probe |
 | C2.2–C2.3 | "I can avoid repeating a noun I've already mentioned" | U6 | B1-probe |
 | C2.4 | "I can say what was going on when something interrupted it" | U5 | B1-probe |
-| C2.5 | "I can say how something used to be done in general, without naming who did it" / "I can describe where I live" | U4 / U3 | B1-probe |
+| C2.5 | "I can describe where I live" (`ci` locativo) | U3 | B1-probe |
 | D1.1–D1.4 | "I can ask someone the same questions back and keep a short conversation about routines going" (receptive half) | U1 | A2-core |
 | D2.1–D2.4 | "I can react to someone else's story in a way that shows I'm following it" (receptive half) | U5 | B1-probe |
 | E, element 1–2 | U2 can-do, both | U2 | productive |
@@ -1088,7 +1127,7 @@ real placement tests and each failure changes who gets placed where.
 
 | Open item | Owner | Why it is open |
 | --- | --- | --- |
-| ~~All Italian: two reading texts, two cloze texts, two listening scripts, all stems, all keys, alternatives lists, and band-3/band-5 anchor answers for Parts E and F~~ **Closed on ITA-15 (version 1): pass.** The spec clarifications it raised are in the *ICE notes* under Parts B, C, D and F. | **Italian Content Editor** → clarifications to **Curriculum Architect** | Format brief §5. |
+| ~~All Italian: two reading texts, two cloze texts, two listening scripts, all stems, all keys, alternatives lists, and band-3/band-5 anchor answers for Parts E and F~~ **Closed on ITA-15 (version 1): pass.** The spec clarifications it raised are in the *ICE notes* under Parts B, C, D and F. **All were ruled on by ITA-23 (2026-10-13).** | — | Format brief §5. |
 | A **parallel version** (same specs, different content) for borderline re-takes | **Italian Content Editor**, after version 1 | Re-taking the same items measures memory. |
 | Whether an **accelerated route** through Units 1–2 exists for 2/3-boundary learners | **Chief Italian Linguist** | Course-shape decision. The check can identify these learners; it cannot invent a route for them. |
 | Whether v1 ships **any A2 remediation path** for Band 1, or simply turns those learners away | **Chief Italian Linguist** | Out of scope per format brief §6, but it is the first thing a Band 1 learner will ask. Naming it is better than discovering it in use. |
