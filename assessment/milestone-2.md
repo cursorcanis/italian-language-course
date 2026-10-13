@@ -19,7 +19,8 @@ Built against: [`a2-b1-syllabus-map.md`](../curriculum/syllabus/a2-b1-syllabus-m
 > [§Open](#open-and-who-owns-it).
 >
 > **No exam material is reproduced.** Most task *types* are modelled on CILS
-> UNO-B1 and CELI 2, and five are the course's own (see §Model); every text, item and prompt will be original (charter: safety and
+> UNO-B1 and CELI 2, and three (C2, D2, E4) are the course's own (see §Model);
+> every text, item and prompt will be original (charter: safety and
 > permissions).
 
 ---
@@ -70,8 +71,8 @@ citizenship variants; see that file's §B1 cittadinanza.
 
 | This instrument | CILS UNO-B1 section | CELI 2 component | Task types borrowed (verified) | Course's own design (in neither B1 exam) |
 | --- | --- | --- | --- | --- |
-| A — Reading | *Comprensione della lettura* | *Prova di comprensione della lettura* (Parte A) | A1 multiple choice on one text (CILS; CELI uses MC on short texts) · A2 text reordering (CILS only) | A3 matching people to texts. Nearest external formats: CILS true/false information selection, CELI binary matching |
-| B — Listening | *Ascolto* | *Prova di comprensione dell'ascolto* (Parte C) | B1 multiple choice on short messages (both) · B2 multiple choice on one longer text (CILS) | B3 matching opinions to speakers. Nearest: CILS true/false information selection on a radio broadcast |
+| A — Reading | *Comprensione della lettura* | *Prova di comprensione della lettura* (Parte A) | A1 multiple choice on one text (CILS; CELI uses MC on short texts) · A2 text reordering (CILS only) · A3 true/false information selection (CILS reading 2; ITA-22) | — |
+| B — Listening | *Ascolto* | *Prova di comprensione dell'ascolto* (Parte C) | B1 multiple choice on short messages (both) · B2 multiple choice on one longer text (CILS) · B3 true/false information selection on a radio broadcast (CILS listening 3; ITA-22) | — |
 | C — Language in use | *Analisi delle strutture di comunicazione* | **no separate component at CELI 2**: its grammar items (MC cloze, sentence completion) sit inside Parte A | C1 verb-form cloze with the infinitive given (CILS) · C3 multiple-choice cloze (CILS; CELI inside reading) | C2 pronoun transformation |
 | D — Writing | *Produzione scritta* | *Prova di produzione di testi scritti* (Parte B) | D1 a letter or email with a practical purpose (both; neither fixes formal register at B1, and both are shorter: CILS 50–80 or 100–120 words, CELI 90–100) | D2 argued opinion text. Neither B1 exam sets one; CILS's longer task is a set-topic text, currently a description or narrative |
 | E — Oral | *Produzione orale* | *Prova orale* / *Prova di produzione orale* | E1 conversation about oneself (both, **scored** in both) · E2 picture-based monologue (both) · E3 role-play (CELI only) | E4 as specified: a sustained 3-minute argued monologue plus a reply to a counterargument. CILS's ~1½-minute topic monologue is the nearest |
@@ -83,16 +84,19 @@ a learner who cannot write. CELI 2 does **not** work this way: reading, writing
 and listening compensate for each other inside one written threshold, and the
 oral has its own threshold. M2's rule is the stricter of the two.
 
-**Course's own design:** the five tasks in the right-hand column. They are
-chosen for this course's constructs (see each section's construct notes).
-Learners should not be told that these formats are CILS or CELI task types.
+**Course's own design:** the three tasks in the right-hand column (C2, D2, E4;
+50 of 150 marks), kept by the Chief's ITA-17 ruling because each carries an
+elicitation floor no external B1 format provides (requirements 2, 6, 7). A3
+and B3 were moved to verified CILS formats by ITA-22. Learners are told that
+C2, D2 and E4 are the course's own tasks, never that they are CILS or CELI task
+types ([ITA-17 ruling](../docs/assessment-framework-review.md#ita-17-ruling-external-exam-alignment-2026-10-13)).
 
 **Not borrowed:** exact word counts, timings, mark totals and pass marks. The
 external exams set those for a general B1 population; this instrument sets them
 against this course's constructs and its rubric bank. A learner who passes M2
 has met a B1 standard **on task types they will recognise** in the external
-exam. This is true of the borrowed tasks; the five course-designed tasks are
-not external formats. M2 is not a mock exam and does not predict a score on
+exam. This is true of the borrowed tasks (100 of 150 marks); the three
+course-designed tasks are not external formats. M2 is not a mock exam and does not predict a score on
 one. The external figures are recorded in the
 [verification file](../docs/cils-celi-verification.md) for reference. M2's
 written paper (145 min) is shorter than CILS UNO-B1's (about 3 h 45′). Its oral
@@ -148,13 +152,17 @@ matching.
 | **Task type** | **Text reordering** — place five paragraphs. 1 mark per paragraph in the correct position. |
 | **Construct note** | Each paragraph boundary must be recoverable from **grammar and reference**, not from topic: the trapassato tells the learner that an event was earlier than the one just narrated; a combined pronoun in paragraph *n* needs its referents in paragraph *n − 1*. Requirement 3 (trapassato) at recognition. The Editor must ensure no boundary is recoverable from a repeated content word alone. |
 
-### A3 — Five people, seven texts (5 marks)
+### A3 — Offers and their conditions: information selection (5 marks)
+
+*Format: CILS UNO-B1 reading task 2, true/false information selection
+([verification](../docs/cils-celi-verification.md), CILS table). Re-specified
+by ITA-22; the construct is unchanged.*
 
 | | |
 | --- | --- |
-| **Spec** | ⟨Seven texts of 50–70 words: job adverts, course listings, accommodation offers. Language: `si` passivante (`si richiede`, `si offre` as in U10), relative clauses, comparatives, futuro for conditions of the offer. Lexis Sets 10–11.⟩ Plus five one-to-two-line descriptions of people and their constraints, in English. |
-| **Task type** | **Matching**: which text suits each person. Two texts suit nobody. |
-| **Construct note** | Every person must be matchable only by parsing a condition — a relative clause, a comparison, a requirement in `si` passivante — never by a single content word. Each distractor text shares the person's content words and fails one condition. |
+| **Spec** | ⟨One informational text of 350–420 words: a page from a town's noticeboard or portal with several offers under short headings. It includes job adverts, course listings and accommodation offers, and each offer states its conditions. Language: `si` passivante (`si richiede`, `si offre` as in U10), relative clauses, comparatives, futuro for conditions of the offer. Lexis Sets 10–11.⟩ Plus ⟨ten statements in Italian, one line each, about who or what the offers suit and on what terms⟩, in text order. |
+| **Task type** | **Information selection**: for each statement, the learner marks *vero* if the text says it and *falso* if not. Five are true. 0.5 mark per correct answer; 10 × 0.5 = 5 marks. |
+| **Construct note** | Every statement must be decidable only by **parsing a condition** in the text: a relative clause, a comparison, a requirement in `si` passivante, a futuro condition. A single content word must never decide it. **Each false statement shares content words with the offer it is about and fails exactly one condition.** For example, it reverses a comparative, or attaches a relative clause to the wrong offer. **Each true statement paraphrases its condition and never repeats the text's wording.** The construct is the one the matching task carried: reading conditions, not spotting words. |
 
 > **ICE dependency:** all three texts, stems, options and keys.
 
@@ -181,13 +189,18 @@ questions first. Assets under `assets/audio/milestone-2/`.
 | **Task type** | 5 × three-option multiple choice. |
 | **Required items** | 1 **sequencing** item that turns on the trapassato: which of two arrangements was made first. 1 **referent** item that turns on a combined pronoun: who sent, or is to send, what to whom. 1 item on the remedy finally agreed. 2 free. |
 
-### B3 — A radio discussion (5 marks)
+### B3 — A radio discussion: information selection (5 marks)
+
+*Format: CILS UNO-B1 listening task 3, true/false information selection on a
+radio broadcast ([verification](../docs/cils-celi-verification.md), CILS
+table). Re-specified by ITA-22; the construct is unchanged.*
 
 | | |
 | --- | --- |
-| **Spec** | ⟨3 minutes. A host and two guests discuss a local issue. Each guest holds a clear position, concedes one point, and hedges one claim. Overlap is permitted and natural (U12 culture note).⟩ `m2-b3.mp3`. |
-| **Task type** | **Matching opinions to speakers**: five statements, each matched to Guest 1, Guest 2, both, or neither. |
-| **Required items** | 1 statement that one guest **hedges** and the other **asserts** — answerable only by hearing the trigger + congiuntivo frame (requirement 6, recognition). 1 statement that a guest **concedes** with `anche se` before answering (requirement 7, recognition). |
+| **Spec** | ⟨3 minutes. A host and two guests discuss a local issue on a radio programme. The guests are named and introduced by their role (for example, a shopkeeper and a resident). Each guest holds a clear position, concedes one point, and hedges one claim. Overlap is permitted and natural (U12 culture note).⟩ `m2-b3.mp3`. Plus ⟨ten statements in Italian, one line each, in the order of the recording. Each statement names the guest it is about.⟩ |
+| **Task type** | **Information selection**: for each statement, the learner marks *vero* if the programme says it and *falso* if not. Five are true. 0.5 mark per correct answer; 10 × 0.5 = 5 marks. |
+| **Required items** | **2 hedged-vs-asserted statements** (requirement 6, recognition). Each one reports a guest's claim as a firm assertion. One is *falso*: the guest only hedged it, with a trigger + congiuntivo. The other is *vero*: the guest asserted it in the indicative. Both are answerable only by hearing the frame. **2 concession statements** (requirement 7, recognition). One correctly reports what a guest conceded with `anche se` before answering (*vero*). The other turns the concession into the guest's own position (*falso*). **1 attribution statement** credits a guest with the other guest's view (*falso*); it keeps the old task's "who said what" construct and the U12 can-do "respond to what they actually said". The remaining 5 are free. |
+| **Construct note** | Naming the guest in each statement keeps the speaker attribution that the matching format tested. The true/false format then also tests whether the learner heard the claim's **status** (asserted, hedged or conceded), which is what requirements 6 and 7 ask of recognition. |
 
 > **ICE dependency:** seven scripts, marked for speaker, pace and contour, with
 > items and keys.
@@ -342,7 +355,8 @@ and the exit rewards doing those things.
 
 ### Pass — all three conditions
 
-1. **Every section ≥ 60%:** A ≥ 9 / 15 · B ≥ 9 / 15 · C ≥ 12 / 20 ·
+1. **Every section ≥ 60%** (A and B may total in half-marks, from A3 and B3;
+   the thresholds are unchanged): A ≥ 9 / 15 · B ≥ 9 / 15 · C ≥ 12 / 20 ·
    D ≥ 30 / 50 · E ≥ 30 / 50. Sections are not averaged.
 2. **Every TA, CC, GA and FD score ≥ 3** — thirteen scale scores across five
    tasks (TA ×5, CC ×3, GA ×3, FD ×2). This includes the standing floor
@@ -413,7 +427,7 @@ conjunctions, congiuntivo imperfetto, or the unreal conditional
 | Condition | How M2 honours it |
 | --- | --- |
 | **M2 must elicit, not permit, the tail structures** | Table above: every requirement has a scored floor or (for `ci` pronominale, as the requirement itself specifies) recognition plus credit. |
-| **Unit 12's `L4` stays a whole-course recycling lesson** | M2's washback is built not to pull `U12 L4` toward congiuntivo. Congiuntivo carries **9 of 150 marks** (C1 ×2, D2 TS 5, A1 and B3 one item each) — 6%. The U12 `L4` list (condizionale, futuro and epistemico, real conditional, `si`, combinati, relativi and comparativi, `ne`, `ci` pronominale, connectives) carries 14 of the 20 Section C marks and 35 of the 50 TS and CC marks in Sections D and E. A learner preparing for M2 is rewarded for doing exactly what `U12 L4` does. The one thing M2 asks `U12 L4` to add is a single introduction of the transformation format (Section C2). |
+| **Unit 12's `L4` stays a whole-course recycling lesson** | M2's washback is built not to pull `U12 L4` toward congiuntivo. Congiuntivo carries **9 of 150 marks** (C1 ×2, D2 TS 5, A1 one item, B3 two half-mark statements) — 6%. The U12 `L4` list (condizionale, futuro and epistemico, real conditional, `si`, combinati, relativi and comparativi, `ne`, `ci` pronominale, connectives) carries 14 of the 20 Section C marks and 35 of the 50 TS and CC marks in Sections D and E. A learner preparing for M2 is rewarded for doing exactly what `U12 L4` does. The one thing M2 asks `U12 L4` to add is a single introduction of the transformation format (Section C2). |
 | **The placement check ships before Unit 1, and its results go to the Chief** | Not an M2 matter directly — but M2 closes the loop the placement check opens: see below. |
 
 ### Units 1–8 underneath
@@ -481,7 +495,9 @@ The thresholds are proposals. Setting them is the Chief's call.
 - [ ] No item demands unsupported congiuntivo, or any structure in [§Deliberately deferred](../curriculum/syllabus/grammar-progression.md#deliberately-deferred).
 - [ ] A1's hedged-vs-asserted item: key and strongest distractor make the same claim and differ only in the frame.
 - [ ] A2: every paragraph boundary is recoverable from grammar or reference; none from a repeated content word alone.
+- [ ] A3: every false statement shares content words with its offer and fails exactly one condition; no true statement repeats the text's wording; 5 true / 5 false.
 - [ ] B1: the futuro-epistemico item's distractor is the future-prediction misparse.
+- [ ] B3: the hedged-vs-asserted pair (one *vero*, one *falso*) differs only in the frame the guest used; every statement names its guest; 5 true / 5 false.
 - [ ] C1: no trapassato gap where the passato prossimo is also good Italian.
 - [ ] C2 and E3: every combined-pronoun item names both referents in the co-text.
 - [ ] C3: no `ci` pronominale gap where `ne` or `lo` is also grammatical.
@@ -504,7 +520,7 @@ The thresholds are proposals. Setting them is the Chief's call.
 | A **parallel version**, needed before first use | **Italian Content Editor** | Section resits. |
 | One introduction of the **transformation** format (C2) inside `U12 L4` | **Lesson Designer** (ITA-5) | A format first met in the exit exam tests the format. One activity, not test practice — `U12 L4` stays whole-course recycling. |
 | ~~Verify the CILS B1 and CELI 2 mapping~~. **Closed by ITA-17 (2026-10-12):** mapping corrected; evidence in [`docs/cils-celi-verification.md`](../docs/cils-celi-verification.md) | — | Neither publisher dates its format documents. Re-check before learner-facing material names an external figure. |
-| Five M2 tasks (A3, B3, C2, D2, E4 as specified) are **not** CILS or CELI B1 formats. Together they carry 60 of 150 marks. Keep them as course-designed tasks, or swap any for the nearest external format? | **Chief Italian Linguist** | ITA-17 finding. The instrument is unchanged pending this decision: the tasks are justified by construct (requirements 2, 6, 7), but the "recognisable task types" claim now covers 90 of 150 marks, not all 150. |
+| ~~Five tasks not in CILS/CELI B1~~. **Ruled 2026-10-13** ([ITA-17 ruling](../docs/assessment-framework-review.md#ita-17-ruling-external-exam-alignment-2026-10-13)): C2, D2 and E4 stay course-designed; A3 and B3 were re-specified as CILS information selection by ITA-22 | — | Closed. |
 | The Decision 1 **trigger thresholds** | **Chief Italian Linguist** | Proposed above. |
 | Whether an M2 result may be used for a **cohort decision** without an inter-marker agreement step | **Chief Italian Linguist** | Already open in [`rubrics.md`](rubrics.md#open-and-who-owns-it). |
 | What a learner who is "not yet" at M2 is offered beyond section resits | **Chief Italian Linguist** | No post-course content exists in v1 (format brief §6). |

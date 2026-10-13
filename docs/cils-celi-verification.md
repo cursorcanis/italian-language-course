@@ -119,3 +119,5 @@ Primary, Università per Stranieri di Perugia (CVCL):
 
 Secondary (used to locate S9). The one claim taken from it, that the standard B1 is also accepted for citizenship, is consistent with S10 but not stated in full there:
 - **S-sec** Università di Padova CLA, "Differenze tra B1 standard e B1 Cittadinanza CILS" (Sept 2025): https://cla.unipd.it/en/wp-content/uploads/2025/09/Differenze-tra-B1-standard-e-B1-Cittadinanza_CILS.pdf
+
+> **Update 2026-10-13 (ITA-22):** M2's A3 and B3 were re-specified as CILS UNO-B1 true/false information selection (reading task 2, listening task 3). The claims table rows describing the old A3/B3 were accurate at ITA-17 and are kept as the record of that check.
