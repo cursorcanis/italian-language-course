@@ -1,6 +1,6 @@
 # Milestone 2 — after Unit 12: the B1 exit
 
-Owner: Curriculum Architect · Task: ITA-4 · Status: complete, in review
+Owner: Curriculum Architect · Task: ITA-4 · External mapping verified: ITA-17 (2026-10-12) · Status: complete, in review
 Companions: [`rubrics.md`](rubrics.md) · [`milestone-1.md`](milestone-1.md) ·
 [`unit-checkpoint-template.md`](unit-checkpoint-template.md) ·
 [`placement-check.md`](placement-check.md)
@@ -18,8 +18,8 @@ Built against: [`a2-b1-syllabus-map.md`](../curriculum/syllabus/a2-b1-syllabus-m
 > script, stem, key, phrasebox or anchor exists yet; all are listed in
 > [§Open](#open-and-who-owns-it).
 >
-> **No exam material is reproduced.** Task *types* are modelled on CILS B1 and
-> CELI 2; every text, item and prompt will be original (charter: safety and
+> **No exam material is reproduced.** Most task *types* are modelled on CILS
+> UNO-B1 and CELI 2, and five are the course's own (see §Model); every text, item and prompt will be original (charter: safety and
 > permissions).
 
 ---
@@ -55,34 +55,49 @@ adds three conditions. How this instrument meets each is in
 
 | | |
 | --- | --- |
-| **Task type** | Five-section B1 exam on the CILS / CELI pattern: reading, listening, language in use (*structures*), two writing tasks, a four-part oral. Self-administered with a stated partner path; the oral and the productive marking need a second person for a confirmed result. |
+| **Task type** | Five-section B1 exam on the CILS UNO-B1 section pattern (CELI 2 has the same skills in four components): reading, listening, language in use (*structures*), two writing tasks, a four-part oral. Self-administered with a stated partner path; the oral and the productive marking need a second person for a confirmed result. |
 | **Duration** | **Written paper (A–D): 145 minutes** — A 35, B 25, C 25, D 60 — in one sitting with a break after C, or two sittings within a week. **Oral (E): ≈ 18 minutes**, on a separate day. |
 | **What it measures** | The B1 can-dos of Units 9–12, with the whole course underneath them; the seven tail requirements; Lexis Sets 1–12 with Sets 9–12 dominant. |
 | **Pass criterion** | **Every section ≥ 60%**, **and** every TA, CC, GA and FD score ≥ 3, **and** no more than **one** of the five TS scores below 3. See [§Scoring and pass criterion](#scoring-and-pass-criterion). |
 
 ### Model: what is borrowed from CILS and CELI, and what is not
 
-| This instrument | CILS B1 section | CELI 2 section | Task types borrowed |
-| --- | --- | --- | --- |
-| A — Reading | *Comprensione della lettura* | *Comprensione della lettura* | Multiple choice on an article; reordering a text; matching people to short texts |
-| B — Listening | *Ascolto* | *Comprensione dell'ascolto* | Multiple choice on short messages; multiple choice on a conversation; matching opinions to speakers |
-| C — Language in use | *Analisi delle strutture di comunicazione* | *Competenza linguistica* | Verb-form cloze with the infinitive given; pronoun transformation; multiple-choice cloze |
-| D — Writing | *Produzione scritta* | *Produzione di testi scritti* | A formal letter with a practical purpose; a short argued text |
-| E — Oral | *Produzione orale* | *Prova orale* | Warm-up conversation; picture-based monologue; role-play; opinion monologue |
+Verified against the publishers' current specifications on 2026-10-12 (ITA-17).
+The evidence, with sources and the full external formats, is in
+[`docs/cils-celi-verification.md`](../docs/cils-celi-verification.md). Exams
+modelled: **CILS UNO-B1** (Siena) and **CELI 2** (Perugia). They are not the
+citizenship variants; see that file's §B1 cittadinanza.
 
-**Borrowed:** the five-way section split, the task types in the right-hand
-column, and the principle — CILS's in particular — that sections are passed
-separately rather than averaged, so a strong reader cannot carry a learner who
-cannot write.
+| This instrument | CILS UNO-B1 section | CELI 2 component | Task types borrowed (verified) | Course's own design (in neither B1 exam) |
+| --- | --- | --- | --- | --- |
+| A — Reading | *Comprensione della lettura* | *Prova di comprensione della lettura* (Parte A) | A1 multiple choice on one text (CILS; CELI uses MC on short texts) · A2 text reordering (CILS only) | A3 matching people to texts. Nearest external formats: CILS true/false information selection, CELI binary matching |
+| B — Listening | *Ascolto* | *Prova di comprensione dell'ascolto* (Parte C) | B1 multiple choice on short messages (both) · B2 multiple choice on one longer text (CILS) | B3 matching opinions to speakers. Nearest: CILS true/false information selection on a radio broadcast |
+| C — Language in use | *Analisi delle strutture di comunicazione* | **no separate component at CELI 2**: its grammar items (MC cloze, sentence completion) sit inside Parte A | C1 verb-form cloze with the infinitive given (CILS) · C3 multiple-choice cloze (CILS; CELI inside reading) | C2 pronoun transformation |
+| D — Writing | *Produzione scritta* | *Prova di produzione di testi scritti* (Parte B) | D1 a letter or email with a practical purpose (both; neither fixes formal register at B1, and both are shorter: CILS 50–80 or 100–120 words, CELI 90–100) | D2 argued opinion text. Neither B1 exam sets one; CILS's longer task is a set-topic text, currently a description or narrative |
+| E — Oral | *Produzione orale* | *Prova orale* / *Prova di produzione orale* | E1 conversation about oneself (both, **scored** in both) · E2 picture-based monologue (both) · E3 role-play (CELI only) | E4 as specified: a sustained 3-minute argued monologue plus a reply to a counterargument. CILS's ~1½-minute topic monologue is the nearest |
+
+**Borrowed:** the five-way section split (CILS's; CELI 2 has four components),
+the task types in the "borrowed" column, and **CILS's** principle that each
+skill is passed separately rather than averaged, so a strong reader cannot carry
+a learner who cannot write. CELI 2 does **not** work this way: reading, writing
+and listening compensate for each other inside one written threshold, and the
+oral has its own threshold. M2's rule is the stricter of the two.
+
+**Course's own design:** the five tasks in the right-hand column. They are
+chosen for this course's constructs (see each section's construct notes).
+Learners should not be told that these formats are CILS or CELI task types.
 
 **Not borrowed:** exact word counts, timings, mark totals and pass marks. The
 external exams set those for a general B1 population; this instrument sets them
 against this course's constructs and its rubric bank. A learner who passes M2
 has met a B1 standard **on task types they will recognise** in the external
-exam; this is not a mock exam and does not predict a score on one. The
-section names, task formats and pass rules attributed above are to be checked
-against the publishers' current specifications before release
-([§Open](#open-and-who-owns-it)).
+exam. This is true of the borrowed tasks; the five course-designed tasks are
+not external formats. M2 is not a mock exam and does not predict a score on
+one. The external figures are recorded in the
+[verification file](../docs/cils-celi-verification.md) for reference. M2's
+written paper (145 min) is shorter than CILS UNO-B1's (about 3 h 45′). Its oral
+(about 18 min) and its writing lengths (120–150 and 160–200 words) are longer
+than either exam's.
 
 ---
 
@@ -181,10 +196,15 @@ questions first. Assets under `assets/audio/milestone-2/`.
 
 ## Section C — Language in use (25 minutes, 20 marks)
 
-The three formats are the external exams' structure-section staples. Two are
-cloze — the course's own mechanic in every checkpoint Part B and in Milestone 1
-Part C; C3 only adds options. The third — transformation — is new to the learner at M2,
-so **the Lesson Designer should introduce it once in `U12 L4`** as an activity
+Two of the three formats are external: C1 (verb-form cloze, infinitive given)
+is a CILS UNO-B1 *strutture* task, and C3 (multiple-choice cloze) appears in
+both CILS and CELI 2, inside CELI's reading component. Both are cloze, the
+course's own mechanic in every checkpoint Part B and in Milestone 1 Part C; C3
+only adds options. The third, C2 transformation, is **the course's own format**:
+neither B1 exam uses it ([verification](../docs/cils-celi-verification.md),
+claim 19). It is kept because it is the only objective item that forces
+pronomi combinati in production (requirement 2). It is new to the learner at
+M2, so **the Lesson Designer should introduce it once in `U12 L4`** as an activity
 format inside the whole-course recycling, not as test practice.
 
 ### C1 — Verb forms in context (10 marks)
@@ -483,7 +503,8 @@ The thresholds are proposals. Setting them is the Chief's call.
 | Band-3 / band-5 anchors for D1, D2, E2, E3, E4 | **Italian Content Editor** | [`rubrics.md` §Marker calibration](rubrics.md#marker-calibration). |
 | A **parallel version**, needed before first use | **Italian Content Editor** | Section resits. |
 | One introduction of the **transformation** format (C2) inside `U12 L4` | **Lesson Designer** (ITA-5) | A format first met in the exit exam tests the format. One activity, not test practice — `U12 L4` stays whole-course recycling. |
-| Verify the CILS B1 and CELI 2 section names and current task types against the publishers' current specifications | **Chief Italian Linguist** (or a delegate with access) | Modelled from the architect's knowledge of both exams; not checked against a current published specification in this repo. A mismatch changes the mapping table, not the instrument. |
+| ~~Verify the CILS B1 and CELI 2 mapping~~. **Closed by ITA-17 (2026-10-12):** mapping corrected; evidence in [`docs/cils-celi-verification.md`](../docs/cils-celi-verification.md) | — | Neither publisher dates its format documents. Re-check before learner-facing material names an external figure. |
+| Five M2 tasks (A3, B3, C2, D2, E4 as specified) are **not** CILS or CELI B1 formats. Together they carry 60 of 150 marks. Keep them as course-designed tasks, or swap any for the nearest external format? | **Chief Italian Linguist** | ITA-17 finding. The instrument is unchanged pending this decision: the tasks are justified by construct (requirements 2, 6, 7), but the "recognisable task types" claim now covers 90 of 150 marks, not all 150. |
 | The Decision 1 **trigger thresholds** | **Chief Italian Linguist** | Proposed above. |
 | Whether an M2 result may be used for a **cohort decision** without an inter-marker agreement step | **Chief Italian Linguist** | Already open in [`rubrics.md`](rubrics.md#open-and-who-owns-it). |
 | What a learner who is "not yet" at M2 is offered beyond section resits | **Chief Italian Linguist** | No post-course content exists in v1 (format brief §6). |

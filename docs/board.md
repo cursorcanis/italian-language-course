@@ -7,7 +7,7 @@ reconcile this file back onto the Paperclip board, then stop editing it there or
 here — one board at a time.
 
 Statuses: `todo` · `in progress` · `blocked` · `in review` · `done`.
-New tasks continue the Paperclip numbering from **ITA-21**.
+New tasks continue the Paperclip numbering from **ITA-23** (ITA-21 is reserved for the Unit 2 Italian review).
 
 | ID | Title | Owner | Status | Blocked by | Next action |
 | --- | --- | --- | --- | --- | --- |
@@ -27,10 +27,11 @@ New tasks continue the Paperclip numbering from **ITA-21**.
 | ITA-14 | Unit 1 staging fixes from the Italian sign-off | Lesson Designer | done | — | Cue 1 target → ~1:50 (script unchanged), L1 s4/s5 re-timed; six count/instruction fixes. Chief lifted the cue 1 recording hold 2026-10-13: all four cues recordable. |
 | ITA-15 | Write the placement check's Italian | Italian Content Editor | in progress | — | Interrupted 2026-10-12 by usage limit (partial edit in tree); resumed 2026-10-13. Ships before Unit 1 is taught. |
 | ITA-16 | Write the Italian for Milestones 1 and 2 | Italian Content Editor | todo | ITA-15 | Per each milestone's Open table. |
-| ITA-17 | Verify the CILS/CELI B1 mapping against the publishers' current specs | Curriculum Architect | in progress | — | Interrupted 2026-10-12 by usage limit (no edits); resumed 2026-10-13. Output: corrections in `milestone-2.md` + evidence in `docs/cils-celi-verification.md`. |
+| ITA-17 | Verify the CILS/CELI B1 mapping against the publishers' current specs | Curriculum Architect | done | — | 32 claims: 18 verified, 12 corrected, 2 unconfirmable. Evidence: `docs/cils-celi-verification.md`. Ruling: keep C2/D2/E4 course-designed; swap A3/B3 (ITA-22); honest labelling. |
 | ITA-18 | U7 L4 tidy-up after its Italian review | Lesson Designer | todo | — | Update/remove the closing "Built ahead of Units 2–6" request (review done); consider the editor's 5 suggestions (review doc §5). Low priority; do with U7. |
 | ITA-19 | Italian review of the re-aligned Unit 1 checkpoint | Italian Content Editor | todo | — | `unit-01-checkpoint.md` Parts A–C and the template checkpoint example (`[ITA?]`). Check A4 `mio figlio mi sveglia` and gap B6 `che lavoro fai`. |
 | ITA-20 | Build Unit 2 | Lesson Designer | todo | — | Unblocked by ITA-12. Build to the amended template; L4 with contract ledger. Then Italian review. |
+| ITA-22 | Swap M2 A3 and B3 for verified CILS/CELI formats | Curriculum Architect | in progress | — | Keep their constructs; update marks/timing only if unavoidable and say so. See `docs/assessment-framework-review.md` §ITA-17 ruling. |
 
 Decided 2026-10-12 by the user: **twelve units** (recorded in `docs/format-brief.md` decision log).
 

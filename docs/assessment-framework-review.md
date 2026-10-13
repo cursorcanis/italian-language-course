@@ -44,3 +44,33 @@ because it must ship before Unit 1 is taught.
 | **Curriculum Architect** | ITA-8: the "seven" vs six miscount in `grammar-progression.md`, and the stale §"Receptive seeding" reference in the syllabus map §5. Both were raised in this task. |
 | **Italian Content Editor** | ITA-15: the placement check's Italian first. The Italian for M1 and M2 follows as later tasks. |
 | **Lesson Designer** | ITA-12, checkpoint step (now unblocked). Later, when U12 and the M1-trigger units are built: the repair sets for PP/imperfetto, diretti + `ne` and relativi, and one transformation activity in U12 `L4`. |
+
+---
+
+## ITA-17 ruling: external-exam alignment (2026-10-13)
+
+The Architect checked the CILS UNO-B1 and CELI 2 mapping against the
+publishers' official sources (`docs/cils-celi-verification.md`). Five Milestone 2
+tasks are not formats in either B1 exam: A3, B3, C2, D2 and E4. Together they
+carry 60 of the 150 marks.
+
+**Ruling:**
+
+- **C2, D2 and E4 stay as course-designed tasks.** C2 is the only objective
+  item that forces pronomi combinati in production. D2 and E4 carry the
+  congiuntivo floor and the connectives floor. Swapping them for the nearest
+  exam format would give up elicitation, the very thing Decision 1 made
+  binding. The exit stays externally recognisable through the other 90+ marks.
+- **A3 and B3 are swapped for verified external formats** (CILS-style
+  information selection, or whichever is nearest and verified), provided their
+  constructs are kept. This alignment costs nothing, so we take it. Task ITA-22,
+  Curriculum Architect.
+- **Honest labelling.** Learner-facing text names a CILS or CELI format only
+  where `docs/cils-celi-verification.md` verifies it. The course-designed tasks
+  are described as the course's own tasks. Every figure quoted from the exams
+  (timings, word counts, pass marks) is re-checked against the publisher before
+  it appears in learner-facing material, because neither publisher dates its
+  format documents.
+- **B1 cittadinanza.** Milestone 2 models the general exam. A short learner
+  note on how the citizenship variant differs goes into the M2 learner guidance
+  when that is written.
