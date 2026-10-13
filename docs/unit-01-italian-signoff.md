@@ -345,3 +345,109 @@ example sentence with:
 **`curriculum/syllabus/a2-b1-syllabus-map.md:280`.** "truncated
 infinitives/futures" is still there. It belongs to ITA-8 (Curriculum Architect);
 the replacement wording is the parole-tronche line above.
+
+---
+
+## ITA-19 — re-aligned checkpoint
+
+**Reviewer:** Italian Content Editor · **Date:** 2026-10-13 · **Reviewed at:**
+`51f5cdd` (ITA-12) · **Files:** `curriculum/units/unit-01/unit-01-checkpoint.md`,
+`curriculum/units/unit-template/unit-NN-checkpoint.md` (filled example = the same
+Part B)
+
+### Verdict
+
+**Pass with edits**, for both files. The Italian is A2 throughout and sounds like
+people, and the four main-structure gaps (B1–B4) are good items. However, **four
+keys were broken as drafted**. In each, a learner could give a correct answer
+that the key marked wrong, or the reverse. On a self-marked instrument, that is a
+defect, not a matter of taste. I made every fix in place. The `[ITA?]` markers
+are removed, and both banners now point here. Nothing goes back to the author
+for Italian.
+
+Level: **Part A script A2** (`tu`, friends, ~80 words). **Part B letter A2** (`tu`,
+~85 words, only `perché` subordinates). **Part C items A2.** The `piacere` chunks
+appear nowhere in A–D, so they stay recognition-only and untested. Goal 3 is
+still assessed by self-rating only.
+
+### Required fixes (made in place)
+
+1. **A4: one distractor was true** (key validity; learner-error anticipation).
+   `mio figlio mi sveglia` itself is unambiguous. `mi` is the object, and a
+   learner who hears it can only mean *my son wakes me*. The defect was in
+   option (b), *Luca's son wakes up on his own*. A son who wakes his father at
+   six has also woken up by himself, so (b) is defensible for a learner who
+   parsed the sentence **correctly**. (b) now reads *Luca's son wakes up, but
+   Luca sleeps on*. That is still the `si sveglia` misparse, and it is false
+   against the script. A reading note now tells the teacher to say `mi` clearly
+   but without stress, because an emphatic `MI` gives the item away.
+2. **A2: a second plausible reason** (key validity). The script gave the reason
+   as an asyndetic `alle nove: lavoro da casa`, followed by `Però la sera esco
+   spesso`. *She goes out in the evening* was a reasonable inference for why she
+   gets up late, and the key gave it 0. The line now says `perché lavoro da
+   casa`, and a marking note explains why `però` excludes the evening reading.
+3. **B6: `farai` was a correct unlisted answer** (alternative answers). Petra is
+   about to move, so `E tu, che lavoro farai?` is good Italian, and nothing in
+   the co-text ruled it out. The letter now continues `Lavori anche tu in
+   centro?`. That puts the question in the present (Petra already has a job),
+   and it adds a second natural `tu` question. `fai tu` is now listed as
+   accepted. It is redundant after `E tu`, but not wrong. The **construct** holds,
+   but it should be stated precisely. B6 checks the `tu` ending of L4's taught
+   chunk `Che lavoro fai?` (vs `fa`). It does not check question word order,
+   which the item cannot see. The row's "Tests" cell now says so.
+4. **C4: a second correct odd one out** (construct validity). `socievole ·
+   affidabile · disponibile · permaloso` is, word for word, the lexis file's
+   agreement table: three `-e` adjectives and one `-o`. *permaloso — ending* is
+   therefore a correct, taught answer. The key gave it 0, and as an item it
+   tests agreement, not lexis. The instruction now asks for the odd one out
+   **because of what it means**. I kept the four words because Unit 1 has no
+   positive `-o` adjective to swap in. The accepted reasons now include
+   *unflattering*, *unpleasant* and the gloss *touchy*. I dropped *unkind*,
+   because a touchy person is not unkind.
+5. **C1 and C5: incomplete alternatives** (rule 2: "every key complete").
+   **C1** now also accepts `benissimo`, `molto bene`, `proprio bene` and
+   `davvero bene`. **C5** now also accepts `familiari`, which is correct
+   Italian and is not the false-friend trap. The item exists to catch
+   `genitori`, and it still does.
+6. **Part A length** (ITA-4 task type: 40–60 s). The header said "~85 words,
+   about 45 seconds", but the script was 64 words, about 30–35 s at A2 pace. It
+   is now 78 words. The added material is `Mah,`, `con gli amici`, `Che bello!`,
+   and a closing exchange (`Perfetto, allora domenica. A pranzo?` / `Sì, a
+   pranzo va benissimo.`). This lengthens the script without touching any
+   answer, and it gives the exchange the discourse markers it lacked. The
+   item 3 key now also accepts *Sunday, for lunch*. Timing still needs
+   verifying at the first live run, as the checklist says.
+
+### Also changed (coherence, minor)
+
+- **B4 co-text.** `Durante la settimana io e Marta non ci vediamo molto`
+  contradicted the two sentences before it, in which they share every morning.
+  It is now `La sera…`. The gap and its key are unchanged.
+
+### Suggestions (not applied)
+
+- **Part A:** a child's swimming lesson at 6 a.m. is plausible only for a
+  competitive swimmer. `alle sei e mezza` or `prima di scuola` would make it
+  more ordinary. Neither change affects item 4.
+- **Part B header:** "One to three words per gap" could say "two words for most
+  gaps". B1–B4 are all two words, which is itself a hint. That is the Lesson
+  Designer's call.
+
+### Checked and sound
+
+- **B1–B4.** Each gap needs its co-text (`Io e Marta`, `io`, `lei`, `io e
+  Marta`), and has exactly one right answer. B3's `*mi occupa` is the L2 clinic
+  error, correctly keyed 0.
+- **B5.** `riservate` only; `simpatiche` agrees in the co-text, as it should.
+- **C2 and C3.** `d'accordo` and `gamba` are the only answers. `andare bene`
+  with people is not standard.
+- **A1 and A3.** Unambiguous.
+- **Self-rating.** Unchanged from ITA-10.
+
+### Outside my lane (for the Chief to route)
+
+These lines still say the checkpoint's Part A–C Italian is awaiting review:
+`unit-01-overview.md` lines 26 and 206, and `unit-01-teacher-notes.md` line 128.
+Replace each clause with "Part A–C Italian signed off under ITA-19." The
+template's generic banner (line 30, `Review task: ITA-NN`) is part of the copy
+shape, so I left it.

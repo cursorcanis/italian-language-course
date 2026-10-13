@@ -23,8 +23,8 @@ recycles: ["within-A2: present-tense question forms", "within-A2: adjective agre
 > ITA-14 reconciled its length to ~1:50, script unchanged).
 >
 > **ITA-12 (Lesson Designer, 2026-10-12):** `unit-01-checkpoint.md` was re-aligned
-> to the ITA-4 instrument. Its Part A–C Italian is **new and awaiting review**; the
-> other nine files' sign-off is unaffected.
+> to the ITA-4 instrument. Its Part A–C Italian was signed off under ITA-19
+> (2026-10-13).
 
 **Built to** [`../unit-template/README.md`](../unit-template/README.md). This is
 the unit the template was written against, so it is also the reference
@@ -203,7 +203,7 @@ gaps.** A *not yet* **does not block** Unit 2: it writes a carry-forward entry t
 closes at U2 L4. Unit 1 is the one unit with nothing earlier to recycle, so its
 recycled gaps come from **within** A2. Plus a self-rating against each of the four
 can-do goals. Instrument and key: [`unit-01-checkpoint.md`](unit-01-checkpoint.md)
-— its Part A–C Italian is a draft awaiting the Italian Content Editor.
+— its Part A–C Italian was signed off under ITA-19.
 
 ---
 

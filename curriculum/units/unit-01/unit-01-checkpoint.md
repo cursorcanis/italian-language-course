@@ -13,13 +13,12 @@ spec: assessment/unit-checkpoint-template.md
 
 # Unit 1 — Checkpoint
 
-> ⚠️ **Italian partly awaiting review.** This instrument was re-aligned to the
-> ITA-4 checkpoint template under ITA-12 (Lesson Designer, 2026-10-12). The
-> **Part A script, the Part B text and the Part C items are new Lesson Designer
-> drafts**, marked `[ITA?]`; do not use the checkpoint with learners until the
-> Italian Content Editor has passed them. The **self-rating** wording is unchanged
-> from the version signed off under ITA-10
-> ([`docs/unit-01-italian-signoff.md`](../../../docs/unit-01-italian-signoff.md)).
+> ✅ **Italian signed off** — ITA-19, Italian Content Editor, 2026-10-13. Verdict
+> **pass with edits** on the re-aligned instrument (ITA-12): the Part A script and
+> item 4, Part B gaps 4 and 6, and the Part C keys (C1, C4, C5) were edited in
+> place. The self-rating is unchanged from ITA-10. See
+> [`docs/unit-01-italian-signoff.md` §ITA-19](../../../docs/unit-01-italian-signoff.md#ita-19--re-aligned-checkpoint).
+> Part A's timing is still unverified (construct-validity check, last line).
 
 **Ten minutes of your time, then about nine to mark it.** Run inside
 [L5 stages 7 and 8](unit-01-lesson-05.md). Twenty-five marks in four parts.
@@ -57,7 +56,7 @@ construct).
 
 ---
 
-## Part A — Ascolto · 3 minutes · 4 marks `[ITA?]`
+## Part A — Ascolto · 3 minutes · 4 marks
 
 **How it runs.** The teacher reads the exchange aloud **twice**, at normal pace,
 taking both voices. Learners answer **in English or Italian** — this part checks
@@ -66,22 +65,32 @@ then cover it and answer from memory (the course's rule for unrecorded audio).
 The script is not a recorded cue in v1; if it is recorded later it becomes
 `assets/audio/unit-01/u01-l05-checkpoint.mp3` and moves to the audio script file.
 
-**Script** (two speakers, ~85 words, about 45 seconds)
+**Script** (two speakers, `tu` — friends; ~80 words, about 45 seconds read at
+A2 pace with a beat between turns. Level **A2**.)
 
 > **Anna:** Allora, Luca, com'è la tua settimana?
 >
-> **Luca:** Normale. Mi sveglio alle sette, ma il martedì no: il martedì mio figlio
-> mi sveglia alle sei, perché ha la piscina. E tu?
+> **Luca:** Mah, normale. Mi sveglio alle sette, ma il martedì no: il martedì mio
+> figlio mi sveglia alle sei, perché ha la piscina. E tu?
 >
-> **Anna:** Io mi alzo tardi, alle nove: lavoro da casa. Però la sera esco spesso.
+> **Anna:** Io mi alzo tardi, alle nove, perché lavoro da casa. Però la sera esco
+> spesso, con gli amici.
 >
-> **Luca:** Io invece la sera mi addormento sul divano!
+> **Luca:** Che bello! Io invece la sera mi addormento sul divano.
 >
 > **Anna:** E il weekend? Ci vediamo sabato?
 >
 > **Luca:** Sabato no, lavoro. Domenica?
 >
-> **Anna:** Va bene, domenica.
+> **Anna:** Perfetto, allora domenica. A pranzo?
+>
+> **Luca:** Sì, a pranzo va benissimo.
+
+**Reading note.** Say `mi sveglia` with a clear `m` and no pause between `mio
+figlio` and `mi`: item 4 depends on that pronoun being heard. Don't stress it
+either, because an emphatic `MI` gives the answer away. `E tu? ↗` rises.
+`Ci vediamo sabato? ↗` and `A pranzo? ↗` are yes/no questions and rise too.
+`Com'è la tua settimana? ↘` is a wh-question and falls.
 
 **Questions**
 
@@ -90,25 +99,31 @@ The script is not a recorded cue in v1; if it is recorded later it becomes
 2. *(detail)* What time does Anna get up, and why so late?
 3. *(detail)* Which day do they agree to meet?
 4. *(main structure)* On Tuesdays, what happens at six o'clock?
-   (a) Luca's son wakes Luca up · (b) Luca's son wakes up on his own ·
+   (a) Luca's son wakes Luca up · (b) Luca's son wakes up, but Luca sleeps on ·
    (c) Luca wakes his son up
 
 **Key.** 1 **(b)** · 2 **nine o'clock — she works from home** (both halves needed) ·
-3 **Sunday** · 4 **(a)**. **1 mark each, 4 marks.** Spelling and language not
-marked: a right answer in rough English is right.
+3 **Sunday** (also accept *Sunday, for lunch*) · 4 **(a)**. **1 mark each, 4
+marks.** Spelling and language not marked: a right answer in rough English is
+right.
 
 **Marking notes.**
 - **Item 4 is the one that turns on the unit's grammar.** `mio figlio mi sveglia`
   — the pronoun is `mi`, so the son wakes **me**. A learner who hears only
   `figlio`, `sveglia` and `sei` cannot choose: all three options contain them.
-  (b) would be `mio figlio si sveglia`; (c) would be `sveglio mio figlio`. This is
-  L2 stage 2's point — *the wrong pronoun makes a different sentence* — turned into
-  a listening item.
-- **Item 2** needs both the time and the reason; either alone is 0.
+  (b) is what `mio figlio si sveglia` would give; (c) would be `sveglio mio
+  figlio`. This is L2 stage 2's point — *the wrong pronoun makes a different
+  sentence* — turned into a listening item. Option (b) says **Luca sleeps on** so
+  that it is false for a learner who parsed the sentence correctly. A son who
+  wakes his father has also woken up by himself, so a plain "the son wakes up on
+  his own" would also be true.
+- **Item 2** needs both the time and the reason; either alone is 0. *She goes out
+  in the evening* is not the reason. The script says `perché lavoro da casa`, and
+  `però` sets the evenings against it.
 
 ---
 
-## Part B — Grammar in a text · 3 minutes · 6 marks `[ITA?]`
+## Part B — Grammar in a text · 3 minutes · 6 marks
 
 Chiara is writing to Petra, who is moving into her flat. Write the right form of
 the word in brackets. One to three words per gap.
@@ -117,10 +132,14 @@ the word in brackets. One to three words per gap.
 > **(1)** ______ (svegliarsi) presto, alle sei e mezza, perché lavoriamo tutte e
 > due in centro. La mattina io **(2)** ______ (farsi) la doccia per prima, e Marta
 > prepara il caffè. Il giovedì lei **(3)** ______ (occuparsi) della spesa, e io
-> pulisco la cucina. Durante la settimana io e Marta non **(4)** ______ (vedersi)
-> molto, ma la domenica pranziamo sempre insieme. Le altre due ragazze sono molto
+> pulisco la cucina. La sera io e Marta non **(4)** ______ (vedersi) molto, ma
+> la domenica pranziamo sempre insieme. Le altre due ragazze sono molto
 > **(5)** ______ (riservato), ma simpatiche. E tu, che lavoro **(6)** ______
-> (fare)? A presto, Chiara
+> (fare)? Lavori anche tu in centro? A presto, Chiara
+
+*Level A2, ~85 words. Informal letter, `tu` between future flatmates. One clause
+per idea, and only `perché` subordinates. Every verb outside the gaps is in the
+present.*
 
 **Key and alternatives.**
 
@@ -131,7 +150,7 @@ the word in brackets. One to three words per gap.
 | B3 | riflessivi — third person | **si occupa** | — | `*mi occupa` (see note) |
 | B4 | reciprocal | **ci vediamo** | — | `*si vediamo`, `*vediamo` |
 | B5 | **recycled** — adjective agreement | **riservate** | — | `riservata`, `riservati` |
-| B6 | **recycled** — present-tense question form | **fai** | — | `fa` (that is `Lei`; the letter says `tu`) |
+| B6 | **recycled** — present-tense question form (`tu`, as L4's `Che lavoro fai?`) | **fai** | `fai tu` | `fa` (that is `Lei`; the letter says `tu`); `farai` (see note) |
 
 **1 mark each, all or nothing, 6 marks.** B1–B4 are the main structure; **B5–B6
 are the recycled gaps, and pass condition 4 needs at least one of them.**
@@ -146,10 +165,15 @@ Spelling and accents not marked.
   pronoun follows the subject.
 - **B5** — `ragazze` is feminine plural; `riservate`. `riservato` copied from the
   brackets scores 0.
+- **B6** — the gap is L4's `Che lavoro fai?` in context, so what it checks is the
+  `tu` ending of the question. The follow-up `Lavori anche tu in centro?` puts
+  the question in the present: Petra already has a job. That rules out `farai`,
+  which would otherwise be good Italian for someone about to move. `fai tu`
+  repeats the `tu` but is not wrong, so it scores.
 
 ---
 
-## Part C — Words in use · 2 minutes · 5 marks `[ITA?]`
+## Part C — Words in use · 2 minutes · 5 marks
 
 **C1–C3 and C5.** Write the missing word or words. No options are given.
 
@@ -158,15 +182,17 @@ Spelling and accents not marked.
 3. È una persona in ______ : risolve sempre tutto.
 5. Il 25 dicembre vengono a pranzo tutti i miei ______ : zii, cugini, nonni.
 
-**C4.** Which word is the odd one out? Circle it, and write **why** in one English
-word.
+**C4.** Which word is the odd one out **because of what it means**? Circle it,
+and write **why** in one English word.
 
 4. `socievole` · `affidabile` · `disponibile` · `permaloso`
 
-**Key.** 1 **bene** · 2 **d'accordo** · 3 **gamba** · 4 **permaloso** — *negative*
+**Key.** 1 **bene** (also accept `benissimo`, `molto bene`, `proprio bene`,
+`davvero bene`) · 2 **d'accordo** · 3 **gamba** · 4 **permaloso** — *negative*
 (accept any one English word that says it is the unflattering one: *negative*,
-*bad*, *unkind*, *critical*) · 5 **parenti**. **1 mark each, 5 marks.** Spelling
-not marked unless the word has become a different word.
+*bad*, *unflattering*, *unpleasant*, *critical*; or a correct gloss: *touchy*) ·
+5 **parenti** (also accept `familiari`). **1 mark each, 5 marks.** Spelling not
+marked unless the word has become a different word.
 
 **What the five sample.** Subgroup A (routine verbs: C1, the chunk `trovarsi
 bene`), subgroup C (character and getting on: C2–C4), and the unit's false friend
@@ -175,10 +201,16 @@ d'accordo`, `in gamba`).
 
 **Marking notes.**
 - **C4** needs both the circled word and a reason that says why. `permaloso` with
-  no reason, or with a reason that is not about it being negative, scores 0.
+  no reason, or with a reason that is not about it being negative, scores 0. The
+  words *because of what it means* are what make that fair. These four words are
+  exactly the lexis file's agreement table: three `-e` adjectives and one `-o`.
+  Without the words, *permaloso — ending* would be a correct answer the key
+  rejects. The item would also be testing agreement, not lexis.
+- **C1** — any intensifier with `bene` is right; `male` contradicts the co-text.
 - **C5** — `genitori` is **wrong**: uncles, cousins and grandparents are not
   parents, and the sentence was written to make that impossible. This is the
-  unit's false-friend item.
+  unit's false-friend item. `familiari` is right (*family members*): it is not
+  the trap, and the item does not exist to penalise it.
 - **C3** — `gamba`, never `*gambe`.
 
 ---
@@ -305,8 +337,10 @@ twelve units.
 
 ## Construct-validity check (ITA-4 checklist, run 2026-10-12)
 
-- [x] Part A uses only Unit 1 lexis and A2 basics (`piscina`, `lavoro da casa` are
-      A2 and transparent from context).
+- [x] Part A uses only Unit 1 lexis and A2 basics (`piscina`, `lavoro da casa`,
+      `il weekend`, `che bello` are A2 and transparent from context). Checked by
+      the Italian Content Editor under ITA-19, along with the C4 form route
+      (closed) and every key's alternatives.
 - [x] Part A item 4 cannot be reached by keyword matching: all three options share
       `son`, `wake` and `six`.
 - [x] No Part A or C item needs accurate Italian to score (C keys are single words

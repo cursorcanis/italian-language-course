@@ -97,10 +97,12 @@ unticked and said so.
 
 ---
 
-## Filled example (Unit 1, part B and its key) `[ITA?]`
+## Filled example (Unit 1, part B and its key)
 
-*Draft: re-aligned to ITA-4 under ITA-12 and awaiting the Italian Content Editor
-together with `unit-01-checkpoint.md`.*
+*Italian signed off under ITA-19 (Italian Content Editor, 2026-10-13, pass with
+edits), together with `unit-01-checkpoint.md`. It is identical to that file's
+Part B; see
+[`docs/unit-01-italian-signoff.md` §ITA-19](../../../docs/unit-01-italian-signoff.md#ita-19--re-aligned-checkpoint).*
 
 ### Part B — Grammar in a text · 3 minutes · 6 marks
 
@@ -111,10 +113,10 @@ the word in brackets. One to three words per gap.
 > **(1)** ______ (svegliarsi) presto, alle sei e mezza, perché lavoriamo tutte e
 > due in centro. La mattina io **(2)** ______ (farsi) la doccia per prima, e Marta
 > prepara il caffè. Il giovedì lei **(3)** ______ (occuparsi) della spesa, e io
-> pulisco la cucina. Durante la settimana io e Marta non **(4)** ______ (vedersi)
-> molto, ma la domenica pranziamo sempre insieme. Le altre due ragazze sono molto
+> pulisco la cucina. La sera io e Marta non **(4)** ______ (vedersi) molto, ma
+> la domenica pranziamo sempre insieme. Le altre due ragazze sono molto
 > **(5)** ______ (riservato), ma simpatiche. E tu, che lavoro **(6)** ______
-> (fare)? A presto, Chiara
+> (fare)? Lavori anche tu in centro? A presto, Chiara
 
 | Gap | Tests | Key | Not accepted |
 | --- | --- | --- | --- |
@@ -123,7 +125,7 @@ the word in brackets. One to three words per gap.
 | B3 | riflessivi — third person | **si occupa** | `*mi occupa` |
 | B4 | reciprocal | **ci vediamo** | `*si vediamo` |
 | B5 | **recycled** — agreement | **riservate** | `riservata`, `riservati` |
-| B6 | **recycled** — question form | **fai** | `fa` (the letter is `tu`) |
+| B6 | **recycled** — question form | **fai** (also `fai tu`) | `fa` (the letter is `tu`); `farai` (`Lavori…?` makes it present) |
 
 *Four gaps on the main structure, two recycled, each answerable only from the
 co-text (`Io e Marta`, `lei`, `ragazze`, `tu`). B3 is the L2 error-clinic error

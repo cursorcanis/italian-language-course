@@ -125,8 +125,7 @@ author.
    (re-aligned under ITA-12): four parts, a profile, four pass conditions, and no
    blocking. The boundaries are ITA-4's, so they are no longer this unit's
    judgement — but the 3 + 3 + 2 + 2 timing has not been checked against a real
-   learner, the Part A–C Italian is a draft awaiting the Italian Content Editor, and
-   Part D's TS needs a partner, which a solo learner does not have. The first live
+   learner (the Part A–C Italian was signed off under ITA-19), and Part D's TS needs a partner, which a solo learner does not have. The first live
    run should time each part.
 5. **L3 carries five separate things** — lexis set B, a listening, the pronunciation
    point, the secondary grammar point and the false-friend slot — and is therefore the
