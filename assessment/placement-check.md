@@ -29,8 +29,12 @@ Built against: [`a2-b1-syllabus-map.md`](../curriculum/syllabus/a2-b1-syllabus-m
 >    suggestions. Each ruling appears under its *ICE note* as **Architect
 >    ruling (ITA-23)**, and the spec and map have been updated. No Italian item or key
 >    needed rewriting.
-> 2. **A parallel version exists.** See the last line of the construct-validity
->    checklist.
+> 2. ~~**A parallel version exists.**~~ **Done, ITA-24 (2026-10-13):** each
+>    part with Italian now has a **Version 2 — Italian (ITA-24)** section after
+>    version 1, and [§Parallelism](#version-1--version-2-parallelism-ita-24)
+>    maps every item across. Version 2 is used for every re-take. Verdict on
+>    version 2: **pass.** Ticking the last line of the construct-validity
+>    checklist is left to whoever runs it (item 3).
 > 3. **The construct-validity checklist has been run.**
 >
 > The parts in English (Part A and the prompts for E and F) are outside this
@@ -347,6 +351,187 @@ nothing in it is wrong. Spelling is not marked.
   `B2.3–B2.5` row.
 - **`si` passivante, input only: accepted.** The note is added to the B2 spec.
 
+### Version 2 — Italian (ITA-24)
+
+For re-takes. It uses the same spec, item functions, tags and marks as
+version 1, with a different topic and text. Key letters are reshuffled, so a
+remembered answer pattern is worth nothing.
+
+#### B1 — Text 1: *Un messaggio da Luca*
+
+**Level: A2.** These choices pitch it there:
+- **Tenses:** presente, riflessivi and passato prossimo only. There is no
+  imperfetto and no object pronoun. The doctor's words are quoted in the
+  present (`«Deve fare sport!»`).
+- **Time:** three explicit time anchors (`a gennaio`, `a febbraio`,
+  `tre settimane fa`), each tied to a different event. `All'inizio` (Set 2 A)
+  frames the evaluation.
+- **Sentences:** short. The only subordinate clause is `perché vado in
+  piscina…` (version 1 had two, `scusa se…` and `ti ricordi che…`).
+  Everything else is joined with `e`, `ma`, `così`, `però` and a colon.
+- **Lexis:** topic words are from Sets 1–2 (`svegliarsi`, `iscriversi`,
+  `pentirsi`, `all'inizio`, `[quantity] + fa`, `in gamba`, `socievole`,
+  `il collega`). Everything else (`il nuoto`, `la piscina`, `la gara`,
+  `il mal di schiena`) is A2 core.
+
+**Register:** informal written message, `tu`. Luca is replying late to
+Francesca, a friend who wrote to him first, which is why it opens with an
+apology. **Length:** 109 words in the body (version 1: 111, counted the same
+way, elided forms as two words).
+
+**Cultural note:** public pools in Italian cities open lanes for adults from
+about 7:00, before work, and amateur "master" races are the ordinary next step
+for an adult who joins a course.
+
+> Ciao Francesca!
+>
+> Scusa il ritardo, ma ho cambiato completamente la mia routine. A gennaio sono
+> andato dal medico per il mal di schiena, e il medico è stato chiaro: «Deve
+> fare sport!». Così a febbraio mi sono iscritto a un corso di nuoto, e tre
+> settimane fa ho fatto la mia prima gara! Adesso mi sveglio alle sei, perché
+> vado in piscina prima del lavoro. All'inizio è stato durissimo, però non mi pento:
+> dormo meglio e ho meno mal di schiena. L'istruttore, Paolo, è in gamba. In
+> piscina vado con Stefano, un collega molto socievole. Con lui faccio
+> colazione al bar dopo il nuoto. E tu, come stai?
+>
+> Un abbraccio,
+> Luca
+
+**Items** (in text order; choose A, B or C):
+
+1. *Why is Luca writing to Francesca?*
+   A. To tell Francesca his back problem has stopped him swimming.
+   B. To tell Francesca he has taken up swimming.
+   C. To tell Francesca he is going to start swimming soon.
+2. *What happened in January?*
+   A. Luca saw a doctor about his back.
+   B. Luca signed up for a swimming course.
+   C. Luca took part in his first race.
+3. *When did Luca swim in his first race?*
+   A. In January. B. In February. C. Three weeks ago.
+4. *How does Luca feel about the change?*
+   A. It was hard at first, but he's glad he did it.
+   B. He enjoys swimming, but the early starts ruin his sleep.
+   C. He liked it at first, but now his back hurts more.
+5. *"Con lui faccio colazione al bar dopo il nuoto." Who is* lui*?*
+   A. Paolo, the instructor. B. Stefano, his colleague. C. The doctor.
+
+| Item | Key | Function | The clause that contradicts each distractor |
+| --- | --- | --- | --- |
+| 1 | **B** | gist | A: `vado in piscina prima del lavoro` (he swims every working day). C: `a febbraio mi sono iscritto` (he has already started). |
+| 2 | **A** | detail: what | B: the course was `a febbraio`. C: the race was `tre settimane fa`. |
+| 3 | **C** | detail: when | A: `a gennaio` was the doctor. B: `a febbraio` was when he signed up. |
+| 4 | **A** | inference from `non mi pento` (Set 2 C), set against `All'inizio è stato durissimo` | B: `dormo meglio`. C: `ho meno mal di schiena`, and `All'inizio` was the hard part, not the easy one. |
+| 5 | **B** | reference | A: Paolo is mentioned in the sentence before Stefano; `lui` follows `In piscina vado con Stefano…`. C: the doctor belongs to the January episode and is not part of the routine. |
+
+**ICE notes.**
+- **Item 4 is not a one-word item.** A learner who does not know `pentirsi`
+  still reaches the key through `dormo meglio e ho meno mal di schiena`. In
+  version 1, `vale proprio la pena` was backed up by `sono soddisfatta` in the
+  same way.
+- **Item 5 has no stronger lure than version 1's.** The doctor is never
+  referred to as `lui` (`il medico è stato chiaro`), so no earlier pronoun
+  competes with `Con lui`. A `lui` for the doctor would have made v2's item
+  harder than v1's.
+- **Scusa il ritardo, not `Scusa se ti rispondo…`**: `ti rispondo` is an
+  indirect pronoun (`U8`). It is only input, but an A2-core text has no reason
+  to carry it.
+
+#### B2 — Text 2: *Un annuncio e una risposta*
+
+**Level: A2+ / B1 lower** (U3 payload).
+
+**Grading choices:**
+- **Relatives:** two relative clauses with `cui` after a preposition,
+  `in cui` and `di cui` (`di cui una famiglia ha bisogno`), inside the U3 cap.
+- **Comparison:** one double comparison (`meno vivace e meno elegante del
+  centro, ma è più verde`).
+- **`ci` locativo:** `in centro ci si arriva in venti minuti`. It is a
+  dislocation with a resumptive `ci`, plus `si` impersonale (U4), the same
+  construct as version 1 in a different sentence.
+- **`si` passivante:** `Si accettano animali`. It is input only, and no item
+  turns on it (it is a U7 structure).
+- **Lexis:** Set 3 (`palazzo`, `ascensore`, `cantina`, `spese
+  condominiali`, `bollette`, `cauzione`, `i servizi`, `in centro`). The rest
+  (`il trilocale`, `la lavatrice`, `vivace`, `verde`, `il posto auto`) is A2
+  core.
+
+**Register:**
+- **The advert** is a private landlord's listing on a property portal,
+  telegraphic in the facts and discursive in the description, as in version 1.
+- **The reply** uses `Lei` (`il Suo annuncio`, `Lei scrive`). Matteo is
+  writing to a landlord he does not know.
+
+**Lengths:** advert 88 words, reply 58 words (body). Version 1: 89 and 58,
+counted the same way.
+
+**Cultural currency:**
+- Mazzini is a real residential district of Bologna, outside the old walls,
+  with mostly post-war blocks. 1.050 € for an unfurnished trilocale with a
+  parking space is in line with Bologna rents in 2026.
+- Three months' deposit is the legal maximum and is common in Bologna's tight
+  market.
+- A city bus takes about twenty minutes from Mazzini to the centre.
+
+> **AFFITTASI — Bologna, zona Mazzini**
+>
+> Trilocale al secondo piano di un palazzo con ascensore e cantina. Il bagno è
+> di fronte alla cucina, in cui c'è anche la lavatrice. La zona è meno vivace e
+> meno elegante del centro, ma è più verde: sotto casa c'è un parco. Ci sono
+> tutti i servizi di cui una famiglia ha bisogno, e in centro ci si arriva in
+> venti minuti di autobus. 1.050 € al mese, posto auto compreso. Spese
+> condominiali e bollette a parte. Cauzione: tre mensilità. Si accettano
+> animali. Libero da gennaio.
+
+> Buongiorno,
+>
+> ho visto il Suo annuncio per il trilocale in zona Mazzini e vorrei qualche
+> informazione. Ho molte cose da mettere via: quanto è grande la cantina? E
+> poi: Lei scrive che in centro si arriva in venti minuti di autobus, ma
+> l'autobus passa spesso? Io e mia moglie lavoriamo in centro. Possiamo vedere
+> l'appartamento sabato mattina?
+>
+> Cordiali saluti,
+> Matteo Rinaldi
+
+**Items.** Items 1–3 are multiple choice (A, B or C). Items 4–5 are answered in
+English, in one to four words.
+
+1. *Which room has the washing machine?*
+   A. The bathroom has the washing machine.
+   B. The cellar has the washing machine.
+   C. The kitchen has the washing machine.
+2. *What does the advert present as the area's advantage over the centre?*
+   A. It is livelier than the centre.
+   B. It is greener than the centre.
+   C. It is more elegant than the centre.
+3. *What does the 1,050 € a month include?*
+   A. The rent and the building's service charges.
+   B. The rent and the utility bills.
+   C. The rent and a parking space.
+4. *What does Matteo want to know about the cellar?*
+5. *Matteo asks about the bus. What information is missing from the advert?*
+
+| Item | Key | Accept | Reject, and why |
+| --- | --- | --- | --- |
+| 1 | **C** | — | **A** is the keyword trap: `Il bagno` opens the sentence, and `lavatrice` closes it. `in cui` attaches to `cucina`, the nearest antecedent. In Italian flats the washing machine is as often in the bathroom as in the kitchen, so world knowledge cannot answer it. **B** puts it in the `cantina`, named in the first sentence, which is a second lure. |
+| 2 | **B** | — | A: `meno vivace`. C: `meno elegante`. The key is the clause after `ma`. |
+| 3 | **C** | — | A: `Spese condominiali… a parte`. B: `bollette a parte`. Version 1's key (service charges) is a distractor here, so remembering v1 leads away from the key. |
+| 4 | **How big it is** | size, how much space, how large, whether his things will fit, e.g. "the size", "if there's enough room" | "whether there is one": the advert says so (`con ascensore e cantina`). "where it is", "if it's dry", "if it's included": not his question. |
+| 5 | **How often the bus runs** | frequency, how frequent, whether buses are frequent / come often, the timetable | "how long it takes (to the centre)": the advert says so (`venti minuti`), and Matteo repeats it. "where the stop is", "whether there is a bus": not his question. |
+
+Answers in English. A correct answer longer than four words is not penalised if
+nothing in it is wrong. Spelling is not marked.
+
+**ICE notes.**
+- **The B2.1 construct is met.** The key and the strongest distractor have
+  identical content words (*has the washing machine*). They differ only in
+  where `in cui` attaches, exactly as in version 1.
+- **Item 5 mirrors version 1's item 5 by function.** The advert states one
+  fact about the thing asked about (v1: heating is `autonomo`; v2: the journey
+  is `venti minuti`), and the reply asks for the fact it leaves out (v1: cost;
+  v2: frequency).
+
 ---
 
 ## Part C — Language in use (10 minutes, 12 marks)
@@ -469,7 +654,7 @@ is shown, choose the word yourself.*
 | 2 | direct object pronoun + agreement | **l'ho provata** | `la ho provata` (elision is not marked); `me la sono provata` (colloquial, correct, and it shows the construct) | `l'ho provato` (agreement with `la giacca`); `ho provato` (no object, so the clause is ungrammatical here); `la provo` (breaks the past narrative). |
 | 3 | `ne` partitivo with a quantity | **ne prendo** | `me ne prendo` | `prendo` / `io prendo`: when the counted noun is omitted, Italian requires `ne`. This is the classic anglophone error and the reason for the gap. `le prendo`: wrong pronoun with a number. |
 | 4 | imperfetto vs PP at a background/foreground boundary | **stavo pagando** | `pagavo`; `stavo per pagare` (U5, and it fits: she stops before paying) | `ho pagato` / `avevo pagato`: payment finished, which contradicts `Mi sono fermata subito`. |
-| 5 | `ci` locativo (or `si` impersonale) | **ci** | `vi` (literary, but correct) | Anything else. Between `non` and a finite verb only a clitic fits, and with `tornare` plus a place already named, only the locative clitic. |
+| 5 | `ci` locativo | **ci** | `vi` (literary, but correct) | Anything else. Between `non` and a finite verb only a clitic fits, and with `tornare` plus a place already named, only the locative clitic. |
 
 **ICE notes (for the Architect).**
 - **Verb cues in brackets: a spec clarification to ratify.** The spec says "no
@@ -523,6 +708,115 @@ is shown, choose the word yourself.*
   stands.
 - **Ruling 4 (C1.6 map row): accepted.** The spec gap was always "past-time
   expression from Set 2 subgroup A". The old map row was what was wrong.
+
+### Version 2 — Italian (ITA-24)
+
+The learner instruction and the marking rules are version 1's, unchanged.
+Every gap tests the same construct as the v1 gap with the same number, and
+sits in a different text with a different verb.
+
+#### C1 — *Ospiti a casa* (A2-core)
+
+**Level: A2.** These choices pitch it there:
+- **Narrator:** first-person and female (a teacher). No gap depends on the
+  narrator's gender.
+- **Structure:** the first paragraph is in the habitual present, the second in
+  a past narrative, as in version 1.
+- **Agreement gap:** subject `le mie cugine` gives feminine plural, so gap 4
+  has one answer whatever the narrator's gender. (Version 1 was masculine
+  plural. The construct is the same; the ending differs.)
+- **Person is fixed by the co-text** at every verb gap: `io e le mie colleghe`
+  (gap 1), `la mattina comincio` (gap 2), `niente cena con le colleghe`
+  (gap 3: no "we"; the cousins have not arrived yet), `le mie cugine` (gap 4),
+  `le ragazze` (gap 5).
+- **Lexis:** A2 core plus Set 1 (`addormentarsi`, `la collega`) and Set 2
+  (`[quantity] + fa`).
+- **Leaks:** every past tense in the co-text takes `avere` (`abbiamo girato`,
+  `abbiamo pranzato`, `ha aperto`), so nothing models gap 4's `essere` and
+  agreement. Gap 5's imperfetto has no model, and no gap's verb appears
+  elsewhere in the text.
+- **Length:** 105 words outside the gaps (version 1: 100, counted the same
+  way).
+
+> Insegno in una scuola media e la mia settimana è piuttosto regolare. Il
+> venerdì sera, di solito, io e le mie colleghe **(1)** __________ *(uscire)* a
+> cena. Gli altri giorni **(2)** __________ *(addormentarsi)* presto, verso le
+> dieci e mezza, perché la mattina comincio alle otto.
+>
+> Lo scorso fine settimana, invece, ospiti a casa! Venerdì sera niente cena con
+> le colleghe: **(3)** __________ *(fare)* la spesa per tutto il weekend.
+> Sabato mattina le mie cugine **(4)** __________ *(arrivare)* da Padova, e
+> abbiamo girato la città a piedi. Domenica, però, niente gita al lago: le
+> ragazze **(5)** __________ *(avere)* il treno alle due. Così abbiamo pranzato
+> in una trattoria che ha aperto due mesi **(6)** __________ sotto casa mia. Per
+> fortuna abito vicino **(7)** __________ stazione!
+
+| Gap | Target (spec) | Key | Also accept | Reject, and why |
+| --- | --- | --- | --- | --- |
+| 1 | present-tense irregular (U1 list) | **usciamo** | — | `esciamo`: the `esc-` stem belongs to the singular and 3rd plural only, and the irregular paradigm is the construct, so this is a wrong form, not a spelling slip. `uscivamo`: the frame is habitual present (`Il venerdì sera, di solito`). |
+| 2 | reflexive, present | **mi addormento** | `io mi addormento` | `addormento` (pronoun missing); `si addormenta` (wrong person: the subject is `io`, fixed by `la mattina comincio`). |
+| 3 | PP with `avere` | **ho fatto** | `io ho fatto` | `ho facito` / `ho fatta`; `sono fatta`; `abbiamo fatto` (no "we": the colleagues are ruled out, and the cousins arrive on Saturday); `feci` (passato remoto is not standard for last weekend); `facevo` (a single event). |
+| 4 | PP with `essere` **+ agreement** | **sono arrivate** | — | `hanno arrivato` (auxiliary); `sono arrivati` / `sono arrivata` / `è arrivata` (agreement: `le mie cugine` is feminine plural); `arrivavano` (a single event). Auxiliary and participle must both be right. |
+| 5 | imperfetto, descriptive | **avevano** | — | `hanno avuto`: a timetabled train is a state that explains a decision, not a bounded event, and no native would say it here. `hanno`: wrong tense. `avevamo`: the subject is `le ragazze`. |
+| 6 | past-time expression (Set 2 A) | **fa** | — | `prima`: it needs a past reference point, and the text has none ("two months before *what*?"). `da`: `ha aperto da due mesi` is not Italian (`è aperta da due mesi` is a different construction). The co-text forces one answer, as in version 1. |
+| 7 | preposizione articolata | **alla** | — | `a` (article missing); `la`: `vicino la stazione` is colloquial and regional, not standard, and it is the error already named in the Part E band-3 anchor; `della`, `dalla`, `nella`: `vicino a` is the only standard form. This is a place preposition, as the map's C1.7 can-do requires. |
+
+#### C2 — *Il regalo e l'allarme* (B1-probe)
+
+**Level: B1 lower** (U3–U6 payload).
+
+**Grading choices:**
+- **Narrator:** a male first-person narrator telling a spoken-style anecdote.
+  No gap depends on his gender.
+- **Tenses:** imperfetto backgrounds (`cercavamo`, `c'erano`, `volevo`,
+  `guardavano`) set against passato prossimo events.
+- **Natural spoken syntax:** a left-dislocation with resumptive `ci` closes the
+  text (`in quel centro commerciale non ci vado più`), reported speech and a
+  line of direct speech sit inside the narrative, and `Insomma` sums up.
+- **Lexis:** A2 core plus Set 5 (`all'improvviso`, `insomma`). `cuffie`,
+  `pile`, `cassiera` and `antifurto` are shopping words no item turns on.
+- **Length:** 104 words outside the gaps (version 1: 105, counted the same
+  way).
+- **Cultural note:** offers on batteries by the till and a security tag left
+  on at the checkout are an ordinary shopping-centre scene in 2026.
+
+> Venerdì sono andato con mio fratello al centro commerciale in
+> **(1)** __________ lavora la nostra vicina. Per il compleanno di papà
+> cercavamo qualcosa di speciale. In un negozio di elettronica abbiamo visto
+> delle cuffie nere bellissime, e io **(2)** __________ *(comprare)* subito.
+> Alla cassa c'erano anche delle pile in offerta, e la cassiera mi ha chiesto
+> quante pile volevo. «**(3)** __________ *(volere)* quattro, grazie.» Ho pagato
+> e **(4)** __________ *(uscire)* dal negozio quando all'improvviso è suonato
+> l'allarme. Mi sono fermato sulla porta, e una guardia è arrivata di corsa: la
+> cassiera ha dimenticato di togliere l'antifurto dalle cuffie! Tutti mi
+> guardavano. Insomma, che vergogna: in quel centro commerciale non
+> **(5)** __________ vado più!
+
+| Gap | Target (spec) | Key | Also accept | Reject, and why |
+| --- | --- | --- | --- | --- |
+| 1 | `che` or `cui`, co-text decides | **cui** | `in cui`, where the preposition is written again in the gap (the construct is shown) | `che`: `in che` is not a relative. `quale`: it needs an article and a fused preposition (`nel quale`), and the printed `in` rules that out. `dove`: `in dove` is not Italian. Only one answer is possible. |
+| 2 | direct object pronoun + agreement | **le ho comprate** | `l'ho comprate` (elision is not marked, and the `-e` shows the pronoun is `le`) | `le ho comprato` (agreement with `le cuffie`, feminine plural); `ho comprato` (no object, so the clause is ungrammatical here); `me le sono comprate` (correct Italian, but wrong here: they are a present for his father); `le compro` (breaks the past narrative). |
+| 3 | `ne` partitivo with a quantity | **ne voglio** | `ne vorrei` (the seeded `vorrei` chunk, `U3`: polite and correct); `io ne voglio` | `voglio` / `vorrei`: when the counted noun is omitted, Italian requires `ne`. `le voglio`: wrong pronoun with a number. |
+| 4 | imperfetto vs PP at a background/foreground boundary | **stavo uscendo** | `uscivo`; `stavo per uscire` (U5, and it fits: he stops at the door) | `sono uscito` / `ero uscito`: leaving finished, which contradicts `Mi sono fermato sulla porta`. |
+| 5 | `ci` locativo | **ci** | `vi` (literary, but correct) | Anything else. Between `non` and a finite verb only a clitic fits, and with `andare` plus a place already named, only the locative clitic. |
+
+**ICE notes.**
+- **C2.1 changes the printed preposition** from `di` to `in`. The construct
+  is unchanged: a preposition that must fuse with an article blocks
+  `il quale`, so `cui` is the only answer. `con`, `per` and `tra` would not
+  block it (`con il quale` is grammatical), which is why they were not used.
+- **C2.2 is plural this time.** `le ho comprate` shows agreement as clearly
+  as v1's `l'ho provata`, and the elided `l'ho comprate` is accepted for the
+  same reason v1 accepts `la ho provata`. Version 1 accepted a reflexive
+  `me la sono provata`; here `me le sono comprate` is wrong on meaning. That is
+  not a difficulty change: neither key requires the reflexive.
+- **C2.3 is again in the present, in direct speech,** so no key turns on
+  agreement after partitive `ne` (ITA-23, ruling 3).
+- **C2.4's contradicting clause** (`Mi sono fermato sulla porta`) uses
+  `essere`, so it does not model the `avere` + object agreement of gap 2. An
+  earlier draft had `una guardia mi ha fermato`, which did.
+- **Tags:** C1 is all A2 consolidation and C2 all U3–U6 payload, as in version
+  1. Nothing gapped comes after U6.
 
 ---
 
@@ -744,6 +1038,171 @@ words, about 70 seconds with its pauses.
   meets it.
 - **Construct-note wording: accepted** as proposed, and now in the D2 spec.
 
+### Version 2 — Italian (ITA-24)
+
+The reading notation and the rules for the reader are version 1's, unchanged.
+Version 2 is not used at the 1/2-boundary re-take, which is Parts B, C and E
+only. It is used whenever a learner sits the whole check a second time, such as
+the Band 1 re-check after four weeks.
+
+#### D1 — *Mercoledì salta* · `assets/audio/placement/placement-d1-v2.mp3` (A2-core)
+
+**Speakers:** Valentina (f, "Vale") phones Giorgio (m). They are friends and
+use `tu`. `Vale` is the ordinary short form of `Valentina`. The reader says it
+`VA-le`, with the stress on the first syllable.
+
+**Pace:** the slow end of natural, about 120 words a minute. The script is
+115 words (version 1: 121, counted the same way), about 55–60 seconds with the
+pauses between turns.
+
+**Level: A2.** These choices pitch it there:
+- **Grammar:** presente, passato prossimo (`ha trovato`), and one
+  politeness imperfetto (`ti chiamavo per…`), mirroring v1's `volevo`.
+- **Lexis:** Sets 1–2 (`il trasloco`, `la coinquilina`, `ci vediamo`) plus
+  A2 core.
+- **Spoken features:** `senti` (twice), `allora`, `eh`, `mah`, a restart
+  (`Allora… / andiamo…`), a tag (`ti ricordi?`), `figurati`, and the chunk
+  `più siamo meglio è`.
+
+> **VALENTINA:** Pronto, Giorgio? Ciao, sono Vale.
+> **GIORGIO:** Ciao Vale! Dimmi.
+> **VALENTINA:** Senti, ti chiamavo per mercoledì sera… La pizzeria alle otto,
+> ti ricordi↗?
+> **GIORGIO:** Sì, certo. Perché, c'è qualche problema↗?
+> **VALENTINA:** Eh, purtroppo sì. Mio fratello ha trovato casa nuova→, e fa il
+> trasloco proprio mercoledì↘. Così vado ad aiutare. Scusa, eh.
+> **GIORGIO:** Ma figurati↘. Il trasloco, che fatica! E giovedì↗? Giovedì sei
+> libera↗?
+> **VALENTINA:** Giovedì sì, ma… il giovedì la pizzeria è chiusa↘.
+> **GIORGIO:** Allora… / andiamo dal cinese vicino all'università↗? Quello
+> nuovo.
+> **VALENTINA:** Dal cinese↘, perfetto. A che ora↘?
+> **GIORGIO:** Mah… / alle otto e mezza↗?
+> **VALENTINA:** Alle otto e mezza va benissimo↘. Ah, senti: posso portare anche
+> la mia coinquilina↗? Si chiama Irene, è simpaticissima.
+> **GIORGIO:** Ma certo, più siamo meglio è! Allora ci vediamo giovedì↘.
+> **VALENTINA:** Sì, a giovedì. Ciao ciao!
+
+**Intonation the items depend on:**
+- **`ti ricordi↗?`** rises. It is a tag checking a shared plan. Read falling,
+  it sounds like a reproach.
+- **`andiamo dal cinese…↗?`** and **`alle otto e mezza↗?`** must rise. They
+  are *proposals*. The place is fixed by Valentina's falling `Dal cinese↘,
+  perfetto`, and the time by her falling `Alle otto e mezza va benissimo↘`.
+- **`Dal cinese↘, perfetto`** falls. It is an echo that accepts, not a new
+  question.
+- **`A che ora↘?`** falls. Wh-questions fall in Italian; anglophone readers tend
+  to make them rise.
+- **`ha trovato casa nuova→`** stays level. The reason is still coming.
+
+**Learner's note sheet** (fill each gap in one to three words, in English or
+Italian):
+
+| | |
+| --- | --- |
+| 1. Also coming on Thursday | __________ |
+| 2. New day and time | __________ |
+| 3. Meeting place | __________ |
+| 4. Why Wednesday is off | __________ |
+
+| Item | Key | Also accept | Reject, and why |
+| --- | --- | --- | --- |
+| D1.1 | **Valentina's flatmate (Irene)** | `her flatmate`, `flatmate`, `roommate`, `Irene`, `coinquilina` | "her brother": he is moving house. "Giorgio's flatmate": wrong person. |
+| D1.2 | **Thursday, 8.30 (p.m.)** | `Thu 8.30`, `Thursday half past eight`, `giovedì alle otto e mezza`, `20:30 Thursday` | The day **and** the time are both needed for the mark. `Wednesday 8` is the old plan. `Thursday 8` has the old time. `Thursday` alone has no time. `8.30` alone has no day. |
+| D1.3 | **The Chinese restaurant (near the university)** | `Chinese restaurant`, `the Chinese (place)`, `dal cinese`, `Chinese near the university` | "the pizzeria": that is the old place, closed on Thursdays. "the university" alone: that is the landmark, not where they are going. "the brother's new house": no. |
+| D1.4 | **She's helping her brother move house** | `her brother is moving`, `brother's move`, `helping her brother`, `trasloco`, `moving house` | "the pizzeria is closed": that is why the *place* changed, not why Wednesday is off. The label says *Wednesday*, so the two cannot be confused. "her flatmate": no. |
+
+#### D2 — *L'autobus delle otto* · `assets/audio/placement/placement-d2-v2.mp3` (B1-probe)
+
+**Speaker:** Elisa (f) tells a friend what happened this morning. The address
+form is `tu` (`Indovina…`, `ti racconto`, `il resto lo sai`).
+
+**Pace:** natural and unhurried, about 135 words a minute. The script is 155
+words (version 1: 150, counted the same way), about 70 seconds with its pauses.
+
+**Level: B1 lower.** These choices pitch it there:
+- **Tenses:** imperfetto backgrounds (`facevo la fila`, `avevo una riunione`,
+  `c'era`, `costava`) against passato prossimo events.
+- **Out of order:** the story opens with its outcome. The earliest event is
+  told late, anchored by `ieri sera` against the story's `stamattina`.
+- **Connectives:** eight from Set 5 A (`mentre`, `allora`, `il fatto è che`,
+  `così`, `appena`, `a un certo punto`, `però`, `insomma`), plus `alla fine`
+  from Set 2 and `per fortuna` from Set 5 C.
+- **Trapassato:** none. It is a `U9 L3` structure. `ieri sera l'ho prestato`
+  uses the PP with a time anchor, which is how speakers often say it, and the
+  sequencing must be answerable without it.
+
+> **ELISA:** Indovina cosa mi è successo stamattina↗? Ho perso l'autobus delle
+> otto↘. È passato proprio mentre facevo la fila dal tabaccaio→, e io l'ho visto
+> partire! Allora, ti racconto dall'inizio. Il fatto è che non ho sentito la
+> sveglia: mi sono alzata alle otto meno un quarto→, e alle nove avevo una
+> riunione importante↘. Così mi sono vestita in cinque minuti e sono uscita di
+> corsa. Appena sono arrivata alla fermata, ho cercato l'abbonamento nella
+> borsa… niente↘. A un certo punto mi sono ricordata→: ieri sera l'ho prestato
+> a mio fratello, perché il suo è scaduto! Allora sono corsa dal tabaccaio,
+> però c'era una fila lunghissima… e insomma, il resto lo sai↘. Un taxi costava
+> trenta euro, quindi ho aspettato quello dopo. Alla fine sono arrivata in
+> ufficio alle nove e mezza. Per fortuna il mio capo è stato gentile: ha
+> spostato la riunione al pomeriggio↘. Domani metto due sveglie!
+
+**Intonation:**
+- **The opening `Indovina cosa mi è successo stamattina↗?`** is an
+  attention-getter, not a real question. It rises and then falls on
+  `stamattina`. Read it with mock despair in the voice.
+- **`mentre facevo la fila dal tabaccaio→`** stays level. It is background, and
+  the sentence is not finished.
+- **`niente↘`** falls flat. It is deflated, not a question.
+- **`mi sono ricordata→:`** is suspended before the realisation.
+- **`il resto lo sai↘`** falls. It hands the listener back to the opening;
+  it does not ask whether they know.
+
+**Items D2.1–D2.2** (choose A, B or C):
+
+1. *What was happening when the eight o'clock bus went past?*
+   A. She was queuing for a ticket at the tobacconist's.
+   B. She was looking for her bus pass at the stop.
+   C. She was lending her bus pass to her brother.
+2. *How did the morning end?*
+   A. She took a taxi and got to work on time.
+   B. She arrived late, but the meeting was moved.
+   C. She took the next bus and missed the meeting.
+
+**Items D2.3–D2.4.** *Number these events 1–4 in the order they happened.*
+
+- a. The eight o'clock bus goes past.
+- b. She queues for a ticket at the tobacconist's.
+- c. She lends her bus pass to her brother.
+- d. She wakes up late.
+
+| Item | Key | The clause that contradicts each distractor, or the scoring rule |
+| --- | --- | --- |
+| D2.1 | **A** | B: `Appena sono arrivata alla fermata, ho cercato l'abbonamento… Allora sono corsa dal tabaccaio`. The search came before the queue. C: `ieri sera l'ho prestato`. |
+| D2.2 | **B** | A: `Un taxi costava trenta euro, quindi ho aspettato quello dopo`. C: `ha spostato la riunione al pomeriggio`. |
+| D2.3 | **b before a** — 1 mark | `È passato proprio mentre facevo la fila dal tabaccaio`. The bus is mentioned first, but the imperfetto `facevo` shows she was already in the queue. Only the tense contrast gives this order. World knowledge does not: she could just as well have queued *after* missing the bus, for a ticket for the next one. |
+| D2.4 | **c before d** — 1 mark | Waking up late is told first. Lending the pass is told later, anchored by `ieri sera` against `stamattina` and carried by the PP `l'ho prestato`. Nothing in the world orders these two events. She could have lent the pass that morning. |
+
+**Full chronological order:** c – d – b – a.
+
+**Script order:** a/b (in one sentence, bus first), then d, then c. The queue
+is mentioned again after c (`sono corsa dal tabaccaio… c'era una fila`), but
+the bus is not, so the a/b pair is never told in key order.
+
+**A learner who numbers the events in the order they first hear them scores
+0 on both items. So does one who goes by the last mention.** That is the
+protection ITA-23, ruling 6 asks for.
+
+**ICE notes.**
+- **The asset paths are a proposal.** The spec names only the v1 files. The
+  `-v2` suffix keeps both versions in one folder. The Architect should confirm
+  or rename them in the spec.
+- **D2.4 is less guessable than version 1's.** In version 1, leaving keys on a
+  table before looking for them is weakly ordered by common sense. In version 2,
+  lending a bus pass and oversleeping have no order in common sense. That makes
+  the item a cleaner test of the time anchors. It does not make it harder for a
+  learner who hears them.
+- **Tags:** D1 is A2-core, and no key holds anything from after U2. D2 is
+  B1-probe (the U5 contrast and connectives), as in version 1.
+
 ---
 
 ## Part E — Writing (10 minutes, 15 marks)
@@ -820,6 +1279,21 @@ The message survives every one of them.
 
 **Placement effect:** this script meets the Band 2 writing floor (TA ≥ 3). It
 misses the Band 3 floor (TA ≥ 4).
+
+### Version 2 — Italian (ITA-24)
+
+**No new Italian. Version 1's anchors apply to version 2.** The spec does not
+require version-2 anchors. The prompt is in English and is unchanged, and the
+anchors calibrate the scales against the four required elements, not against
+any content of version 1. Learners never see the anchors, so a re-taker has
+not met them.
+
+**ICE note (for the Architect), a suggestion only.** Part E is in the 1/2
+re-take. With an identical prompt, a re-taker can prepare and memorise a
+message. A v2 prompt could keep the four elements and change only the frame.
+For example: "An Italian-speaking colleague you met on a course last year has
+written to you. Reply…". The anchors would still apply. The prompt is English,
+so this is the Architect's call, not an Italian item.
 
 ---
 
@@ -922,6 +1396,15 @@ penalised on GA."
 table. Prompt (3) is reworded to "what you would like to change", which points
 to `vorrei` / `mi piacerebbe` and not to the U11 conditional. Both anchors already
 meet it, so they stand unchanged.
+
+### Version 2 — Italian (ITA-24)
+
+**No new Italian. Version 1's anchors apply to version 2**, for the same
+reasons as Part E: the prompts are English and unchanged, and the anchors
+calibrate the scales, not the content. Part F is not in the 1/2-boundary
+re-take, so a learner meets it a second time only at a full re-check, four
+weeks or more later. The Part E suggestion about a reframed prompt applies here
+too, at lower priority.
 
 ---
 
@@ -1069,6 +1552,59 @@ against.
 
 ---
 
+## Version 1 ↔ Version 2 parallelism (ITA-24)
+
+Every item tests the same construct, carries the same tag and is worth the same
+marks in both versions, so the
+[item-to-can-do map](#item-to-can-do-map) and the band thresholds apply to
+version 2 unchanged. Word counts below are counted the same way for both
+versions (elided forms as two words, gaps excluded).
+
+| Item | Construct (identical in both) | v1 | v2 | Tag · marks |
+| --- | --- | --- | --- | --- |
+| B1 text | A2 message, `tu`, three time anchors | Chiara: new job, move to Bologna · 111 w | Luca: swimming course, new routine · 109 w | — |
+| B1.1 | gist | A | B | A2-core · 1 |
+| B1.2 | detail: what happened at a time anchor | C (`l'anno scorso`) | A (`a gennaio`) | A2-core · 1 |
+| B1.3 | detail: when | A (`due settimane fa`) | C (`tre settimane fa`) | A2-core · 1 |
+| B1.4 | inference from a Set 2 C evaluation item | B (`soddisfatta`, `vale la pena`) | A (`non mi pento`) | A2-core · 1 |
+| B1.5 | reference: stressed subject pronoun after two named people | C (`lei` = Giulia) | B (`lui` = Stefano) | A2-core · 1 |
+| B2 texts | rental advert + `Lei` reply | Turin bilocale · 89 + 58 w | Bologna trilocale · 88 + 58 w | — |
+| B2.1 | relative-clause attachment (`in cui` to the nearest antecedent; key and lure share content words) | B (balcony: living room) | C (washing machine: kitchen) | B1-probe · 1 |
+| B2.2 | comparison: the feature after `ma` | C (quieter) | B (greener) | B1-probe · 1 |
+| B2.3 | detail on costs: what the rent includes | A (service charges) | C (parking space) | B1-probe · 1 |
+| B2.4 | short answer: the reply's first question | bike in the courtyard | size of the cellar | B1-probe · 1 |
+| B2.5 | short answer: the fact the advert leaves out | heating cost | bus frequency | B1-probe · 1 |
+| C1 text | habitual present → past weekend | Bergamo trip · 100 w | cousins visit · 105 w | — |
+| C1.1 | present irregular (U1 list) | `viene` | `usciamo` | A2-core · 1 |
+| C1.2 | reflexive, present | `mi sveglio` | `mi addormento` | A2-core · 1 |
+| C1.3 | PP with `avere`, irregular participle | `abbiamo preso` | `ho fatto` | A2-core · 1 |
+| C1.4 | PP with `essere` + agreement | `siamo andati` (m. pl.) | `sono arrivate` (f. pl.) | A2-core · 1 |
+| C1.5 | imperfetto, descriptive (a state that explains a decision) | `eravamo` | `avevano` | A2-core · 1 |
+| C1.6 | `[quantity] + fa` (Set 2 A) | `fa` | `fa` | A2-core · 1 |
+| C1.7 | preposizione articolata, place | `al` (quinto piano) | `alla` (vicino alla stazione) | A2-core · 1 |
+| C2 text | shopping trip gone wrong | jacket with a hole · 105 w | anti-theft alarm · 104 w | — |
+| C2.1 | `cui` after a printed fusing preposition | `di` + `cui` | `in` + `cui` | B1-probe · 1 |
+| C2.2 | direct object pronoun + PP agreement | `l'ho provata` (f. sg.) | `le ho comprate` (f. pl.) | B1-probe · 1 |
+| C2.3 | `ne` + quantity, present, direct speech | `ne prendo` | `ne voglio` | B1-probe · 1 |
+| C2.4 | imperfetto vs PP at the background/foreground boundary | `stavo pagando` | `stavo uscendo` | B1-probe · 1 |
+| C2.5 | `ci` locativo in the clitic slot, place already named | `non ci torno` | `non ci vado` | B1-probe · 1 |
+| D1 script | phone arrangement, change of plan · ~120 wpm | Friday off, Saturday 11 · 121 w | Wednesday off, Thursday 8.30 · 115 w | — |
+| D1.1 | who else is coming | Elena's sister | Valentina's flatmate | A2-core · 1 |
+| D1.2 | new day **and** time | Saturday 11 | Thursday 8.30 | A2-core · 1 |
+| D1.3 | meeting place (old place rejected for a stated reason) | in front of the station | the Chinese restaurant | A2-core · 1 |
+| D1.4 | why the original day is off | Elena works late | helping her brother move | A2-core · 1 |
+| D2 script | mishap, outcome first, 8 Set 5 A connectives · ~135 wpm | locked out · 150 w | missed bus · 155 w | — |
+| D2.1 | what was going on (imperfetto background) | B | A | B1-probe · 1 |
+| D2.2 | how it ended | C | B | B1-probe · 1 |
+| D2.3 | ordered pair given by the tense contrast after `mentre` | d before a | b before a | B1-probe · 1 |
+| D2.4 | ordered pair given by a time anchor told late, with the PP | c before b (`ieri mattina`) | c before d (`ieri sera`) | B1-probe · 1 |
+| E | four required elements; TA ×2 + GA | v1 prompt and anchors | same prompt; v1 anchors apply | productive · 15 |
+| F | three prompts; TA + GA + FD | v1 prompts and anchors | same prompts; v1 anchors apply | productive · 15 |
+
+**Totals:** A2-core 16, B1-probe 14 and productive 30 in both versions.
+
+---
+
 ## Item-to-can-do map
 
 Every scored item traces to a can-do statement in the syllabus map. An item that
@@ -1128,7 +1664,7 @@ real placement tests and each failure changes who gets placed where.
 | Open item | Owner | Why it is open |
 | --- | --- | --- |
 | ~~All Italian: two reading texts, two cloze texts, two listening scripts, all stems, all keys, alternatives lists, and band-3/band-5 anchor answers for Parts E and F~~ **Closed on ITA-15 (version 1): pass.** The spec clarifications it raised are in the *ICE notes* under Parts B, C, D and F. **All were ruled on by ITA-23 (2026-10-13).** | — | Format brief §5. |
-| A **parallel version** (same specs, different content) for borderline re-takes | **Italian Content Editor**, after version 1 | Re-taking the same items measures memory. |
+| ~~A **parallel version** (same specs, different content) for borderline re-takes~~ **Closed on ITA-24 (version 2): pass.** See [§Parallelism](#version-1--version-2-parallelism-ita-24). The v2 audio asset names and a reframed Part E prompt are left as suggestions in the ICE notes under Parts D and E. | — | Re-taking the same items measures memory. |
 | Whether an **accelerated route** through Units 1–2 exists for 2/3-boundary learners | **Chief Italian Linguist** | Course-shape decision. The check can identify these learners; it cannot invent a route for them. |
 | Whether v1 ships **any A2 remediation path** for Band 1, or simply turns those learners away | **Chief Italian Linguist** | Out of scope per format brief §6, but it is the first thing a Band 1 learner will ask. Naming it is better than discovering it in use. |
 | Audio recording of `placement-d1` / `placement-d2` | Out of scope v1 (format brief §4) | Until then the deferred path caps the instrument at Band 2. |
