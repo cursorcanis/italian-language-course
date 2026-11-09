@@ -215,7 +215,7 @@ two words).
 **Items** (in text order; choose A, B or C):
 
 1. *Why is Chiara writing to Sara?*
-   A. To tell Sara she has moved to Bologna for a new job.
+   A. To tell Sara she has moved to Bologna for a job.
    B. To ask Sara to help her find a job in Bologna.
    C. To tell Sara she is going to move to Bologna soon.
 2. *What happened last year?*
@@ -317,7 +317,7 @@ English, in one to four words.
    B. It is brighter than the living room.
    C. It is quieter than the living room.
 3. *What does the 780 € a month include?*
-   A. The rent and the building's service charges.
+   A. The rent and the service charges.
    B. The rent and the gas and electricity bills.
    C. The rent and the deposit.
 4. *What does Anna want to know about the courtyard?*
@@ -510,7 +510,7 @@ English, in one to four words.
    B. It is greener than the centre.
    C. It is more elegant than the centre.
 3. *What does the 1,050 € a month include?*
-   A. The rent and the building's service charges.
+   A. The rent and the service charges.
    B. The rent and the utility bills.
    C. The rent and a parking space.
 4. *What does Matteo want to know about the cellar?*
@@ -661,7 +661,7 @@ is shown, choose the word yourself.*
 | 1 | `che` or `cui`, co-text decides | **cui** | `di cui`, where the preposition is written again in the gap (the construct is shown) | `che`: `di che` is not a relative. `quale`: it needs an article and a fused preposition (`del quale`), and the printed `di` rules that out. Only one answer is possible. |
 | 2 | direct object pronoun + agreement | **l'ho provata** | `la ho provata` (elision is not marked); `me la sono provata` (colloquial, correct, and it shows the construct) | `l'ho provato` (agreement with `la giacca`); `ho provato` (no object, so the clause is ungrammatical here); `la provo` (breaks the past narrative). |
 | 3 | `ne` partitivo with a quantity | **ne prendo** | `me ne prendo` | `prendo` / `io prendo`: when the counted noun is omitted, Italian requires `ne`. This is the classic anglophone error and the reason for the gap. `le prendo`: wrong pronoun with a number. |
-| 4 | imperfetto vs PP at a background/foreground boundary | **stavo pagando** | `pagavo`; `stavo per pagare` (U5, and it fits: she stops before paying) | `ho pagato` / `avevo pagato`: payment finished, which contradicts `Mi sono fermata subito`. |
+| 4 | imperfetto vs PP at a background/foreground boundary | **stavo pagando** | `pagavo`; `stavo per pagare` (U5, and it fits: she stops before paying); any of these with `io` (`io stavo pagando`) | `ho pagato` / `avevo pagato`: payment finished, which contradicts `Mi sono fermata subito`. |
 | 5 | `ci` locativo | **ci** | `vi` (literary, but correct) | Anything else. Between `non` and a finite verb only a clitic fits, and with `tornare` plus a place already named, only the locative clitic. |
 
 **ICE notes (for the Architect).**
@@ -783,7 +783,7 @@ sits in a different text with a different verb.
   line of direct speech sit inside the narrative, and `Insomma` sums up.
 - **Lexis:** A2 core plus Set 5 (`all'improvviso`, `insomma`). `cuffie`,
   `pile`, `cassiera` and `antifurto` are shopping words no item turns on.
-- **Length:** 104 words outside the gaps (version 1: 103, counted the same
+- **Length:** 105 words outside the gaps (version 1: 103, counted the same
   way).
 - **Cultural note:** offers on batteries by the till and a security tag left
   on at the checkout are an ordinary shopping-centre scene in 2026.
@@ -793,19 +793,19 @@ sits in a different text with a different verb.
 > cercavamo qualcosa di speciale. In un negozio di elettronica abbiamo visto
 > delle cuffie nere bellissime, e io **(2)** __________ *(comprare)* subito.
 > Alla cassa c'erano anche delle pile in offerta, e la cassiera mi ha chiesto
-> quante pile volevo. «**(3)** __________ *(volere)* quattro, grazie.» Ho pagato
-> e **(4)** __________ *(uscire)* dal negozio quando all'improvviso è suonato
-> l'allarme. Mi sono fermato sulla porta, e una guardia è arrivata di corsa: la
-> cassiera ha dimenticato di togliere l'antifurto dalle cuffie! Tutti mi
-> guardavano. Insomma, che vergogna: in quel centro commerciale non
-> **(5)** __________ vado più!
+> quante pile volevo. «**(3)** __________ *(volere)* quattro, grazie.»
+> **(4)** __________ *(uscire)* dal negozio quando all'improvviso è suonato
+> l'allarme. Mi sono fermato sulla porta, e una guardia è arrivata di corsa. Ho
+> mostrato lo scontrino: la cassiera ha dimenticato di togliere l'antifurto
+> dalle cuffie! Tutti mi guardavano. Insomma, che vergogna: in quel centro
+> commerciale non **(5)** __________ vado più!
 
 | Gap | Target (spec) | Key | Also accept | Reject, and why |
 | --- | --- | --- | --- | --- |
 | 1 | `che` or `cui`, co-text decides | **cui** | `in cui`, where the preposition is written again in the gap (the construct is shown) | `che`: `in che` is not a relative. `quale`: it needs an article and a fused preposition (`nel quale`), and the printed `in` rules that out. `dove`: `in dove` is not Italian. Only one answer is possible. |
 | 2 | direct object pronoun + agreement | **le ho comprate** | `l'ho comprate` (elision is not marked, and the `-e` shows the pronoun is `le`) | `le ho comprato` (agreement with `le cuffie`, feminine plural); `ho comprato` (no object, so the clause is ungrammatical here); `me le sono comprate` (correct Italian, but wrong here: they are a present for his father); `le compro` (breaks the past narrative). |
 | 3 | `ne` partitivo with a quantity | **ne voglio** | `ne vorrei` (the seeded `vorrei` chunk, `U3`: polite and correct); `io ne voglio` | `voglio` / `vorrei`: when the counted noun is omitted, Italian requires `ne`. `le voglio`: wrong pronoun with a number. |
-| 4 | imperfetto vs PP at a background/foreground boundary | **stavo uscendo** | `uscivo`; `stavo per uscire` (U5, and it fits: he stops at the door) | `sono uscito` / `ero uscito`: leaving finished, which contradicts `Mi sono fermato sulla porta`. |
+| 4 | imperfetto vs PP at a background/foreground boundary | **stavo uscendo** | `uscivo`; `stavo per uscire` (U5, and it fits: he stops at the door); any of these with `io` (`io stavo uscendo`) | `sono uscito` / `ero uscito`: leaving finished, which contradicts `Mi sono fermato sulla porta`. The gap opens its own sentence after a line of direct speech, as v1's does, so no coordinated PP (`Ho pagato e…`) pulls toward `sono uscito`. Payment is shown after the alarm (`Ho mostrato lo scontrino`), not before the gap. |
 | 5 | `ci` locativo | **ci** | `vi` (literary, but correct) | Anything else. Between `non` and a finite verb only a clitic fits, and with `andare` plus a place already named, only the locative clitic. |
 
 **ICE notes.**
@@ -823,6 +823,16 @@ sits in a different text with a different verb.
 - **C2.4's contradicting clause** (`Mi sono fermato sulla porta`) uses
   `essere`, so it does not model the `avere` + object agreement of gap 2. An
   earlier draft had `una guardia mi ha fermato`, which did.
+- **C2.4 opens its own sentence (Chief review, fix 1).** The first v2 draft
+  had `Ho pagato e (4) ___ (uscire)`: `ho pagato e sono uscito` is a
+  ready-made sequence chunk that pulled toward the rejected PP, which made
+  v2's item harder than v1's. The gap now follows the direct-speech line, as
+  in v1 (`«…tre!», ho detto alla commessa. (4) ___ (pagare)`). Payment moves
+  after the alarm: `Ho mostrato lo scontrino` shows the cuffie were paid for
+  at the point in the story where it matters. `lo scontrino` is A2 core, and no
+  item turns on it. `Ho mostrato` is `avere` + a noun object, so it does not
+  model gap 2's pronoun agreement, and it avoids `ho fatto vedere`, which
+  would model C1.3's key (`ho fatto`).
 - **Tags:** C1 is all A2 consolidation and C2 all U3–U6 payload, as in version
   1. Nothing gapped comes after U6.
 
@@ -1173,7 +1183,7 @@ words (version 1: 150, counted the same way), about 70 seconds with its pauses.
 **Items D2.1–D2.2** (choose A, B or C):
 
 1. *What was happening when the eight o'clock bus went past?*
-   A. She was queuing for a ticket at the tobacconist's.
+   A. She was in the queue at the tobacconist's.
    B. She was looking for her bus pass at the stop.
    C. She was lending her bus pass to her brother.
 2. *How did the morning end?*
@@ -1669,7 +1679,7 @@ confirmed when it is recorded.
 | C1.5 | imperfetto, descriptive (a state that explains a decision) | `eravamo` | `avevano` | A2-core · 1 |
 | C1.6 | `[quantity] + fa` (Set 2 A) | `fa` | `fa` | A2-core · 1 |
 | C1.7 | preposizione articolata, place | `al` (quinto piano) | `alla` (vicino alla stazione) | A2-core · 1 |
-| C2 text | shopping trip gone wrong | jacket with a hole · 103 w | anti-theft alarm · 104 w | — |
+| C2 text | shopping trip gone wrong | jacket with a hole · 103 w | anti-theft alarm · 105 w | — |
 | C2.1 | `cui` after a printed fusing preposition | `di` + `cui` | `in` + `cui` | B1-probe · 1 |
 | C2.2 | direct object pronoun + PP agreement | `l'ho provata` (f. sg.) | `le ho comprate` (f. pl.) | B1-probe · 1 |
 | C2.3 | `ne` + quantity, present, direct speech | `ne prendo` | `ne voglio` | B1-probe · 1 |
@@ -1751,7 +1761,7 @@ real placement tests and each failure changes who gets placed where.
 | Open item | Owner | Why it is open |
 | --- | --- | --- |
 | ~~All Italian: two reading texts, two cloze texts, two listening scripts, all stems, all keys, alternatives lists, and band-3/band-5 anchor answers for Parts E and F~~ **Closed on ITA-15 (version 1): pass.** The spec clarifications it raised are in the *ICE notes* under Parts B, C, D and F. **All were ruled on by ITA-23 (2026-10-13).** | — | Format brief §5. |
-| ~~A **parallel version** (same specs, different content) for borderline re-takes~~ **Closed on ITA-24 (version 2): pass.** See [§Parallelism](#version-1--version-2-parallelism-ita-24). **Chief review (2026-11-09): accepted, with five follow-ups.** Spec items, **done on ITA-26**: the v2 asset names are in the Part D spec line; v2 has a reframed Part E prompt (same four elements, same wording), with v1's prompt now written out beside it, and Part F keeps its prompts; v1 header lengths are re-stated under the parallelism rule (recount corrected C2 v1 to 103, B1 v2 to 108, D1 v2 to 122). Still open: the Editor's two fixes, C2.4 v2's PP-coordination lure and D2.1 v2's longest-option key (and a check of v1 B1.1). ITA-25, the construct-validity checklist, starts after them. | **Italian Content Editor** (C2.4, D2.1), then whoever runs ITA-25 | Re-taking the same items measures memory. |
+| ~~A **parallel version** (same specs, different content) for borderline re-takes~~ **Closed on ITA-24 (version 2): pass.** See [§Parallelism](#version-1--version-2-parallelism-ita-24). **Chief review (2026-11-09): accepted, with five follow-ups.** Spec items, **done on ITA-26**: the v2 asset names are in the Part D spec line; v2 has a reframed Part E prompt (same four elements, same wording), with v1's prompt now written out beside it, and Part F keeps its prompts; v1 header lengths are re-stated under the parallelism rule (recount corrected C2 v1 to 103, B1 v2 to 108, D1 v2 to 122). **Editor's two fixes, done (2026-11-09):** C2.4 v2 now opens its own sentence after the direct-speech line, as v1's does, and payment is shown after the alarm (`Ho mostrato lo scontrino`); C2 v2 is now 105 words. D2.1 v2's key is shortened to "She was in the queue at the tobacconist's." (42 characters, against 45 and 44). v1 B1.1's key was also the longest (52 against 50) and is shortened to "…for a job." (48). v1 B2.3's key was the longest by one character and is shortened to "The rent and the service charges." (the same option is a distractor in v2 B2.3 and changes with it). No contradicting clause changes. For ITA-25 to rule: four one-phrase keys are still the longest, by one to four characters (v1 B1.3 and B1.5, v2 B1.3 and B1.5: all time phrases or name-plus-role tags). ITA-25, the construct-validity checklist, can start. | Whoever runs ITA-25 | Re-taking the same items measures memory. |
 | Whether an **accelerated route** through Units 1–2 exists for 2/3-boundary learners | **Chief Italian Linguist** | Course-shape decision. The check can identify these learners; it cannot invent a route for them. |
 | Whether v1 ships **any A2 remediation path** for Band 1, or simply turns those learners away | **Chief Italian Linguist** | Out of scope per format brief §6, but it is the first thing a Band 1 learner will ask. Naming it is better than discovering it in use. |
 | Audio recording of `placement-d1` / `placement-d2` and their version-2 counterparts `placement-d1-v2` / `placement-d2-v2` | Out of scope v1 (format brief §4) | Until then the deferred path caps the instrument at Band 2. |
