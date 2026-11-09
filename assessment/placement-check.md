@@ -1744,15 +1744,33 @@ a different course.
 Run before this instrument is used on a real learner. Each line has failed in
 real placement tests and each failure changes who gets placed where.
 
-- [ ] No reading or listening item is answerable from the question stem alone.
-- [ ] No reading or listening item turns on one low-frequency word; every key is supported by a full proposition.
-- [ ] No multiple-choice key is the longest option, and no key is the only grammatically smooth option.
-- [ ] No cloze gap has a single acceptable answer unless the co-text genuinely forces it; every gap carries its alternatives list.
-- [ ] No cloze gap can be filled correctly by a learner who has not read the surrounding sentences.
-- [ ] Every productive task's required elements are listed in the prompt, in English.
-- [ ] Nothing in Parts B–D requires production of Italian, and nothing in Parts E–F is marked for comprehension.
-- [ ] The A2-core and B1-probe tags on every item have been checked against `grammar-progression.md` introduction points.
-- [ ] Two parallel versions exist before the check is used, because borderline learners re-take it.
+- [x] No reading or listening item is answerable from the question stem alone.
+- [x] No reading or listening item turns on one low-frequency word; every key is supported by a full proposition.
+- [x] No multiple-choice key is the longest option, and no key is the only grammatically smooth option.
+- [x] No cloze gap has a single acceptable answer unless the co-text genuinely forces it; every gap carries its alternatives list.
+- [x] No cloze gap can be filled correctly by a learner who has not read the surrounding sentences.
+- [x] Every productive task's required elements are listed in the prompt, in English.
+- [x] Nothing in Parts B–D requires production of Italian, and nothing in Parts E–F is marked for comprehension.
+- [x] The A2-core and B1-probe tags on every item have been checked against `grammar-progression.md` introduction points.
+- [x] Two parallel versions exist before the check is used, because borderline learners re-take it.
+
+**Run by the Chief Italian Linguist, 2026-11-09 (ITA-25), on both versions: all nine lines pass.**
+
+- **Key length (line 3).** Every sentence-length key is checked by script and none is the
+  longest option. Four short keys are longest by 1–4 characters: v1 B1.3, v1 B1.5, v2 B1.3
+  and v2 B1.5. These options are time phrases or name-plus-role tags of two to four words
+  in one shared form. Their length comes from the content, not from elaboration by the
+  item writer, so it gives no usable cue. **Ruling:** line 3 applies to options of more
+  than 25 characters. Shorter options must instead share one grammatical form, and all
+  four do.
+- **Tags (line 8).** Checked against `grammar-progression.md` at ITA-15 (v1) and ITA-24 (v2),
+  and again at Chief review. Nothing gapped or keyed comes after U6. `si` passivante is
+  input only.
+- **Parallel versions (line 9).** Version 2 was reviewed and accepted under ITA-24
+  (`docs/placement-check-v2-chief-review.md`), with all five follow-ups applied.
+
+**The instrument is cleared for first use.** The audio is still unrecorded (format brief §4),
+so until it is recorded the deferred-listening path caps a learner at Band 2.
 
 ---
 
