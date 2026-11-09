@@ -23,8 +23,11 @@ Built against: [`a2-b1-syllabus-map.md`](../curriculum/syllabus/a2-b1-syllabus-m
 > **ICE notes (for the Architect)** in each part; they change no spec until
 > ruled on.
 >
-> **Before a learner sits M1, three things are still needed:** (1) the Architect
-> rules on the ITA-16 clarifications; (2) the parallel version of Parts C–E
+> **Before a learner sits M1, three things are still needed:** (1) ~~the Architect
+> rules on the ITA-16 clarifications~~ **done, ITA-27 (2026-11-09):** each
+> ruling is under its ICE note as **Architect ruling (ITA-27)** and the spec
+> rows are updated; one Italian fix (A2 item 9's lure) is queued for the
+> Editor, see [§Open](#open-and-who-owns-it); (2) the parallel version of Parts C–E
 > exists (it is the Band 3 placement confirmation step, so it is needed before
 > the first Band 3 learner); (3) the construct-validity checklist has been run.
 >
@@ -145,16 +148,18 @@ word, never from world knowledge, never by matching a keyword in the stem.
 | --- | --- |
 | **Spec** | ⟨220–260 words. A blog post or long message telling a mishap story — something that went wrong on a day out, a move, a dinner. Background/foreground structure throughout; at least two background-plus-event pairs; at least five narrative connectives from [Set 5 subgroup A](../curriculum/syllabus/lexis-progression.md#a-narrative-signposts-and-connectives-10); one `stare + gerundio` in the past; riflessivi in the passato prossimo. Lexis Sets 1–5.⟩ |
 | **Task type** | 3 × three-option multiple choice + 3 × sequencing (place three stated events in the order they happened, against the text's order of telling). |
+| **Sequencing scoring** | *(ITA-27, ruling 1)* The learner numbers the three events 1–3. Each of the three marks is one ordered pair fixed in the key, given if the learner's numbers put that pair in the right order (the placement check's [ITA-23 ruling 6](placement-check.md#d2--a-short-monologue-4-marks-b1-probe)). A missing or duplicated number scores 0 for every pair it is in. **No key pair may be in the order of telling**, so a learner who numbers the events as they read them scores 0. |
 | **Items** | MC: 1 gist (why the writer tells the story) · 1 "what was going on when…" item that turns on a background imperfetto · 1 inference from a stated reaction (Set 5 subgroup C). Sequencing: three events, presented in the text out of chronological order, recoverable only from tense and connectives. |
 | **Construct note** | The sequencing items are the discriminating ones. If the text tells events in chronological order the items test nothing; the Editor must write a text with at least one flashback (`mentre … ` / `quando …` recovering an earlier moment) using only Units 1–5 tenses — **no trapassato**, which is `U9`. |
 
-### A2 — Five short texts, five readers (6 marks)
+### A2 — Six short texts, five readers (6 marks)
 
 | | |
 | --- | --- |
-| **Spec** | ⟨Six short texts of 40–60 words each — three flat or room adverts and three market/shop notices or short recipe intros. Language: relative clauses with `che` and `in cui / di cui / con cui / a cui`, comparatives, `ci` locativo, quantifiers, `si` impersonale. Lexis Sets 3 and 6.⟩ Plus five one-line descriptions of people and what they need, in English. |
-| **Task type** | **Matching**, 5 items: which text suits each person. One text is a distractor that suits nobody. Plus 1 item: which of two adverts is presented as the better value, and why (one-to-four words, English). |
-| **Construct note** | Each person's need must be matchable only by parsing a relative clause or a comparison — e.g. the distractor and the key share content words and differ in what `in cui` attaches to. A matching item solvable by spotting one word is rejected at review. |
+| **Spec** | ⟨Six short texts of 40–60 words each — three flat or room adverts and three market/shop notices or short recipe intros. Language: relative clauses with `che` and `in cui / di cui / con cui / a cui`, comparatives, `ci` locativo, quantifiers, `si` impersonale (input only: no match may turn on `si`, because no `si` frame excludes an answer that ignores it — ITA-23 ruling 2, ITA-27 ruling 8). Lexis Sets 3 and 6.⟩ Plus five one-line descriptions of people and what they need, in English. |
+| **Task type** | **Matching**, 5 items: which text suits each person. One text is a distractor that suits nobody. Plus 1 item: **which of two offers within one shop text is presented as the better value, and why** (one to four words, English). *(ITA-27, ruling 3.)* |
+| **Value item** | The two offers sit in one text, so the item turns on how the text compares them (a comparative, here with `ne` and a quantity), not on price arithmetic across texts. **One mark, and both parts are needed for it:** the offer, and the reason the text gives. An offer with no reason, or with a reason the text does not present as value (taste alone, price alone), scores 0. |
+| **Construct note** | Each person's need must be matchable only by parsing a relative clause or a comparison — e.g. the distractor and the key share content words and differ in what `in cui` attaches to. A matching item solvable by spotting one word is rejected at review. **Nor may a match be reachable from text type alone** *(ITA-27)*: if a person's need points to one kind of text (a flat, a recipe, a shop), at least one other text must compete for it on type and content words and be ruled out only by what a relative clause or comparison attaches to. |
 
 > **ICE dependency:** both A1 and A2 texts, stems, options, keys and accepted
 > short-answer variants. **Written, ITA-16** — below.
@@ -389,6 +394,46 @@ than four words is not penalised if nothing in it is wrong.
   cortile`). The structure-coverage row "`si` impersonale | A2, B2, C2 or
   D (5)" would be more exact as "A2 (input), **B2.1**, D (5)".
 
+**Architect ruling (ITA-27).**
+- **Ruling 1 (A1 sequencing scoring): accepted.** One mark per ordered pair,
+  as ITA-23 ruling 6. It is now a **Sequencing scoring** row in the A1 spec,
+  which adds the ruling-6 condition that no key pair may be in the order of
+  telling. The current key meets it: all three pairs (b–c, c–a, b–a) reverse
+  the order of telling (a–c–b).
+- **Ruling 2 (A2 heading): accepted.** The heading is now "A2 — Six short
+  texts, five readers".
+- **Ruling 3 (value item, two offers in one notice, both parts for the mark):
+  accepted, in my wording.** Two separate adverts would turn the item into
+  price arithmetic, which is not the U6 can-do. The Task type row now reads
+  "which of two offers within one shop text", and a new **Value item** row
+  states the mark rule. Both "which" and "why" are needed for the one mark.
+  The item 12 key already applies it.
+- **Ruling 8 (`si` impersonale coverage row): accepted in part, in my
+  wording.** I agree that no A2 match turns on `si`, and the A2 spec now
+  says `si` is input only. I do not accept that B2.1 **turns on** `si`. A
+  learner who ignores `si` and hears `mangiava… in cortile, tutti insieme`
+  still reaches B, so by the test of ITA-23 ruling 2, B2.1 samples `si` in
+  input, not in a scored decision. M1's scored evidence for `si` impersonale
+  is D element (5), scored on GA. The coverage row now reads "A2 (input), B2
+  (input, B2.1's key clause), **D (5)** (free production, scored on GA)".
+  Its first objective test stays the U4 checkpoint. That is no gap:
+  `si` returns at `U7 L4` and is freely produced at `U12 L5`.
+- **Item 9 has a construct fault: confirmed (Chief's second look).** F is
+  the only recipe. Ben's need ("a dinner he can make quickly, using just one
+  pan") points to a recipe, so text type alone reaches the key and `in cui`
+  does no work. E's `in cui… fino a tardi` lures on one phrase but not on
+  type: E is a shop, and Ben is not shopping. That breaks the A2 construct
+  note, which now states the rule outright: **no match reachable from text
+  type alone.** A stem change cannot fix it, because any stem about making
+  dinner points to the only cooking text. **Hand-off to the Italian Content
+  Editor:** give item 9 a lure that competes with F on type and content
+  words, a text a late-home cook would also pick, ruled out only by what a
+  relative clause or comparative attaches to. Constraints: E and F's
+  Italian stays as it is; items 7, 8, 10, 11 and 12 keep their keys and
+  their discriminating clauses; E still suits nobody; each text stays at
+  40–60 words. If the only route is a rewrite of D, item 7's
+  `di cui ci occupiamo` key and item 12's comparison must survive it.
+
 ---
 
 ## Part B — Listening (12 minutes, 10 marks)
@@ -400,7 +445,7 @@ twice, 20 seconds between readings; the learner reads the questions first.
 
 | | |
 | --- | --- |
-| **Spec** | ⟨60–80 seconds. A customer at a market stall or deli counter buying four things in different quantity types, changing their mind once, and asking what is good today. Direct pronouns and `ne` with quantities throughout; at least one participle agreement with a preceding pronoun. Brisk, falling-terminal register (U6 culture note). Lexis Set 6.⟩ Asset: `assets/audio/milestone-1/m1-b1.mp3`. |
+| **Spec** | ⟨60–80 seconds. A customer at a market stall or deli counter buying four things in different quantity types, changing their mind once, and asking what is good today. Direct pronouns and `ne` with quantities throughout; at least one participle agreement with a preceding pronoun (input: no gap turns on hearing the ending — ITA-27). Brisk, falling-terminal register (U6 culture note). Lexis Set 6.⟩ Asset: `assets/audio/milestone-1/m1-b1.mp3`. |
 | **Task type** | Note completion, 5 gaps: a shopping list with columns *item / how much / price or note*. One to three words each, English or Italian accepted. |
 | **Construct note** | At least two gaps can be filled only by resolving a pronoun or `ne` to its noun across turns (the item is named once, then referred to). Keyword matching must not reach the key. |
 
@@ -409,7 +454,7 @@ twice, 20 seconds between readings; the learner reads the questions first.
 | | |
 | --- | --- |
 | **Spec** | ⟨75–90 seconds. One speaker on how their neighbourhood or town has changed since they were a child: then vs now, `si` impersonale for how people used to live, comparatives across time, imperfetto in all three uses, one passato prossimo event that marks the change. Flat, unhurried reminiscence contour (U4 pronunciation point). Lexis Sets 3–4.⟩ Asset: `assets/audio/milestone-1/m1-b2.mp3`. |
-| **Task type** | 3 × three-option multiple choice + 2 × **then / now / both** classification of stated features. |
+| **Task type** | 3 × three-option multiple choice + 2 × **then / now / both** classification of stated features. All three labels are offered on both items; the two keys need not cover all three, but **no two items may share a key**, so a learner who writes one label throughout scores at most 1 / 2 *(ITA-27, ruling 4)*. |
 | **Construct note** | The then/now items are discriminating: each feature is mentioned in both halves of the monologue, and only the tense (imperfetto vs presente) tells the learner which half asserts it. |
 
 > **ICE dependency:** both scripts, marked for pace and speaker, with items and
@@ -625,14 +670,33 @@ content words alone.
   customer's mouth. No gap turns on it: a listening gap that turns on hearing
   `-a` against `-o` would be testing phonetics, not reference.
 
+**Architect ruling (ITA-27).**
+- **Ruling 4 (B2: one N key, one B key): accepted.** Two items cannot key
+  three labels, and a third item would move Part B off 10 marks and the A–B
+  floor off 11 / 22. No T key is needed for the construct: what B2 tests is
+  that tense, not content, decides the half, and N and B both turn on it. A
+  T key built on `il bagno in comune` would be weaker, because the *now*
+  half never mentions the bathroom, so the item would turn on inference
+  from `ristrutturata`, not on tense. The Task type row now says that both
+  items offer all three labels and that the two keys must differ. The
+  current keys (N, B) meet that.
+- **B1 participle agreement, input only: accepted.** The spec asks for it in
+  the script, and a gap that turned on hearing `-a` against `-o` would test
+  phonetics, not reference. The B1 spec row now says so. Agreement is tested
+  productively at C2.3 and E1.
+
 ---
 
 ## Part C — Language in use (12 minutes, 14 marks)
 
 **Task type:** two connected texts with numbered gaps — **contextual cloze**,
-one to three words per gap, **no options supplied**. In C1 the infinitive is
-given in brackets where a verb form is wanted, so the item tests the choice and
-the form, not recall of the verb.
+one to three words per gap, **no options supplied**. **Verb gaps show the
+infinitive in brackets, in C1 and C2**, so the item tests the choice and the
+form, not recall of the verb. **Where a gap targets a periphrasis or an
+adverb's position, the bracket shows both words** (`stare` + the infinitive;
+the adverb + the infinitive), because otherwise a correct non-target form
+(a plain imperfetto; a different adverb) fills the gap. Non-verb gaps have no
+cue. *(ITA-27, ruling 5.)*
 
 This is the same mechanic as the placement check's Part C and every checkpoint's
 Part B, by design (format brief §5): at a milestone the learner should be
@@ -643,7 +707,7 @@ spending attention on Italian, not on a new task format.
 | | |
 | --- | --- |
 | **Spec** | ⟨110–130 words, first person: a weekend trip on which something went wrong. Present-day frame sentence, then past narrative.⟩ |
-| **Gaps** | 1 imperfetto (background) · 1 passato prossimo at a foreground event (the two are in the same sentence, so the contrast is the item) · 1 `sapere` or `conoscere` where the PP/imperfetto choice changes the meaning · 1 passato prossimo with `essere` **plus subject agreement** · 1 reflexive in the passato prossimo · 1 `stare + gerundio` in the past · 1 `già`, `appena` or `non ancora` in the correct position with a PP. |
+| **Gaps** | 1 imperfetto (background) · 1 passato prossimo at a foreground event (the two are in the same sentence, so the contrast is the item) · 1 `sapere` or `conoscere` where the PP/imperfetto choice changes the meaning · 1 passato prossimo with `essere` **plus subject agreement** · 1 reflexive in the passato prossimo · 1 `stare + gerundio` in the past, cued `(stare + infinitive)` · 1 `già`, `appena` or `non ancora` in the correct position with a PP, cued `(adverb + infinitive)`: the gap tests position, because no free frame admits only one of the three adverbs (ITA-15 note on the placement check's C1.6). |
 | **Marking** | 1 mark each, all-or-nothing. Where the gap is a verb, auxiliary and participle together carry the mark and agreement is part of the key. |
 
 ### C2 — A message about food and a neighbourhood (7 marks)
@@ -651,7 +715,7 @@ spending attention on Italian, not on a new task format.
 | | |
 | --- | --- |
 | **Spec** | ⟨110–130 words: a message to a friend about a new market the writer found near their flat — what they bought, what they cooked, how the area compares with the old one.⟩ |
-| **Gaps** | 1 direct object pronoun for a noun named in the previous clause · 1 `ne` with a quantity · 1 direct pronoun **in the passato prossimo with participle agreement** · 1 quantifier from U6 L3 · 1 `cui` after a preposition (the co-text forces `cui`, not `che`) · 1 comparative where only `di` or only `che` is possible · 1 `ci` locativo **or** `si` impersonale (the Editor chooses whichever the text makes natural; the other is covered in A2/B2 and D). |
+| **Gaps** | 1 direct object pronoun for a noun named in the previous clause · 1 `ne` with a quantity · 1 direct pronoun **in the passato prossimo with participle agreement** · 1 quantifier from U6 L3 · 1 `cui` after a preposition (the co-text forces `cui`, not `che`) · 1 comparative where only `di` or only `che` is possible · 1 **`ci` locativo** (ITA-27: `si` impersonale cannot be forced in a free gap, ITA-23 ruling 2; it is sampled in A2/B2 input and scored in D (5)). The participle-agreement gap is cued with the infinitive (Part C task type). |
 | **Marking** | As C1. |
 
 > **ICE dependency:** both texts, keys, and the acceptable-alternatives list per
@@ -794,6 +858,23 @@ choose the word yourself.*
   "Luca", any of them earns the mark. The construct is tense and form, and a
   key that turned on person would be a reading item.
 
+**Architect ruling (ITA-27).**
+- **Ruling 5 (bracket cues): accepted, in my wording.** The infinitive cue
+  now applies to C1 and C2, as on the placement check (ITA-23 ruling 1).
+  Without `(cucinare)`, C2.3 tests which verb, not the form. Both two-word
+  cues are right for the reason the Editor gives: the spec names a form or a
+  position, and a cue that let a correct non-target answer through would
+  stop testing it. With `(cercare)` alone, `cercavamo` is correct Italian.
+  With no adverb, at least two adverbs fit. The rule is now in the Part C
+  task-type paragraph, and the C1 Gaps row names both cues. The reworded
+  learner instruction stands as written.
+- **C2.7 `ci` locativo, C2.6 `che`: accepted.** Both are within the spec.
+  The C2 Gaps row now names `ci` locativo outright, and it records where
+  `si` impersonale is sampled instead (see ruling 8 under Part A).
+- **Person accepted at C1.1, C1.3, C1.6 and C1.7: accepted.** This is the
+  placement check's marking rule, and it is already in the marking rules
+  above.
+
 ---
 
 ## Part D — Writing (22 minutes, 20 marks)
@@ -801,12 +882,13 @@ choose the word yourself.*
 | | |
 | --- | --- |
 | **Task type** | One extended message, **150–180 words**, no choice. 4 minutes planning, 18 writing. |
-| **Prompt spec** | An email to an Italian-speaking friend who is thinking of moving to the learner's town or area. Five **required elements**, stated in English in the prompt: (1) say how long you have lived there and how you ended up there; (2) describe what the area was like when you arrived, or when you were a child, and what has changed; (3) describe one specific place there for them — a street, a market, a building — so that they could find it; (4) compare it with one other area they are considering and say which you would choose; (5) say what people there typically do at the weekend. |
+| **Prompt spec** | An email to an Italian-speaking friend who is thinking of moving to the learner's town or area. Five **required elements**, stated in English in the prompt: (1) say how long you have lived there and how you ended up there; (2) describe what the area was like when you arrived, or when you were a child, and what has changed; (3) describe one specific place there for them — a street, a market, a building — so that they could find it; (4) compare it with one other area they are considering and say which one you prefer; (5) say what people there typically do at the weekend. |
 | **What it measures** | Description and comparison in connected writing — the map's M1 coverage. Element (1) forces passato prossimo and time expressions; (2) the imperfetto against the presente; (3) relative clauses; (4) comparatives; (5) `si` impersonale. The prompt never names a structure. |
 | **Scales** | **TA ×1 + TS ×1 + GA ×1 + CC ×1** = 20 marks. CC applies: 150 words is over the [`rubrics.md` CC threshold](rubrics.md#scale-cc--coherence-and-cohesion-05). |
 | **TS target** | **Pronomi relativi `che` / `cui`** — the front half's one *new* descriptive structure, and the one whose absence is "the single most audible A2 signature" (map §3). |
 | **Elicitation floor** | **3 relative clauses, at least 1 with `cui` after a preposition.** Below the floor, TS ≤ 2. |
 | **Not double-counted** | Relative-clause errors go on TS only. Comparative, imperfetto and `si` errors go on GA. |
+| **Marker note: element (4)** | *(ITA-27, ruling 6)* Element (4) is fully met by a present-tense choice (`preferisco`, `scelgo`, `per me è meglio`) or by `vorrei`. A productive conditional (`U11 L2`) is not expected, and its absence is not penalised on any scale. A conditional the learner does use is marked on GA like any other form. |
 | **Pass criterion (this part)** | Every scale ≥ 3 (the M1 no-compensation floor). |
 | **Self-marking** | TA (against the five elements as a checklist) and CC. TS and GA to a partner. |
 
@@ -926,6 +1008,19 @@ met by a present-tense choice (`preferisco`, `scelgo`, `per me è meglio`) or
 by `vorrei`. A productive conditional is not expected, and its absence is not
 penalised on GA." Or reword the element to "say which one you prefer".
 
+**Architect ruling (ITA-27).**
+- **Ruling 6 (D element 4 and the conditional): accepted, with both
+  remedies.** This is the ITA-23 precedent: reword the prompt, and add the
+  marker note as a safety net. Element (4) now reads "compare it with one
+  other area they are considering and say which one you prefer". That
+  points at `preferisco`, not at the U11 conditional, and it matches the
+  can-do the item map traces it to ("say which one suits me better and
+  why"). The marker note is a new row in the D table, in my wording: it says
+  "not penalised on any scale", because TA is where an under-reading marker
+  would actually penalise a present-tense choice. Both anchors already meet
+  the reworded element, so they stand unchanged. The E2 half of this ruling
+  is under Part E.
+
 ---
 
 ## Part E — Speaking (16 minutes, 30 marks)
@@ -935,10 +1030,10 @@ penalised on GA." Or reword the element to "say which one you prefer".
 | | |
 | --- | --- |
 | **Task type** | Transactional role-play: a sequence of short turns, no single turn longer than about 30 seconds, against a partner playing the vendor or the scripted vendor recording (`assets/audio/milestone-1/m1-e1-vendor.mp3`, with pauses). |
-| **Role card (English)** | You are buying food for a dinner. Required elements: (1) buy **four** things, in at least **three** different quantity types (weight, number, container/portion); (2) when the vendor offers something you **already bought elsewhere**, say so and decline; (3) ask what is good today and accept one suggestion; (4) query or confirm the total. |
+| **Role card (English)** | You are buying food for a dinner. Required elements: (1) buy **four** things, which may include the one you accept in (3), in at least **three** different quantity types (weight, number, container/portion); (2) when the vendor offers something you **already bought elsewhere**, say so and decline; (3) ask what is good today and accept one suggestion; (4) query or confirm the total. |
 | **What it measures** | The U6 can-do "I can shop at a market or a counter…" and "I can avoid repeating a noun I've already mentioned", under real-time pressure. Element (2) is engineered so the natural answer is a direct pronoun in the passato prossimo with agreement. |
-| **Scales** | **TA ×1 + TS ×1** = 10 marks. TS target: **pronomi diretti + `ne` partitivo, with participle agreement where the past is used.** CC not used (short turns, not a sustained turn — [`rubrics.md` §CC](rubrics.md#scale-cc--coherence-and-cohesion-05)). GA and FD are not scored here: they are scored once, on E2, where the sample is long enough to score them reliably. |
-| **Elicitation floor** | **4 direct-pronoun or `ne` substitutions, at least 1 with participle agreement.** The vendor's script must create at least six natural openings for them; a script that does not is a script that fails learners for the Editor's choices. |
+| **Scales** | **TA ×1 + TS ×1** = 10 marks. TS target: **pronomi diretti + `ne` partitivo, with participle agreement where the past is used.** CC not used (short turns, not a sustained turn — [`rubrics.md` §CC](rubrics.md#scale-cc--coherence-and-cohesion-05)). GA and FD are not scored here: GA is scored once, on D, and FD once, on E2, where the samples are long enough to score them reliably. |
+| **Elicitation floor** | **4 direct-pronoun or `ne` substitutions, at least 1 of them an attempt at participle agreement** — a passato prossimo after a preceding direct object pronoun, as element (2) invites. The floor counts attempts ([`rubrics.md` §TS](rubrics.md#scale-ts--range-and-control-of-the-target-structure-05)); whether the agreement is right is judged on TS by the majority rule, like every other substitution *(ITA-27, ruling 7)*. A past-tense answer that repeats the noun instead of a pronoun is not an attempt. The vendor's script must create at least six natural openings for them; a script that does not is a script that fails learners for the Editor's choices. |
 | **Register** | Brisk is right (U6 culture note). Seed 3 chunks (`vorrei`, `potrebbe`) are credited on TA as register; their absence is not penalised. |
 
 ### E2 — Anecdote (2 minutes' preparation + 2–3 minutes speaking, 20 marks)
@@ -946,12 +1041,13 @@ penalised on GA." Or reword the element to "say which one you prefer".
 | | |
 | --- | --- |
 | **Task type** | Sustained monologue, recorded, from one prompt. Notes allowed during preparation: up to ten words, no sentences. |
-| **Prompt (English)** | Tell the story of a day when something went wrong — travelling, at work, at home, with food. Required elements: (1) set the scene: where you were, what was going on; (2) what happened, and how you reacted; (3) how it ended; (4) what you would say about it now, looking back. |
+| **Prompt (English)** | Tell the story of a day when something went wrong — travelling, at work, at home, with food. Required elements: (1) set the scene: where you were, what was going on; (2) what happened, and how you reacted; (3) how it ended; (4) what you think about it now, looking back. |
 | **What it measures** | The U5 can-dos — telling a story with a beginning, a turn and an end, saying what was going on when something interrupted it, holding a listener for two to three minutes. The genre is the U5 culture note's (`fare una figuraccia`). |
 | **Scales** | **TA ×1 + TS ×1 + CC ×1 + FD ×1** = 20 marks. CC applies (≥ 2 minutes, sustained). |
 | **TS target** | **Passato prossimo vs imperfetto** — the contrast. |
 | **Elicitation floor** | **2 clear background-plus-event pairs.** Staying in the present through the story is avoidance and caps TS at 2 ([`rubrics.md` §TS](rubrics.md#scale-ts--range-and-control-of-the-target-structure-05)). |
 | **CC note** | Band 3 requires at least four different narrative connectives used correctly — the U5 thread made checkable. |
+| **Marker note: element (4)** | *(ITA-27, ruling 6)* Element (4) is fully met in the present (what the learner thinks, does or says now). A productive conditional (`U11 L2`) is not expected, and its absence is not penalised on any scale. |
 | **Self-marking** | TA, CC; and the FD cap below. TS and FD go to a partner. |
 | **FD cap (self-checkable)** | Any silence longer than five seconds caps FD at 2. The learner can check this on their own recording; it is a cap, not a score. |
 
@@ -1271,6 +1367,36 @@ than landing.
   to query or confirm the total, not to check the arithmetic, so a figure that
   does not add up does no harm, and it spares the partner a sum.
 
+**Architect ruling (ITA-27).**
+- **Ruling 6, E2 half (element 4 and the conditional): accepted, with both
+  remedies, as for D.** Element (4) now reads "what you think about it now,
+  looking back", and a **Marker note: element (4)** row is added to the E2
+  table. E2 scores no GA, so the note says "not penalised on any scale". TA
+  is the scale at risk. Both anchors meet the reworded element.
+- **Ruling 7a (E1: the accepted suggestion counts as one of the four
+  things): accepted, in the Editor's wording.** Element (1) now reads "buy
+  four things, which may include the one you accept in (3)". This is the
+  reading the band-3 anchor is scored on, and the construct does not need
+  more: the floor is four substitutions, and three own items plus the
+  suggestion give at least seven openings for them (V2, V3, V5, V6, V8, V10,
+  V11). **The solo-path cue card stands as written**, buy at pauses 1, 4, 7
+  and 12. The recording cannot branch, so a learner who finishes at pause 12
+  hears `Quanto ne vuole?` at V13 with nothing to answer. Buying four items
+  of one's own over-meets element (1) and costs nothing. If a solo learner
+  does say `basta così` at pause 12 after buying the suggestion, element (1)
+  is still met, and the mismatched V13 turn is not held against them.
+- **Ruling 7b (agreement floor is an attempt): accepted.** It is now in the
+  E1 Elicitation floor row. The floor needs one passato prossimo after a
+  preceding direct object pronoun. Whether its agreement is right goes to TS
+  under the majority rule (`rubrics.md` band 3). A past-tense answer that
+  repeats the noun is avoidance, not an attempt. Both anchors meet the floor,
+  so neither score moves.
+- **E1 total: accepted.** Element (4) is about querying or confirming, not
+  arithmetic. The partner card's latitude stands.
+- **Consequential fix (mine):** the E1 Scales row said GA and FD were scored
+  "once, on E2". E2 scores FD but not GA, which is scored on D. The row now
+  says so. No mark moves.
+
 ---
 
 ## Scoring and pass criterion
@@ -1343,7 +1469,7 @@ evidence is richer.
 | Relativi `che` / `cui` (D TS, C2) | `U10 L4`, `U10 L5` | U10 checkpoint · M2 |
 | Comparativi | `U10 L4` | U10 checkpoint |
 | `ci` locativo, preposizioni | `U7 L4` | U7 checkpoint Part B recycled |
-| `si` impersonale | `U7 L4` (→ passivante) | U7 checkpoint · M2 |
+| `si` impersonale | `U7 L4` (→ passivante), `U10 L4` | M2. *Not* the U7 checkpoint, whose recycled gaps are `ci` locativo ([template parameter table](unit-checkpoint-template.md#per-unit-parameters)); corrected at ITA-27. |
 | Passato prossimo forms, riflessivi | `U9 L4` (extra encounter) | any later checkpoint where it appears |
 | CC (connectives) | `U8 L4`, `U9 L4` | M2 (CC on D2 and E4) |
 | FD | every unit's L5 | M2 |
@@ -1432,9 +1558,9 @@ is sampled at least once; the heavy ones more than once.
 | Past-time expressions, `già / appena / non ancora` | C1, D (1) |
 | Relativi `che` / `cui` | A2, C2, **D TS** |
 | Comparativi | A2, B2, C2, D (4) |
-| `ci` locativo, preposizioni | A2, C2 or D |
+| `ci` locativo, preposizioni | A2 (input), **C2.7** (`ci`), D (3) (prepositions, scored on GA) |
 | Imperfetto | B2, C1, D (2) |
-| `si` impersonale | A2, B2, C2 or D (5) |
+| `si` impersonale | A2 (input), B2 (input, B2.1's key clause), **D (5)** (free production, scored on GA). No objective item turns on it (ITA-23 ruling 2, ITA-27 ruling 8). |
 | PP vs imperfetto | A1, C1 ×2, **E2 TS** |
 | `stare + gerundio` | A1, C1 |
 | Connettivi narrativi | A1, **E2 CC** |
@@ -1452,7 +1578,9 @@ Run before M1 is used, and again on the parallel version.
 - [ ] No item turns on a congiuntivo chunk, a `Lei` imperative or a condizionale form.
 - [ ] A1 tells its events out of chronological order; B2 mentions each classified feature in both halves.
 - [ ] B1 and E1 scripts refer to at least two items by pronoun or `ne` only, after naming them once.
+- [ ] No A2 match is reachable from one word or from text type alone; every person's need has a competing text ruled out only by a relative clause or comparison (ITA-27).
 - [ ] Every cloze gap has an alternatives list and needs the co-text to fill.
+- [ ] Every verb gap carries its bracket cue, and the periphrasis and adverb-position gaps show both words (ITA-27, ruling 5).
 - [ ] Every productive prompt lists its required elements in English and names no structure.
 - [ ] Every elicitation floor is reachable in the time: 3 relatives in 150 words; 4 substitutions in a four-item purchase; 2 background-plus-event pairs in two minutes.
 - [ ] Band-3 and band-5 anchors exist for D, E1 and E2 before the first learner sits it.
@@ -1467,7 +1595,8 @@ Run before M1 is used, and again on the parallel version.
 | --- | --- | --- |
 | ~~All Italian: A1 and A2 texts, B1 and B2 scripts, C1 and C2 cloze texts, keys and alternatives lists, E1 vendor role card and vendor audio script~~ | Italian Content Editor | **Closed, ITA-16 (2026-11-09):** version 1 written under each part. Editor's verdict: pass (self-authored; second look requested from the Chief before first use). |
 | ~~Band-3 / band-5 anchors for D, E1, E2~~ | Italian Content Editor | **Closed, ITA-16:** under Part D and Part E. |
-| Rule on the ITA-16 spec clarifications: A1 sequencing scoring; A2 heading and value-item reading; B2 then/now keys; Part C bracket cues (C2 infinitives, `stare +`, `appena +`); D and E2 element (4) and the conditional; E1 suggestion count and agreement floor; `si` impersonale coverage row | **Curriculum Architect** | Raised under **ICE notes (for the Architect)** in Parts A–E. No Italian item or key needs rewriting under the readings proposed. |
+| ~~Rule on the ITA-16 spec clarifications: A1 sequencing scoring; A2 heading and value-item reading; B2 then/now keys; Part C bracket cues (C2 infinitives, `stare +`, `appena +`); D and E2 element (4) and the conditional; E1 suggestion count and agreement floor; `si` impersonale coverage row~~ | Curriculum Architect | **Closed, ITA-27 (2026-11-09):** eight rulings, each under its ICE note as **Architect ruling (ITA-27)**. Seven accepted (three in my wording); ruling 8 accepted in part (B2.1 samples `si` in input; it does not turn on it). Spec rows, prompts, task-type paragraph and coverage rows updated. No Italian changed. |
+| **A2 item 9: a lure that competes with F on text type** | **Italian Content Editor** (queued after ITA-27) | F is the only recipe, so text type alone reaches the key. That breaks the A2 construct note. Constraints are in the ITA-27 ruling under Part A: E and F unchanged; items 7, 8, 10–12 keep their keys; E still suits nobody. |
 | A **parallel version** of Parts C–E (placement confirmation and resits), then of A–B | **Italian Content Editor**, after version 1 | Re-sitting the same items measures memory. |
 | Repair sets for PP/imperfetto, pronomi diretti + `ne`, relativi | **Lesson Designer** (ITA-5) | Triggered by a TS below 3 at M1. Same sets the checkpoint escalation calls for. |
 | Whether a learner with three or more scales below 3 **repeats Units 5–6** rather than continuing | **Chief Italian Linguist** | Course-shape decision. Default until decided: continue with carry-forward and resit. |

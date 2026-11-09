@@ -199,6 +199,27 @@ above.
 Testing a bolded entry means the checkpoint checks the spiral where it is
 load-bearing, not where it is bonus exposure.
 
+**Where a unit's `L4` contract row bolds no structure** *(Chief ruling,
+ITA-28)*, the recycled structure is **the one this table names for that
+unit**. Every table entry below is drawn from that unit's `L4` contract row,
+so it is still a structure the `L4` must re-work, but it is extra exposure,
+not a mandated second encounter. Three units are in this position:
+
+- **U2 and U3** have no mandated second encounter at all. No structure is
+  introduced early enough for its second encounter to fall in them: the
+  earliest are riflessivi and the presente at `U4 L4`. Their checkpoints
+  test the first entry of the `L4` row: riflessivi in the past (U2) and the
+  passato prossimo (U3).
+- **U12**'s row bolds only its label ("Whole-course recycling lesson"). Its
+  structures include four mandated second encounters (condizionale, periodo
+  ipotetico, futuro epistemico, `ci` pronominale; see the master table), but
+  the row does not bold them. The table names the condizionale, which is
+  one of the four.
+
+**U1** is the entry unit and has its own stated exception in the table. In
+every other unit the table's entry is a bolded row, and the bolded-row rule
+applies as written.
+
 | U | Part A text type | Part B: main structure (4 gaps) | Part B: recycled (2 gaps) | Part C: lexis subgroups | Part D: mode + floor |
 | --- | --- | --- | --- | --- | --- |
 | **1** | Script-read exchange: two people comparing weeks | Riflessivi in the present, incl. reciprocal | **Within-A2 only** — present-tense question forms and noun–adjective agreement. U1 has no earlier unit; this is stated as an exception, not an omission. | A (reflexive routine verbs) + C (character adjectives) | **Spoken.** Describe your week and one person close to you. Floor: **4** reflexive verbs. |
@@ -318,7 +339,7 @@ Run on each of the twelve instantiations before it reaches a learner.
 - [ ] Part A uses no lexis from later units and no lexis outside this unit's set and earlier ones.
 - [ ] Part A item 4 is genuinely unanswerable without parsing the main structure, and cannot be reached by keyword matching.
 - [ ] No Part A or C item requires the learner to produce accurate Italian to score.
-- [ ] Part B's six gaps split 4 main / 2 recycled, and the recycled structure is a **bolded** entry in this unit's `L4` contract.
+- [ ] Part B's six gaps split 4 main / 2 recycled, and the recycled structure is a **bolded** entry in this unit's `L4` contract **or, where that row bolds no structure (U2, U3, U12; U1 is the entry-unit exception), the structure the [§Per-unit parameters](#per-unit-parameters) table names for this unit** (ITA-28).
 - [ ] Every Part B gap has an alternatives list, and no gap is answerable without reading the co-text.
 - [ ] Part C has at most one false-friend item and at least one chunk.
 - [ ] Part D's prompt lists its required elements and **does not name the target structure**.
