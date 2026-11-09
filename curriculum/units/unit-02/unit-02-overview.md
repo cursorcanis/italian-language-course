@@ -59,12 +59,12 @@ lesson files and, where spoken, in
 
 | Input | Lesson | Type | Length | Must contain |
 | --- | --- | --- | --- | --- |
-| `Un anno di svolte` — Giulia, a year on | L1 s4–s6 | Voice message, one speaker (Giulia from U1 cue 1) | ~230 words, ~2:00 | All 11 set A items; ≥ 20 passato prossimo forms, of which ≥ 8 with `essere` across all four agreement endings; ≥ 6 irregular participles; ≥ 4 reflexives in the past; time anchors present but unmarked; `mi sembra` (Seed 1, first seeded here) plus three U1 `piacere` chunks and `mi è piaciuto`, all unanalysed. **No imperfetto.** |
+| `Un anno di svolte` — Giulia, a year on | L1 s4–s6 | Voice message, one speaker (Giulia from U1 cue 1) | ~255 words, ~2:20 (raised from ~230 / ~2:00 to fit the script; see audio script cue 1) | All 11 set A items; ≥ 20 passato prossimo forms, of which ≥ 8 with `essere` across all four agreement endings; ≥ 6 irregular participles; ≥ 4 reflexives in the past; time anchors present but unmarked; `mi sembra` (Seed 1, first seeded here) plus three U1 `piacere` chunks and `mi è piaciuto`, all unanalysed. **No imperfetto.** |
 | `Hai già trovato casa?` | L3 s4 | Written chat, two friends catching up | ~150 words | `già` ×3, `appena` ×2, `non … ancora` ×2; six set B time anchors; ≥ 2 follow-up questions that pick up the previous answer. |
-| `Doppie: coppie e participi` | L3 s7 | Pronunciation cue, one speaker | ~1:10 | Six meaning-bearing single/double pairs, including the three the syllabus names (`ano/anno`, `sono/sonno`, `casa/cassa`); eight participles in `-tt-` / `-ss-` in short sentences. |
+| `Doppie: coppie e participi` | L3 s7 | Pronunciation cue, one speaker | ~1:25 | Six meaning-bearing single/double pairs, including the three the syllabus names (`ano/anno`, `sono/sonno`, `casa/cassa`); ten short sentences carrying seven participles with a double (`-tt-` / `-ss-`), one with a single (`preso`) and two non-participle controls (`anni`, `casa`). |
 | `Il mio primo anno italiano` — the culture note | L4 s2 | Written, first person, an English speaker one year into life in Bologna | ~190 words | The Italian year's landmarks (September as the real start, Natale to the Epifania, `settimana bianca`, `ponti`, Ferragosto); ≥ 6 reflexives in the past across ≥ 3 persons; ≥ 4 present-tense "now" sentences set against them, incl. `da allora` + present. |
-| `Tre cose del mio anno` | L5 s2 | Model spoken turn, one speaker, plus two follow-up answers | ~170 words, 1:30 | The task's target shape at exactly the success criterion's standard — no better. |
-| `Domande di follow-up` | L5 s4, s6 (solo route) | Six recorded follow-up prompts with pauses | ~0:50 | The solo learner's "partner" for the spoken task. |
+| `Tre cose del mio anno` | L5 s2 | Model spoken turn, one speaker (Luca) plus a friend's two follow-up questions | ~160 words, 1:30 | The task's target shape at exactly the success criterion's standard — no better. |
+| `Domande di follow-up` | L5 s4, s6 (solo route) | Six recorded follow-up prompts with 10-second answer gaps | ~1:35 | The solo learner's "partner" for the spoken task. |
 
 ---
 
@@ -113,7 +113,8 @@ produces `*ho piaciuto`. See §4 and the teacher notes.
      motion and change: **every reflexive verb takes `essere`** (rule 1 — carried
      by U1's reflexives, which is why they come first), and **a short list of
      verbs of going, coming, staying and becoming takes `essere`** (rule 2 — the
-     *essere dozen*). Everything else takes `avere`. The verbs that take **both**
+     *essere list*: fifteen verbs in L2 stage 2, sixteen once stage 6 adds
+     `riuscire`). Almost everything else takes `avere`. The verbs that take **both**
      — `cambiare`, `finire`, `cominciare`, `passare` — are taught in L2 stage 6 as
      one question: *has it got an object?*;
   2. **agreement with `essere`.** The participle behaves exactly like U1's

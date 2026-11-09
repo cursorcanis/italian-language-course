@@ -43,4 +43,6 @@ each, and the lesson files deliver them.
 | --- | --- |
 | `unit-template/` | Complete. For review by Chief Italian Linguist — this is the format decision, not just a folder. |
 | `unit-01/` | Complete: five lessons, lexis list, checkpoint, audio scripts, teacher notes. **All Italian is draft** and marked `[ITA?]`, pending Italian Content Editor sign-off (ITA-10). |
-| `unit-02/` … `unit-12/` | Not started. Blocked on the template being approved — building eleven units against an unapproved format is the expensive way to find out it is wrong. |
+| `unit-02/` | Built to the ITA-12 template (ITA-20): overview, five lessons, lexis list, checkpoint, audio scripts, teacher notes. **L2's Italian is signed off** (ITA-21 priority slice); everything else carries the review banner and `[ITA?]`, pending the rest of ITA-21. First unit built to the amended template, so it goes to the Chief as *in review*. |
+| `unit-07/` | One file: `unit-07-lesson-04.md`, the L4 spike that proved the ITA-11 L4 rules. Not a unit build. |
+| `unit-03/` … `unit-12/` | Not started. |

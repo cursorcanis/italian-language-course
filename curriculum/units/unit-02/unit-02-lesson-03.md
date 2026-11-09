@@ -302,7 +302,7 @@ Read cue 2 part 2. Learners fill as they listen.
 before it?" → *Shorter.*
 
 Check in lockstep, 60 seconds. Then say the thing that makes it stick: "Look at the
-participles you learned on Tuesday: `fatto, detto, letto, scritto, rotto, successo,
+participles you learned in Lesson 2: `fatto, detto, letto, scritto, rotto, successo,
 messo` — **every one is double**. And `preso, perso, deciso` — **every one is
 single**. The spelling you learned in L2 tells you how to say it."
 

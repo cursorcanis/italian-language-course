@@ -97,7 +97,7 @@ criterion without showing off.
 > new topic.
 
 "Those three are the whole assessment for the spoken part, and the asker has one job.
-You can do this with the Italian you had on Thursday."
+You can do this with the Italian you had at the end of Lesson 4."
 
 **Part 2 (4 min, lockstep).** "Listen to Luca — Giulia's brother, from Lesson 1. Three
 things, then a friend asks two questions. **Exercise 1 while you listen**: what are
@@ -270,7 +270,7 @@ Unit 3**; and the self-rating, four goals, **1, 2 or 3**."
 **Part 1 — the written task (4 min).** "The other half, as homework. **A 150-word
 post: *il mio anno*, for a blog or a social feed.** Exercise 5 has a model and the
 four things yours has to do. The one that's new: **it has to read as a story, not a
-list** — three linking expressions at least. You did that on Thursday with your
+list** — three linking expressions at least. You did that in Lesson 4 with your
 svolta."
 
 **Part 2 — the close (6 min).** The four can-do goals on the board, one by one, a
@@ -315,7 +315,7 @@ follow-up is.*
 **Key.** 1 **Yes** — `a luglio`, `a ottobre`, `a novembre`, `in primavera`, `il mese
 scorso`, `a dicembre`. · 2 **Twelve**: `mi sono laureato`, `ho ballato`, `ho trovato`,
 `ho fatto`, `ha scelto`, `mi sono trasferito`, `è stato`, `si sono separati`, `è
-stato`, `mi sono iscritto`, `è rimasta`, `sono andato` — **seven with `essere`**.
+stato`, `mi sono iscritto`, `è rimasta`, `sono andato` — **eight with `essere`**.
 Accept any count of eight or more with two `essere`. · 3 **Yes** — three sentences
 and two. **3 marks.**
 

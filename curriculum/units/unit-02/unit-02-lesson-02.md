@@ -607,7 +607,7 @@ disadvantage.
 | 5 Transform line (solo → pairs) | Identical; key supplied. Then redo items 8–10 on a fresh line without looking, and compare. | 8 |
 | 6 Outcome verbs + the four that take both | Read both panels aloud; write one true sentence with each A′ item. Then exercise 4. | 7 |
 | 7 Error clinic (pairs) | Before you look at the key, write next to each item **which rule** — 1, 2, 3 or irregular. That label is what a partner would have argued with you about. | 5 |
-| 8 Information gap (pairs) | **Card B is your answer sheet.** Cover it. Take Card A, ask each question **out loud**, then say Pietro's answer aloud as a full sentence from the note on Card B — *Si è licenziato* — before you uncover the key. | 5 |
+| 8 Information gap (pairs) | Cover Card B and the key. Take Card A and ask the first question about Pietro **out loud**. Then uncover **one** note on Card B, build the full past sentence aloud from it — *Si è licenziato* — and only then check it against the key. One note at a time, all six. Then Nadia the same way: Card B's questions, Card A's notes. | 5 |
 | 9 Delayed feedback (lockstep) | Record yourself reading exercise 6 items 1–6 aloud. Listen once: helper and ending right every time? | 2 |
 | | **Total** | **55** |
 

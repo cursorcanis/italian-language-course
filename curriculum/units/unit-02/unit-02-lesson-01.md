@@ -33,7 +33,7 @@ selfstudy_min: 50
 | **One goal** | By the end, the learner can tell someone four or five things they did this year, each with a month or a time, working from a model and from complete phrases. |
 | **Method** | **ESA.** Engage (my year on a timeline) → Study (lexis set A, then a three-pass listen with a noticing grid) → Activate (year ladder, then a retell about someone else). PPP would be wrong: the passato prossimo is not taught until L2, and L2's presentation is built from what this lesson's grid collects. |
 | **Materials** | This file. Audio cue 1, `assets/audio/unit-02/u02-l01-anno.mp3` — **not yet recorded**: read the script in [`unit-02-audio-script.md`](unit-02-audio-script.md) aloud, three times at normal pace (once in stage 4, twice in stage 5) and once slowly (stage 6). Board. |
-| **Prep** | Read this file: 15 minutes. Read cue 1 aloud once, with the pauses — it is about two minutes and it is Giulia from Unit 1, a year later; learners who remember her week will enjoy that, so say it. Nothing to print; the noticing grid is worth one copy per learner if you can. |
+| **Prep** | Read this file: 15 minutes. Read cue 1 aloud once, with the pauses — it is just over two minutes and it is Giulia from Unit 1, a year later; learners who remember her week will enjoy that, so say it. Nothing to print; the noticing grid is worth one copy per learner if you can. |
 
 ---
 
@@ -188,7 +188,7 @@ own first, then compare with your partner, then we check."
 **CCQ.** "When do you compare — before or after you've written your own answers?"
 → *After.*
 
-Play twice, no pause between — about four minutes of audio. Two minutes in pairs,
+Play twice, no pause between — about four and a half minutes of audio. Two minutes in pairs,
 then lockstep. When an answer is wrong, give the paragraph number and replay those
 seconds rather than giving the answer.
 
