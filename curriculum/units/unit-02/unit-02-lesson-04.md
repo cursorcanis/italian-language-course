@@ -16,11 +16,9 @@ selfstudy_min: 55
 
 # Unit 2, Lesson 4 — *Prima e adesso*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: ITA-21.
+> **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-09) — pass with
+> edits; see [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
+> Cleared to teach and to use as self-study.
 
 ---
 
@@ -96,7 +94,7 @@ ticks one.
 
 ---
 
-### 2 · Culture note as input — *Il mio primo anno italiano* — 15 min · solo → pairs → lockstep · `A10` `[ITA?]`
+### 2 · Culture note as input — *Il mio primo anno italiano* — 15 min · solo → pairs → lockstep · `A10`
 
 **Purpose.** The unit's culture note — **the shape of the Italian year** — and, at
 the same time, the lesson's only input text. Both contract structures are in it:
@@ -130,7 +128,7 @@ every word: five are glossed underneath."
 >
 > Poi è arrivato agosto. I miei vicini si sono trasferiti al mare per tre settimane,
 > il mio bar si è svuotato e sulla porta hanno messo un cartello: *Chiuso per
-> ferie*. A Ferragosto, il 15, la città è sembrata un deserto. Io mi sono annoiata
+> ferie*. A Ferragosto, il 15, la città è diventata un deserto. Io mi sono annoiata
 > moltissimo.
 >
 > Da allora organizzo l'anno in un altro modo. Adesso so come funziona: a gennaio
@@ -168,7 +166,7 @@ only.
 
 ---
 
-### 3 · Sort — then and now in the text — 6 min · solo → pairs · `A2` (recycling use) `[ITA?]`
+### 3 · Sort — then and now in the text — 6 min · solo → pairs · `A2` (recycling use)
 
 **Purpose.** Learners **retrieve** both contract structures out of the text before
 any work on them, so stage 4 builds on what they have just found.
@@ -196,7 +194,7 @@ question — "who did it?" or "is that now or then?" — not by a rule.
 
 ---
 
-### 4 · Recycle — then and now — 16 min · lockstep → solo → pairs · `A4` `[ITA?]`
+### 4 · Recycle — then and now — 16 min · lockstep → solo → pairs · `A4`
 
 **Purpose.** The lesson's one Study block, for its one task-cluster. A change in your
 life is told with **Unit 1's reflexive verbs, now in the past** — the choice of
@@ -256,7 +254,7 @@ asking you.* · "B's second question — past or present?" → *Present — now.
 
 ---
 
-### 5 · Error clinic — 8 min · pairs → lockstep · `A8` `[ITA?]`
+### 5 · Error clinic — 8 min · pairs → lockstep · `A8`
 
 **Purpose.** The unit's predicted errors for these two structures, side by side, so
 learners decide *which* thing is wrong rather than apply the last rule practised.
@@ -276,7 +274,7 @@ the stage 4 board lines; do not re-explain.
 
 ---
 
-### 6 · Activate 1 — *trova qualcuno che…* — 14 min · mingle → lockstep · `A5` `[ITA?]`
+### 6 · Activate 1 — *trova qualcuno che…* — 14 min · mingle → lockstep · `A5`
 
 **Purpose.** The first free use of both structures, as **questions** — which is
 can-do goal 4. Every prompt forces a `tu` reflexive in the past (`Ti sei…?`), and the
@@ -306,7 +304,7 @@ trasferito?` and `*sei trasferito?`.
 
 ---
 
-### 7 · Activate 2 — *la mia svolta* — 20 min · lockstep → pairs → new pairs · `A6` `[ITA?]`
+### 7 · Activate 2 — *la mia svolta* — 20 min · lockstep → pairs → new pairs · `A6`
 
 **Purpose.** The lesson's goal, performed: one real change, told as **a connected
 story** — then, in order, and now — to a listener who follows up. The scaffold comes
@@ -323,7 +321,7 @@ Say this aloud twice. Do not write it up.
 > **Model.** "La svolta del mio anno? Il lavoro. A marzo mi sono licenziato dalla
 > banca. Poi mi sono iscritto a un corso per insegnanti, e a giugno mi sono
 > trasferito a Lecce con la mia compagna. All'inizio è stato difficile, ma alla fine
-> ci siamo trovati bene. Adesso insegno in una scuola media e vado al lavoro in bici.
+> ci siamo trovati bene. Adesso insegno italiano agli stranieri e vado al lavoro in bici.
 > Da allora sono un'altra persona. Non mi sono mai pentito."
 
 "Eight sentences. **Which ones are *then*, and which are *now*?" → *The first five
@@ -390,7 +388,8 @@ past: "Is it still true?"
 - the little word dropped: `*sono trasferita`, `*sei trasferito?`;
 - the little word not following the subject: `*io e Marco si siamo…`, `*si sei
   trovato?`;
-- a little word on a non-reflexive verb: `*mi sono uscita`, `*ci siamo andati`;
+- a little word on a non-reflexive verb: `*mi sono uscita`, `*ci siamo diventati amici`
+  (not `ci siamo andati`: with a place, `ci` means *there*, and that is correct);
 - *now* in the past: `*adesso mi sono trovata bene`, `*da allora ho abitato`;
 - and the good ones: a clean `Ti sei pentito?`; `Da allora` + present.
 
@@ -404,7 +403,7 @@ bring it."
 
 ---
 
-## Exercises and answer keys `[ITA?]`
+## Exercises and answer keys
 
 ### Exercise 1 — *Il mio primo anno italiano*
 
@@ -441,7 +440,7 @@ because in August everything closes (`Chiuso per ferie`, the city `un deserto`).
 | --- | --- | --- |
 | 1 · then | `mi sono trasferita` · `mi sono resa conto` · `si sono presi` (i colleghi) · `ci siamo organizzati` (io e il mio compagno) · `si sono trasferiti` (i vicini) · `si è svuotato` (il bar) · `mi sono annoiata` | **Seven**, four different subjects. The little word follows the subject every time — Unit 1. |
 | 2 · now | `organizzo` · `so` · `prenoto` · `finisco` · `torno` · `mi chiede` · `rispondo` | **Seven.** `so` is a Unit 1 irregular. **Accept** the general-truth presents in paragraphs 1 and 3 (`comincia`, `riaprono`, `tornano`, `finiscono`, `lavorano`) **as present, not *now***: they are how Italy always is, not how Hannah is now. A learner who sorts them separately has seen the difference. |
-| Not column 1 | `sono rimasta` · `siamo andati` · `è arrivato` · `hanno messo` · `è sembrata` · `ho scoperto` · `ho imparato` | Past, but **no little word**: not reflexive. This is the answer to the pair question in the instruction, and stage 4 panel (a) opens from it. |
+| Not column 1 | `sono rimasta` · `siamo andati` · `è arrivato` · `hanno messo` · `è diventata` · `ho scoperto` · `ho imparato` | Past, but **no little word**: not reflexive. This is the answer to the pair question in the instruction, and stage 4 panel (a) opens from it. |
 
 ### Exercise 3 — Then and now
 

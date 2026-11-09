@@ -10,9 +10,9 @@ false_friend: "la fattoria"
 
 # Unit 2 — Le parole: *eventi e svolte*
 
-> ⚠️ **Italian awaiting review.** Every Italian item and example sentence in this
-> file is a Lesson Designer **draft**, and each Italian-bearing section is marked
-> `[ITA?]`. Review task: ITA-21.
+> **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-09) — pass with
+> edits; see [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
+> Cleared for learners.
 
 **This is your revision list.** Thirty items you are expected to **use**, fifteen
 more you only need to **recognise**, and one false friend. Every item has an
@@ -41,7 +41,7 @@ item, because the checkpoint samples by subgroup.
 
 ---
 
-## Set A — life events · taught in L1 · 11 items `[ITA?]`
+## Set A — life events · taught in L1 · 11 items
 
 Syllabus subgroup **B**. **Five of the eleven are reflexive** — which, from Lesson
 2, means they all take `essere` in the past.
@@ -72,7 +72,7 @@ Syllabus subgroup **B**. **Five of the eleven are reflexive** — which, from Le
 
 ---
 
-## Set A′ — the four `essere` outcome verbs · taught in L2 · 4 items `[ITA?]`
+## Set A′ — the four `essere` outcome verbs · taught in L2 · 4 items
 
 Syllabus subgroup **C**. In L2 rather than L3 because they are the unit's
 **grammar** wearing vocabulary's clothes: all four take `essere`, two because they
@@ -95,7 +95,7 @@ are reflexive (rule 1) and two because they are on the list (rule 2).
 
 ---
 
-## Set B — time anchors, and how it went · taught in L3 · 15 items `[ITA?]`
+## Set B — time anchors, and how it went · taught in L3 · 15 items
 
 ### B (i) — time anchors · L3 stages 2–3 · 10 items
 
@@ -155,7 +155,7 @@ entry in the false-friend section below.
 
 ---
 
-## Recognition only — not counted in the thirty, not tested `[ITA?]`
+## Recognition only — not counted in the thirty, not tested
 
 ### The `piacere` family, and `mi sembra`
 
@@ -188,7 +188,7 @@ the end of L1 stage 6 is their whole treatment.
 
 ---
 
-## False friend — Unit 2 of 12 `[ITA?]`
+## False friend — Unit 2 of 12
 
 One per unit, two minutes in L3, and they are tested cumulatively at both
 milestones. **Add it to your false-friend page, under `i parenti`.**

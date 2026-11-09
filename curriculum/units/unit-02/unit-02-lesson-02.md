@@ -18,8 +18,10 @@ selfstudy_min: 55
 
 > **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-08) — pass with
 > edits; see [`docs/unit-02-lesson-02-italian-review.md`](../../../docs/unit-02-lesson-02-italian-review.md).
-> Cleared to teach and to use as self-study. The L1 input text this lesson draws
-> on is not yet in the repo; stage 1 was checked against L1's exercise 3 key.
+> Cleared to teach and to use as self-study. Stage 1's board column was
+> re-checked against the L1 input text (audio cue 1, `unit-02-audio-script.md`)
+> on 2026-11-09: all 22 forms occur there, in script order, with the auxiliary,
+> person and gender shown. See [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
 
 ---
 

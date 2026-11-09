@@ -16,11 +16,9 @@ selfstudy_min: 50
 
 # Unit 2, Lesson 1 — *Un anno di svolte*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: ITA-21.
+> **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-09) — pass with
+> edits; see [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
+> Cleared to teach and to use as self-study.
 
 ---
 
@@ -97,7 +95,7 @@ interview*. That overlap is the evidence that set A was chosen, not invented.
 
 ---
 
-### 3 · Lexis set A — 11 life events — 13 min · lockstep → solo `[ITA?]`
+### 3 · Lexis set A — 11 life events — 13 min · lockstep → solo
 
 **Purpose.** Deliver set A as sound first, spelling second, own-life example third.
 These eleven are the events a year is made of, and **five of them are reflexive** —
@@ -196,7 +194,7 @@ seconds rather than giving the answer.
 
 ---
 
-### 6 · Listen 3 + noticing grid — 12 min · solo → pairs · `A2` `[ITA?]`
+### 6 · Listen 3 + noticing grid — 12 min · solo → pairs · `A2`
 
 **Purpose.** Learners **collect** the passato prossimo out of the text before
 anyone names it. L2 opens by sorting what this group found.
@@ -238,7 +236,7 @@ for, or given.
 
 ---
 
-### 7 · Controlled practice — supported gap-fill — 10 min · solo → pairs `[ITA?]`
+### 7 · Controlled practice — supported gap-fill — 10 min · solo → pairs
 
 **Purpose.** First accurate use. The box supplies **complete** past phrases and the
 learner chooses by **meaning**. Nobody builds a form: that is L2.
@@ -254,7 +252,7 @@ comparing, then we check."
 
 ---
 
-### 8 · Year ladder — 14 min · lockstep → pairs · `A6` rungs 1–2 `[ITA?]`
+### 8 · Year ladder — 14 min · lockstep → pairs · `A6` rungs 1–2
 
 **Purpose.** Gradual release. Turn eleven items and a text into the learner's own
 spoken year, with complete phrases supplied so nobody has to build a past form yet.
@@ -265,9 +263,12 @@ Say this model aloud, twice. Do not write it up.
 
 > **Model.** "Quest'anno è stato un anno pieno. A febbraio ho cambiato lavoro: ho
 > fatto due colloqui e alla fine ho trovato un posto in una scuola di lingue. A maggio
-> mi sono iscritta a un corso di italiano. Ad agosto sono andata in Sicilia con mia
+> mi sono iscritta a un corso di fotografia. Ad agosto sono andata in Sicilia con mia
 > sorella. E a ottobre mi sono trasferita in un appartamento più grande. La cosa più
 > bella? Il viaggio in Sicilia."
+
+A male teacher says `iscritto`, `andato`, `trasferito`. Learners hear the ending
+match the speaker, which is all stage 8 needs.
 
 Then: "Six sentences. **What does almost every sentence start with?**" → *A month.*
 "That's the only analysis today. Every event has a when."
@@ -276,8 +277,9 @@ Then: "Six sentences. **What does almost every sentence start with?**" → *A mo
 
 **Instruction.** "Your year, **out loud**, with your timeline from stage 2 and the
 frames on the board. Your partner listens, then you swap. Two and a half minutes
-each. **Listener: at the end, ask one question** — `E com'è andato?` or `E poi?` —
-one, not five."
+each. **Listener: at the end, ask one question** — `E com'è andata?` or `E poi?` —
+one, not five." (`Com'è andata?` is the all-purpose *how did it go?*, about
+anything. Do not explain the `-a` today.)
 
 **Frames** (on the board; learners do not copy them):
 
@@ -309,7 +311,7 @@ from the board **wrongly** — `*sono trasferito` for `mi sono trasferito`, or t
 
 ---
 
-### 9 · Activate — *l'anno di qualcun altro* — 9 min · pairs → lockstep · `A6` rung 3 `[ITA?]`
+### 9 · Activate — *l'anno di qualcun altro* — 9 min · pairs → lockstep · `A6` rung 3
 
 **Purpose.** Remove the scaffold — the frames come off — and stretch the task one
 notch, into the third person. This is the stage that **creates the need for L2**:
@@ -371,11 +373,11 @@ stage 9. Bring the grid.
 
 ---
 
-## Exercises and answer keys `[ITA?]`
+## Exercises and answer keys
 
 ### Exercise 1 — *Un anno di svolte*: vero o falso?
 
-1. A gennaio l'ufficio ha licenziato Giulia.
+1. A gennaio l'azienda ha licenziato Giulia.
 2. Giulia ha fatto il corso di grafica la mattina.
 3. Durante il trasloco ha perso delle cose.
 4. Sara e Chiara sono andate a Milano per il compleanno di Giulia.
@@ -404,7 +406,7 @@ is careful to say which.*
 | settembre | l'agenzia ha deciso di assumere una persona — lei |
 
 **Key.** febbraio — *si è iscritta a un corso di grafica (la sera)* [3] · marzo —
-*ha fatto un colloquio per un tirocinio a Milano* [3] · aprile — *ha cominciato il
+*ha fatto un colloquio per un tirocinio (in un'agenzia di comunicazione) a Milano* [3] · aprile — *ha cominciato il
 tirocinio; si è trasferita a Milano; il trasloco* [3–4] · maggio — *Sara e Chiara
 sono venute per il suo compleanno* [4] · luglio — *suo fratello Luca si è laureato;
 la festa* [6]. **1 mark per row, 5 marks.** Accept any answer with the main fact,

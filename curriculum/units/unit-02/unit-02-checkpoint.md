@@ -13,10 +13,9 @@ spec: assessment/unit-checkpoint-template.md
 
 # Unit 2 — Checkpoint
 
-> ⚠️ **Italian awaiting review.** Every Italian item, text and answer in this file
-> is a Lesson Designer **draft**, and each Italian-bearing section is marked
-> `[ITA?]`. Do not use it with learners until the Italian Content Editor has
-> signed off. Review task: ITA-21.
+> **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-09) — pass with
+> edits; see [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
+> Cleared for use with learners.
 
 **Ten minutes of your time, then about nine to mark it.** Run inside
 [L5 stages 7 and 8](unit-02-lesson-05.md). Twenty-five marks in four parts.
@@ -58,7 +57,7 @@ self-rating below ([`unit-02-overview.md` §1](unit-02-overview.md#1-can-do-goal
 
 ---
 
-## Part A — Lettura · 3 minutes · 4 marks `[ITA?]`
+## Part A — Lettura · 3 minutes · 4 marks
 
 **How it runs.** Read the message, then answer the four questions **in English or
 Italian** — this part checks understanding, not writing. In class everyone reads
@@ -68,7 +67,7 @@ silently at once; the teacher calls *start* and *stop*.
 >
 > Ciao Ben! Com'è andato il tuo anno? Il mio è stato pieno. A febbraio mi sono
 > licenziata dalla banca, e a marzo mi sono iscritta a un corso di cucina. Mia
-> sorella Elena e mio cugino Marco hanno studiato ingegneria insieme, a Torino. A
+> sorella Elena ha studiato ingegneria a Torino, insieme a mio cugino Marco. A
 > luglio, dopo cinque anni, finalmente si è laureata: grande festa a casa! E io?
 > Ho appena fatto un colloquio in un ristorante, ma non ho ancora saputo niente.
 > Incrociamo le dita! Un abbraccio, Marta
@@ -94,13 +93,19 @@ is right.
 
 **Marking notes.**
 - **Item 4 is the one that turns on the unit's grammar.** `si è laureata` — the
-  participle ends in `-a`, so it is **one woman**: Elena. A learner who reads only
-  `Elena`, `Marco` and `laureat-` cannot choose, because all three options name the
-  people in the sentence before. (b) would need `si è laureato`; (c) would need `si
-  sono laureati`. This is L2 stage 2's rule 3 — *with `essere`, the ending tells
-  you who* — turned into a reading item. For the Italian Content Editor: the
-  sentence deliberately does not name Elena again; please confirm it reads as
-  natural Italian rather than as a puzzle.
+  verb is singular and the participle ends in `-a`, so it is **one woman**: Elena.
+  A learner who reads only `Elena`, `Marco` and `laureat-` cannot choose, because
+  all three options name the people in the sentence before, and they studied
+  together, which makes (c) the strong distractor. (b) would need `si è laureato`;
+  (c) would need `si sono laureati`. This is L2 stage 2's rule 3 — *with `essere`,
+  the ending tells you who* — turned into a reading item.
+- **Why the sentence does not name Elena again** (Italian Content Editor, ITA-21).
+  Elena is the subject of the sentence before, and Marco is inside `insieme a…`.
+  So the dropped subject of `si è laureata` continues Elena, which is how Italian
+  normally drops a subject: it reads as ordinary Italian, not as a puzzle. The
+  first draft had `Elena e Marco hanno studiato…` as a joint subject. A native
+  writer would not drop the subject after that: they would write `Elena si è
+  laureata`.
 - **Item 2.** *She was fired* scores 0 for February: `mi sono licenziata` is the
   set A pair `licenziarsi` / `essere licenziato` from L1 stage 3, and it means she
   quit. *She started cooking* without *course* is accepted for March.
@@ -109,7 +114,7 @@ is right.
 
 ---
 
-## Part B — Grammar in a text · 3 minutes · 6 marks `[ITA?]`
+## Part B — Grammar in a text · 3 minutes · 6 marks
 
 Paolo is writing to his friend Sofia. Write the **passato prossimo** of the verb in
 brackets. One to four words per gap.
@@ -146,7 +151,8 @@ right).
 
 **Marking notes.**
 - **B1** is there so that "always `essere`" is not a winning strategy. `trovare`
-  has an object (`un posto`): `avere`, and nothing agrees.
+  has an object (`un posto`): `avere`, and the participle does not change with the
+  subject.
 - **B2–B4** are rule 2 — the `essere` list — and rule 3, the ending follows the
   subject. B3 is the L2 exercise 3 item 8 decision in miniature: `rimanere` is on
   the list, `rimasto` is irregular, and `mia madre` makes it `-a`.
@@ -161,7 +167,7 @@ right).
 
 ---
 
-## Part C — Words in use · 2 minutes · 5 marks `[ITA?]`
+## Part C — Words in use · 2 minutes · 5 marks
 
 **C1–C3 and C5.** Write the missing word. No options are given.
 
@@ -206,7 +212,7 @@ chunks** (`da allora`, `non … ancora`). C2 and C3 are the checkpoint's evidenc
 
 ---
 
-## Part D — Writing · 2 minutes · 10 marks `[ITA?]`
+## Part D — Writing · 2 minutes · 10 marks
 
 **Prompt** (read it, then write — two minutes, everyone at once):
 
@@ -359,11 +365,12 @@ twelve units.
 
 - [x] Part A uses only Unit 2 lexis, Unit 1 lexis and A2 basics (`banca`, `corso di
       cucina`, `cugino`, `ingegneria`, `festa`, `ristorante`). `ho saputo` and
-      `incrociamo le dita` were glossed and used in L3 stage 4. *Italian not yet
-      reviewed (ITA-21).*
+      `incrociamo le dita` were glossed and used in L3 stage 4. *Italian signed
+      off (ITA-21).*
 - [x] Part A item 4 cannot be reached by keyword matching: all three options name
-      the people in the preceding sentence, and only the `-a` of `laureata`
-      decides. *The naturalness of the sentence is flagged to the Content Editor.*
+      the people in the preceding sentence, and only the form `si è laureata`
+      (singular, `-a`) decides. *Naturalness confirmed by the Content Editor
+      (ITA-21), after the joint subject was rebuilt.*
 - [x] No Part A or C item needs accurate Italian to score (A answers in English; C
       keys are single words; spelling not marked).
 - [ ] Part B splits 4 main / 2 recycled — **yes** — but the recycled structure is

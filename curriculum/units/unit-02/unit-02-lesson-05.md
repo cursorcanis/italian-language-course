@@ -16,11 +16,9 @@ selfstudy_min: 60
 
 # Unit 2, Lesson 5 — *Il mio anno*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: ITA-21.
+> **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-09) — pass with
+> edits; see [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
+> Cleared to teach and to use as self-study.
 
 ---
 
@@ -77,7 +75,7 @@ and didn't four lessons ago." Same three minutes.
 
 ---
 
-### 2 · Task framing and the model — 12 min · lockstep → solo · `A6` rung 1 `[ITA?]`
+### 2 · Task framing and the model — 12 min · lockstep → solo · `A6` rung 1
 
 **Purpose.** State the task and the criterion, then play a model that **clears** the
 criterion without showing off.
@@ -116,7 +114,7 @@ Luca said.* · "How many past verbs do you need?" → *Eight.*
 
 ---
 
-### 3 · The planner — 11 min · solo → pairs · `A6` rung 2 `[ITA?]`
+### 3 · The planner — 11 min · solo → pairs · `A6` rung 2
 
 **Purpose.** The scaffold, filled before anyone speaks — and a partner's guess at
 the follow-ups, so the answers are not cold.
@@ -195,8 +193,8 @@ and **a new asker** — so the follow-ups are real questions, not rehearsed ones
 **Instruction.** "**Turn your planner face down.** On a new piece of paper you may
 write **five words**. New partner. Speaker: phone recording — three things, then
 your partner asks two questions and **you answer into the same recording**. Asker:
-two follow-ups about **what you just heard** — `E com'è andato?` `E adesso…?` `Ti
-sei pentito?`. Then swap. Ten minutes; you may record twice."
+two follow-ups about **what you just heard** — `E com'è andata?` `E adesso…?` `Ti
+sei pentito/a?`. Then swap. Ten minutes; you may record twice."
 
 Write on the board: **`5 parole · 3 cose · 2 domande`**.
 
@@ -265,7 +263,7 @@ Unit 3**; and the self-rating, four goals, **1, 2 or 3**."
 
 ---
 
-### 9 · The written task, and the unit close — 10 min · lockstep `[ITA?]`
+### 9 · The written task, and the unit close — 10 min · lockstep
 
 **Part 1 — the written task (4 min).** "The other half, as homework. **A 150-word
 post: *il mio anno*, for a blog or a social feed.** Exercise 5 has a model and the
@@ -292,7 +290,7 @@ you."**
 
 ---
 
-## Exercises and answer keys `[ITA?]`
+## Exercises and answer keys
 
 ### Exercise 1 — *Tre cose del mio anno*: the model
 
@@ -301,7 +299,7 @@ you."**
 **Key.** Three things: **(1)** he **graduated** in July — engineering, after seven
 years; **(2)** he **found a job in Turin** in October and **moved** in November;
 **(3)** his **parents separated** in the spring. Questions: **`E come ti trovi a
-Torino?`** · **`E tua madre? È ancora in campagna?`** **5 marks** (3 + 2).
+Torino?`** · **`E tua madre? È rimasta a Bologna?`** **5 marks** (3 + 2).
 
 *Both questions pick up something Luca said — Turin, his parents. That is what a
 follow-up is.*
@@ -315,7 +313,7 @@ follow-up is.*
 **Key.** 1 **Yes** — `a luglio`, `a ottobre`, `a novembre`, `in primavera`, `il mese
 scorso`, `a dicembre`. · 2 **Twelve**: `mi sono laureato`, `ho ballato`, `ho trovato`,
 `ho fatto`, `ha scelto`, `mi sono trasferito`, `è stato`, `si sono separati`, `è
-stato`, `mi sono iscritto`, `è rimasta`, `sono andato` — **eight with `essere`**.
+stato`, `mi sono iscritto`, `si è trasferita`, `sono andato` — **eight with `essere`**.
 Accept any count of eight or more with two `essere`. · 3 **Yes** — three sentences
 and two. **3 marks.**
 
@@ -366,8 +364,8 @@ A 150-word post, *il mio anno*, for a blog or a social feed.
 >
 > Che anno! A gennaio mi sono iscritto a un corso di italiano, il martedì sera — e
 > sì, il martedì devo ancora sbrigarmi. A marzo io e Tom ci siamo trasferiti in un
-> appartamento più grande, vicino al parco. Il trasloco è stato un incubo, ma vale
-> la pena.
+> appartamento più grande, vicino al parco. Il trasloco è stato un incubo, ma la
+> casa nuova vale la pena.
 >
 > Poi, a giugno, sono andato in Italia per la prima volta: dieci giorni a Bologna.
 > All'inizio ho capito poco, ma alla fine ho parlato italiano anche al mercato! Ad
@@ -375,7 +373,8 @@ A 150-word post, *il mio anno*, for a blog or a social feed.
 > in Sicilia, per festeggiare.
 >
 > Il mese scorso ho fatto il mio primo esame di italiano. Non ho ancora saputo il
-> risultato… incrociamo le dita! Da allora studio un po' ogni giorno.
+> risultato… incrociamo le dita! Da allora studio ancora di più: il prossimo
+> esame è a giugno.
 >
 > E voi? Com'è andato il vostro anno?
 

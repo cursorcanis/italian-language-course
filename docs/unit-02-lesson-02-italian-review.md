@@ -21,6 +21,8 @@
 
 The board leaves out six of the 28: `mi è piaciuto`, deliberately, plus five near-repeats (`è stato`, `ha deciso`, `è finita`, `abbiamo ballato`, `hai fatto`). **Re-check this when the audio script lands** (owner: Lesson Designer for the script, then Content Editor).
 
+**Re-check done, 2026-11-09 (ITA-21).** The audio script landed in `e897445`. All 22 board forms occur in cue 1, in script order, and each matches it for auxiliary, person and gender. The six left out are the 23rd–28th forms, as stated. No change to L2. See [`unit-02-italian-signoff.md`](unit-02-italian-signoff.md).
+
 ---
 
 ## Required fixes — applied in place

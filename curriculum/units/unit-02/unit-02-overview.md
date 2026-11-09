@@ -15,11 +15,9 @@ recycles: ["U1 riflessivi, now in the past", "U1 presente, set against the past"
 ---
 ```
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: ITA-21.
+> **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-09) — pass with
+> edits; see [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
+> Cleared for use.
 
 **Built to** [`../unit-template/README.md`](../unit-template/README.md) as amended
 under ITA-12 (accepted, commit `51f5cdd`), with
@@ -51,7 +49,7 @@ here rather than discovered.
 
 ---
 
-## 2. Input text / dialogue `[ITA?]`
+## 2. Input text / dialogue
 
 A specification for the Italian Content Editor. The texts themselves live in the
 lesson files and, where spoken, in
@@ -118,8 +116,9 @@ produces `*ho piaciuto`. See §4 and the teacher notes.
      — `cambiare`, `finire`, `cominciare`, `passare` — are taught in L2 stage 6 as
      one question: *has it got an object?*;
   2. **agreement with `essere`.** The participle behaves exactly like U1's
-     `riservato`: `-o / -a / -i / -e`. With `avere`, nothing agrees (at this level —
-     agreement with a preceding pronoun is U6);
+     `riservato`: `-o / -a / -i / -e`. With `avere`, the participle does not change
+     with the subject (agreement with a preceding object pronoun, `l'ho vista`, is
+     U6);
   3. **irregular participles**, taught as a **learnable list in sound families**
      (`-tto`, `-so`, `-sto`, `-rto / -nto`, and five oddities), not as a list of
      exceptions. The `-tto` and `-sso` families are the reason the pronunciation
@@ -160,7 +159,7 @@ produces `*ho piaciuto`. See §4 and the teacher notes.
 
 ---
 
-## 6. Culture note `[ITA?]`
+## 6. Culture note
 
 **The shape of the Italian year.** L4 stage 2, via `A10`, **as the L4 input
 text** — the template's ITA-11 rule, applied: the note is written so that both

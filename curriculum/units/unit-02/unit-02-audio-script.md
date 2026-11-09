@@ -8,10 +8,9 @@ recorded: false
 ---
 ```
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file is a Lesson
-> Designer **draft**, and each script section is marked `[ITA?]`. **Nothing here
-> may be recorded** until the Italian Content Editor has signed off. Review task:
-> ITA-21.
+> **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-09) — pass with
+> edits; see [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
+> All four cues are cleared to record as they now stand.
 
 **Until a recording exists**, the teacher reads the script aloud and the
 self-study learner reads it silently once, then covers it and works from memory.
@@ -55,7 +54,7 @@ lesson files and are not recorded.
 
 ---
 
-## Cue 1 — `assets/audio/unit-02/u02-l01-anno.mp3` `[ITA?]`
+## Cue 1 — `assets/audio/unit-02/u02-l01-anno.mp3`
 
 **Serves.** L1 stage 4 (gist, normal take), stage 5 (detail, normal take, played
 twice), stage 6 (noticing grid, slow take, transcript open). Also quoted by L3
@@ -97,8 +96,9 @@ every pause and slows the words, not the pauses.
 > // È stata una decisione difficile, → ma ho deciso di cambiare vita. ///
 >
 > **[3]** A febbraio mi sono iscritta a un corso di grafica, la sera. Mi è piaciuto
-> tantissimo. // A marzo ho fatto un colloquio per un tirocinio a Milano. È andato
-> bene, → e ad aprile ho cominciato il tirocinio. ///
+> tantissimo. // A marzo ho fatto un colloquio per un tirocinio in un'agenzia di
+> comunicazione a Milano. È andato bene, → e ad aprile ho cominciato il tirocinio.
+> ///
 >
 > **[4]** Così mi sono trasferita a Milano. // Il trasloco è stato un incubo: ho
 > perso due scatole di libri → e ho rotto una lampada. ↘ Da allora abito in un
@@ -156,8 +156,9 @@ every pause and slows the words, not the pauses.
 - **L2 stage 1**: the 22 board forms all occur in this script, with the auxiliary,
   person and gender shown on the board; the six left out (`mi è piaciuto`, `è
   stato`, `ha deciso`, `è finita`, `abbiamo ballato`, `hai fatto`) are the 23rd–28th
-  forms. **Ready for the Content Editor's re-check** noted in
-  `docs/unit-02-lesson-02-italian-review.md`.
+  forms. **Re-checked by the Content Editor, 2026-11-09: confirmed**, in script
+  order (`docs/unit-02-lesson-02-italian-review.md`). The ITA-21 edit to [3]
+  (`in un'agenzia di comunicazione`) adds no verb.
 - **L3 stage 2** quotes [4] `Da allora abito in un monolocale piccolissimo` and
   **L3 stage 6** quotes [7] `Mia madre è andata a vivere in campagna, in una
   vecchia fattoria con le galline` — both verbatim.
@@ -185,7 +186,7 @@ every pause and slows the words, not the pauses.
 
 ---
 
-## Cue 2 — `assets/audio/unit-02/u02-l03-doppie.mp3` `[ITA?]`
+## Cue 2 — `assets/audio/unit-02/u02-l03-doppie.mp3`
 
 **Serves.** L3 stage 7: step 1 (discriminate — part 1) and step 2 (mark — part 2).
 Step 3 is the learners' own production; no audio.
@@ -252,7 +253,7 @@ non-participle controls** (`anni` double, `casa` single).
 
 ---
 
-## Cue 3 — `assets/audio/unit-02/u02-l05-tre-cose.mp3` `[ITA?]`
+## Cue 3 — `assets/audio/unit-02/u02-l05-tre-cose.mp3`
 
 **Serves.** L5 stage 2 (`A6` rung 1 — the worked model) and exercise 1. The
 self-study learner reads it aloud, both voices, timing themselves (L5 self-study
@@ -297,9 +298,9 @@ tell — but every verb is one a learner has used in L1–L4.
 > arrampicata, → e così adesso conosco un po' di gente. // E la città mi piace: è
 > elegante e tranquilla. ↘ ///
 >
-> **[6] Ilaria:** E tua madre? // È ancora in campagna? ↗
+> **[6] Ilaria:** E tua madre? // È rimasta a Bologna? ↗
 >
-> **[7] Luca:** Sì, è rimasta in campagna, con le sue galline. // A dicembre sono
+> **[7] Luca:** No, si è trasferita in campagna, in una vecchia fattoria. // A dicembre sono
 > andato a trovarla, → ed è proprio felice. ↘ ///
 
 **Content check**
@@ -307,16 +308,16 @@ tell — but every verb is one a learner has used in L1–L4.
 | Required | Where it is |
 | --- | --- |
 | Three things, each with a *when* | graduated `a luglio` [1] · job `a ottobre`, moved `a novembre` [2] · parents separated `in primavera` [3]. In the answers: `il mese scorso` [5], `a dicembre` [7]. |
-| Passato prossimo, in order (L5 ex 1 key) | `mi sono laureato`, `ho ballato`, `ho trovato`, `ho fatto`, `ha scelto`, `mi sono trasferito`, `è stato`, `si sono separati`, `è stato`, `mi sono iscritto`, `è rimasta`, `sono andato` — **12**, of which **8 with `essere`** |
-| Two follow-ups that pick up what was said | `E come ti trovi a Torino?` (picks up the move) · `E tua madre? È ancora in campagna?` (picks up the parents) |
+| Passato prossimo, in order (L5 ex 1 key) | `mi sono laureato`, `ho ballato`, `ho trovato`, `ho fatto`, `ha scelto`, `mi sono trasferito`, `è stato`, `si sono separati`, `è stato`, `mi sono iscritto`, `si è trasferita`, `sono andato` — **12**, of which **8 with `essere`** |
+| Two follow-ups that pick up what was said | `E come ti trovi a Torino?` (picks up the move) · `E tua madre? È rimasta a Bologna?` (picks up the separation: a guess the listener can make from what Luca said, which is what a follow-up is) |
 | Answers of two sentences or more | [5] three sentences · [7] two |
-| Continuity with cue 1 | Luca's graduation (July, seven years, the party) and the parents' separation (spring; mother in the country with the chickens) match Giulia's message [6]–[7] |
+| Continuity with cue 1 | Luca's graduation (July, seven years, the party) and the parents' separation (spring; the mother moved to an old farm in the country, the father stayed in Bologna) match Giulia's message [6]–[7]. Ilaria's guess `È rimasta a Bologna?` is wrong for the mother and right for the father, which is why Luca's `No` is natural. |
 | `mi piace` [5] | A U1 chunk; **not** a past verb and not counted (L5 teacher notes) |
 
 **Lesson fix made against this script (ITA-20).** L5 exercise 1 part B's key said
 "**seven** with `essere`". The twelve verbs it lists contain **eight** `essere`
 forms (`mi sono laureato`, `mi sono trasferito`, `è stato` ×2, `si sono separati`,
-`mi sono iscritto`, `è rimasta`, `sono andato`). The key now says eight; the
+`mi sono iscritto`, `si è trasferita`, `sono andato`). The key now says eight; the
 twelve verbs and their order are unchanged.
 
 **Notes to voice talent.**
@@ -325,15 +326,15 @@ twelve verbs and their order are unchanged.
    self-deprecating aside; let it be one.
 2. `[2]` `ha scelto **me**` — contrastive stress, as Giulia uses it in cue 1. The
    family resemblance is intended.
-3. `[4]` `E come ti trovi a Torino? ↘` falls (question word). `[6]` `È ancora in
-   campagna? ↗` rises (yes/no). Ilaria must sound **interested** — she is the model
+3. `[4]` `E come ti trovi a Torino? ↘` falls (question word). `[6]` `È rimasta a
+   Bologna? ↗` rises (yes/no). Ilaria must sound **interested** — she is the model
    for the asker's role, and a flat asker teaches a flat follow-up.
 4. `[7]` `andato a trovarla` — run `trovarla` together; do not stress `-la`.
 5. Hit 1:25–1:35. Learners time themselves against this recording.
 
 ---
 
-## Cue 4 — `assets/audio/unit-02/u02-l05-domande.mp3` `[ITA?]`
+## Cue 4 — `assets/audio/unit-02/u02-l05-domande.mp3`
 
 **Serves.** L5 stage 4 (self-study: answer two of its questions into the attempt 1
 recording) and stage 6 (solo learners, and any pair short of an asker: play it
@@ -370,7 +371,7 @@ any question.
 > **[5]** Cinque. // C'è una cosa che non hai ancora fatto? ↗ **[pausa 10
 > secondi]**
 >
-> **[6]** Sei. // E le persone intorno a te? // Che cosa hanno detto? ↘ **[pausa 10
+> **[6]** Sei. // E la tua famiglia, i tuoi amici? // Che cosa hanno detto? ↘ **[pausa 10
 > secondi]**
 
 **Content check**

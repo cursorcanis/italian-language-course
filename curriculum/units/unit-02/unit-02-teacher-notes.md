@@ -1,9 +1,8 @@
 # Unit 2 — Teacher notes
 
-> ⚠️ **Italian awaiting review.** Every Italian example in this file — the wrong
-> sentences in the error profile and their corrections — is a Lesson Designer
-> **draft**, and each Italian-bearing section is marked `[ITA?]`. Review task:
-> ITA-21.
+> **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-09) — pass with
+> edits; see [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
+> Cleared for use.
 
 Unit-level notes: what would otherwise be repeated in all five lesson files. Each
 lesson names the two or three errors *it* produces and links here for the rest.
@@ -43,7 +42,7 @@ modelled on [`../unit-01/unit-01-teacher-notes.md`](../unit-01/unit-01-teacher-n
 
 ---
 
-## 2. Error profile `[ITA?]`
+## 2. Error profile
 
 The table `A8` error-clinic items are drawn from. The unit has **two** clinics —
 L2 exercise 5 (the main structure) and L4 exercise 4 (the recycled ones) — and
@@ -59,7 +58,7 @@ ten are predictions for an **English L1** specifically.
 | 5 | No agreement with `essere` (the `-o` default) | `*I miei genitori sono tornato.` · `*Anna si è trasferito.` | English participles never change, so the learner never looks at the end of the word. | L1 s9 (expected), L2 s5, s8, L5 under load | "**Who** came back? How many?" — and point at rule 3. In L5, **say nothing during**: it costs under criterion 2 and rubric row 1, which is where it should cost. `A8`: L2 ex 5 item 5. |
 | 6 | Agreement with `avere` | `*Giulia ha lasciata il lavoro.` · `*abbiamo lasciati` | **Appears only after rule 3 has landed** — the rule is over-extended. A sign of learning. | L2 s3 round 3, s5 item 10, L5 | "`avere` — does it change with the subject?" and let them fix it. Tell the group it is a good error. `A8`: L2 ex 5 item 4. |
 | 7 | Regularised irregular participle | `*prenduto`, `*succeduto`, `*scrivuto`, `*mettuto` | A correct rule (`-ere` → `-uto`) over-extended. | L2 s4 onward, L5 | Name the **family**, not the rule: "`-so`: preso." The family is what is retrievable under pressure. `A8`: L2 ex 5 items 6, 8. |
-| 8 | Reflexive pronoun on a non-reflexive `essere` verb | `*Mi sono uscita presto.` · `*Ci siamo andati a Napoli.` | Once `mi sono` / `ci siamo` is automatic, it spreads to every `essere` verb. A sign the reflexive pattern is strong. | L4 s4–s7 | "Is `uscire` reflexive?" — one question. Say that it is a sign of strength. `A8`: L4 ex 4 item 5. |
+| 8 | Reflexive pronoun on a non-reflexive `essere` verb | `*Mi sono uscita presto.` · `*Ci siamo diventati amici al corso.` | Once `mi sono` / `ci siamo` is automatic, it spreads to every `essere` verb. A sign the reflexive pattern is strong. **Not** `ci siamo andati`: with a place, `ci` is the locative *there* (`a Napoli ci siamo andati a maggio`), and that is correct, everyday Italian. | L4 s4–s7 | "Is `uscire` reflexive?" — one question. Say that it is a sign of strength. `A8`: L4 ex 4 item 5. |
 | 9 | *Now* in the past after `da allora` / `adesso` | `*Da allora ho abitato in centro.` · `*Adesso mi sono trovata bene.` | English present perfect for a state that is still true (*I've lived here since*). Not ungrammatical — it says the wrong thing: that it is over. | L3 s2, s8; L4 s7; L5 | One question: "**still true?**" — and they switch to the present. Point at L3's two-line board pair. `A8`: L4 ex 4 item 3. |
 | 10 | `non` / `già` / `ancora` in English order | `*Ho non ancora trovato casa.` · `*Ho trovato non ancora.` | *I have not yet found* maps word for word. | L3 s3, s8; L4; L5 | Write `Non ho ancora trovato casa` next to it, say both aloud. The shape `(non) + helper + già / ancora + participle` is shown, not explained. `A8`: L4 ex 4 item 8 (there on purpose, so "it's always a reflexive error" is not a winning strategy). |
 
@@ -86,7 +85,15 @@ ten are predictions for an **English L1** specifically.
   dovuto alzare`** (pronoun in front → `essere`) and **`ho dovuto alzarmi`** (pronoun
   attached → `avere`). Both are right; accept either; **`*ho dovuto mi alzare` and
   `*mi ho dovuto alzare` are not**. Do not drill it. If a learner wants one form to
-  use, give them `ho dovuto alzarmi`: it keeps the helper they would expect.
+  use, give them `ho dovuto alzarmi`: it keeps the helper they would expect. (With
+  `essere` the participle agrees, as always: a woman says `mi sono dovuta alzare`.
+  With `avere` it does not: `ho dovuto alzarmi`.)
+- **"Why `Com'è andata?` with `-a`, when nothing is feminine?"** — "It's the
+  all-purpose *how did it go?*, about anything." The hidden subject is *la cosa*,
+  and nobody says it. If you name the thing, the ending follows it: `Com'è andato
+  il colloquio?`, `Com'è andata la festa?`. Both forms are in the unit: cue 4 and
+  the L1, L3 and L5 follow-up lists use the all-purpose one, and L3's chat names
+  `il colloquio`.
 
 ---
 
@@ -114,7 +121,7 @@ choice between `tu` and `Lei` is Unit 1's rule, unchanged.
 
 ---
 
-## 4. Known weak spots in this unit `[ITA?]`
+## 4. Known weak spots in this unit
 
 The honest list. A unit with no weak spots listed has not been read carefully by its
 author.
@@ -161,8 +168,9 @@ author.
    recording queue, alongside U1 cue 3.
 6. **`ano`.** Pair 1 of L3's double-consonant set is in the syllabus because the
    error is embarrassing rather than merely unclear. L3's teacher notes give the
-   swap (`caro / carro`) for a setting where it is wrong, and the swap needs the
-   Content Editor's approval (ITA-21).
+   swap (`carro / caro`) for a setting where it is wrong. **The Content Editor
+   approved the swap (ITA-21)**, for live reading only: a recorded cue 2 will carry
+   `anno / ano`.
 7. **Cue 1 grew.** The overview first specified ~230 words and ~2:00; the script
    that holds all 28 past forms, the eleven set A items and the seeds in connected
    speech is ~255 words and ~2:20. The target was raised to fit the script, as Unit

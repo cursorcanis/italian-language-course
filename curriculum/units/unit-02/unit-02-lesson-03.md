@@ -16,11 +16,9 @@ selfstudy_min: 50
 
 # Unit 2, Lesson 3 — *Hai già…? Non ancora*
 
-> ⚠️ **Italian awaiting review.** Every Italian word in this file — dialogue,
-> reading text, example sentences, exercise items, answer keys — is a Lesson
-> Designer **draft**, not finished copy, and is marked `[ITA?]` at the section
-> level. Do not teach from it or record it until the Italian Content Editor has
-> signed off. Review task: ITA-21.
+> **Italian signed off** (ITA-21, Italian Content Editor, 2026-11-09) — pass with
+> edits; see [`docs/unit-02-italian-signoff.md`](../../../docs/unit-02-italian-signoff.md).
+> Cleared to teach and to use as self-study.
 
 ---
 
@@ -75,7 +73,7 @@ them off.
 
 ---
 
-### 2 · Lexis set B (i) — time anchors on a timeline — 15 min · lockstep → solo `[ITA?]`
+### 2 · Lexis set B (i) — time anchors on a timeline — 15 min · lockstep → solo
 
 **Purpose.** Deliver eight of the ten time anchors **and** the unit's secondary point
 — they are the same thing. Every event in this unit needs a *when*, and two of these
@@ -121,7 +119,7 @@ that happened, and what has been true since."
 
 ---
 
-### 3 · `già`, `appena`, `non ancora` — where they go — 11 min · lockstep → solo → pairs `[ITA?]`
+### 3 · `già`, `appena`, `non ancora` — where they go — 11 min · lockstep → solo → pairs
 
 **Purpose.** The last two set B (i) items and the unit's can-do goal 3. One rule,
 and it is about **position**.
@@ -156,7 +154,7 @@ this week — `Hai già fatto la spesa?` `Hai già pagato l'affitto?`. Answer wi
 
 ---
 
-### 4 · Reading — *Hai già trovato casa?* — 11 min · solo → pairs · `A1` shape, read `[ITA?]`
+### 4 · Reading — *Hai già trovato casa?* — 11 min · solo → pairs · `A1` shape, read
 
 **Purpose.** Meet everything from stages 2–3 in a real exchange between two people
 catching up — which is also can-do goal 4 in action: Tommaso keeps **following up**.
@@ -215,7 +213,7 @@ after `ho fatto un colloquio`.* "That's following up. It's stage 8's listener jo
 
 ---
 
-### 5 · Lexis set B (ii) — how it went — 7 min · lockstep → pairs `[ITA?]`
+### 5 · Lexis set B (ii) — how it went — 7 min · lockstep → pairs
 
 **Purpose.** The four evaluation items that turn a list of events into a story
 someone wants to hear.
@@ -225,7 +223,7 @@ someone wants to hear.
 | `soddisfatto` | satisfied, pleased | `Sono molto soddisfatta del nuovo lavoro.` |
 | `deluso` | disappointed | `Il corso? Sono rimasto un po' deluso.` |
 | `inaspettato` | unexpected | `È stata una svolta inaspettata.` |
-| `valere la pena` | to be worth it | `Il trasloco è stato un incubo, ma vale la pena.` |
+| `valere la pena` | to be worth it | `Milano è cara, ma vale la pena.` |
 
 **Instruction (3 min, lockstep).** Say each twice; learners repeat. "Three are
 ordinary `-o` adjectives — U1's `riservato` group: `soddisfatta`, `delusi`,
@@ -245,7 +243,7 @@ fluency.
 
 ---
 
-### 6 · False-friend slot — `la fattoria` — 3 min · lockstep `[ITA?]`
+### 6 · False-friend slot — `la fattoria` — 3 min · lockstep
 
 **Purpose.** The running strand: one item per unit, in L3, three minutes, every
 time.
@@ -269,7 +267,7 @@ countryside, chickens.* Context, not the warning.
 
 ---
 
-### 7 · Pronunciation — double consonants — 14 min · lockstep → solo → pairs · `A9` `[ITA?]`
+### 7 · Pronunciation — double consonants — 14 min · lockstep → solo → pairs · `A9`
 
 **Purpose.** Length, practised as **meaning-bearing**. The participles the unit runs
 on — `fatto`, `detto`, `letto`, `scritto`, `successo` — have double consonants, and
@@ -293,8 +291,8 @@ Check immediately. "Who got ten or more?"
 
 **Instruction.** "Exercise 6 part B. Ten sentences, each with one gap in a word —
 **one letter or two?** Listen and write it. Here's the only rule you need: **a double
-consonant is held, not louder — and the vowel before it is shorter.** `fa-tto`:
-short `a`, hold the `t`. `fa-to`: long `a`, quick `t`."
+consonant is held, not louder — and the vowel before it is shorter.** `fat-to`:
+short `a`, hold the `t` across the two syllables. `fa-to`: long `a`, quick `t`."
 
 Read cue 2 part 2. Learners fill as they listen.
 
@@ -318,7 +316,7 @@ don't say it louder. Then read part B's sentences to each other, all ten."
 
 ---
 
-### 8 · Activate — *il mio anno finora* — 20 min · lockstep → pairs → new pairs · `A6` `[ITA?]`
+### 8 · Activate — *il mio anno finora* — 20 min · lockstep → pairs → new pairs · `A6`
 
 **Purpose.** The lesson's goal, performed: a year so far, every event placed in
 time, with *already*, *just* and *not yet* — and a listener who follows up. The
@@ -332,7 +330,7 @@ Say this twice. Do not write it up.
 > ma da allora mi trovo bene. L'anno scorso mi sono iscritto a un corso di cucina, e
 > il mese scorso ho fatto il mio primo esame. Ho già trovato un lavoro part-time, ma
 > non ho ancora trovato una casa più grande. E ho appena comprato una bici! Finora è
-> andato tutto bene: vale la pena."
+> andato tutto bene. Il corso è faticoso, ma vale la pena."
 
 "What does every sentence have?" → *A when.* "And the three from stage 3?" → *`già`,
 `non … ancora`, `appena`.*
@@ -341,8 +339,9 @@ Say this twice. Do not write it up.
 
 **Instruction.** "Your year so far, **out loud**, with the frames. Two and a half
 minutes each. **Listener, two jobs:** at the end ask **one `Hai già…?` question**,
-and then **one follow-up** about something they said — `E com'è andato?` `E adesso?`
-`E poi?`"
+and then **one follow-up** about something they said — `E com'è andata?` `E adesso?`
+`E poi?`" (`Com'è andata?` works for anything. Name the thing and it agrees:
+`Com'è andato il colloquio?`, as in the chat.)
 
 **Frames** (on the board):
 
@@ -396,12 +395,12 @@ how Italians tell their year.
 
 ---
 
-## Exercises and answer keys `[ITA?]`
+## Exercises and answer keys
 
 ### Exercise 1 — When?
 
 Complete with: `fa` · `scorso` · `scorsa` · `da allora` · `finora` · `all'inizio` ·
-`alla fine` · `di recente`.
+`alla fine` · `di recente`. **Use each one once.**
 
 1. Mi sono trasferito a Roma tre anni ______ .
 2. La settimana ______ ho fatto un colloquio.
@@ -414,7 +413,9 @@ Complete with: `fa` · `scorso` · `scorsa` · `da allora` · `finora` · `all'i
 **Key.** 1 fa · 2 scorsa · 3 scorso · 4 Da allora · 5 Finora · 6 All'inizio … alla
 fine · 7 Di recente. **8 marks** (item 6 has two). Accept `Finora` in 7? **No** —
 `finora` means *up to now*, and `due settimane fa` is one point in time; that is the
-distinction.
+distinction. *Why "use each one once":* without it, item 5 also takes `Alla fine`
+or `Di recente` (`Alla fine è andato tutto bene` is good Italian), and the key would
+have three answers.
 
 *Item 4 is the one to talk about: `lavoro` is **present** because she still works
 there. `Da allora ho lavorato` is the English *I've worked* translated, and it says
@@ -462,7 +463,7 @@ Complete with `soddisfatto` / `deluso` / `inaspettato` (with the right ending) o
 la pena`.
 
 1. Mia sorella ha trovato un lavoro bellissimo: è molto ______ .
-2. Il film? Siamo rimasti tutti un po' ______ : la fine è brutta.
+2. Il film? Siamo rimasti tutti un po' ______ : il finale è brutto.
 3. Il corso costa tanto, ma ______ .
 4. Una telefonata ______ ha cambiato tutto.
 
@@ -567,8 +568,13 @@ Unit-level error profile and pacing:
 **embarrassing rather than merely unclear**: `ho trent'ani` instead of `ho trent'anni`
 is a joke every Italian teacher has heard. Say that, once, briefly, with a straight
 face — it is the single most memorable reason to hold a double consonant, and adults
-can take it. If your group or setting makes that wrong, swap pair 1 for `caro / carro`
-(*dear / cart*) and change the key; the ICE should approve the swap (ITA-21).
+can take it. If your group or setting makes that wrong, swap pair 1 for `carro / caro`
+(*cart, float / dear, expensive*). **Approved by the Content Editor (ITA-21).** Both
+are real words, the pair is meaning-bearing, and `caro` is a word learners need.
+Pair 1 becomes **A `carro` · B `caro`**. In cue 2 part 1, item 2 becomes `carro` and
+item 9 becomes `caro`, and the key letters (`1A`, `1B`) do not change. The
+recording, once made, will carry `anno / ano`, so the swap works only when you read
+cue 2 aloud yourself. Part B is unaffected: item 9 is `anni`.
 
 **The `piacere` seed.** `piacere` chunks are recognition-only until `U8 L2`; do not
 explain the construction. This lesson's texts contain none; if a learner produces
@@ -603,7 +609,7 @@ per person. It rehearses L4's activity in miniature.
 | 5 Evaluation lexis (lockstep → pairs) | Exercise 4. Then write your three sentences — `soddisfatto`, `deluso`, `inaspettato` — about your year. | 5 |
 | 6 False friend (lockstep) | Exercise 5. Add `fattoria ≠ factory` to your false-friend page under `parenti`. | 2 |
 | 7 Pronunciation (lockstep → solo → pairs) | Read cue 2 aloud yourself for part A, then part B. Step 3 becomes **record-and-compare**: record five pairs and the ten part B sentences, listen back, mark where your doubles were not held. Twice. | 8 |
-| 8 Activate (`A6`) | Rung 2 **written**, all six frames. Rung 3 **spoken and recorded**, frames covered, five words of notes, 90 seconds. Then answer, aloud, two questions you set yourself in advance: one `Hai già…?`, one `E com'è andato?`. | 5 |
+| 8 Activate (`A6`) | Rung 2 **written**, all six frames. Rung 3 **spoken and recorded**, frames covered, five words of notes, 90 seconds. Then answer, aloud, two questions you set yourself in advance: one `Hai già…?`, one `E com'è andata?`. | 5 |
 | 9 Delayed feedback | Listen once: **did `già` and `ancora` land between the helper and the participle every time?** Write any sentence where they didn't, corrected. | 2 |
 | | **Total** | **50** |
 
