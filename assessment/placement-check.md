@@ -194,7 +194,9 @@ item and is rejected at review, not patched.
 
 **Register:** informal written message, `tu`. Chiara writes to Sara, a friend she
 has not contacted for a month. That is why it opens with an apology (`Scusa se
-non mi sono fatta sentire`). **Length:** 109 words in the body.
+non mi sono fatta sentire`). **Length:** 111 words in the body, counted by the
+[§Parallelism](#version-1--version-2-parallelism-ita-24) rule (elided forms as
+two words).
 
 > Ciao Sara!
 >
@@ -273,7 +275,9 @@ non mi sono fatta sentire`). **Length:** 109 words in the body.
 - **The reply** uses `Lei` (`il Suo annuncio`). Anna is writing to a landlord
   she does not know.
 
-**Lengths:** advert 88 words, reply 57 words (body).
+**Lengths:** advert 89 words, reply 58 words (body), counted by the
+[§Parallelism](#version-1--version-2-parallelism-ita-24) rule (elided forms as
+two words).
 
 **Cultural currency:**
 - 780 € for a furnished bilocale in San Salvario is in line with Turin in
@@ -376,7 +380,7 @@ remembered answer pattern is worth nothing.
 
 **Register:** informal written message, `tu`. Luca is replying late to
 Francesca, a friend who wrote to him first, which is why it opens with an
-apology. **Length:** 109 words in the body (version 1: 111, counted the same
+apology. **Length:** 108 words in the body (version 1: 111, counted the same
 way, elided forms as two words).
 
 **Cultural note:** public pools in Italian cities open lanes for adults from
@@ -595,7 +599,9 @@ is shown, choose the word yourself.*
   `[quantity] + fa`).
 - **Leaks:** the co-text avoids models for the gaps. No `siamo + participle`
   form appears outside gap 4, and gap 5's verb appears nowhere else.
-- **Length:** 110 words.
+- **Length:** 100 words outside the gaps, counted by the
+  [§Parallelism](#version-1--version-2-parallelism-ita-24) rule (elided forms
+  as two words; gap numbers and bracketed infinitives excluded).
 - **Cultural note:** Bergamo's Città Alta is reached on foot or by funicular
   from the lower town. The walk is the ordinary weekend thing to do.
 
@@ -635,7 +641,9 @@ is shown, choose the word yourself.*
   text (`in quel negozio non ci torno più`), direct speech appears inside the
   narrative, and `Insomma` sums up.
 - **Lexis:** A2 core plus Set 5 (`accorgersi`, `insomma`).
-- **Length:** 109 words.
+- **Length:** 103 words outside the gaps, counted by the
+  [§Parallelism](#version-1--version-2-parallelism-ita-24) rule (elided forms
+  as two words; gap numbers and bracketed infinitives excluded).
 
 > Sabato sono andata in un negozio del centro di **(1)** __________ mi parlano
 > sempre tutte le mie colleghe. Cercavo una giacca per il matrimonio di mia
@@ -775,7 +783,7 @@ sits in a different text with a different verb.
   line of direct speech sit inside the narrative, and `Insomma` sums up.
 - **Lexis:** A2 core plus Set 5 (`all'improvviso`, `insomma`). `cuffie`,
   `pile`, `cassiera` and `antifurto` are shopping words no item turns on.
-- **Length:** 104 words outside the gaps (version 1: 105, counted the same
+- **Length:** 104 words outside the gaps (version 1: 103, counted the same
   way).
 - **Cultural note:** offers on batteries by the till and a security tag left
   on at the checkout are an ordinary shopping-centre scene in 2026.
@@ -860,8 +868,10 @@ would test memory, not listening.
 
 > **ICE dependency:** both scripts, marked for pace and speaker, plus items and
 > key. Scripts must be recordable as written (format brief §4) and name their
-> eventual asset path — `assets/audio/placement/placement-d1.mp3`,
-> `placement-d2.mp3`. **Written, ITA-15** — below.
+> eventual asset path, all in `assets/audio/placement/`: version 1
+> `placement-d1.mp3`, `placement-d2.mp3`; version 2 `placement-d1-v2.mp3`,
+> `placement-d2-v2.mp3` (accepted, ITA-26). **Written, ITA-15 (v1) and ITA-24
+> (v2)** — below.
 
 ### Version 1 — Italian (ITA-15)
 
@@ -887,7 +897,9 @@ would test memory, not listening.
 `tu`; `Lei` would be absurd between them.
 
 **Pace:** the slow end of natural, about 120 words a minute. The script is
-120 words, about 55–60 seconds with the pauses between turns.
+121 words (speaker names excluded, elided forms as two words, as in
+[§Parallelism](#version-1--version-2-parallelism-ita-24)), about 55–60 seconds
+with the pauses between turns.
 
 **Level: A2.** These choices pitch it there:
 - **Grammar:** presente, passato prossimo (`si è ammalata`), and one
@@ -948,8 +960,10 @@ Italian):
 **Speaker:** Davide (m) tells a friend what happened last night. The address
 form is `tu` (`Sai…?`, `ti racconto`).
 
-**Pace:** natural and unhurried, about 135 words a minute. The script is 149
-words, about 70 seconds with its pauses.
+**Pace:** natural and unhurried, about 135 words a minute. The script is 150
+words (speaker name excluded, elided forms as two words, as in
+[§Parallelism](#version-1--version-2-parallelism-ita-24)), about 70 seconds with
+its pauses.
 
 **Level: B1 lower.** These choices pitch it there:
 - **Tenses:** imperfetto backgrounds (`tornavo`, `non avevo`, `erano`, `era`)
@@ -1052,7 +1066,7 @@ use `tu`. `Vale` is the ordinary short form of `Valentina`. The reader says it
 `VA-le`, with the stress on the first syllable.
 
 **Pace:** the slow end of natural, about 120 words a minute. The script is
-115 words (version 1: 121, counted the same way), about 55–60 seconds with the
+122 words (version 1: 121, counted the same way), about 55–60 seconds with the
 pauses between turns.
 
 **Level: A2.** These choices pitch it there:
@@ -1195,6 +1209,10 @@ protection ITA-23, ruling 6 asks for.
 - **The asset paths are a proposal.** The spec names only the v1 files. The
   `-v2` suffix keeps both versions in one folder. The Architect should confirm
   or rename them in the spec.
+
+  **Architect ruling (ITA-26): accepted as named.** `placement-d1-v2.mp3` and
+  `placement-d2-v2.mp3` are now in the Part D ICE-dependency spec line, next
+  to the v1 files. The headings above already use them, so nothing is renamed.
 - **D2.4 is less guessable than version 1's.** In version 1, leaving keys on a
   table before looking for them is weakly ordered by common sense. In version 2,
   lending a bus pass and oversleeping have no order in common sense. That makes
@@ -1215,6 +1233,28 @@ protection ITA-23, ruling 6 asks for.
 | **Scales** | **TA ×2** (0–10) + **GA ×1** (0–5). **CC is not used** — 80–100 words is below the threshold in [`rubrics.md` §CC](rubrics.md#scale-cc--coherence-and-cohesion-05), and marking cohesion on five sentences rewards padding. **TS is not used** — no single structure is the target; the elements are. |
 | **Pass criterion** | None (placement). **Floor:** TA ≥ 3 is required for Band 2 or above; TA ≥ 4 **and** GA ≥ 3 are required for Band 3. |
 | **Self-marking** | The learner scores TA against the four required elements as a checklist. GA is left blank and marked later by a partner; until then the result is provisional in the same way a deferred Part D is. |
+
+### Version 1 — prompt (learner-facing, English; ITA-26)
+
+The prompt is in English (format brief §1), so it needs no Italian review. Its
+first sentence is the **frame**; the four elements below it are the
+**required elements** and are worded identically in both versions. The frame
+sets up an exchange (someone wrote first), which is why element (4) says
+"back". It says nothing about the writer's news, so every element is the
+learner's own content. It does not fix `tu` or `Lei`.
+
+> **Part E — Writing. 10 minutes.**
+>
+> An Italian-speaking acquaintance has written to ask how you are. You have not
+> been in touch for a few months. Write your reply in Italian, in 80–100 words.
+>
+> In your message:
+> 1. say what you have been doing recently;
+> 2. describe one change in your life and when it happened;
+> 3. describe where you live now;
+> 4. ask two questions back.
+>
+> Write all four. Afterwards, tick each one you have done.
 
 ### Anchors — Italian (ITA-15)
 
@@ -1283,10 +1323,37 @@ misses the Band 3 floor (TA ≥ 4).
 ### Version 2 — Italian (ITA-24)
 
 **No new Italian. Version 1's anchors apply to version 2.** The spec does not
-require version-2 anchors. The prompt is in English and is unchanged, and the
-anchors calibrate the scales against the four required elements, not against
-any content of version 1. Learners never see the anchors, so a re-taker has
-not met them.
+require version-2 anchors. The anchors calibrate the scales against the four
+required elements, which are worded identically in both versions, not against
+the frame or any content of version 1. Learners never see the anchors, so a
+re-taker has not met them.
+
+#### Version 2 — prompt (learner-facing, English; ITA-26)
+
+Only the frame differs from [version 1's prompt](#version-1--prompt-learner-facing-english-ita-26).
+The four required elements, their order and their wording are identical, and
+so are the length, the time and the tick-list line.
+
+> **Part E — Writing. 10 minutes.**
+>
+> An Italian-speaking colleague you met on a course last year has written to
+> you. Write your reply in Italian, in 80–100 words.
+>
+> In your message:
+> 1. say what you have been doing recently;
+> 2. describe one change in your life and when it happened;
+> 3. describe where you live now;
+> 4. ask two questions back.
+>
+> Write all four. Afterwards, tick each one you have done.
+
+**Why the frame changes and nothing else.** Part E is in the 1/2-boundary
+re-take, four weeks after the first sitting. With an identical prompt, a
+re-taker could prepare and memorise a message, and TA would then measure
+memory. A new addressee breaks a memorised opening and close without changing
+what TA marks. Like version 1's, the new frame supplies no content for any
+element, and it leaves `tu` / `Lei` open: a course colleague can be either,
+and TA marks only consistency.
 
 **ICE note (for the Architect), a suggestion only.** Part E is in the 1/2
 re-take. With an identical prompt, a re-taker can prepare and memorise a
@@ -1294,6 +1361,11 @@ message. A v2 prompt could keep the four elements and change only the frame.
 For example: "An Italian-speaking colleague you met on a course last year has
 written to you. Reply…". The anchors would still apply. The prompt is English,
 so this is the Architect's call, not an Italian item.
+
+**Chief ruling (ITA-24 review) and Architect implementation (ITA-26):
+accepted.** Version 2 uses the Editor's frame, above. Version 1's prompt is
+now written out too, so the two stand side by side. Part F keeps its prompts
+(see Part F, Version 2).
 
 ---
 
@@ -1403,8 +1475,10 @@ meet it, so they stand unchanged.
 reasons as Part E: the prompts are English and unchanged, and the anchors
 calibrate the scales, not the content. Part F is not in the 1/2-boundary
 re-take, so a learner meets it a second time only at a full re-check, four
-weeks or more later. The Part E suggestion about a reframed prompt applies here
-too, at lower priority.
+weeks or more later. **Part F keeps its prompts in version 2** (Chief ruling,
+ITA-24 review): a learner meets them again only after four weeks or more, and
+never in the 1/2-boundary re-take, where Part E's reframed prompt does that
+job.
 
 ---
 
@@ -1558,11 +1632,24 @@ Every item tests the same construct, carries the same tag and is worth the same
 marks in both versions, so the
 [item-to-can-do map](#item-to-can-do-map) and the band thresholds apply to
 version 2 unchanged. Word counts below are counted the same way for both
-versions (elided forms as two words, gaps excluded).
+versions (elided forms as two words, gaps excluded). In the cloze texts "gaps"
+means the gap numbers and the bracketed infinitive cues; in the scripts,
+speaker names are excluded; in the messages, the greeting and sign-off are
+excluded. Version 1's part headers use the same figures (ITA-26). Three
+figures were corrected on the ITA-26 recount: C2 v1 is 103 (was given as
+105), B1 v2 is 108 (was 109) and D1 v2 is 122 (was 115).
+
+**Against spec, under this rule.** Every figure is inside its part's spec
+range except **B1 v1, which is 111 against 90–110**: one word over, and 109 if
+elided forms are counted as one. One word does not change the reading load or
+any item, so the text stands (Architect, ITA-26). The D1 and D2 specs are in
+seconds: at the marked pace, D2 runs about 67 s (v1) and 69 s (v2), inside
+60–75 s; D1 runs about a minute in both versions, at the top of 45–60 s, and is
+confirmed when it is recorded.
 
 | Item | Construct (identical in both) | v1 | v2 | Tag · marks |
 | --- | --- | --- | --- | --- |
-| B1 text | A2 message, `tu`, three time anchors | Chiara: new job, move to Bologna · 111 w | Luca: swimming course, new routine · 109 w | — |
+| B1 text | A2 message, `tu`, three time anchors | Chiara: new job, move to Bologna · 111 w | Luca: swimming course, new routine · 108 w | — |
 | B1.1 | gist | A | B | A2-core · 1 |
 | B1.2 | detail: what happened at a time anchor | C (`l'anno scorso`) | A (`a gennaio`) | A2-core · 1 |
 | B1.3 | detail: when | A (`due settimane fa`) | C (`tre settimane fa`) | A2-core · 1 |
@@ -1582,13 +1669,13 @@ versions (elided forms as two words, gaps excluded).
 | C1.5 | imperfetto, descriptive (a state that explains a decision) | `eravamo` | `avevano` | A2-core · 1 |
 | C1.6 | `[quantity] + fa` (Set 2 A) | `fa` | `fa` | A2-core · 1 |
 | C1.7 | preposizione articolata, place | `al` (quinto piano) | `alla` (vicino alla stazione) | A2-core · 1 |
-| C2 text | shopping trip gone wrong | jacket with a hole · 105 w | anti-theft alarm · 104 w | — |
+| C2 text | shopping trip gone wrong | jacket with a hole · 103 w | anti-theft alarm · 104 w | — |
 | C2.1 | `cui` after a printed fusing preposition | `di` + `cui` | `in` + `cui` | B1-probe · 1 |
 | C2.2 | direct object pronoun + PP agreement | `l'ho provata` (f. sg.) | `le ho comprate` (f. pl.) | B1-probe · 1 |
 | C2.3 | `ne` + quantity, present, direct speech | `ne prendo` | `ne voglio` | B1-probe · 1 |
 | C2.4 | imperfetto vs PP at the background/foreground boundary | `stavo pagando` | `stavo uscendo` | B1-probe · 1 |
 | C2.5 | `ci` locativo in the clitic slot, place already named | `non ci torno` | `non ci vado` | B1-probe · 1 |
-| D1 script | phone arrangement, change of plan · ~120 wpm | Friday off, Saturday 11 · 121 w | Wednesday off, Thursday 8.30 · 115 w | — |
+| D1 script | phone arrangement, change of plan · ~120 wpm | Friday off, Saturday 11 · 121 w | Wednesday off, Thursday 8.30 · 122 w | — |
 | D1.1 | who else is coming | Elena's sister | Valentina's flatmate | A2-core · 1 |
 | D1.2 | new day **and** time | Saturday 11 | Thursday 8.30 | A2-core · 1 |
 | D1.3 | meeting place (old place rejected for a stated reason) | in front of the station | the Chinese restaurant | A2-core · 1 |
@@ -1598,7 +1685,7 @@ versions (elided forms as two words, gaps excluded).
 | D2.2 | how it ended | C | B | B1-probe · 1 |
 | D2.3 | ordered pair given by the tense contrast after `mentre` | d before a | b before a | B1-probe · 1 |
 | D2.4 | ordered pair given by a time anchor told late, with the PP | c before b (`ieri mattina`) | c before d (`ieri sera`) | B1-probe · 1 |
-| E | four required elements; TA ×2 + GA | v1 prompt and anchors | same prompt; v1 anchors apply | productive · 15 |
+| E | four required elements, same order and wording; TA ×2 + GA | v1 prompt (frame: an acquaintance you have not been in touch with) and anchors | reframed prompt (frame: a colleague you met on a course last year); v1 anchors apply | productive · 15 |
 | F | three prompts; TA + GA + FD | v1 prompts and anchors | same prompts; v1 anchors apply | productive · 15 |
 
 **Totals:** A2-core 16, B1-probe 14 and productive 30 in both versions.
@@ -1664,7 +1751,7 @@ real placement tests and each failure changes who gets placed where.
 | Open item | Owner | Why it is open |
 | --- | --- | --- |
 | ~~All Italian: two reading texts, two cloze texts, two listening scripts, all stems, all keys, alternatives lists, and band-3/band-5 anchor answers for Parts E and F~~ **Closed on ITA-15 (version 1): pass.** The spec clarifications it raised are in the *ICE notes* under Parts B, C, D and F. **All were ruled on by ITA-23 (2026-10-13).** | — | Format brief §5. |
-| ~~A **parallel version** (same specs, different content) for borderline re-takes~~ **Closed on ITA-24 (version 2): pass.** See [§Parallelism](#version-1--version-2-parallelism-ita-24). The v2 audio asset names and a reframed Part E prompt are left as suggestions in the ICE notes under Parts D and E. | — | Re-taking the same items measures memory. |
+| ~~A **parallel version** (same specs, different content) for borderline re-takes~~ **Closed on ITA-24 (version 2): pass.** See [§Parallelism](#version-1--version-2-parallelism-ita-24). **Chief review (2026-11-09): accepted, with five follow-ups.** Spec items, **done on ITA-26**: the v2 asset names are in the Part D spec line; v2 has a reframed Part E prompt (same four elements, same wording), with v1's prompt now written out beside it, and Part F keeps its prompts; v1 header lengths are re-stated under the parallelism rule (recount corrected C2 v1 to 103, B1 v2 to 108, D1 v2 to 122). Still open: the Editor's two fixes, C2.4 v2's PP-coordination lure and D2.1 v2's longest-option key (and a check of v1 B1.1). ITA-25, the construct-validity checklist, starts after them. | **Italian Content Editor** (C2.4, D2.1), then whoever runs ITA-25 | Re-taking the same items measures memory. |
 | Whether an **accelerated route** through Units 1–2 exists for 2/3-boundary learners | **Chief Italian Linguist** | Course-shape decision. The check can identify these learners; it cannot invent a route for them. |
 | Whether v1 ships **any A2 remediation path** for Band 1, or simply turns those learners away | **Chief Italian Linguist** | Out of scope per format brief §6, but it is the first thing a Band 1 learner will ask. Naming it is better than discovering it in use. |
-| Audio recording of `placement-d1` / `placement-d2` | Out of scope v1 (format brief §4) | Until then the deferred path caps the instrument at Band 2. |
+| Audio recording of `placement-d1` / `placement-d2` and their version-2 counterparts `placement-d1-v2` / `placement-d2-v2` | Out of scope v1 (format brief §4) | Until then the deferred path caps the instrument at Band 2. |

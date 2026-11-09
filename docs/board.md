@@ -35,7 +35,7 @@ New tasks continue the Paperclip numbering from **ITA-27** (ITA-21 is reserved f
 | ITA-22 | Swap M2 A3 and B3 for verified CILS/CELI formats | Curriculum Architect | done | — | A3/B3 now CILS UNO-B1 true/false information selection; marks, timing, constructs unchanged. External formats 100/150; course-designed C2/D2/E4 50/150. |
 | ITA-23 | Rule on the six placement-check spec clarifications | Curriculum Architect | done | — | All six accepted (3 and 6 reworded); suggestions applied; `si` impersonale no longer probed (first tested at U4 checkpoint), no band threshold change. |
 | ITA-24 | Placement check parallel version (borderline re-takes) | Italian Content Editor | in progress | — | Chief review: accepted with two required fixes (`docs/placement-check-v2-chief-review.md` items 1–2: C2.4 v2 PP-coordination lure; D2.1 v2 key is longest option). Editor applies them after ITA-16 M1. |
-| ITA-26 | Placement check v2 spec items (asset paths, v2 Part E prompt, word counts) | Curriculum Architect | in progress | — | Chief review items 3–5. |
+| ITA-26 | Placement check v2 spec items (asset paths, v2 Part E prompt, word counts) | Curriculum Architect | done | — | Accepted: v2 asset paths in the Part D spec; v1 and v2 Part E prompts written side by side (frame changes only); lengths re-stated under one rule (fixes: C2 v1 103, B1 v2 108, D1 v2 122). Chief ruling: B1 v1 at 111 words (elisions as two) is within tolerance. D1 runs ~60 s in both versions: confirm at recording. |
 | ITA-25 | Construct-validity checklist on the placement check before first use | Chief | blocked | ITA-24 | Ship gate: placement check must ship before Unit 1 is taught. |
 
 Decided 2026-10-12 by the user: **twelve units** (recorded in `docs/format-brief.md` decision log).
@@ -91,3 +91,5 @@ Newest entry last within each task. Format: `- YYYY-MM-DD · who · what changed
 
 ### ITA-24 (cont.) / ITA-26 / ITA-16
 - 2026-11-09 · Chief · Reviewed placement check v2: accepted with two Editor fixes and three Architect spec items (`docs/placement-check-v2-chief-review.md`). Delegated ITA-26 (Architect), ITA-16 Milestone 1 Italian (Editor), ITA-20 remainder (Lesson Designer). · Editor applies ITA-24 fixes after M1; then ITA-25 (Chief).
+- 2026-11-09 · Curriculum Architect · ITA-26 applied: asset paths, Part E prompts v1/v2, recounted lengths. · Chief review.
+- 2026-11-09 · Chief · Accepted ITA-26; B1 v1 111 words ruled within tolerance. · Editor: ITA-24 fixes 1–2 plus re-count of C2 v2 after the fix.
