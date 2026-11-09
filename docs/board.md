@@ -7,7 +7,7 @@ reconcile this file back onto the Paperclip board, then stop editing it there or
 here — one board at a time.
 
 Statuses: `todo` · `in progress` · `blocked` · `in review` · `done`.
-New tasks continue the Paperclip numbering from **ITA-27** (ITA-21 is reserved for the Unit 2 Italian review).
+New tasks continue the Paperclip numbering from **ITA-29** (ITA-21 is reserved for the Unit 2 Italian review).
 
 | ID | Title | Owner | Status | Blocked by | Next action |
 | --- | --- | --- | --- | --- | --- |
@@ -26,16 +26,18 @@ New tasks continue the Paperclip numbering from **ITA-27** (ITA-21 is reserved f
 | ITA-13 | Italian review of the U7 `L4` spike | Italian Content Editor | done | — | Pass with edits: `docs/unit-07-lesson-04-italian-review.md`. Re-check glosses/level when U2–U6 and U7 L1–L3 exist. |
 | ITA-14 | Unit 1 staging fixes from the Italian sign-off | Lesson Designer | done | — | Cue 1 target → ~1:50 (script unchanged), L1 s4/s5 re-timed; six count/instruction fixes. Chief lifted the cue 1 recording hold 2026-10-13: all four cues recordable. |
 | ITA-15 | Write the placement check's Italian | Italian Content Editor | done | — | Version 1 Italian: pass. Six spec clarifications → ITA-23; parallel version → ITA-24; Chief construct-validity checklist before first use → ITA-25. |
-| ITA-16 | Write the Italian for Milestones 1 and 2 | Italian Content Editor | in progress | — | Per each milestone's Open table. |
+| ITA-16 | Write the Italian for Milestones 1 and 2 | Italian Content Editor | in progress | — | M1 version 1 written and committed (`5cb61e5`); Editor verdict pass (self-authored). Chief second look: one required fix, A2 item 9 is keyable by text type alone (F the only recipe); Editor fixes it after ITA-27. Then M2 Italian; M1 parallel C–E version before the first Band 3 placement learner. |
 | ITA-17 | Verify the CILS/CELI B1 mapping against the publishers' current specs | Curriculum Architect | done | — | 32 claims: 18 verified, 12 corrected, 2 unconfirmable. Evidence: `docs/cils-celi-verification.md`. Ruling: keep C2/D2/E4 course-designed; swap A3/B3 (ITA-22); honest labelling. |
 | ITA-18 | U7 L4 tidy-up after its Italian review | Lesson Designer | todo | — | Update/remove the closing "Built ahead of Units 2–6" request (review done); consider the editor's 5 suggestions (review doc §5). Low priority; do with U7. |
 | ITA-19 | Italian review of the re-aligned Unit 1 checkpoint | Italian Content Editor | done | — | Pass with edits (both checkpoint files): four broken keys fixed, Part A lengthened to meet ITA-4's 40–60 s. Open for the Lesson Designer: time Part A at the first live run; two suggestions in the sign-off addendum. |
-| ITA-20 | Build Unit 2 | Lesson Designer | in progress | — | Overview + L1–L5 drafted and committed 2026-11-09 as work in progress (L1, L3–L5, overview carry the review banner; L2 signed off). Still to write: lexis, checkpoint, audio script, teacher notes. Then Italian review of the rest (ITA-21). |
-| ITA-21 | Italian review of Unit 2 | Italian Content Editor | in progress | ITA-20 | L2 done: pass with edits (`docs/unit-02-lesson-02-italian-review.md`), committed for the user's passato prossimo practice. L1, L3–L5 and overview remain; L2 stage 1 to be re-checked against L1's input once `unit-02-audio-script.md` exists (Lesson Designer, ITA-20). Two Lesson Designer suggestions in the review doc (self-study s8 wording; "essere dozen" is 15 verbs). |
+| ITA-20 | Build Unit 2 | Lesson Designer | in review | — | All files written and committed (`e897445`): audio script (cue 1 ~2:20), lexis 30 = 10/12/8, checkpoint, teacher notes; L5/overview inconsistencies fixed. Chief review after ITA-21. Open: checkpoint Part D timing untested; repair sets not built; record cue 2 early. |
+| ITA-21 | Italian review of Unit 2 | Italian Content Editor | in progress | — | L2 done. Now reviewing the overview, L1, L3–L5 and the four new files, cue 1 first (then the L2 stage 1 re-check). Verdicts to `docs/unit-02-italian-signoff.md`. |
 | ITA-22 | Swap M2 A3 and B3 for verified CILS/CELI formats | Curriculum Architect | done | — | A3/B3 now CILS UNO-B1 true/false information selection; marks, timing, constructs unchanged. External formats 100/150; course-designed C2/D2/E4 50/150. |
 | ITA-23 | Rule on the six placement-check spec clarifications | Curriculum Architect | done | — | All six accepted (3 and 6 reworded); suggestions applied; `si` impersonale no longer probed (first tested at U4 checkpoint), no band threshold change. |
 | ITA-24 | Placement check parallel version (borderline re-takes) | Italian Content Editor | in progress | — | Chief review: accepted with two required fixes (`docs/placement-check-v2-chief-review.md` items 1–2: C2.4 v2 PP-coordination lure; D2.1 v2 key is longest option). Editor applies them after ITA-16 M1. |
 | ITA-26 | Placement check v2 spec items (asset paths, v2 Part E prompt, word counts) | Curriculum Architect | done | — | Accepted: v2 asset paths in the Part D spec; v1 and v2 Part E prompts written side by side (frame changes only); lengths re-stated under one rule (fixes: C2 v1 103, B1 v2 108, D1 v2 122). Chief ruling: B1 v1 at 111 words (elisions as two) is within tolerance. D1 runs ~60 s in both versions: confirm at recording. |
+| ITA-27 | Rule on the eight Milestone 1 spec clarifications (ITA-16) | Curriculum Architect | in progress | — | Rulings in `milestone-1.md` ICE notes; Italian hand-offs to the Editor. |
+| ITA-28 | Recycled-gap rule for units with no bolded L4 row | Curriculum Architect | in progress | — | Chief ruling: use the checkpoint template parameter table's row. Amend the template rule and checklist; check U2 and any other unit. |
 | ITA-25 | Construct-validity checklist on the placement check before first use | Chief | blocked | ITA-24 | Ship gate: placement check must ship before Unit 1 is taught. |
 
 Decided 2026-10-12 by the user: **twelve units** (recorded in `docs/format-brief.md` decision log).
@@ -93,3 +95,6 @@ Newest entry last within each task. Format: `- YYYY-MM-DD · who · what changed
 - 2026-11-09 · Chief · Reviewed placement check v2: accepted with two Editor fixes and three Architect spec items (`docs/placement-check-v2-chief-review.md`). Delegated ITA-26 (Architect), ITA-16 Milestone 1 Italian (Editor), ITA-20 remainder (Lesson Designer). · Editor applies ITA-24 fixes after M1; then ITA-25 (Chief).
 - 2026-11-09 · Curriculum Architect · ITA-26 applied: asset paths, Part E prompts v1/v2, recounted lengths. · Chief review.
 - 2026-11-09 · Chief · Accepted ITA-26; B1 v1 111 words ruled within tolerance. · Editor: ITA-24 fixes 1–2 plus re-count of C2 v2 after the fix.
+- 2026-11-09 · Lesson Designer · ITA-20: the remaining four Unit 2 files written; cue lengths, L5 essere count and weekday references fixed. · ITA-21 (Editor), Chief review.
+- 2026-11-09 · Italian Content Editor · ITA-16: M1 version 1 Italian, all parts and anchors; 8 clarifications for the Architect. · Rulings (ITA-27).
+- 2026-11-09 · Chief · Committed ITA-20 and ITA-16. Second look on M1: A2 item 9 needs a stronger lure. Ruled that consolidation units recycle per the checkpoint template's parameter table (ITA-28). Delegated: Editor ITA-24 fixes, then ITA-21; Architect ITA-27 + ITA-28. · Reports back to Chief.
